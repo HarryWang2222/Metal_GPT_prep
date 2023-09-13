@@ -1,0 +1,215 @@
+H.R. Shercliff, N.A. Fleck,
+Ashby Festschrift,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 187-188,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00010-4.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000104)
+
+T.M. Freyman, I.V. Yannas, L.J. Gibson,
+Cellular materials as porous scaffolds for tissue engineering,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 273-282,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00018-9.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000189)
+Abstract: A major goal of tissue engineering is to synthesize or regenerate tissues and organs. Today, this is done by providing a synthetic porous scaffold, or matrix, which mimics the body's own extracellular matrix, onto which cells attach, multiply, migrate and function. Porous scaffolds are currently being developed for regeneration of skin, cartilage, bone, nerve and liver. The microstructures of many porous scaffolds ressemble that of an engineering foam. In this paper, we describe the microstructural requirements for porous scaffolds, review several processes for making them and show typical microstructures. Clinical studies have found that a collagen-based scaffold for skin regeneration reduces wound contraction during the healing process, reducing scar formation. The process of wound contraction is not well understood. Here, we describe the measurement of contraction of collagen-based scaffolds by fibroblasts in vitro using a cell force monitor.
+Keywords: Porous scaffolds; Matrix; Tissue engineering; Cell-matrix interactions
+
+John Banhart,
+Manufacture, characterisation and application of cellular metals and metal foams,
+Progress in Materials Science,
+Volume 46, Issue 6,
+2001,
+Pages 559-632,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00002-5.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000025)
+Abstract: The possibilities for manufacturing metal foams or other porous metallic structures are reviewed. The various manufacturing processes are classified according to the state of matter in which the metal is processed — solid, liquid, gaseous or ionised. Liquid metal can be foamed directly by injecting gas or gas-releasing blowing agents, or by producing supersaturated metal–gas solutions. Indirect methods include investment casting, the use of space-holding filler materials or melting of powder compacts which contain a blowing agent. If inert gas is entrapped in powder compacts, a subsequent heat treatment can produce cellular metals even in the solid state. The same holds for various sintering methods, metal powder slurry foaming, or extrusion and sintering of polymer/powder mixtures. Finally, electro-deposition or metal vapour deposition also allow for the production of highly porous metallic structures. The various ways for characterising the properties of cellular metals are reviewed in second section of this paper. Non-destructive as well as destructive methods are described. Finally, the various application fields for cellular metals are discussed. They are divided into structural and functional applications and are treated according to their relevance for the different industrial sectors.
+Keywords: Cellular metals; Porous metals; Metal foam; Manufacture; Characterisation; Application; Review
+
+A.G. Evans, D.R. Mumm, J.W. Hutchinson, G.H. Meier, F.S. Pettit,
+Mechanisms controlling the durability of thermal barrier coatings,
+Progress in Materials Science,
+Volume 46, Issue 5,
+2001,
+Pages 505-553,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00020-7.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000207)
+Abstract: The durability of thermal barrier coatings is governed by a sequence of crack nucleation, propagation and coalescence events that accumulate prior to final failure by large scale buckling and spalling. Because of differing manufacturing approaches and operating scenarios, several specific mechanisms are involved. These mechanisms have begun to be understood. This article reviews this understanding and presents relationships between the durability, the governing material properties and the salient morphological features. The failure is ultimately connected to the large residual compression in the thermally grown oxide through its roles in amplifying imperfections near the interface. This amplification induces an energy release rate at cracks emanating from the imperfections that eventually buckle and spall the TBC.
+
+J Shieh, J.E Huber, N.A Fleck, M.F Ashby,
+The selection of sensors,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 461-504,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00011-6.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000116)
+Abstract: A systematic method is developed to select the most appropriate sensor for a particular application. A wide range of candidate sensors exist, and many are based on coupled electrical and mechanical phenomena, such as the piezoelectric, magnetostrictive and the pyro-electric effects. Performance charts for sensors are constructed from suppliers data for commercially available devices. The selection of an appropriate sensor is based on matching the operating characteristics of sensors to the requirements of an application. The final selection is aided by additional considerations such as cost, and impedance matching. Case studies illustrate the selection procedure.
+Keywords: Sensors; Selection; Sensing range; Sensing resolution; Sensing frequency
+
+H.R Shercliff, A.M Lovatt,
+Selection of manufacturing processes in design and the role of process modelling,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 429-459,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00013-X.
+(https://www.sciencedirect.com/science/article/pii/S007964250000013X)
+Abstract: The selection of a suitable manufacturing process often involves considering the complex coupling between characteristics of the design, the material and the process. Whilst most materials can be well described by a common set of properties, enabling selection for a given design on the basis of these properties alone, the same is only partially true for process selection. The most discriminating characteristics of processes are often specific to the class of process. For example, very different questions arise when selecting a casting process than when selecting a welding process, so the information needed to answer these questions is mostly specific to each process class. Furthermore, the data and information needed to capture these characteristics can be strongly influenced by the class of material being processed — there is limited scope for selecting a welding process for aluminium, or steel, or polymers from a generic welding selector that does not have material-specific data. This paper considers the general problem of building selection tools for specific manufacturing “tasks”. A task is defined as a subset of processes applied to a subset of materials. The goal is to identify systematically the match between the requirements of the design and the capabilities of processes. A methodology has been proposed for this task-based process selection which involves consideration of the attributes of the material, design and process which are relevant to the task in hand. Three levels of quantitative requirement-attribute coupling are identified for selection at the task-level in design. Coupling involving only two or three attributes can be handled by construction of suitable task-specific process databases. More complex interactions require a different approach, in which modelling plays a key role in capturing the relationships between the design features, the material behaviour during and after processing, and the process parameters. Modelling is interpreted here in its widest sense: from empirical rules and curve fits, to advanced statistical methods such as neural networks, to physically-based process models. The use of modelling opens up great opportunities for making maximum use of sparse process data, for optimum co-selection of material and process, and for providing the designer with feedback on the likely influence of processing on the viability and cost of a design as well as indicating trial processing parameters. This review discusses the general issues with reference to a range of previously studied selection problems including aluminium casting, joining, welding, and heat treatment of steels. The role of modelling in enhancing selection is illustrated for cutting and welding of carbon steel, and future potential developments are discussed.
+
+Charles G. Sammis,
+Materials science issues in the Earth and planetary sciences,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 231-247,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00012-8.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000128)
+Abstract: Earth is a dynamic planet. Solid state convection in the deep interior is coupled to the motion of about a dozen rigid plates at the surface. Earthquakes, volcanoes and mountains are located mainly at the boundaries between plates and reflect the relative motion between them. The associated deformation processes span a wide range of regimes from high temperature dislocation and diffusion accommodated creep to brittle fracture, friction, fragmentation and granular flow. There is a long history of collaboration between earth and materials scientists in modeling the relevant micromechanics and formulating appropriate constitutive relations. Materials analysis in the Earth and planetary sciences pose special challenges. Pressure and temperature conditions in the Earth's interior reach 360 GPa and 8000 K so that constitutive equations must often be extended to pressure and temperature regimes well beyond laboratory limits. Deformation occurs over a range of temporal and spatial scales difficult to simulate in the laboratory. The emergence of deformation structures spanning many spatial orders of magnitude has made Earth sciences the test bed for modern ideas of self-organization and scaling. Finally, deformation mechanisms in earth materials are extremely sensitive to environmental factors, especially water. This factor alone explains most differences between large-scale deformation structures observed on Earth and those on the other terrestrial planets. Current problems in the Earth sciences that require a better understanding of material behavior include the mechanics of the earthquake instability, the migration of magma in the crust, the source and dynamical significance of observed heterogeneity in the deep interior, and the generation of the magnetic field.
+
+A.G. Evans, M.Y. He, J.W. Hutchinson,
+Mechanics-based scaling laws for the durability of thermal barrier coatings,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 249-271,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00007-4.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000074)
+Abstract: The durability of thermal barrier systems is governed by a sequence of crack nucleation, propagation and coalescence events that accumulate prior to final failure by large scale buckling and spalling. This sequence is governed by the σzz stresses that develop normal to the substrate, around imperfections, as the thermally grown oxide (TGO) thickens. Their effect is manifest in the stress intensity factor, K, caused by the σzz stresses acting on cracks emanating from them. In turn, these events are governed by scaling laws, ascribed to non-dimensional groups governing σzz and K. In this article the basic scaling relations are identified and used to gain some understanding of the relative importance of the various mechanisms that arise for application scenarios with minimal thermal cycling. These mechanisms are based on stresses that develop because of TGO growth strains in combination with thermal expansion misfit. The results are used to identify a critical TGO thickness at failure and express it in terms of the governing material variables. The changes in behavior that arise upon extensive thermal cycling, in the presence of TGO ratcheting, are elaborated elsewhere.
+
+A.G. Evans, J.W. Hutchinson, N.A. Fleck, M.F. Ashby, H.N.G. Wadley,
+The topological design of multifunctional cellular metals,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 309-327,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00016-5.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000165)
+Abstract: The multifunctional performance of stochastic (foamed) cellular metals is now well documented. This article compares such materials with the projected capabilities of materials with periodic cells, configured as cores of panels, tubes and shells. The implementation opportunities are as ultra-light structures, for compact cooling, in energy absorption and vibration control. The periodic topologies comprise either micro-truss lattices or prismatic materials. Performance benefits that can be expected upon implementing these periodic materials are presented and compared with competing concepts. Methods for manufacturing these materials are discussed and some cost/performance trade-offs are addressed.
+
+B. Cantor, J.W. Christian, T.B. Massalski,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Page 185,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00022-0.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000220)
+
+Alan C.F. Cocks,
+Constitutive modelling of powder compaction and sintering,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 201-229,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00017-7.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000177)
+Abstract: In this paper, the current status of modelling the compaction and sintering of particulate materials is reviewed. Recent theoretical and experimental studies are described. It is argued that models used to design processes must be robust and simple, but they must be based on a sound understanding of the underlying micromechanics. The models can then be extrapolated from the laboratory to the design environment with confidence. An important stage in this process is the identification of the dominant micromechanical events and the development of constitutive relationships which accurately model these events. Where appropriate, deficiencies in the current models are described and areas where additional modelling is required are identified.
+
+David S. Wilkinson, Wolfgang Pompe, Matthias Oeschner,
+Modeling the mechanical behaviour of heterogeneous multi-phase materials,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 379-405,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00008-6.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000086)
+Abstract: Many materials of engineering interest have highly heterogeneous microstructures. To a first approximation, the response of multi-phase materials to external stimuli such as mechanical loading depends on global parameters such as average particle size or phase volume fraction. Most classical models of materials behaviour are based on such an assumption. It is clear however that an accurate description must include parameters that characterize the distribution of phases. Moreover, some processes that we wish to model are inherently stochastic in nature. This adds considerable complexity. First, the quantitative description of microstructure containing higher order moments is fraught with difficulties — both analytical and experimental. Second, the inclusion of clustering into analytical models is prone to assumptions and approximations. In this paper we will restrict ourselves to phenomena for which a continuum approach is adequate. For these, self-consistent approaches are especially valuable. The two examples that we discuss in some depth are related to (i) damage in porous, brittle films such as thermal barrier coatings and (ii) the simultaneous effects of damage and particle clustering on the elasto-plastic response of metal matrix composites.
+
+M.F. Ashby,
+Drivers for material development in the 21st century,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 191-199,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00014-1.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000141)
+
+H.N.G Wadley, X Zhou, R.A Johnson, M Neurock,
+Mechanisms, models and methods of vapor deposition,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 329-377,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00009-8.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000098)
+Abstract: The condensation and assembly of atomic fluxes incident upon the surface of a thin film during its growth by vapor deposition is complex. Mediating the growth process by varying the flux, adjusting the film temperature, irradiating the growth surface with energetic (assisting) particles or making selective use of surfactants is essential to achieve the level of atomic scale perfection needed for high performance films. A multiscale modeling method for analyzing the growth of vapor deposited thin films and nanoparticles has begun to emerge and is reviewed. Ab-initio methods such as density functional theory are used to provide key insights about the basic mechanisms of atomic assembly. Recent work has explored the transition paths and kinetics of atomic hopping on defective surfaces and is investigating the role of surfactants to control surface atom mobility. New forms of interatomic potentials based upon the embedded atom method, Tersoff and bond order potentials can now be combined with molecular dynamics to investigate many aspects of vapor phase synthesis processes. For example, the energy distribution of atoms emitted from sputtering targets, the effects of hot atom impacts upon the mechanisms of surface diffusion, and the role of assisting ions in controlling surface roughness can all be investigated by this approach. They also enable the many activation barriers present during atomic assembly to be efficiently evaluated and used as inputs in multipath kinetic Monte Carlo models or continuum models of film growth. This hierarchy of modeling techniques now allows many of the atomic assembly mechanisms to be incorporated in film growth simulations of increasing fidelity. We identify new opportunities, to extend this modeling approach to the growth of increasingly complicated material systems. Using the growth of metal multilayers that exhibit giant magnetoresistance as a case study, we show that the approach can also lead to the identification of novel growth processes that utilize adatom energy control, very low energy ion assistance, or highly mobile, low solubility chemical species (surfactants) to control surface diffusion controlled film growth. Such approaches appear capable of enabling the creation of multilayered materials with exceptionally smooth, unmixed interfaces, with significantly superior magnetoresistance.
+
+E. Arzt, G. Dehm, P. Gumbsch, O. Kraft, D. Weiss,
+Interface controlled plasticity in metals: dispersion hardening and thin film deformation,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 283-307,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00015-3.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000153)
+Abstract: Plastic deformation and strengthening of metals, a classic subject of physical metallurgy, is still a central theme of present-day materials research. This review focusses on two modern aspects of fundamental and practical interest: the mechanism of dispersion hardening at high temperatures, which allows the design of alloys operating close to their melting point; and the constraints on dislocation and diffusional deformation processes in metallic thin films, a potential reliability problem for micro-systems subjected to high internal stresses. The commonality lies in the importance of interfacial effects: the interaction of lattice dislocations with interfaces — between particle and matrix, or between film and substrate — controls the strengthening effect in both instances; diffusional creep occurs in both cases, but is again limited by interface effects. An attempt is made to summarize the current understanding of these phenomena with special emphasis on modelling and transmission electron microscopy results.
+
+
+Professor Jack Christian,
+Progress in Materials Science,
+Volume 46, Issue 6,
+2001,
+Page 557,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(01)00008-1.
+(https://www.sciencedirect.com/science/article/pii/S0079642501000081)
+
+Y. Brechet, D. Bassetti, D. Landru, L. Salvo,
+Challenges in materials and process selection,
+Progress in Materials Science,
+Volume 46, Issues 3–4,
+2001,
+Pages 407-428,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00019-0.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000190)
+Abstract: Recent developments are outlined of materials and process selection methods leading towards industrial applications. The systematic implementation of selection for multiple criteria and multiple design elements is presented as a natural extension of Ashby's method. The importance of a “pre-defined questionnaire” approach in process selection is illustrated for casting, joining and surface treatments. The use of materials selection methods for materials and multi-materials development is described for the case of glass, composite materials and sandwich structures, and the application of various optimization techniques adapted to each problem is given. In conclusion, possible new developments toward a better integration of materials and process selection in the whole design procedure are proposed.
+
+H.N.G. Wadley, X. Zhou, R.A. Johnson, M. Neurock,
+Erratum to “Mechanisms, models and methods of vapor deposition” [Prog. Mater. Sci. 46 (2001) 329–377],
+Progress in Materials Science,
+Volume 46, Issue 5,
+2001,
+Page 555,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(01)00005-6.
+(https://www.sciencedirect.com/science/article/pii/S0079642501000056)
+
+
+Materials Engineering—A Forward Look,
+Progress in Materials Science,
+Volume 46, Issue 5,
+2001,
+Page iii,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(01)00006-8.
+(https://www.sciencedirect.com/science/article/pii/S0079642501000068)
+
+C. Suryanarayana,
+Mechanical alloying and milling,
+Progress in Materials Science,
+Volume 46, Issues 1–2,
+2001,
+Pages 1-184,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(99)00010-9.
+(https://www.sciencedirect.com/science/article/pii/S0079642599000109)
+Abstract: Mechanical alloying (MA) is a solid-state powder processng technique involving repeated welding, fracturing, and rewelding of powder particles in a high-energy ball mill. Originally developed to produce oxide-dispersion strengthened (ODS) nickel- and iron-base superalloys for applications in the aerospace industry, MA has now been shown to be capable of synthesizing a variety of equilibrium and non-equilibrium alloy phases starting from blended elemental or prealloyed powders. The non-equilibrium phases synthesized include supersaturated solid solutions, metastable crystalline and quasicrystalline phases, nanostructures, and amorphous alloys. Recent advances in these areas and also on disordering of ordered intermetallics and mechanochemical synthesis of materials have been critically reviewed after discussing the process and process variables involved in MA. The often vexing problem of powder contamination has been analyzed and methods have been suggested to avoid/minimize it. The present understanding of the modeling of the MA process has also been discussed. The present and potential applications of MA are described. Wherever possible, comparisons have been made on the product phases obtained by MA with those of rapid solidification processing, another non-equilibrium processing technique.

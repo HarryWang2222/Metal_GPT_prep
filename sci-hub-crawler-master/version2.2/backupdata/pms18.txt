@@ -1,0 +1,76 @@
+H.V. Atkinson, G. Shi,
+Characterization of inclusions in clean steels: a review including the statistics of extremes methods,
+Progress in Materials Science,
+Volume 48, Issue 5,
+2003,
+Pages 457-520,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(02)00014-2.
+(https://www.sciencedirect.com/science/article/pii/S0079642502000142)
+Abstract: The application of new secondary refining techniques and non-metallic inclusion reduction techniques in steel production processes has greatly reduced the size and amount of non-metallic inclusions remaining in molten steels and steel products. This makes the inspection of inclusions difficult. Here the main methods used for the characterization of inclusions in clean steels are reviewed. The influences of inclusions on the properties of steels are discussed. Statistical methods for the prediction of the maximum inclusion size in a large volume of steel are introduced. Methods based on the statistics of extremes are described in detail. The methodology for the practical application of these methods is described and the factors affecting the precision of the estimation are discussed.
+
+C. Brosseau, A. Beroual,
+Computational electromagnetics and the rational design of new dielectric heterostructures,
+Progress in Materials Science,
+Volume 48, Issue 5,
+2003,
+Pages 373-456,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(02)00013-0.
+(https://www.sciencedirect.com/science/article/pii/S0079642502000130)
+Abstract: Dielectric properties of heterogeneous materials for various condensed-matter systems have been gaining world-wide attention over the past 50 or so years in the design (or engineering) of materials structures for desired properties and functional purposes. These applications range from cable and current limiters to sensors. These multiscale systems lead to challenging problems of connecting micro- or meso-structural features to macroscopic materials response, i.e. permittivity, conductivity. This article first reviews progress made at that time of the underlying physics of dielectric heterostructures and points out the missing elements that have led to a resurgence of interest in these and related materials. Recent advances in computational electromagnetics provide unparalleled control over morphology in this class of materials to produce a seemingly unlimited number of exquisitely structured materials endowed with tailored electromagnetic, and other physical properties. In the text to follow, we illustrate how an ab initio computational technique can be used to accurately characterize structure–dielectric property relationships of periodic heterostructures in the quasistatic limit. More specifically, we have carried out two-dimensional (2D) and three-dimensional (3D) numerical studies of two-component materials in which equal-sized inclusions, with shape and orientation and possibly fused together, are fixed in a periodic square (2D) or cubic (3D) array. Boundary-integral equations (BIE) are derived from Green's theorem and are solved for the local field with appropriate periodicity conditions on a unit cell of the structures using the field calculation package PHI3D. A number of illustrative examples shows how this computational technique can provide very accurate predictions for the complex effective permittivity of translationally-invariant heterostructures. The performance of the method is also compared with those of other computational and analytical techniques. We comment on how this computational method helps identify some important characteristics for rationalizing and predicting the structure of composite materials in terms of the nature, size, shape and orientation of their constituents.
+
+K.L. Choy,
+Chemical vapour deposition of coatings,
+Progress in Materials Science,
+Volume 48, Issue 2,
+2003,
+Pages 57-170,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(01)00009-3.
+(https://www.sciencedirect.com/science/article/pii/S0079642501000093)
+Abstract: Chemical Vapour Deposition (CVD) of films and coatings involve the chemical reactions of gaseous reactants on or near the vicinity of a heated substrate surface. This atomistic deposition method can provide highly pure materials with structural control at atomic or nanometer scale level. Moreover, it can produce single layer, multilayer, composite, nanostructured, and functionally graded coating materials with well controlled dimension and unique structure at low processing temperatures. Furthermore, the unique feature of CVD over other deposition techniques such as the non-line-of-sight-deposition capability has allowed the coating of complex shape engineering components and the fabrication of nano-devices, carbon–carbon (C–C) composites, ceramic matrix composite (CMCs), free standing shape components. The versatility of CVD had led to rapid growth and it has become one of the main processing methods for the deposition of thin films and coatings for a wide range of applications, including semiconductors (e.g. Si, Ge, Si1-xGex, III–V, II–VI) for microelectronics, optoelectronics, energy conversion devices; dielectrics (e.g. SiO2, AlN, Si3N4) for microelectronics; refractory ceramic materials (e.g. SiC, TiN, TiB2, Al2O3, BN, MoSi2, ZrO2) used for hard coatings, protection against corrosion, oxidation or as diffusion barriers; metallic films (e.g. W, Mo, Al, Au, Cu, Pt) for microelectronics and for protective coatings; fibre production (e.g. B and SiC monofilament fibres) and fibre coating. This contribution aims to provide a brief overview of CVD of films and coatings. The fundamental aspects of CVD including process principle, deposition mechanism, reaction chemistry, thermodynamics, kinetics and transport phenomena will be presented. In addition, the practical aspects of CVD such as the CVD system and apparatus used, CVD process parameters, process control techniques, range of films synthesized, characterisation and co-relationships of structures and properties will be presented. The advantages and limitations of CVD will be discussed, and its applications will be briefly reviewed. The article will also review the development of CVD technologies based on different heating methods, and the type of precursor used which has led to different variants of CVD methods including thermally activated CVD, plasma enhanced CVD, photo-assisted CVD, atomic layer epitaxy process, metalorganic assisted CVD. There are also variants such as fluidised-bed CVD developed for coating powders; electrochemical vapour deposition for depositing dense films onto porous substrates; chemical vapour infiltration for the fabrication of C-C composites and CMCs through the deposition and densification of ceramic layers onto porous fibre preforms. The emerging cost-effective CVD-based techniques such as electrostatic-aerosol assisted CVD and flame assisted CVD will be highlighted. The scientific and technological significance of these different variants of CVD will be discussed and compared with other vapour processing techniques such as Physical Vapour Deposition.
+
+Chang Q. Sun,
+Oxidation electronics: bond–band–barrier correlation and its applications,
+Progress in Materials Science,
+Volume 48, Issue 6,
+2003,
+Pages 521-685,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(03)00010-0.
+(https://www.sciencedirect.com/science/article/pii/S0079642503000100)
+Abstract: This report features the recent progress in understanding the behaviour of atoms and valence electrons involved in the process of oxidation, and some technological development driven by the new knowledge. It is initiated and verified that a chemical bond contracts spontaneously at a surface associated with magnitude rise of the bond energy due to the coordination imperfection and that an oxygen atom hybridizes its sp orbitals upon reacting with a solid surface. The former leads to the bond order–length–strength (BOLS) correlation for the physical aspect of a surface and a nano-solid and the latter to a bond–band–barrier (BBB) correlation for chemical reaction. In the process of oxidation, non-bonding lone pairs, anti-bonding dipoles and hydrogen-like bonds are involved, which add corresponding density-of-states (DOS) features to the valence band of the host. Bond forming also alters the sizes and valencies of the involved atoms and causes a collective dislocation of these atoms, which corrugate the morphology or the potential barrier of the surface. Based on the above premises, the oxidation of the low-index surfaces of transition metals Cu, Co, Ag and V, noble metals Rh, Ru, and Pd and non-metallic diamond has been consistently analyzed. Identities probed with various techniques, such as STM, LEED, XRD, STS, PES, TDS, EELS and Raman, have been systematically defined in terms of atomic valencies, bond geometry, valence DOS, bond strength and bond forming kinetics. It is understood that formation of the basic oxide tetrahedron, and consequently, the four discrete stages of bond forming kinetics and the oxygen-derived DOS features, are intrinsically common for all the analyzed systems though the patterns of observations may vary from situation to situation. What differs one oxide surface from another in observations are: (i) the site selectivity of the oxygen adsorbate, (ii) the order of the ionic bond formation and, (iii) the orientation of the tetrahedron at the host surfaces. The valencies of oxygen, the scale and geometrical orientation of the host lattice and the electronegativity of the host elements determine these specific differences extrinsically. Extending the premise of sp-orbital hybridization to the reactions of (C, N)–Ni(001) surfaces has led to a novel approach neutralizing the diamond–metal interfacial stress and hence strengthening the diamond–metal adhesion substantially. The BOLS correlation has provided consistent insight into the shape-and-size dependence of a number of properties for nano-solids. The BBB correlation has led to new findings in designing and fabricating materials for photoluminescence, electron emission and ultrahigh elasticity, etc.
+Keywords: Surface interface; Crystal growth; Chemisorption; Materials design; Oxygen
+
+Dong-Soo Yoon, Jae Sung Roh, Sung-Man Lee, Hong Koo Baik,
+Alteration for a diffusion barrier design concept in future high-density dynamic and ferroelectric random access memory devices,
+Progress in Materials Science,
+Volume 48, Issue 4,
+2003,
+Pages 275-371,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(02)00012-9.
+(https://www.sciencedirect.com/science/article/pii/S0079642502000129)
+Abstract: The barrier properties and failure mechanisms for many diffusion barriers in high-density volatile and non-volatile capacitors were reviewed. Based on failure mechanisms of these barriers reported by others, we suggested the new design concept for a diffusion barrier and developed the new Ta+CeO2 and Ta+RuO2 barriers. Although both barriers were shown to exhibit good diffusion barrier properties, however, oxide-incorporated barriers result in the surface oxidation of the under-layer during deposition and/or post-thermal budgets, resulting in the degradation of capacitor performance. The design concept for a diffusion barrier should be changed to sacrificial oxygen diffusion barrier concept, and both the RuTiN and the RuTiO films, as new sacrificial oxygen diffusion barriers, were proposed. New RuTiN and RuTiO barriers showed the higher oxidation resistance and cell capacitance and the lower contact resistance up to high temperatures. Therefore, the design concept of a sacrificial diffusion barrier should be emphasized to achieve high-density dynamic and ferroelectric random access memory devices.
+
+U.F. Kocks, H. Mecking,
+Physics and phenomenology of strain hardening: the FCC case,
+Progress in Materials Science,
+Volume 48, Issue 3,
+2003,
+Pages 171-273,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(02)00003-8.
+(https://www.sciencedirect.com/science/article/pii/S0079642502000038)
+
+Yves Leterrier,
+Durability of nanosized oxygen-barrier coatings on polymers,
+Progress in Materials Science,
+Volume 48, Issue 1,
+2003,
+Pages 1-55,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(02)00002-6.
+(https://www.sciencedirect.com/science/article/pii/S0079642502000026)
+Abstract: Research on silicon oxide thin films developed as gas-barrier protection for polymer-based components is reviewed, with attention paid to the relations between (i) coating defects, cohesive strength and internal stress state, and (ii) interfacial interactions and related adhesion to the substrate. The deposition process of the oxide from a vapor or a plasma phase leads in both cases to the formation of covalent bonds between the two materials, with high adhesion levels. The oxide coating contains nanoscopic defects and microscopic flaws, and their respective effect on the barrier performance and mechanical resistance of the coating is analyzed. Potential improvements are discussed, including the control of internal stresses in the coating during deposition. Controlled levels of compressive internal stresses in the coating are beneficial to both the barrier performance and the mechanical reliability of the coated polymer. An optimal coating thickness, with low oxygen permeation and high cohesive strength, is determined from experimental and theoretical analyses of the failure mechanisms of the coating under mechanical load. These investigations are found relevant to tailor the interactions and stress state in the interfacial region, in order to improve the reliability of the coating/substrate assembly.

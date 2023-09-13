@@ -1,0 +1,1199 @@
+K.M. Davoudi, M.Yu. Gutkin, H.M. Shodja,
+Analysis of stress field of a screw dislocation inside an embedded nanowire using strain gradient elasticity,
+Scripta Materialia,
+Volume 61, Issue 4,
+2009,
+Pages 355-358,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.010.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002772)
+Abstract: The stress field of a screw dislocation inside an embedded nanowire is considered within the theory of strain-gradient elasticity. It is shown that the stress singularity is removed and all stress components are continuous and smooth across the interface, in contrast with the results obtained within the classical theory of elasticity. The maximum magnitude of dislocation stress depends greatly on the dislocation position, the nanowire size, and the ratios of shear moduli and gradient coefficients of the matrix and nanowire materials.
+Keywords: Strain gradient elasticity; Screw dislocation; Nanowire
+
+Shyamprasad Karagadde, Suresh Sundarraj, Pradip Dutta,
+Modeling growth of hydrogen bubbles in aluminum castings using the level-set method,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 216-219,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.043.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002255)
+Abstract: A new approach is proposed to solve for the growth as well as the movement of hydrogen bubbles during solidification in aluminum castings. A level-set methodology has been adopted to handle this multiphase phenomenon. A microscale domain is considered and the growth and movement of hydrogen bubbles in this domain has been studied. The growth characteristics of hydrogen bubbles have been evaluated under free growth conditions in a melt having a hydrogen input caused by solidification occurring around the microdomain.
+Keywords: Diffusion driven growth; Porosity; Interface velocity; Bubble growth and movement
+
+V.A. Khonik, N.T.N. Nguen, S.V. Khonik, N.A. Divakova,
+Recovery of the ability to shear stress relaxation of thermally aged bulk and ribbon glassy Pd40Cu30Ni10P20,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 153-156,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.022.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001961)
+Abstract: Isothermal torque relaxation measurements of ribbon and bulk glassy Pd40Cu30Ni10P20 samples (i) in the initial state, (ii) after nearly full structural relaxation and (iii) subsequent fast quenching from the supercooled liquid state have been performed. It has been found that while structural relaxation strongly decreases the torque relaxation rate, fast quenching of aged samples from the supercooled liquid state recovers the ability to stress relaxation. The degree of the recovery, however, strongly depends on the temperature of subsequent testing.
+Keywords: Metallic glasses; Stress relaxation; Structural relaxation; Recovery
+
+Dhirendra V. Kubair, Daniel J. Cole, Lucio Colombi Ciacchi, S Mark Spearing,
+Multiscale mechanics modeling of direct silicon wafer bonding,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1125-1128,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.058.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001560)
+Abstract: The direct bonding of macroscopically patterned silicon wafers is studied with a cohesive zone model (CZM), the form and key parameters of which are obtained from molecular dynamics simulations. The CZM is implemented in a spectral scheme. For the case of ideally flat wafer surfaces investigated here, the results are consistent with previous work in which the CZM was derived from an assumption of a continuum water film. This multiscale approach has the potential to model directly the effects of surface roughness, nanotopography and small-scale patterning on the efficacy of direct wafer bonding.
+Keywords: Bonding; Molecular dynamics; Simulation; Cohesive zone model; Capillary phenomena
+
+A.J. Clarke, J.G. Speer, D.K. Matlock, F.C. Rizzo, D.V. Edmonds, M.J. Santofimia,
+Influence of carbon partitioning kinetics on final austenite fraction during quenching and partitioning,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 149-152,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.021.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002012)
+Abstract: The quenching and partitioning (Q&P) process is a two-stage heat-treatment procedure proposed for producing steel microstructures that contain carbon-enriched retained austenite. In Q&P processing, austenite stabilization is accomplished by carbon partitioning from supersaturated martensite. A quench temperature selection methodology was developed to predict an optimum process quench temperature; extension of this methodology to include carbon partitioning kinetics is developed here. The final austenite fraction is less sensitive to quench temperature than previously predicted, in agreement with experimental results.
+Keywords: Quenching; Partitioning; Kinetics; Austenite; Martensite
+
+Seok-Jae Lee, Young-Kook Lee,
+Latent heat of martensitic transformation in a medium-carbon low-alloy steel,
+Scripta Materialia,
+Volume 60, Issue 11,
+2009,
+Pages 1016-1019,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.042.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001286)
+Abstract: The latent heat of non-equilibrium martensitic transformation in AISI 4340 steel was obtained from experiments to measure the heat transfer coefficient and numerical calculations—using the inverse method based on the finite-difference method—of heat transfer and martensitic transformation kinetics. The average and maximum increases in surface temperature of a cylindrical specimen during oil quenching due to the temperature-dependent latent heat were 43 and 83°C, respectively, indicating the importance of martensite latent heat for accurate heat treatment simulation.
+Keywords: Latent heat; Martensitic transformation; FDM; Inverse method; Heat transfer coefficient
+
+S. Garroni, C. Pistidda, M. Brunelli, G.B.M. Vaughan, S. Suriñach, M.D. Baró,
+Hydrogen desorption mechanism of 2NaBH4+MgH2 composite prepared by high-energy ball milling,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1129-1132,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.059.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001559)
+Abstract: The desorption mechanism of 2NaBH4+MgH2 composite has been investigated. The results show that the chemical interaction between MgH2 and NaBH4 is capable of decreasing the dehydrogenation temperature with respect to the single compounds. The dehydriding reaction starts at around 320°C with the desorption of the MgH2 to Mg and proceeds via the chemical dismutation of NaBH4 in NaH and an intermediate specie. In situ synchrotron X-ray powder diffraction indicates that MgB2 is one of the final reaction products.
+Keywords: Mechanical milling; Scanning electron microscopy (SEM); Synchrotron radiation; X-ray diffraction (XRD); Hydrogen storage
+
+Jesse Carter, E.G. Fu, Michael Martin, Guoqiang Xie, X. Zhang, Y.Q. Wang, D. Wijesundera, X.M. Wang, Wei-Kan Chu, Lin Shao,
+Effects of Cu ion irradiation in Cu50Zr45Ti5 metallic glass,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 265-268,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.060.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002528)
+Abstract: We studied the role of thermal spike in nanocrystallization of Cu50Zr45Ti5 metallic glasses after 1MeV Cu ion irradiation at room temperature. Nanocrystals of Cu10Zr7 and CuZr2 phases are formed after the ion irradiation. The study suggests that thermal spike formation and subsequent quenching are too fast to allow direct structural transformation in the damage cascade regions. The overall irradiation effects are caused by enhanced atomic mobility due to increased excessive free volume.
+Keywords: Metallic glass; Ion irradiation; Crystallization
+
+Matthew R. Barnett, Alireza Ghaderi, Ilchat Sabirov, Bevis Hutchinson,
+Role of grain boundary sliding in the anisotropy of magnesium alloys,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 277-280,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.001.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002644)
+Abstract: The plastic anisotropy of magnesium alloy sheet drops rapidly with test temperature. It has previously been suggested that this may be due to an increase in the activity of 〈c+a〉 dislocations. The present note points out that the phenomenon may result, instead, from the action of grain boundary sliding. This can explain the strong effect of grain size on anisotropy. Furthermore, it points to a new avenue for alloy development.
+Keywords: Magnesium alloys; Mechanical properties; Grain boundaries; Tension test; Grain boundary sliding
+
+Gui-Yang Huang, Chong-Yu Wang, Jian-Tao Wang,
+First-principles study of the diffusion of Ga via interstitial-mediated mechanisms in ZnO,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 324-326,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.018.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002887)
+Abstract: The diffusion of Ga in ZnO via interstitial-mediated mechanisms is investigated by first-principles calculations. Interstitial gallium is found to be thermally unstable and migrates easily into a neighboring zinc lattice site with about a 0.5eV energy barrier, so the dominant interstitial-mediated mechanisms are the kick-out mechanisms rather than interstitial mechanisms. The energy barrier of gallium diffusion occurring via these kick-out mechanisms is about 0.84–1.21eV.
+Keywords: Semiconductor; Bulk diffusion; First-principles calculation
+
+S.J. Kuang, X.G. Tang, L.Y. Li, Y.P. Jiang, Q.X. Liu,
+Influence of Zr dopant on the dielectric properties and Curie temperatures of Ba(ZrxTi1−x)O3 (0≤x≤0.12) ceramics,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 68-71,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.016.
+(https://www.sciencedirect.com/science/article/pii/S135964620900178X)
+Abstract: Ba(ZrxTi1−x)O3 (BZT, 0≤x≤0.12, step=0.02) ceramics have been prepared by the solid solution reaction method. The Curie temperature decreased nonlinearly from 131 to 74°C with increases x from 0 to 0.12 in BZT ceramics. While the diffusion factor increase from 1.06 to 1.64 with increases x from 0 to 0.12, implying a composition-induced diffuse transition. The phase transition temperature of tetragonality to orthorhombic structure (To−t) increases with increasing of Zr content, forming a pinched phase transition.
+Keywords: Electroceramics; Perovskites; Dielectric properties; Phase transformations; Diffusion
+
+Roberto B. Figueiredo, Terence G. Langdon,
+Strategies for achieving high strain rate superplasticity in magnesium alloys processed by equal-channel angular pressing,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 84-87,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.012.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001833)
+Abstract: Magnesium alloys processed by equal-channel angular pressing often exhibit superplastic elongations at low strain rates. Two strategies are available for achieving high strain rate superplasticity: (i) by pressing the alloys through a reduced number of passes in order to increase the thermal stability of the microstructure; and (ii) by increasing the processing temperature to permit the occurrence of superplastic flow at higher testing temperatures.
+Keywords: Equal-channel angular pressing; Magnesium; Severe plastic deformation; Strain rate sensitivity; Superplasticity
+
+H. Xu, C. Liu, V.V. Silberschmidt, S.S. Pramana, T.J. White, Z. Chen,
+A re-examination of the mechanism of thermosonic copper ball bonding on aluminium metallization pads,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 165-168,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.034.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002085)
+Abstract: The nanoscale interfacial characteristics of thermosonic copper ball bonding on aluminium metallization were investigated. It was found that ultrasonic vibration swept oxides of aluminium and copper from parts of the contact area, promoting the formation of intermetallic compound Al2Cu (approx.20nm thick). Where oxides persisted, an amorphous aluminium oxide layer connected with a crystalline copper oxide. It was estimated that ultrasonic vibration caused an effective local temperature increase to 465°C that accelerated interdiffusion and enhanced the formation of Cu–Al intermetallics.
+Keywords: Thermosonic bonding mechanism; Interfacial structure; Intermetallic compounds
+
+Xue-Lan Hu, Ying Zhang, Guang-Hong Lu, Tianmin Wang,
+Role of the alloying element in suppressing the negative effect of O in NiAl: Cr as an example,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 189-192,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.041.
+(https://www.sciencedirect.com/science/article/pii/S135964620900219X)
+Abstract: We investigate the effect of Cr on the mechanical properties of NiAl with O by a first-principles method. Cr is shown to replace either Ni or Al depending on the surrounding environment. Based on the calculated “local elastic constants” and empirical criteria, we demonstrate that Cr can suppress the negative effect of O, and thus improve the “local ductility” of NiAl. Here, we exemplify a useful way to estimate effects of alloying elements on the mechanical properties of intermetallics from first principles.
+Keywords: Nickel aluminides; Chromium; Ductility; First-principle electron theory
+
+H.S. Zurob, H. Seyedrezai,
+A model for the growth of solute clusters based on vacancy trapping,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 141-144,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.025.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002000)
+Abstract: A simple model for the growth of clusters during the natural aging of Al alloys is presented. The model is based on the postulate that the attractive interaction between solutes and vacancies results in the trapping of vacancies at clusters. Assuming that the escape of vacancies from existing clusters is the rate-limiting step for cluster growth, the number of solute atoms in clusters is predicted to increase linearly with the logarithm of time, in agreement with several electrical resistivity results.
+Keywords: Aluminum Alloys; Modeling; Kinetics; Diffusion
+
+T.T. Sasaki, T. Ohkubo, K. Hono,
+Precipitation hardenable Mg–Bi–Zn alloys with prismatic plate precipitates,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 72-75,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.015.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001791)
+Abstract: We demonstrate the potential of the Mg–Bi–Zn system as a new precipitation hardenable magnesium alloy. The addition of 1 at.% Zn to Mg–0.8 at.% Bi enhanced the peak hardness from 50 to 68 with isothermal aging at 160°C. The increased peak hardness was attributed to the homogeneous dispersion of the fine Mg3Bi2 plates on the prismatic plane. The microstructure characterization suggested that the Mg2Zn precipitates are associated with the uniform dispersion and the precipitation of the Mg3Bi2 prismatic plates.
+Keywords: Mg–Bi; Precipitation–hardening; Plate precipitates
+
+Dong Qiu, Ming-Xing Zhang, Patrick M. Kelly,
+Crystallography of heterogeneous nucleation of Mg grains on Al2Y nucleation particles in an Mg–10wt.% Y alloy,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 312-315,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.011.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002760)
+Abstract: Based on electron backscatter diffraction, a novel and simple method was developed to determine orientation relationships (ORs) between phases in solids. The method was successful in explaining the crystallography of heterogeneous nucleation of Mg grains grown on Al2Y nucleation particles in an Mg–10wt.% Y alloy. Two reproducible ORs were identified and they completely agree with previous predictions from the edge-to-edge matching model. This confirms that Al2Y is an effective grain refiner for this type of alloy.
+Keywords: Orientation relationship; Electron backscatter diffraction; Grain refinement; Mg alloy; Heterogeneous nucleation
+
+Jinsun Liao, Makoto Hotta, Kantaro Kaneko, Katsuyoshi Kondoh,
+Enhanced impact toughness of magnesium alloy by grain refinement,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 208-211,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.044.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002243)
+Abstract: The impact toughness of Mg–3Al–Zn alloy was systematically investigated with the focus on the effect of grain size. The impact toughness is greatly improved as the mean grain size is reduced to less than 3μm, because the dynamic strength and dynamic plastic deformation ability are greatly enhanced. The superior dynamic strength of fine-grained samples may be explained in terms of grain size effect, and the high dynamic plastic deformation ability probably results from the suppression of twinning.
+Keywords: Mg alloy; Impact toughness; Texture; Fine-grained microstructure; Dynamic plastic deformation
+
+Guosong Wu, Kejian Ding, Xiaoqin Zeng, Xuemin Wang, Shoushan Yao,
+Improving corrosion resistance of titanium-coated magnesium alloy by modifying surface characteristics of magnesium alloy prior to titanium coating deposition,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 269-272,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.061.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002516)
+Abstract: Nitrogen ions were implanted into AZ31 magnesium alloy prior to titanium coating deposition. The ion implantation induced densification of the original oxide film on the alloy surface with the formation of aluminum nitride and magnesium nitride, as well as an improvement in the adhesion between the coating and the substrate. Therefore, the corrosion resistance of the Ti-coated AZ31 alloy with the above pretreatment was significantly improved in 3.5wt.% NaCl aqueous solution.
+Keywords: Magnesium alloy; Coating; Ion implantation; Sputtering; Corrosion
+
+Ju-Young Kim, Dongchan Jang, Julia R. Greer,
+Insight into the deformation behavior of niobium single crystals under uniaxial compression and tension at the nanoscale,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 300-303,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.012.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002759)
+Abstract: Size-dependent deformation behavior of niobium single-crystalline samples 200–900nm in diameter is investigated by in situ compression and tension testing. Stress–strain curves in compression show discrete plastic flow associated with dislocation escapes at the surface. In tension, plastic flow is more continuous with pronounced strain hardening, and fracture occurs at the low true strain of ∼3%. Transmission electron microscopy analysis of the same 100nm nanopillar before and after deformation provides insights into dislocation activity during compression deformation.
+Keywords: Tension test; Compression test; Plastic deformation; Nanoscale; TEM
+
+Wen-Wen Wu, Zhuo Wang, Guo-Jun Zhang, Yan-Mei Kan, Pei-Ling Wang,
+ZrB2–MoSi2 composites toughened by elongated ZrB2 grains via reactive hot pressing,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 316-319,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.013.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002875)
+Abstract: ZrB2–20 vol.% MoSi2 composites with elongated ZrB2 grains were prepared by reactive hot pressing using Zr, Si, B and Mo as raw materials. The ductile behavior of MoSi2 at high temperature helped the rod-like ZrB2 grains align under the applied pressure during sintering, resulting in a partly textured composite. The anisotropic growth of ZrB2 grains improved the toughness of the composite remarkably.
+Keywords: Borides; Toughness; Grain growth; Reactive hot pressing
+
+Ján Dusza, Jerzy Morgiel, Peter Tatarko, Viktor Puchy,
+Characterization of interfaces in ZrO2–carbon nanofiber composite,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 253-256,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.052.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002358)
+Abstract: Zirconia–carbon nanofiber (CNF) composite was prepared with the aim of improving the electrical conductivity of the zirconia. Transmission electron microscopy was used to characterize the interfaces in the composite and to explain the significantly improved conductivity compared with monolithic zirconia. Three different interfaces have been found: clear ZrO2/ZrO2 boundaries, ZrO2/ZrO2 boundaries with CNF and ZrO2/ZrO2 boundaries with disordered graphite (which results from the destruction of CNFs during processing). The modified grain boundaries together with the presence of CNFs are the reason for the improved conductivity.
+Keywords: ZrO2–CNF composite; Grain boundaries; Electrical conductivity
+
+Reji John, Dennis J. Buchanan, Sushant K. Jha, James M. Larsen,
+Stability of shot-peen residual stresses in an α+β titanium alloy,
+Scripta Materialia,
+Volume 61, Issue 4,
+2009,
+Pages 343-346,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.038.
+(https://www.sciencedirect.com/science/article/pii/S135964620900222X)
+Abstract: Shot-peen residual stress relaxation due to thermal exposure and fatigue loading was characterized in Ti–6Al–2Sn–4Zr–6Mo. Approximately 80% of the residual stresses were retained at 399°C up to 100h. Under fatigue loading close to yield stress, retention of residual stresses was approximately 85%, 70% and 50% at 260, 316 and 399°C, respectively. Crack growth calculations demonstrate 1.5–5× benefit in life, even for partial credit for shot-peen residual stresses.
+Keywords: Fatigue; Relaxation; Residual stresses; Shot peen; Titanium alloy
+
+T.T. Sasaki, J.D. Ju, K. Hono, K.S. Shin,
+Heat-treatable Mg–Sn–Zn wrought alloy,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 80-83,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.014.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001821)
+Abstract: We report enhanced room-temperature tensile and creep properties of extruded Mg–Sn–Zn alloys by solution heat-treatment and artificial aging. Microstructure observations indicated that the improved creep properties were due to the uniform dispersion of Mg2Sn and MgZn2 phase in the coarse grains. The mechanical properties of the heat-treated extruded alloys are comparable to commercial wrought magnesium alloys, and thus are promising as new heat-treatable wrought alloys.
+Keywords: Mg–Sn; Extrusion; Texture; Precipitation
+
+P. Pérez, G. Salmi, A. Muñoz, M.A. Monge,
+Influence of yttria additions on the oxidation behaviour of titanium prepared by powder metallurgy,
+Scripta Materialia,
+Volume 60, Issue 11,
+2009,
+Pages 1008-1011,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.040.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001304)
+Abstract: The yttria dispersion effect on the oxidation resistance of titanium prepared by powder metallurgy has been evaluated between 700 and 900°C. Yttria additions slightly increase the oxidation rate up to 800°C and decrease it considerably at 900°C. The multilayered rutile scale formed on pure titanium prepared by conventional techniques is replaced by a denser rutile scale in the case of titanium prepared by powder metallurgy. Yttria additions raise the temperature at which a more protective dense rutile scale is formed.
+Keywords: Powder processing; Yttria addition; Metals and alloys-titanium; Oxidation
+
+Hyung Cheoul Shim, Yoon Keun Kwak, Chang-Soo Han, Soohyun Kim,
+Enhancement of adhesion between carbon nanotubes and polymer substrates using microwave irradiation,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 32-35,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.060.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001547)
+Abstract: This paper reports the enhancement of adhesive strength between single-walled carbon nanotubes (SWNTs) and polymer substrates using microwave irradiation of 0–5min duration at 2.45GHz and 800W. Field emission scanning electron microscopy images, ultraviolet–visible data and four-point probe sheet resistance measurement data indicate that microwave irradiation is effective for enhancement of adhesion between SWNTs and polymer substrates. SWNTs could be locally welded onto a polymer substrate due to their active response to microwave irradiation.
+Keywords: Single-walled carbon nanotubes; Microwave irradiation; Adhesion
+
+Jens Ribbe, Dietmar Baither, Guido Schmitz, Sergiy V. Divinski,
+Ultrafast diffusion and internal porosity in ultrafine-grained copper–lead alloy prepared by equal channel angular pressing,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 129-132,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.029.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001948)
+Abstract: Room-temperature diffusion of 63Ni radiotracer in ultrafine-grained Cu–1wt.%Pb alloy prepared by equal channel angular pressing reveals the existence of ultrafast transport paths. Some of these paths remain in the material even after complete recrystallization. Using the focused ion beam technique, numerous cracks/pores are revealed . Long-range tracer penetration over tens of micrometers proves that this internal porosity is interconnected by highly diffusive paths. This network of porosity comprises non-equilibrium interfaces, micropores and microcracks.
+Keywords: ECAP; Ultrafine grained microstructure; SEM; Copper alloys; Grain boundary diffusion
+
+D. Dye, J. Coakley, V.A. Vorontsov, H.J. Stone, R.B. Rogge,
+Elastic moduli and load partitioning in a single-crystal nickel superalloy,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 109-112,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.008.
+(https://www.sciencedirect.com/science/article/pii/S135964620900181X)
+Abstract: The constrained moduli of the γ and γ′ phases of the Ni superalloy CMSX-4 have been determined using in situ neutron diffraction. The elastic moduli of the isolated phases fitted using a model are found to be E[100]=103GPa in the γ and 134GPa in the γ′ at room temperature, while at 900°C they are 96 and 90GPa. Therefore load partitions markedly to the γ′ phase at room temperature but there is little load partitioning at elevated temperatures.
+Keywords: Nickel alloys; Neutron diffraction; Elastic behaviour
+
+J.H. Chung,
+Development of thermomechanical processing method to enhance twinning in commercially pure Zr,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 161-164,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.050.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002310)
+Abstract: Zirconium is widely used as fuel cladding material in nuclear power reactors. Here, a thermomechanical processing technique has been developed and implemented to improve the mechanical properties of commercially pure Zr-702. In the process the twin density increased to 45 areal%. The twins were identified to be mostly of {101¯2}〈101¯1¯〉 tensile twins or {101¯1}〈101¯2〉 compression twins. The significant increase in hardness was analyzed for its contributing factors and was attributed to the microstructural refinement caused by twin boundaries.
+Keywords: Thermomechanical processing; Mechanical properties testing – hardness test; Electron backscattering diffraction (EBSD); Grain refining; Mechanical properties – twinning
+
+E.G. Fu, Jesse Carter, Michael Martin, Guoqiang Xie, X. Zhang, Y.Q. Wang, Rick Littleton, Lin Shao,
+Electron irradiation-induced structural transformation in metallic glasses,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 40-43,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.001.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001584)
+Abstract: Microstructural evolution of Zr55Cu30Al10Ni5 and Cu50Zr45Ti5 metallic glasses under 200keV electron irradiation has been studied in situ by transmission electron microscopy. Zr55Cu30Al10Ni5, which has a wider supercooled liquid region, is found to be stable under electron irradiation and no crystallization is observed up to an irradiation fluence of 8.7×1026 electronsm−2. In contrast, nanometer size crystalline Cu10Zr7 phases are formed in Cu50Zr45Ti5 under electron irradiation. The partial crystallization is attributed to irradiation enhanced atomic mobility.
+Keywords: Metallic glasses; Recrystallization
+
+Yucel Birol,
+Interannealing twin-roll cast Al–Fe–Si strips without homogenization,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 185-188,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.031.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002036)
+Abstract: When annealed without homogenization, a twin-roll cast Al–1Fe–0.2Si strip undergoes precipitation of αc particles below 200°C, dissolution of primary Al6Fe and further precipitation of αc particles above 350°C. Recrystallization and then recovery processes are superimposed on this reaction sequence when the cast strip is cold rolled before thermal exposure. Recrystallization is over before there is measurable αc precipitation at high strain levels and thus enjoys favourable conditions, producing an acceptable grain structure. Recovery predominates at still higher strains.
+Keywords: Thermomechanical processing; Differential scanning calorimetry; Aluminium alloys; Recovery; Recrystallization
+
+Dong-Kwon Lee, Nong-Moon Hwang,
+Thermodynamics and kinetics of monodisperse alloy nanoparticles synthesized through digestive ripening,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 304-307,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.008.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002796)
+Abstract: It was recently reported that monodisperse Au/Ag alloy nanoparticles with a radius of ∼2.8nm could be synthesized via a digestive ripening process with starting materials of monodisperse Au and Ag nanoparticles with a radius of ∼3.3nm. We present thermodynamic and kinetic treatments of such a digestive ripening phenomenon in a binary system. A coarsening behavior based on the model successfully explains the experimentally observed digestive ripening behavior in a binary system.
+Keywords: Digestive ripening; Nanostructure; Theory; Thermodynamics; Kinetics
+
+Wei-li Song, Mao-sheng Cao, Zhi-ling Hou, Jie Yuan, Xiao-yong Fang,
+High-temperature microwave absorption and evolutionary behavior of multiwalled carbon nanotube nanocomposite,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 201-204,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.048.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002279)
+Abstract: The high-temperature dielectric property and evolutionary behavior of multiwalled carbon nanotube/silica nanocomposite from 30 to 600°C in the range 8.2–12.4GHz were investigated. Both increasing temperature and elevated multiwalled carbon nanotube concentration are found to enhance complex permittivity, and a mechanism for this enhancement is also proposed. The calculated attenuation suggests that multiwalled carbon nanotube/silica a good candidate for high-temperature microwave-absorbing materials, and this could help in material designs with matching conditions.
+Keywords: Carbon nanotube; High-temperature; Microwave absorption; Dielectric property
+
+V. Kokotin, H. Hermann,
+Geometrical aspects of the glass-forming ability of dense binary hard-sphere mixtures,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 261-264,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.058.
+(https://www.sciencedirect.com/science/article/pii/S135964620900253X)
+Abstract: Non-crystalline dense binary hard-sphere mixtures are generated where the size ratio of the spheres and the fraction of small spheres are varied from 1.0 to 2.0 in steps of 0.1 and from 0 to 100% in steps of 10%, respectively. A confined region within this parameter space is defined where non-crystalline structures are stabilized. Comparison of the present results with experimental data for binary bulk metallic glasses supports the validity of geometrical arguments regarding glass-forming ability of binary metallic melts.
+Keywords: Amorphous materials; Bulk amorphous materials modelling
+
+Y.P. Ren, G.W. Qin, W.L. Pei, S.M. Hao,
+The (α1+α2) miscibility gap of the Al–Zn–Cu system at 360°C,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 36-39,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.057.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001614)
+Abstract: The effect of Cu addition on the (α1+α2) miscibility gap of the Al–Zn binary system was studied at 360°C by using the diffusion couple technique. It was experimentally verified that the highest temperature of the (α1+α2) miscibility gap of the Al–Zn system is significantly increased by the addition of Cu. The miscibility gap of Al–Zn–Cu face-centered cubic solid solution becomes smaller with the addition of Zn than that of the Al–Cu binary system above 351°C, which is in agreement with previous thermodynamic predictions.
+Keywords: Al–Zn–Cu system; Miscibility gap; Diffusion couple technique; Partitioning ratio
+
+J.Y. Hwang, S. Nag, A.R.P. Singh, R. Srinivasan, J. Tiley, H.L. Fraser, R. Banerjee,
+Evolution of the γ/γ′ interface width in a commercial nickel base superalloy studied by three-dimensional atom probe tomography,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 92-95,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.011.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001857)
+Abstract: The compositional width of the γ/γ′ interface in a commercial nickel base superalloy has been determined using three-dimensional atom probe tomography. Initially, on formation during continuous cooling, the primary γ′ precipitates exhibit a sharp interface while the secondary γ′ precipitates exhibit a substantially diffuse interface. On subsequent isothermal aging, the interface width increases for the primary γ′ precipitates while it decreases for the secondary γ′ precipitates, reaching a near-equilibrium width for both types of interfaces after prolonged aging.
+Keywords: Three-dimensional atom probe (3DAP); Nickel superalloy; Interfaces
+
+Kyoung-Won Park, Chang-Myeon Lee, Eric Fleury, Jae-Chul Lee,
+Plasticity of amorphous alloys assessed by their homogeneous flow rate,
+Scripta Materialia,
+Volume 61, Issue 4,
+2009,
+Pages 363-366,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.017.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002826)
+Abstract: We explored the sole effect exerted by the packing density of an amorphous alloy on its homogeneous deformation and subsequent inhomogeneous deformation. The experiments demonstrated that an alloy with higher packing exhibits a greater degree of homogeneous deformation, whereas the same alloy exhibits less global plasticity associated with inhomogeneous deformation in a typical compression test. We clarify this paradoxical relationship between homogeneous and inhomogeneous deformation by exploring the relationship between the homogeneous flow rate and its effect on shear localization.
+Keywords: Amorphous alloy; Atomic packing density; Shear softening; Homogeneous flow rate; Plasticity
+
+L. Bracke, L. Kestens, J. Penning,
+Direct observation of the twinning mechanism in an austenitic Fe–Mn–C steel,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 220-222,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.045.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002309)
+Abstract: The mechanism operating during mechanical twinning has been studied in a low stacking fault energy austenitic steel. The validity of Schmid’s law for twinning is directly verified using transmission electron microscopy. Based on this, the critical resolved shear stress could be determined, both for slip of twinning dislocations and undissociated dislocations. The observations made are in agreement with the twinning model proposed by Mahajan and Chin.
+Keywords: Twinning; Schmid’s law; Transmission electron microscopy
+
+Lin Hu, David Hovis, Arthur H. Heuer,
+The effect of substrate orientation on oxidation-induced void formation in β-Ni–40Al–5Cr–0.03Y,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 157-160,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.023.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001973)
+Abstract: Oxidation of a model β-phase Ni–40Al–5Cr–0.03Y (at.%) was studied in the temperature range 1000–1100°C. Numerous voids formed at the oxide/alloy interface, and the coalescence of those interfacial voids caused extensive spallation of the thermally grown oxide during isothermal oxidation. The density of interfacial voids depends on the orientation of the bond coat alloy substrate, which suggests that the epitaxial Al2O3/alloy interface structure plays an essential role in the formation of interfacial voids during oxidation.
+Keywords: Oxidation; Electron backscattering diffraction (EBSD); High-resolution electron microscopy (HREM); Intermetallic phases—nickel aluminides; Interfaces
+
+Li Ke-jie, Li Quan-an, Jing Xiao-tian, Chen Jun, Zhang Xing-yuan, Zhang Qing,
+Effects of Sm addition on microstructure and mechanical properties of Mg–6Al–0.6Zn alloy,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1101-1104,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.048.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001456)
+Abstract: The microstructures and mechanical properties of Mg–6Al–0.6Zn alloy with Sm addition have been investigated. The results show that Sm can dramatically improve the yield strength and tensile strength of the alloy at 20–175°C. With 0.5–2.0wt.% Sm addition, the microstructure of alloy is remarkably refined. Spotted, high-melting point Al2Sm phases are found in the alloy. The microstructure and mechanical properties of the alloy with 1.5wt.% Sm addition are found to be optimum.
+Keywords: Sm; Magnesium alloy; Microstructure; Mechanical properties
+
+Xin-Gang Wang, Wei-Ming Guo, Guo-Jun Zhang,
+Pressureless sintering mechanism and microstructure of ZrB2–SiC ceramics doped with boron,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 177-180,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.030.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002024)
+Abstract: A pressureless densification mechanism and microstructure development in ZrB2–20vol.% SiC ceramics with boron additive were investigated. Results showed that the boron addition removed oxygen impurity and improved the densification process. By adding 1wt.% boron, fully dense ZrB2–SiC ceramics with a fine-grained microstructure was obtained. However, a higher boron addition would lead to fast grain growth of both SiC and ZrB2 grains and a deteriorated densification behavior by forming a liquid phase. The mechanical properties of the sintered ceramics with 1wt.% boron addition were also evaluated.
+Keywords: Zirconium diboride; Boron; Pressureless sintering; Microstructure
+
+A. Perovic, J. Garrett, J.S. Kirkaldy,
+A unique state of solid matter: Stochastic spinodal modulations in the Au–50Ni transition above 600K,
+Scripta Materialia,
+Volume 60, Issue 11,
+2009,
+Pages 1020-1022,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.041.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001298)
+Abstract: Our observation of spinodal modulations in gold–50 at.% nickel (Au–50Ni) transformed at high temperatures (above 600K) contradicts non-stochastic Cahn theory with its ∼500K modulation suppression. These modulations are stochastic because simultaneous increase in amplitude and wavelength by diffusion cannot be synchronized. The present theory is framed as a second-order differential uphill/downhill diffusion process and has an increasing time-dependent wavenumber and amplitude favouring Hillert’s one-dimensional prior formulation within the stochastic association of wavelength and amplitude.
+Keywords: Spinodal decomposition; Gold–nickel alloy
+
+H.F. Zou, Q.K. Zhang, Z.F. Zhang,
+Eliminating interfacial segregation and embrittlement of bismuth in SnBi/Cu joint by alloying Cu substrate,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 308-311,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.009.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002784)
+Abstract: The segregation of Bi at the Cu/Cu3Sn interfaces of the SnBi/Cu couple dramatically decreases this couple’s mechanical properties. Here, we deliberately add Ag, Al, Sn and Zn elements into the Cu substrate to eliminate the interfacial segregation and embrittlement of the SnBi/Cu couple. Experimental results confirmed that there is always a perfect Cu3Sn/Cu alloy interface without Bi segregation, and excellent mechanical properties are thus maintained. The most important finding is that the interfacial embrittlement of SnBi/Cu alloy joints was successfully eliminated even after prolonged aging.
+Keywords: Bi interfacial segregation; Embrittlement; Pb-free solder; Interfacial strength; Soldering
+
+S.Q. Lu, H.Z. Zheng, M.W. Fu,
+The fracture toughness of hot-pressed NbCr2 alloys doped by rare earth yttrium,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 205-207,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.049.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002267)
+Abstract: NbCr2 Laves phase alloys doped by rare earth yttrium were fabricated by mechanical alloying and hot pressing. The effect of yttrium addition content on the fracture toughness of these alloys was investigated. The experimental results show that a minor addition of yttrium can refine the microstructure and toughen NbCr2 Laves phase. When the content of yttrium in NbCr2 is about 0.1wt.%, the fracture toughness value is increased by about 20%, which is 4 times higher than that of the cast alloy (1.2MPam1/2).
+Keywords: NbCr2 Laves phase alloy; Rare earth element yttrium; Fracture toughness; Microstructure analysis
+
+H.-J. Lee, X. Huang, K.P. Mohanchandra, G. Carman, A.G. Ramirez,
+Effects of crystallization temperature on the stress of NiTi thin films,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1133-1136,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.054.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001572)
+Abstract: We report the effects of crystallization temperature on the phase transformation behavior of NiTi thin films. With increasing crystallization temperature, the film stress during phase transformations drops sharply. Smaller grains were found as crystallization temperatures increased. These data suggest that, along with thermal stress, microstructure contributes to the phase transformation behavior, whereby smaller grains may suppress the conversion to martensite. This study illuminates the connection between processing, microstructure and phase transformation behavior for these technologically important materials.
+Keywords: Shape memory alloys; Thin films; Annealing; Phase transformations; Transmission electron microscopy (TEM)
+
+Scott M. Schlegel, Sharla Hopkins, Megan Frary,
+Effect of grain boundary engineering on microstructural stability during annealing,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 88-91,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.013.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001845)
+Abstract: Grain boundary engineering, which increases the special boundary fraction, may improve microstructural stability during annealing. Different processing routes are undertaken to establish the effectiveness of each and to better understand which microstructural features determine the resulting stability. We find that multiple cycles of grain boundary engineering result in a material that resists abnormal grain growth better than other processing routes despite similarities in special boundary fraction, grain size, and general boundary connectivity among as-processed materials.
+Keywords: Grain boundary engineering; Abnormal grain growth; Grain boundary connectivity; Copper; Texture
+
+Martin Trunec, Zdenek Chlup,
+Higher fracture toughness of tetragonal zirconia ceramics through nanocrystalline structure,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 56-59,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.019.
+(https://www.sciencedirect.com/science/article/pii/S135964620900195X)
+Abstract: Fracture toughness of nanocrystalline zirconia ceramic stabilized with 1.5mol.% Y2O3 was measured and compared with fracture toughness of submicrometer-grained zirconia ceramics stabilized with 3mol.% Y2O3. It was found that nanocrystalline ceramics demonstrated higher fracture toughness than submicrometer-grained zirconia ceramics with both optimized and common grain sizes. The high fracture toughness of nanocrystalline zirconia was confirmed by two different testing methods: indentation method (15.5MPam0.5) and chevron notched beam method (7.9MPam0.5).
+Keywords: Zirconia; Nanocrystalline materials; Coarsening; Toughness; Martensitic phase transformation
+
+Corinne E. Packard, Jan Schroers, Christopher A. Schuh,
+In situ measurements of surface tension-driven shape recovery in a metallic glass,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1145-1148,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.056.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001602)
+Abstract: A new technique, involving nanoindentation and in situ scanning probe microscopy at high temperature under an inert atmosphere, is used to study deformation of a Pt-based metallic glass. As temperature is increased into the supercooled liquid regime, impressions made by nanoindentation flatten due to surface tension-driven viscous flow. In situ measurements of shape recovery at various temperatures and times permit an estimation of the apparent activation energy for Newtonian-viscous flow.
+Keywords: Metallic glasses; Nanoindentation; High-temperature deformation; Surface energy
+
+F.X. Lin, A. Godfrey, G. Winther,
+Grain orientation dependence of extended planar dislocation boundaries in rolled aluminium,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 237-240,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.046.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002292)
+Abstract: The dislocation boundary alignment in 124 grains in cold-rolled aluminium has been investigated by a combination of backscattered electron channelling contrast and electron backscatter diffraction. The asymmetric slip geometry of the Copper and S orientations together with the existence of different symmetry variants of these orientations is exploited to analyse whether the grain orientation (and consequently the slip systems) or the symmetric rolling geometry determines the boundary alignment. The results unambiguously point at the grain orientation as the controlling factor.
+Keywords: Deformation structure; Electron backscattering diffraction (EBSD); Dislocation boundaries
+
+Heon-Young Ha, Tae-Ho Lee, Chang-Seok Oh, Sung-Joon Kim,
+Effects of combined addition of carbon and nitrogen on pitting corrosion behavior of Fe–18Cr–10Mn alloys,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 121-124,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.018.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001882)
+Abstract: The pitting corrosion resistance and passive film properties of Fe–18Cr–10Mn–(0.39–0.69)N–(0–0.38)C alloys were investigated. The combined addition of carbon and nitrogen enhanced the resistance against pitting corrosion of the alloys, which was attributed to an improvement in the protective ability of the passive film. Both passive film thickness and chromium content in the film were increased along with the sum of carbon and nitrogen content, which was confirmed by the galvanostatic reduction test, Mott–Schottky analysis and X-ray photoelectron spectroscopy measurement.
+Keywords: Carbon; Stainless steel; Corrosion; Passive film
+
+N.G. Rudawski, K.S. Jones,
+Atomistic considerations of stressed epitaxial growth from the solid phase,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 327-330,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.015.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002851)
+Abstract: A dual-timescale model of stressed solid-phase epitaxial growth is developed to provide a basis for the atomistic interpretation of experiments where the macroscopic growth velocity of (001) Si was studied as a function of uniaxial stress applied in the plane of the growth interface. The model builds upon prior empirical modeling, but is a significant improvement as it provides solid physical bases as to the origin of growth being dual-timescale and more accurately models growth kinetics.
+Keywords: Crystal growth; Phase transformations; Phase transformation kinetics; Kinetics; Solid-phase epitaxial growth
+
+C.J. Boehlert, S. Tamirisakandala, W.A. Curtin, D.B. Miracle,
+Assessment of in situ TiB whisker tensile strength and optimization of TiB-reinforced titanium alloy design,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 245-248,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.054.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002334)
+Abstract: A statistical model for fracture of aligned-whisker-reinforced metals was used to interpret tensile data of a TiB-reinforced titanium alloy. From this analysis, a TiB whisker strength of 8.0GPa with a Weibull modulus of 2 was predicted. The analysis is consistent with observations of the whisker fragmentation process. Moreover, the analysis rationalizes why high tensile elongation was maintained in this reinforced alloy and identifies the constraints on material properties that are necessary to obtain both high elongation and high strength.
+Keywords: Titanium alloys; Borides; Whiskers; Fracture; Tensile strength
+
+Arman Hasani, László S. Tóth,
+A fan-type flow-line model in equal channel angular extrusion,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 24-27,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.045.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001481)
+Abstract: A relatively simple flow-line model is presented for the description of the deformation mode in equal channel angular extrusion. The plastic deformation zone (PDZ) is assumed to be fan-shaped. It is shown that the trajectory of the material flow within the PDZ has an elliptic shape. Analysis of experimental flow lines in Al deformed in 90° and 120° dies shows that the form of the flow lines is approximately elliptical.
+Keywords: ECAE; Flow lines; Simple shear; Plastic deformation
+
+G.B. Raju, K. Biswas, B. Basu,
+Microstructural characterization and isothermal oxidation behavior of hot-pressed TiB2–10wt.% TiSi2 composite,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 104-107,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.027.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001912)
+Abstract: This paper reports on the results of fine-scale microstructural characterization and isothermal oxidation of hot-pressed TiB2–10wt.% TiSi2 composite. The careful analysis of selected-area diffraction patterns using transmission electron microscopy confirms the presence of Ti5Si3 as a reaction product along with TiB2 and TiSi2 phases. The results of oxidation testing at 1200°C for 12h using a thermogravimetric analyzer illustrate near-parabolic oxidation scale growth characteristics. The oxidation mechanisms are discussed with reference to thermodynamically feasible oxidation reactions.
+Keywords: TiB2; Microstructure; Oxidation; TGA
+
+K. Spencer, M.-X. Zhang,
+Heat treatment of cold spray coatings to form protective intermetallic layers,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 44-47,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.002.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001638)
+Abstract: A new technique for generating thick Mg/Al intermetallic coatings on Mg–Al–Zn alloys through post-spray annealing of aluminium cold spray coatings is discussed. Annealing at 400°C, which is close to the solution treatment temperature for AZ91 alloy, results in the formation of thick Mg17Al12 and Al3Mg2 intermetallic layers. These layers have high hardness, and increase the corrosion resistance to a level similar to that of aluminium alloys.
+Keywords: Intermetallics; Diffusion; Cold spray; Aluminium; Magnesium
+
+Q.S. Zhang, W. Zhang, A. Inoue,
+Ni-free Zr–Fe–Al–Cu bulk metallic glasses with high glass-forming ability,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 241-244,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.056.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002607)
+Abstract: We report a series of Ni-free quaternary Zr-based bulk metallic glasses developed by substitution of Fe for Cu in ternary Zr60Cu30Al10 alloy. Addition of Fe lowers the liquidus temperature of the ternary Zr60Cu30Al10 alloy. The alloy compositions of Zr60Cu25Fe5Al10 and Zr62.5Cu22.5Fe5Al10 were found to be very near a quaternary eutectic point with low liquidus temperature. The as-cast glassy alloy rods with a diameter of 20mm were easily synthesized at Zr60Cu25Fe5Al10 and Zr62.5Cu22.5Fe5Al10 alloy compositions by copper mold casting.
+Keywords: Metallic glass; Transition metals; Glass-forming ability
+
+Ho Ming Chiu, Golden Kumar, Jerzy Blawzdziewicz, Jan Schroers,
+Thermoplastic extrusion of bulk metallic glass,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 28-31,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.052.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001511)
+Abstract: Extrusion of Zr44Ti11Cu10Ni10Be25 bulk metallic glass in its supercooled liquid state is explored as a method to create objects of a fixed cross-sectional profile. The effect of processing parameters and extrusion geometries on the extrusion length is determined. The results reveal the nature of the flow process as creeping flow. Profile lengths of up to 50cm are achieved using a 2-mm diameter die with a tapered length which theoretically results in a zero effective die length.
+Keywords: Bulk metallic glass; Extrusion; Thermoplastic forming
+
+Hsun-Yi Chen, Yongwoo Kwon, K. Thornton,
+Multifunctionality of three-dimensional self-assembled composite structure,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 52-55,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.006.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001754)
+Abstract: Microstructures with minimal-surface interfacial morphologies have been found to enhance simultaneous transport. To compare the transport properties of such systems with those formed naturally, we calculated transport properties governed by Laplace’s equation such as thermal and electrical transport for bicontinuous structures resulting from coarsening after phase separation and found them nearly as efficient as those with minimal-surface morphologies. Our finding indicates that spinodal decomposition may provide a plausible route to self-assembly of three-dimensional two-phase composites with nearly optimized multifunctionality.
+Keywords: Spinodal decomposition; Composites; Microstructure; Multifunctionality
+
+C.S. Hong, N.R. Tao, K. Lu, X. Huang,
+Grain orientation dependence of deformation twinning in pure Cu subjected to dynamic plastic deformation,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 289-292,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.006.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002723)
+Abstract: A clear grain orientation dependence of deformation twinning has been identified in coarse-grained copper subjected to dynamic plastic deformation. Deformation twins tend to occur in grains with orientations near the [001] corner but not in grains near the [101] corner, which can be explained in terms of a Schmid factor analysis. This finding provides a guideline for the design of initial texture in exploring the structural refinement via deformation twins.
+Keywords: Deformation twinning; Copper; Dynamic plastic deformation; Grain orientation
+
+Yali Wang, Min Guo, Mei Zhang, Xidong Wang,
+Hydrothermal synthesis of SnO2 nanoflower arrays and their optical properties,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 234-236,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.040.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002206)
+Abstract: Large-scale SnO2 nanoflower arrays were successfully synthesized on indium tin oxide glass substrates in the presence of poly(vinyl pyrrolidone) using a hydrothermal method. The products were characterized by X-ray diffraction, field-emission scanning electron microscopy, transmission electron microscopy and high-resolution transmission electron microscopy. The results show that the products have a flowerlike architecture and consist of nanorods. The growth mechanism of the products is also discussed. Room-temperature photoluminescence was also carried out to investigate their optical properties.
+Keywords: Semiconductor; Oxide; Nanoflower arrays; Photoluminescence
+
+Yoshimasa Takahashi, Masaki Tanaka, Kenji Higashida, Hiroshi Noguchi,
+Hydrogen-induced slip localization around a quasi-brittle fatigue crack observed by high-voltage electron microscopy,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 145-148,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.020.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001997)
+Abstract: The effect of hydrogen on cyclic slip behavior around a fatigue crack tip in a bulk Fe–Si alloy is successfully observed by high-voltage electron microscopy. The observation explicitly reveals the following points: (i) hydrogen reduces the amount of cyclic slip whereas it promotes crack growth rate; and (ii) hydrogen induces a quasi-brittle crack growth that accompanies localized slip in the crack periphery.
+Keywords: TEM; Fatigue; Hydrogen embrittlement; Iron alloys; Crack tip
+
+G. Miyamoto, N. Takayama, T. Furuhara,
+Accurate measurement of the orientation relationship of lath martensite and bainite by electron backscatter diffraction analysis,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1113-1116,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.053.
+(https://www.sciencedirect.com/science/article/pii/S135964620900150X)
+Abstract: A new method to determine the orientation relationship between martensite and bainite with the parent austenite is developed based on electron backscatter diffraction analysis. This method can determine the orientation relationship accurately without the presence of retained austenite, and is applicable to lath martensite and bainite in low-alloyed carbon steels. The angles between close-packed directions are about 3° for lath martensite regardless of the carbon content, while the angles between close-packed planes become smaller with increasing carbon content.
+Keywords: Steels; Orientation relationship; Electron backscatter diffraction (EBSD); Martensite; Bainite
+
+E. Navaei Alvar, M. Rezaei,
+Mesoporous nanocrystalline MgAl2O4 spinel and its applications as support for Ni catalyst in dry reforming,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 212-215,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.047.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002280)
+Abstract: Mesoporous nanocrystalline MgAl2O4 spinel powders with high surface area were prepared by the surfactant-assisted route using N-cetyl-N,N,N-trimethylammonium bromide as surfactant. The synthesized powders were employed as a support for nickel catalysts in dry reforming for the production of synthesis gas. The obtained results showed that the synthesized powders have promise as support for nickel catalysts.
+Keywords: Nanocrystalline materials; Catalysis; X-ray diffraction
+
+Atul H. Chokshi,
+Unusual stress and grain size dependence for creep in nanocrystalline materials,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 96-99,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.009.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001870)
+Abstract: Analyses of diffusion and dislocation creep in nanocrystals needs to take into account the generally utilized low temperatures, high stresses and very fine grain sizes. In nanocrystals, diffusion creep may be associated with a nonlinear stress dependence and dislocation creep may involve a grain size dependence.
+Keywords: Nanocrystal; Creep; Diffusion; Dislocation; Interface control
+
+S.W. Xu, N. Matsumoto, S. Kamado, T. Honma, Y. Kojima,
+Dynamic microstructural changes in Mg–9Al–1Zn alloy during hot compression,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 249-252,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.051.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002322)
+Abstract: Twin dynamic recrystallization (DRX) occurs during the hot compression of AZ91 alloy with precipitation of Mg17Al12 phase at the newly formed DRXed grain boundaries. The pinning effect of the Mg17Al12 precipitates is greatly influenced by compression temperature, resulting in compression temperature having a stronger influence than strain rate on DRXed grain size. The conventional relationship between DRXed grain size and the Zener–Hollomon parameter breaks down as the pinning effect of the precipitates is not taken fully into consideration.
+Keywords: AZ91 alloy; Mg17Al12 precipitate; Pinning effect; Dynamic recrystallization; Zener–Holloman parameter
+
+M. Peterlechner, T. Waitz, H.P. Karnthaler,
+Nanoscale amorphization of severely deformed NiTi shape memory alloys,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1137-1140,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.055.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001596)
+Abstract: NiTi shape memory alloys deformed by high-pressure torsion (HPT) were investigated by transmission electron microscopy. Radial sections of the HPT discs facilitate the analysis of nanoscale amorphous and crystalline phases. Ultrathin amorphous ribbons forming at grain boundaries are intersected by shear bands. At higher deformation they transform into thicker amorphous bands containing nanocrystalline debris. In the case of planar sections, the presence of amorphous phase can be obscured by overlapping nanocrystals leading to moiré contrast.
+Keywords: Amorphization; High-pressure torsion (HPT); Transmission electron microscopy (TEM); NiTi; Shape memory alloys (SMA)
+
+I. Sabirov, M.R. Barnett, Y. Estrin, P.D. Hodgson,
+The effect of strain rate on the deformation mechanisms and the strain rate sensitivity of an ultra-fine-grained Al alloy,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 181-184,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.032.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002048)
+Abstract: An ultra-fine-grained Al alloy was subjected to compression tests at different strain rates. The strain rate sensitivity of the flow stress was estimated. A strong effect of the baseline strain rate on the mechanisms of plastic deformation was found. It is suggested that a decrease of strain rate results in activation of micro shear banding due to grain boundary sliding. A connection between the strain rate, strain rate sensitivity, and the prevalent deformation mechanism was established.
+Keywords: Al alloy; Equal channel angular pressing; Ultra-fine-grained microstructure; Strain rate sensitivity
+
+Yuan-Chang Liang, Yung-Ching Liang,
+Buffering effect on physical properties of transparent BaTiO3 capacitors on composite transparent electrodes,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 117-120,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.026.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001900)
+Abstract: Highly transparent BaTiO3 thin films were prepared on 3nm thick LaNiO3-buffered (222)-oriented Zr-doped In2O3 (180nm)/ZnO (100nm)/glass substrates by radiofrequency magnetron sputtering at 500–700°C. All the multilayered films exhibited excellent optical transmittance of ∼75% in the visible light region. The growth of the BaTiO3 film with a LaNiO3 buffer promotes the appearance of (00l)-crystallographic features. The dielectric constant of the BaTiO3 thin films increased, and the leakage current decreased with the buffering of LaNiO3.
+Keywords: Characterization; Crystallographic structure; Dielectric properties; Oxides
+
+D. Raabe, D. Ponge, O. Dmitrieva, B. Sander,
+Nanoprecipitate-hardened 1.5GPa steels with unexpected high ductility,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1141-1144,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.062.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001626)
+Abstract: We present mechanical and microstructure results on precipitation-hardened ductile high-strength martensitic and austenitic–martensitic steels (up to 1.5GPa strength) with good ductility. The alloys have a low-carbon content (0.01wt.% C), 9–12wt.% Mn, and minor additions of Ni, Ti and Mo (1–2wt.%). Hardening is based on transformation-induced plasticity and the formation of intermetallic nanoprecipitates in the martensite during heat treatment (aging). The approach leads to an unexpected simultaneous increase in both strength and total elongation.
+Keywords: Steel; High strength; Aging; Precipitation; Intermetallic
+
+K.E. Knipling, R.W. Fonda,
+Texture development in the stir zone of near-α titanium friction stir welds,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1097-1100,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.050.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001109)
+Abstract: Shear textures in the stir zone of a near-α-titaniumfriction stir weld were examined by electron backscatter diffraction. The texture matches that of a D2(1¯1¯2)[111] bccsimple shear texture that was transformed to hcpaccording to the Burgers orientation relationship, which aligns {110}bcc with {0001}hcp, although there is also evidence of a P1 hcpshear texture component. Deformation therefore occurred predominantly above the β transus, and the α texture was inherited from a simple shear texture of the β phase.
+Keywords: Friction stir welding; Titanium alloys; Texture; Electron backscattering diffraction (EBSD)
+
+Weiyan Gong, Lijun Zhang, Dengzun Yao, Chungen Zhou,
+Diffusivities and atomic mobilities in fcc Ni–Pt alloys,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 100-103,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.010.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001869)
+Abstract: The inter-diffusion coefficients of face-centered cubic (fcc) Ni–Pt alloys at 1150, 1250 and 1300°C were measured using Ni/Pt semi-infinite diffusion couples. Based on various experimental diffusion coefficients, an accurate set of atomic mobilities of Pt and Ni in the fcc phase of the Ni–Pt system were obtained via the DICTRA simulation package. The effect of thermodynamic parameters on the diffusion phenomena in fcc Ni–Pt alloys was also analyzed in the present work.
+Keywords: Nickel alloys; Platinum group; Electron probe microanalysis (EPMA); Bulk diffusion; DICTRA
+
+In-suk Choi, Ruth Schwaiger, Lilia Kurmanaeva, Oliver Kraft,
+On the effect of Ag content on the deformation behavior of ultrafine-grained Pd–Ag alloys,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 64-67,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.007.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001742)
+Abstract: Pd and Pd–Ag alloys with grain size smaller than 500 nm were studied using nanoindentation to investigate the effect of alloy content on the deformation behavior. The grain size decreased with increasing Ag content. While the hardness increases with decreasing grain size, the strain rate sensitivity decreases, which is opposite to what is expected for fine-grained face-centered cubic metals. Solid solution strengthening and changes in the stacking fault density are suggested to contribute to the hardness increase and the deformation behavior.
+Keywords: Nanoindentation; Ultrafine-grained microstructure; Strain rate sensitivity
+
+Peng Jia, Zhen-dong Zhu, Evan Ma, Jian Xu,
+Notch toughness of Cu-based bulk metallic glasses,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 137-140,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.024.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001985)
+Abstract: We have measured the notch toughness for a range of Cu-based bulk metallic glasses (BMGs). Alloying additions that enhance the glass-forming ability (GFA) are found to degrade the toughness. Within this particular family of Cu-BMGs, toughness is more directly correlated with strength (and consequently with the shear modulus or glass transition temperature) than with the Poisson’s ratio. The Cu49Hf42Al9 BMG exhibits the best combination of GFA and toughness.
+Keywords: Metallic glasses; Toughness; Elastic property; Cu alloys
+
+S.P. Yuan, G. Liu, R.H. Wang, G.-J. Zhang, X. Pu, J. Sun, K.-H. Chen,
+Effect of precipitate morphology evolution on the strength–toughness relationship in Al–Mg–Si alloys,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1109-1112,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.047.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001468)
+Abstract: Experimental results show that the gradual evolution of precipitate morphology in Al–Mg–Si alloys, from spherical to rod-/needle-shaped, leads to an increase in ductility but a decrease in both yield strength and fracture toughness. The strength–ductility relationship reported here is similar to general observations but the strength–toughness relationship is distinctly different from the conventional one. These relationships are rationalized by considering a competition between dislocation–precipitate interaction and precipitate–matrix deformation discrepancy as the dominant strain localization mechanism, which is modulated by the evolution of precipitate morphology.
+Keywords: Aluminum alloys; Fracture toughness; Precipitate; Morphology evolution
+
+S.S. Park, G.T. Bae, D.H. Kang, B.S. You, Nack J. Kim,
+Superplastic deformation behavior of twin-roll cast Mg–6Zn–1Mn–1Al alloy,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 223-226,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.057.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002590)
+Abstract: The high-temperature deformation behavior of twin-roll cast (TRC) Mg–6Zn–1Mn–1Al (ZMA611) alloy has been investigated and compared with that of ingot cast (IC) Mg–3Al–1Zn (AZ31) alloy. At 543–603K and at 10−4–10−2s−1, TRC ZMA611 alloy shows much larger tensile elongation at a faster strain rate than IC AZ31 alloy. The superplastic properties of TRC ZMA611 alloy are mainly due to the presence of thermally stable fine particles, which stabilize grain size and hence promote grain boundary sliding.
+Keywords: Twin-roll casting; Magnesium alloys; High temperature deformation; Superplasticity
+
+M. Rezaei, S.M. Alavi, S. Sahebdelfar, Zi-Feng Yan,
+A highly stable catalyst in methane reforming with carbon dioxide,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 173-176,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.033.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002073)
+Abstract: The nickel catalyst (5% Ni–3% CeO2) supported on mesoporous nanocrystalline zirconia with high surface area and pure tetragonal crystallite phase showed high catalytic stability under severe reaction conditions for more than 1500h on stream. This catalyst showed a stable catalytic structure even after this long period of reaction time. The obtained results revealed that ceria increased the nickel dispersion and had a positive effect in preventing coke formation and increasing catalyst stability.
+Keywords: Nanocrystalline materials; Catalysis
+
+Gui-hua Peng, Xiang-guo Li, Min Liang, Zhen-hua Liang, Qian Liu, Wen-lan Li,
+Spark plasma sintered high hardness α/β Si3N4 composites with MgSiN2 as additives,
+Scripta Materialia,
+Volume 61, Issue 4,
+2009,
+Pages 347-350,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.007.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002632)
+Abstract: α/β Si3N4 composites were prepared by spark plasma sintering at 1340–1500°C for 3–12min with MgSiN2 as additives. The hardest α/β Si3N4 composite has a Vickers indentation hardness of 21.4GPa, which is as hard as α-Sialon ceramics and harder than ordinary β-Si3N4 ceramics. The fracture toughness increased from 5.7 to 7.7MPam1/2 with the β-Si3N4 content increasing from 21 to 76wt.%, and the Vickers indentation hardness of the latter was 19.0GPa.
+Keywords: Rapid solidification; Ceramics; Hardness; Toughness; Si3N4
+
+R.J. Talling, R.J. Dashwood, M. Jackson, D. Dye,
+Compositional variability in gum metal,
+Scripta Materialia,
+Volume 60, Issue 11,
+2009,
+Pages 1000-1003,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.044.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001262)
+Abstract: β-Ti alloy Gum metals were defined as Ti–24(Nb+Ta+V)–(Zr,Hf)–O (at.%) by Saito et al. [T. Saito et al., Science 300 (2003) 464]. Previous work has focused on compositions near Ti–23Nb–0.7Ta–2Zr–O. Here, Ti–24V–28Zr–2O was examined; similar single-crystal elastic constants were observed. However, the alloy was found to be brittle and did not form α″ during loading, unlike the Ti–Nb alloy. V-rich body-centred cubic precipitates were also observed. Therefore the β stability parameters e/a, Bo and Md alone are insufficient to define the compositional range of Gum metals.
+Keywords: Gum metal; Martensitic phase transformation; Titanium alloys; Synchrotron radiation; Ab initio electron theory
+
+Yun-Jiang Wang, Chong-Yu Wang,
+Influence of the alloying element Re on the ideal tensile and shear strength of γ′-Ni3Al,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 197-200,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.042.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002231)
+Abstract: The effects of the alloying element Re on the ideal strength of γ′-Ni3Al under tensile and shear stresses are investigated using the first-principles method. Results for the stress–strain relationships, ideal tensile and shear strengthes with and without Re addition are presented and explained. Re is found to be effective in improving the strength of Ni3Al. The electronic mechanism underlying the strengthening effects of Re is also elucidated.
+Keywords: Ni-base superalloys; Tensile and shear strength; Alloying effect; First principles
+
+Jiheng Li, Xuexu Gao, Jie Zhu, Juncheng Jia, Maocai Zhang,
+The microstructure of Fe–Ga powders and magnetostriction of bonded composites,
+Scripta Materialia,
+Volume 61, Issue 6,
+2009,
+Pages 557-560,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.019.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002991)
+Abstract: Spherical Fe–Ga particles were prepared by gas atomization. The Ga concentration of gas-atomized particles approached the nominal composition of Fe81Ga19. Most size fractions of particles had a polycrystalline structure. The main A2 phase and a DO3 phase emerged in the as-atomized powders. The L12 phase appeared in the annealed powders. Many single crystals were obtained due to grain growth during the thermal process. The maximum saturation magnetostriction of 6.4×10−5 was obtained in the composite containing the annealed powders.
+Keywords: Fe–Ga alloy; Gas atomization; Powders; Magnetostriction
+
+J.J. Wall, J.D. Almer, S.C. Vogel, P.K. Liaw, H. Choo, C.T. Liu,
+Synchrotron X-ray scattering investigations of oxygen-induced nucleation in a Zr-based glass-forming alloy,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 293-295,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.004.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002747)
+Abstract: The metallic glass-forming alloy VIT-105 (Zr52.5Cu17.9Ni14.6Al10Ti5) was used to study the effect of oxygen on nucleation. Ex situ synchrotron X-ray scattering experiments performed on as-cast samples showed that oxygen leads to the formation of tetragonal and/or cubic phases, depending on oxygen content. The samples crystallized into either a primitive tetragonal phase or the so-called fcc “big cube” phase in a glassy matrix. A subsequent discussion on the role of oxygen in heterogeneous nucleation in Zr-based bulk metallic glasses is presented.
+Keywords: Heterogeneous nucleation; Glass forming ability; BMG; Nucleation
+
+W.J. Kim, S.J. Yoo,
+Enhanced ductility and deformation mechanisms of ultrafine-grained Al–Mg–Si alloy in sheet form at warm temperatures,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 125-128,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.037.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001936)
+Abstract: Ultrafine-grained Al–Mg–Si alloy processed by high-ratio differential speed rolling exhibited significantly enhanced tensile ductility at warm temperatures (493–553K). The dominant deformation mechanism of the alloy was found to be pipe-diffusion-controlled grain boundary sliding associated with a stress exponent of 4. According to the analyses based on Hart’s necking criterion, in addition to increased strain rate sensitivity, increased strain hardening by accelerated dynamic grain growth notably contributes to the ductility of ultrafine-grained aluminum.
+Keywords: Severe plastic deformation; Aluminum alloys; Ductility; Ultrafine-grained microstructure
+
+S.K. Mishra, P. Pant, K. Narasimhan, A.D. Rollett, I. Samajdar,
+On the widths of orientation gradient zones adjacent to grain boundaries,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 273-276,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.062.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002589)
+Abstract: Recrystallized commercial purity aluminum samples were deformed to true strains of 0.095 and 0.262 by uniaxial tension. Microtexture data were analyzed to quantify orientation gradients between the grain interior and the grain boundary of nearest neighbor crystallites. The gradients were characterized in terms of the length over which a significant gradient was observed and the maximum misorientation. Estimated length ratios were observed to obey an inverse power law relationship with Taylor factor(s).
+Keywords: Plastic deformation; Orientation gradient; Grain interaction; EBSD; Taylor factor
+
+Tsung-Chieh Chiu, Kwang-Lung Lin,
+The growth of Sn whiskers with dislocation inclusion upon electromigration through a Cu/Sn3.5Ag/Au solder joint,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1121-1124,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.061.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001535)
+Abstract: Electromigration through a Cu/Sn3.5Ag/Au solder joint results in rotation of the intermetallic compounds (IMCs). The Sn whiskers induced within the unreacted solder are believed to be due to the mechanical stress induced by this IMC rotation. Microstructural investigation and the electron diffraction pattern, revealed by transmission electron microscopy, indicate that the crystalline Sn whiskers grew with inclusion of prominent dislocations. The existence of dislocations within the Sn whiskers suggests that whisker growth experiences turbulence.
+Keywords: Electromigration; Intermetallic compounds; Whiskers; Transmission electron microscopy (TEM); Dislocation
+
+L.F. He, X.P. Lu, Y.W. Bao, J.Y. Wang, Y.C. Zhou,
+High-temperature internal friction, stiffness and strength of Zr–Al(Si)–C ceramics,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 60-63,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.004.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001778)
+Abstract: The temperature dependence of internal friction, stiffness and strength of Zr–Al(Si)–C ceramics was studied. For glass-free Zr–Al(Si)–C ceramics, the internal friction curve followed an exponential-like background. For liquid-phase-sintered Zr3Al3C5, an internal peak present at 1590K revealed the grain-boundary sliding due to wetting of glass phase at grain boundaries and triple junctions. Zr–Al(Si)–C ceramics exhibited high degrees of stiffness and strength at high temperatures up to 1600 and 1400°C, respectively, which render them good high-temperature structural materials.
+Keywords: Carbide; TEM; Grain boundaries; Elastic behavior; Internal friction
+
+Shubra Singh, M.S. Ramachandra Rao,
+Green light emitting oxygen deficient ZnO forks, brooms and spheres,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 169-172,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.035.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002061)
+Abstract: ZnO forks, brooms and spheres possessing self assembled nanowalls and nanocones of ZnO were synthesized, for the first time, via direct thermal evaporation of metallic Zn flakes. The samples exhibit visible green emission on UV excitation. EDX point towards oxygen deficient sample. Photoluminescence studies confirm the presence of defect related emission. The sharp nanocone tips and high degree of networking of nanowalls make them a potential candidate for field emission, gas sensing and catalytic applications.
+Keywords: Physical vapor deposition (PVD); Microstructure; Scanning electron microscopy (SEM); Zinc oxide
+
+Feng Cao, Yiding Wang, Lei Li, Baojia Guo, Yupeng An,
+Influence of O2/Ar ratio on the structural, electrical, and optical properties of transparent conductive zirconium-doped ZnO films prepared by radiofrequency sputtering,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 231-233,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.036.
+(https://www.sciencedirect.com/science/article/pii/S135964620900205X)
+Abstract: Zirconium-doped ZnO (ZZO) transparent conductive films are deposited on glass substrates by radiofrequency sputtering at 300°C. The influence of O2/Ar ratio on the structural, electrical and optical properties of ZZO films is investigated by X-ray diffraction, Hall measurement, and optical transmission spectroscopy. The results show that ZZO thin films are polycrystalline with a preferred (002) orientation. The lowest resistivity of 3.7×10−4Ωcm is obtained at the O2/Ar ratio of 1/12. The average optical transmittance of the films is over 90%, and the transmittance has no evident change with increasing O2/Ar ratio.
+Keywords: Semiconductors; Electrical properties; Thin films; Transparent conductive oxides; Sputtering
+
+Zhongmin Zhao, Long Zhang, Yigang Song, Weiguo Wang, Hongbo Liu,
+Microstructures and properties of large bulk solidified TiC–TiB2 composites prepared by combustion synthesis under high gravity,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 281-284,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.002.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002620)
+Abstract: Large bulk solidified TiC–TiB2 composites with full density were prepared by combustion synthesis in a high-gravity field. The materials presented unique solidification microstructures in which a number of fine TiB2 platelets were embedded in TiC matrix. The hardness, flexural strength and fracture toughness of the materials were 28.5GPa, 750±25MPa and 6.2±0.5MPam1/2, respectively. The materials’ high hardness resulted from the absence of intermediate borides and the achievement of stoichiometric TiC phases due to rapid solidification.
+Keywords: TiC–TiB2 composite; Combustion synthesis; High gravity; Rapid solidification; Hardness
+
+I. Apachitei, B. Lonyuk, L.E. Fratila-Apachitei, J. Zhou, J. Duszczyk,
+Fatigue response of porous coated titanium biomedical alloys,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 113-116,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.017.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001894)
+Abstract: The effect of plasma electrolytic oxidation coatings on the fatigue properties of Ti6Al4V and Ti6Al7Nb alloys under physiological conditions (Hank’s solution at 37°C) has been investigated. The oxidized Ti6Al7Nb alloys showed an improved fatigue behavior as compared to oxidized Ti6Al4V alloys, irrespective of the coating thickness.
+Keywords: Titanium alloys; Fatigue; Coating; Medical devices; Plasma electrolytic oxidation
+
+Y.T. Pei, N.G. Chechenin, P.N. Chernykh, A.A. Turkin, D. Vainshtein, J.Th.M. De Hosson,
+On the quantification of unbound hydrogen in diamond-like carbon-based thin films,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 320-323,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.014.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002863)
+Abstract: This paper presents a new and straightforward approach to quantify the content of unbound hydrogen in diamond-like carbon-based films. In the case of TiC/a-C:H nanocomposite films it is shown that the content of unbound and bound hydrogen can be deconvoluted via thermal release and elastic recoil detection analysis of hydrogen as a function of annealing temperature. Upon the release of unbound hydrogen, a substantial increase in friction is measured on TiC/a-C:H nanocomposite films.
+Keywords: Hydrogenated diamond-like carbon; Unbound hydrogen; Annealing; Elastic recoil detection analysis; Friction
+
+R. Asthana, M. Singh,
+Joining of ZrB2-based ultra-high-temperature ceramic composites using Pd-based braze alloys,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 257-260,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.053.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002346)
+Abstract: Hot-pressed ZrB2–SiC and composites with carbon (ZSC) or SCS-9a SiC fibers (ZSS) were joined using Pd-base brazes, Palco (65% Pd–35% Co) and Palni (60% Pd–40% Ni). Joint integrity was exhibited by the defect-free ZS/Palco/ZS joints with large interaction zones. The ZSS/Palco and ZSC/Palco joints revealed substantial chemical interaction and interfacial cracking due to residual stresses. The joints with Palni exhibited either poor wetting/bonding or cracking. The ZS/Palco joints displayed high Knoop hardness within the ZS region and lower hardness within the Palco interlayer.
+Keywords: Brazing; Ceramic matrix composites (CMC); Scanning electron microscopy (SEM); Interface structure; Hardness
+
+M.A. Salgado-Ordorica, J. Valloton, M. Rappaz,
+Study of twinned dendrite growth stability,
+Scripta Materialia,
+Volume 61, Issue 4,
+2009,
+Pages 367-370,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.016.
+(https://www.sciencedirect.com/science/article/pii/S135964620900284X)
+Abstract: Under certain thermal conditions (G≈1×104Km−1, νs≈1×10−3ms−1), 〈110〉 twinned dendrites appear in aluminum alloys and can overgrow regular columnar dendrites, provided that some convection is also present in the melt. In order to check the stability of such morphologies, directionally solidified twinned samples of Al–Zn were partially remelted in a Bridgman furnace and then resolidified under controlled conditions, with minimal convection. It was found that, although twin planes remain stable during partial remelting, non-twinned dendrites regrow during solidification. They have a crystallographic orientation given by those of the twinned and untwinned “seed” regions, and grow along preferred directions that tend to be those of normal specimens.
+Keywords: Bridgman solidification; Dendrite growth; Twin stability; Aluminum alloys
+
+N. Nakada, N. Koga, T. Tsuchiyama, S. Takaki,
+Crystallographic orientation rotation and internal stress in pearlite colony,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 133-136,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.028.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001924)
+Abstract: Crystallographic orientations of ferrite and cementite in a pearlite structure were analyzed by electron backscatter diffraction. It was found that the orientations of both phases in a pearlite colony rotated simultaneously, while maintaining a specific crystallographic relationship. The internal stress in the colony was estimated under the assumption that the orientation rotation was caused by elastic strain.
+Keywords: Pearlite; Cementite; Electron backscatter diffraction; Orientation rotation; Internal stress
+
+M.Q. Jiang, W.H. Wang, L.H. Dai,
+Prediction of shear-band thickness in metallic glasses,
+Scripta Materialia,
+Volume 60, Issue 11,
+2009,
+Pages 1004-1007,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.039.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001407)
+Abstract: We derive an explicit expression for predicting the thicknesses of shear bands in metallic glasses. The model demonstrates that the shear-band thickness is mainly dominated by the activation size of the shear transformation zone (STZ) and its activation free volume concentration. The predicted thicknesses agree well with the results of measurements and simulations. The underlying physics is attributed to the local topological instability of the activated STZ. The result is of significance in understanding the origin of inhomogeneous flow in metallic glasses.
+Keywords: Metallic glasses; Shear band; Shear transformation zone; Free volume
+
+S.Q. Wang, J.Y. Zhang, N. Ding, C.H. Chen,
+Synthesis of nanobelt-tangled spheroids of copper (II) oxide at room temperature and their application for lithium-ion batteries,
+Scripta Materialia,
+Volume 60, Issue 12,
+2009,
+Pages 1117-1120,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.02.051.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001523)
+Abstract: Fluffy nanobelt-tangled spheroids of copper oxide were synthesized by a simple zinc-involved sacrificial-template-assisted wet-chemical method at room temperature. Their structures were characterized by X-ray diffraction, scanning electron microscopy and high-resolution transmission electron microscopy. The possible growth mechanism of the spheroids is discussed in this paper. For potential application in lithium-ion batteries, an electrode made of the copper oxide spheroids shows excellent electrochemical cycling performance and high rate capability.
+Keywords: Single crystal growth; Energy dispersive X-ray spectroscopy; High-resolution electron microscopy; Crystalline oxides; Electrochemistry
+
+Zhiyan Guo, Fangfang Jian, Fanglin Du,
+A simple method to controlled synthesis of CeO2 hollow microspheres,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 48-51,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.005.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001766)
+Abstract: CeO2 hollow microspheres have been synthesized by hydrothermal decomposition reaction of Ce(NO3)3 on the surfaces of silica microspheres. The shell thickness of CeO2 hollow microspheres can be controlled from 20 to 50nm by adjusting the concentration of Ce(NO3)3 in the reaction solution. The high UV absorption of CeO2 hollow microspheres indicates that this material is suitable as a UV-blocking material.
+Keywords: Oxides; Nanostructures; Crystal growth; Electron microscopy; Optical properties
+
+Yijie Zhang, Xianfeng Li, Xiaoshe Hua, Naiheng Ma, Dong Chen, Haowei Wang,
+Sunlight photocatalysis in coral-like TiO2 film,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 296-299,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.005.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002735)
+Abstract: To improve the quantum efficiency of TiO2 film irradiated by sunlight, coral-like TiO2 film composed by nanorods and a nanonet structure was prepared by anodizing Ti in HF–Na2SiF6–FeCl3 solution. The coral-like TiO2 film revealed an improvement over the TiO2 nanotube under sunlight in both optical absorption and photocatalytic activity such as photodegradation of reactive brilliant red. Under sunlight irradiation, the photoelectrocatalytic degradation rate of a coral-like TiO2/Ti electrode (45.2%) was about four times higher than that of a nanotube TiO2/Ti electrode (11.9%) at 1.5V potential application.
+Keywords: TiO2; Catalysis; Optical absorption; Anodization; Thin films
+
+Cao Wang, Zhe Zhao,
+Transparent MgAl2O4 ceramic produced by spark plasma sintering,
+Scripta Materialia,
+Volume 61, Issue 2,
+2009,
+Pages 193-196,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.039.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002218)
+Abstract: A two-step pressure profile was used to prepare transparent MgAl2O4 ceramic without sintering aids by spark plasma sintering (SPS) at 1300°C for 3min. The influence of the pressure profile was investigated systematically and the discoloration in the present study was attributed to the dislocation formed during the fast densification in SPS. At low pre-load pressure, 5MPa, with the normal characteristic fast heating rate (100°Cmin−1), high inline transmittance of 51% at 550nm and 85% at 2000nm can be achieved.
+Keywords: Sintering; Oxide; Optical transmission; Dislocation; Ultrafine-grained microstructure
+
+C.N. He, F. Tian,
+A carbon nanotube–alumina network structure for fabricating epoxy composites,
+Scripta Materialia,
+Volume 61, Issue 3,
+2009,
+Pages 285-288,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.04.003.
+(https://www.sciencedirect.com/science/article/pii/S1359646209002619)
+Abstract: A network structure of carbon nanotube (CNT) and alumina hybrid was created via a novel route, which was then employed to produce epoxy matrix nanocomposites by mechanical stirring. Because of the homogeneous dispersion of CNTs and Al2O3 in epoxy matrix and the strong bonding between CNTs and epoxy matrix, the nanocomposite presented obvious improvements in mechanical properties with a small quantity (1wt.%) of the CNT–Al2O3 addition. Tensile strength and Young’s modulus were increased 34% and 47%, respectively.
+Keywords: Polymer matrix composites; Carbon & graphite; Mechanical properties; Chemical vapor deposition; Nano/microcomposites
+
+Nhon Q. Vo, Robert S. Averback, Pascal Bellon, Alfredo Caro,
+Yield strength in nanocrystalline Cu during high strain rate deformation,
+Scripta Materialia,
+Volume 61, Issue 1,
+2009,
+Pages 76-79,
+ISSN 1359-6462,
+https://doi.org/10.1016/j.scriptamat.2009.03.003.
+(https://www.sciencedirect.com/science/article/pii/S1359646209001808)
+Abstract: Molecular dynamics simulations are used to study the yield strength of thermally annealed nanocrystalline Cu samples. For strain rates of 1×1010 and 1×109s−1, the observed yield strength scales with the fractional number of grain boundary (GB) atoms. This observation suggests a new scaling behavior for the onset of plasticity in nanocrystalline materials, controlled not by the grain size alone, but by a combination of both grain size and degree of GB relaxation, as measured by the GB volume.
+Keywords: Yield strength; Nanocrystalline; Molecular dynamics; Hall–Petch

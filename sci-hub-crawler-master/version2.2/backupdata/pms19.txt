@@ -1,0 +1,88 @@
+Peter Schaaf,
+Laser nitriding of metals,
+Progress in Materials Science,
+Volume 47, Issue 1,
+2002,
+Pages 1-161,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00003-7.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000037)
+Abstract: Laser nitriding can be described as the irradiation of metal surfaces by short laser pulses in nitrogen containing atmospheres. This may lead to a strong take-up of nitrogen into the metal and nitride formation which can improve the metal’s surface properties, e.g. the hardness or the corrosion and wear resistance. Here, the laser nitriding of iron, carbon steel, stainless steel, and aluminum was investigated employing a combination of complementary methods. Ion beam analysis (Rutherford Backscattering Spectroscopy and Resonant Nuclear Reaction Analysis) was employed for element and isotope profiling. Mössbauer spectroscopy and X-ray diffraction were used for phase analysis. Surface profilometry, optical and electron microscopy revealed the surface topography and morphology obtained after laser nitriding. Microhardness measurements by the nanoindentation technique characterized the mechanical surface properties obtained by the treatment. By this combination of methods it became possible to resolve the influence of the treatment parameters (laser fluence, number of pulses, spot size, spatial intensity distribution, and gas pressure) in different materials treated (iron, carbon steels and stainless steel). It is shown that laser nitriding is a complex process, composed of several superimposed effects. Laser heating, melting and evaporation in combination with plasma formation and the generation of laser-supported absorption waves are the essentials of the process. Pressure- and plasma-enhanced dissolution and diffusion of nitrogen in combination with macroscopic material transport (piston effect, convection, fall-out) are further important effects determining the results. Additional marker experiments and laser treatments in isotopically enriched nitrogen atmospheres allowed to analyze these effects and to develop scenarios for the nitriding process and the material transport mechanisms. A simulation of the nitrogen depth profiles for the single spot irradiations was derived, whose results are in good agreement with the experimentally observed profiles.
+Keywords: Nitriding; Nitrification; Short laser pulses; Laser material interaction; Laser generated plasma; Laser absorption waves; Nitride formation; Nitrogen diffusion; Convection; Surface melting; Quenching; Ion beam analysis; Rutherford backscattering spectrometry; Resonant nuclear reaction analysis; Mössbauer spectroscopy; Nanoindentation hardness measurements
+
+Ø. Grong, H.R. Shercliff,
+Microstructural modelling in metals processing,
+Progress in Materials Science,
+Volume 47, Issue 2,
+2002,
+Pages 163-282,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00004-9.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000049)
+Abstract: Modelling of microstructure evolution has long been part of physical metallurgy, both in the laboratory and in industry. Until recently, however, physically-based modelling was limited to idealised alloys under controlled laboratory conditions, while the complexity of industrial processing of commercial alloys necessitated empirical approaches. The advent of powerful computing facilities, and in particular the rapid growth in application of the finite element method to metals processing, has stimulated new research with the aim of bringing the two areas together. The present review describes progress in this rapidly expanding field. The preliminary review in Section 1 illustrates the potential of integrating microstructural modelling with the very detailed process histories which are available from modern finite element analyses. The ‘internal state variable’ approach is identified as a particularly appropriate method to reach the objective of providing useful predictive capability in industrial processing, within the scope of personal computers. The general method, and its simplification for single parameter models in which the microstructure evolution may be treated as an ‘isokinetic’ reaction, are outlined in Section 2. The paper then presents internal state variable formulations for a range of thermal problems, as temperature-controlled processes dominate. These are solid-state diffusional transformations (precipitate dissolution, nucleation and growth, and coarsening) in Section 3; solidification and subsequent solid-state phase transformations in Section 4; and grain growth in Section 5. Case studies are presented for each problem, illustrating the applicability of the approach to industrially relevant processing of commercial alloys. Examples range from casting, to cooling after hot forming, to heat treatment and welding. Bringing together this range of phenomena and processes in one review makes two specific points: (a) the state variable formulation offers a robust modelling framework, in which real non-isothermal process histories may be readily linked to fundamental isothermal theories of microstructure evolution, (b) depending on the problem, different levels of approximation can be accepted without invalidating the results, but the modeller needs to exercise critical judgement to find the optimum level of complexity. Finally in Section 6, a number of examples are presented in which state variable models have been fully integrated with finite element analyses, with two examples from welding and one from casting. These case studies demonstrate that significant opportunities now exist for enhancing industrial processing capabilities. At the same time, the underlying microstructural modelling provides a renewed stimulus for improving scientific understanding of some of the classical problems of physical metallurgy.
+
+Laszlo Takacs,
+Self-sustaining reactions induced by ball milling,
+Progress in Materials Science,
+Volume 47, Issue 4,
+2002,
+Pages 355-414,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(01)00002-0.
+(https://www.sciencedirect.com/science/article/pii/S0079642501000020)
+Abstract: Ball milling induces self-sustaining reactions in many sufficiently exothermic powder mixtures. The process begins with an activation period, during which size reduction, mixing, and defect formation take place. The MSR (mechanically induced self-propagating reaction) is ignited when the powder reaches a well defined critical state. Once started, the reaction propagates through the powder charge as a combustion process. In this paper, the current knowledge on MSR is reviewed from both experimental and theoretical points of view. Experimental results on a broad variety of systems are examined and compared. The variation of the ignition time with composition and milling conditions is investigated. Some unusual phenomena, such as the mutual suppression of combustion in mixed metal-chalcogen systems, are discussed. The mechanism of MSRs is extremely complex, with important processes on several length and time scales. The key objective is to understand ignition and the changes during the activation process that lead to ignition. Combining models with systematic empirical studies appears to be the most realistic approach to a detailed understanding of MSR processes.
+
+W. Püschl,
+Models for dislocation cross-slip in close-packed crystal structures: a critical review,
+Progress in Materials Science,
+Volume 47, Issue 4,
+2002,
+Pages 415-461,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(01)00003-2.
+(https://www.sciencedirect.com/science/article/pii/S0079642501000032)
+Abstract: Dislocation cross-slip is introduced as an essential detail mechanism in plastic deformation with implications for strain rate, recovery, hardening, and structural evolution. Different cross-slip scenarios are classified according to different possibilities of re-dissociation of the glide dislocation which has cross-slipped following recombination of the stacking fault. The most important cross-slip models found in literature are reviewed. They fall into one of three main categories: line-tension approximation, linear-elastic treatment with long-distance interaction, and atomistic simulation. Special emphasis is laid on the problem of linear-elastic cutoff radii and critical approach distances and the author's methods of calculating the energy of cross-slip configurations. A critical comparison of different models is made including constriction energies and stress dependence, and the advantages and inherent weaknesses of the different approaches are discussed.
+
+Javier LLorca,
+Fatigue of particle-and whisker-reinforced metal-matrix composites,
+Progress in Materials Science,
+Volume 47, Issue 3,
+2002,
+Pages 283-353,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00006-2.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000062)
+Abstract: The reinforcement of metallic alloys with ceramic particles or whiskers has generated a new family of composite materials. They have matured during the last 20 years, and are currently used in structural components subjected to cyclic loads. This was partially possible thanks to a large research effort aimed at characterizing their behavior in fatigue. The results of this activity constitute a fairly coherent body which relates the micromechanisms of cyclic deformation to the overall fatigue performance. They are presented in this review, which is divided in seven sections. After the introduction, the microstructural changes induced by the dispersion of the ceramic reinforcements are described. This is followed by two sections devoted to an analysis of the micromechanisms of cyclic deformation from the microstructural and mechanical viewpoints. The next two sections are focused on the origins of crack nucleation and the kinetics of crack propagation upon cyclic loads. The overall fatigue performance of these composites is examined in the last part, which emphasizes their advantages and limitations as compared to the unreinforced counterparts. The effects of the processing, thermo-mechanical treatments, microstructural features, environmental factors and loading conditions are included in each section to provide a comprehensive picture of the fatigue performance of these composites.
+
+K Hono,
+Nanoscale microstructural analysis of metallic materials by atom probe field ion microscopy,
+Progress in Materials Science,
+Volume 47, Issue 6,
+2002,
+Pages 621-729,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(01)00007-X.
+(https://www.sciencedirect.com/science/article/pii/S007964250100007X)
+Abstract: This paper reviews recent progress in atom probe field ion microscopy (APFIM) and its applications to nanoscale microstructural studies of metallic materials. By employing a three-dimensional atom probe (3DAP), elemental distributions can be mapped out in a nanometric volume with a near-atomic resolution. This technique has been shown to be suitable for characterizing nanocrystalline and nanocomposite materials as well as nanometric precipitates in various commercial metallic materials. This review highlights recent APFIM and 3DAP investigations conducted in the author's group, which have contributed to our understanding of the microstructure–property relationships in novel nanocrystalline and nanocomposite alloys, as well as conventional metallic materials containing nanoscale precipitates.
+
+Maria Teresa Clavaguera-Mora, Narcis Clavaguera, Daniel Crespo, Trinitat Pradell,
+Crystallisation kinetics and microstructure development in metallic systems,
+Progress in Materials Science,
+Volume 47, Issue 6,
+2002,
+Pages 559-619,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00021-9.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000219)
+Abstract: The primary crystallisation of a highly undercooled/supersaturated liquid is considered, and the application to nanocrystallisation by heat treatment of metallic glasses is studied from the thermodynamic, kinetic and microstructural point of view. The thermodynamic evolution is modelled assuming transformation rates low enough to ensure thermal equilibrium to be almost achieved. A mean field approximation is used, which allows us to determine the time evolution of the kinetic variables governing the transformation. The interplay between interface and diffusion controlled growth rate is studied, and both nucleation and crystal growth changes within the transformation are considered as soft mechanisms. The kinetics of the transformation is described in the framework of the Kolmogorov, Johnson and Mehl and Avrami (KJMA) model, which is adequately generalized for primary transformations. The microstructural evolution is described by a populational model, also based on KJMA. The predicted kinetic evolution results are compared to the experimental data on the primary nanocrystallisation of a FINEMET alloy.
+
+Patrick M. Kelly, L.R. Francis Rose,
+The martensitic transformation in ceramics — its role in transformation toughening,
+Progress in Materials Science,
+Volume 47, Issue 5,
+2002,
+Pages 463-557,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(00)00005-0.
+(https://www.sciencedirect.com/science/article/pii/S0079642500000050)
+Abstract: This paper reviews the current knowledge and understanding of martensitic transformations in ceramics — the tetragonal to monoclinic transformation in zirconia in particular. This martensitic transformation is the key to transformation toughening in zirconia ceramics. A very considerable body of experimental data on the characteristics of this transformation is now available. In addition, theoretical predictions can be made using the phenomenological theory of martensitic transformations. As the paper will illustrate, the phenomenological theory is capable of explaining all the reported microstructural and crystallographic features of the transformation in zirconia and in some other ceramic systems. Hence the theory, supported by experiment, can be used with considerable confidence to provide the quantitative data that is essential for developing a credible, comprehensive understanding of the transformation toughening process. A critical feature in transformation toughening is the shape strain that accompanies the transformation. This shape strain, or nucleation strain, determines whether or not the stress-induced martensitic transformation can occur at the tip of a potentially dangerous crack. If transformation does take place, then it is the net transformation strain left behind in the transformed region that provides toughening by hindering crack growth. The fracture mechanics based models for transformation toughening, therefore, depend on having a full understanding of the characteristics of the martensitic transformation and, in particular, on being able to specify both these strains. A review of the development of the models for transformation toughening shows that their refinement and improvement over the last couple of decades has been largely a result of the inclusion of more of the characteristics of the stress-induced martensitic transformation. The paper advances an improved model for the stress-induced martensitic transformation and the strains resulting from the transformation. This model, which separates the nucleation strain from the subsequent net transformation strain, is shown to be superior to any of the constitutive models currently available.

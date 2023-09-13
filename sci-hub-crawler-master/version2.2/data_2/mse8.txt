@@ -1,0 +1,1199 @@
+Y.C. Lin, Yi-Wei Xiao, Yu-Qiang Jiang, Guo-Dong Pang, Hong-Bin Li, Xiao-Yong Zhang, Ke-Chao Zhou,
+Spheroidization and dynamic recrystallization mechanisms of Ti-55511 alloy with bimodal microstructures during hot compression in α+β region,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139282,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139282.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303658)
+Abstract: Spheroidization and dynamic recrystallization (DRX) mechanisms of a Ti-55511 alloy during hot compression in α+β region is investigated. It is found that the spheroidization of lamellar α phases and DRX of β phases, which are obviously influenced by deformation conditions, are the main softening mechanisms. The spheroidization fraction of lamellar α phases first increases with the raised temperature or strain rate. However, the spheroidization fraction of lamellar α phases begins to drop at about 700 °C as the strain rate is higher than 0.01 s−1, and the maximum spheroidization fraction of lamellar α phase is about 2.3%. This phenomenon is attributed to the Implanting-Mechanism, which is induced by the common or close orientation relationships of the spheroidized and equiaxed α phases, as well as few dislocations between the spheroidized and equiaxed α phases. Contrarily, the lamellar α phases are obstructed from equiaxed α phases by a mass of dislocations. Additionally, the DRX degree of β phases increases with the reduced temperature or the raised strain rate.
+Keywords: Titanium alloy; Softening mechanisms; Spheroidization; Dynamic recrystallization; Implanting-mechanism
+
+Sumeet Mishra, K.U. Yazar, Abhishek M. More, Lailesh Kumar, R. Lingam, N.V. Reddy, Om Prakash, Satyam Suwas,
+Elucidating the deformation modes in incremental sheet forming process: Insights from crystallographic texture, microstructure and mechanical properties,
+Materials Science and Engineering: A,
+Volume 790,
+2020,
+139311,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139311.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303932)
+Abstract: This study investigates the exact state of deformation in single point incremental forming (SPIF) and double-sided incremental forming (DSIF) techniques using experimental observations of texture evolution coupled with a multiscale simulation of the processes. The texture evolution was investigated for different sets of forming parameters such as vertical displacement, wall angle and tool diameter. It was observed that difference in crystallographic texture due to change in tool diameter and vertical displacement was marginal. However, significant difference in texture evolution was observed upon changing the wall angle. Further analysis of crystallographic texture revealed that role of through thickness shear (TTS) is limited in case of DSIF process compared to SPIF process. Numerical simulation of SPIF process via finite element method was successful in capturing the contribution from TTS in SPIF process. Based on insights obtained from finite element calculations, Visco-Plastic Self-Consistent simulations were carried out which were successful in predicting the experimental texture. Finally, the effect of different incremental forming techniques on the mechanical properties of the formed components was studied. The observed anisotropy in yield strength was explained based on the inverse of average Schmid factor. Lankford parameter and yield locus were also estimated from the experimental textures to understand the feasibility of incremental forming at different wall angles.
+Keywords: Polycrystalline material; Crystal plasticity; Incremental sheet forming; Finite element method; Visco-plastic self-consistent simulations
+
+T.W.J. Kwok, K.M. Rahman, X. Xu, I. Bantounas, J.F. Kelleher, S. Dasari, T. Alam, R. Banerjee, D. Dye,
+Design of a high strength, high ductility 12 wt% Mn medium manganese steel with hierarchical deformation behaviour,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139258,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139258.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303415)
+Abstract: A novel medium Mn steel of composition Fe-12Mn-4.8Al-2Si-0.32C-0.3V was manufactured with 1.09 GPa yield strength, 1.26 GPa tensile strength and 54% elongation. The thermomechanical process route was designed to be industrially translatable and consists of hot and then warm rolling followed by a 30 min intercritical anneal. The resulting microstructure comprised of coarse elongated austenite grains in the rolling direction surrounded by necklace layers of fine austenite and ferrite grains. The tensile behaviour was investigated by in-situ neutron diffraction and the evolution of microstructure studied with Electron Backscattered Diffraction (EBSD). It was found that the coarse austenite grains contributed to the first stage of strain hardening by transforming into martensite and the fine austenite necklace grains contributed to the second stage of strain hardening by a mixture of twinning and transformation induced plasticity (TWIP and TRIP) mechanisms. This hierarchical deformation behaviour contributed to the exceptional ductility of this steel.
+Keywords: Electron microscopy; Iron alloys; Plasticity; Grains and interfaces; Phase transformation
+
+Xin Wang, Chao Wang, Jian Kang, Guo Yuan, R.D.K. Misra, Guodong Wang,
+Improved toughness of double-pass welding heat affected zone by fine Ti–Ca oxide inclusions for high-strength low-alloy steel,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139198,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139198.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302847)
+Abstract: In order to improve the mechanical performance of double-pass welding heat affected zone, acicular ferrite (AF) induced by Ti–Ca oxide inclusions was used to enhance the toughness properties of the intercritically reheated coarse-grained heat-affected zone (ICCGHAZ). The microstructural evolution and toughness mechanisms in the coarse-grained heat-affected zone (CGHAZ) and ICCGHAZ containing different oxide inclusions were studied by thermo-mechanical simulator, optical and electron microscopy, electron back-scattered diffraction and mechanical testing. The results indicated that CGHAZ toughness was decreased and Vickers hardness was increased compared with the base metal in Ti–Ca deoxidized and Al–Ca killed steels. However, the toughness loss in Al–Ca killed steel was more significant. In Ti–Ca steel, dominant Ti–Ca–O–Mn–S oxide inclusions of size between ~0.2 and 1.6 μm effectively promoted AF transformation. After the double-pass thermal cycle, AF plates were retained and the prior martensite/bainite structure in CGHAZ transformed into fine ferrite/bainite structure. As a result, the toughness of ICCGHAZ in Ti–Ca steel was significantly enhanced from ~94 J to ~209 J. In the Al–Ca steel, dominant Al–Ca oxide inclusions were ineffective for microstructure refinement and acted as a potential crack initiation site. The formation of coarse granular bainite and lath-like martensite/austenite (M/A) constituents led to deterioration of toughness in CGHAZ (~20 J) and further loss in ICCGHAZ (~13 J).
+Keywords: Double-pass welding thermal cycle; Ti–Ca oxide; Acicular ferrite; M/A constituent
+
+Wanchuck Woo, Muhammad Naeem, Jae-Suk Jeong, Cheol-Min Lee, Stefanus Harjo, Takuro Kawasaki, Haiyan He, Xun-Li Wang,
+Comparison of dislocation density, twin fault probability, and stacking fault energy between CrCoNi and CrCoNiFe medium entropy alloys deformed at 293 and 140K,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139224,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139224.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303099)
+Abstract: To elucidate deformation behavior behind the exceptional mechanical properties of CrCoNi based medium entropy alloys, the deformation related microstructural parameters were determined by using in situ neutron diffraction and peaks profile analysis methods. Superior tensile strength and elongation of the CrCoNi alloy is relevant to higher twin fault probability (Ptw, up to 3.8%) and dislocation density (ρ, up to 9.7 x 1015 m−2) compared to those (1.3% and 3.4 x 1015 m−2, respectively) of the CrCoNiFe at 293K. Meanwhile, at 140K, the Ptw of the CrCoNiFe significantly increased up to 4.4% with the stable ρ of ~5.0 x 1015 m−2 and its mechanical properties overwhelm those of the CrCoNi at 273K. Such twinning dominant deformation mechanism at low temperature is also assured by lower stacking fault energy (SFE) of the CrCoNiFe (7.4 mJ/m2) at 140K compared to those of the CrCoNi (16.1 mJ/m2) and CrCoNiFe (32.1 mJ/m2) alloys at 293K.
+Keywords: Medium entropy alloy; Neutron diffraction; Stacking fault energy; Dislocation density; Deformation twin
+
+Aqeel Abbas, Song-Jeng Huang,
+Investigation of severe plastic deformation effects on microstructure and mechanical properties of WS2/AZ91 magnesium metal matrix composites,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139211,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139211.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302963)
+Abstract: AZ91 reinforced with four different concentrations (0,0.3,0.6,1)wt% of WS2 micro particles were fabricated using stir casting method. The samples were deformed by equal channel angular pressing (ECAP) after homogenization. The scanning electron microscopy and X-ray diffraction were used to investigate the microstructure and phase composition respectively. The results reveal that rod-like precipitates produced during the homogenization process are refined and bounded in the grain boundaries by the combined effect of WS2 enrichment and increasing number of passes of ECAP. The needle precipitates are eminent in 1pass 0.3 wt%WS2/AZ91. The β-Mg17Al12 and extracted Al particles are dissolved and secondary phases are produced by dynamic recrystallization after 2pass 1 wt%WS2/AZ91. The maximum crystallite size and microstrain distribution have been observed for 1pass 0.6 wt%WS2/AZ91. The mechanical properties investigation represents that 2pass 0.6 wt%WS2/AZ91 has optimal yield strength and ultimate tensile strength. The (22.143)%, (44.735)% and (92) % increment in yield strength, ultimate tensile strength and elongation have been observed in 2pass 1 wt%WS2/AZ91 compared with homogenized monolithic AZ91 alloy respectively. The maximum young's modulus (6696.218MPa) has been found for 1pass homogenized WS2/AZ91 and minimum (4108.165MPa) for homogenized 0.6 wt%WS2/AZ91. The ECAP deformed 1pass 0.3 wt%WS2/AZ91 exhibits the maximum strain hardening rate. The YTS, UTS, and elongation are (30.41) %, (47.6) % and (51.9)% increased after 2pass-0.6 wt%WS2/AZ91.
+Keywords: ECAP; Texture; Crystallite size; Microstrain; WS2/AZ91; Mechanical properties; Severe plastic deformation; Microstructure
+
+Dasheng Wei, Xuegang Min, Xianjun Hu, Zonghan Xie, Feng Fang,
+Microstructure and mechanical properties of cold drawn pearlitic steel wires: Effects of drawing-induced heating,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139341,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139341.
+(https://www.sciencedirect.com/science/article/pii/S0921509320304226)
+Abstract: To investigate the effects of drawing-generated heating on the microstructural and mechanical properties of cold drawn pearlitic steel wires, cryogenic and room temperature (RT) drawing were carried out. Microstructure evolution of the steel wires was examined by scanning electron microscope (SEM), transmission electron microscope (TEM) and X-ray diffraction (XRD) analysis. Experimental results show that with the increase of cold drawing strain interlamellar spacing of pearlite was reduced, while the crystalline cementite was gradually transformed into amorphous state. Only slight difference in the microstructure and mechanical properties was identified between the RT and cryogenic drawings. Specifically, as the drawing strain increased, the cryogenic drawn wires have lower strength but better ductility. For example, the tensile strength of cryogenic drawn wires (ε = 2.2) is about 2050 MPa, about 90 MPa lower than that of RT drawn wires. On the other hand, cryogenic drawing wires have produced a lower volume fraction of nano-crystalline cementite particles. As the nano-crystalline cementite particles could hinder the movement of dislocations, a lower fraction of nano-crystalline cementite in cryogenic drawn wires is believed to be responsible for observed lower strength and better ductility.
+Keywords: Pearlitic steel wires; Cold drawing; Cryogenic temperature; Cementite recrystallization; Drawing heat
+
+Susanne Thomesen, Odd Sture Hopperstad, Ole Runar Myhr, Tore Børvik,
+Influence of stress state on plastic flow and ductile fracture of three 6000-series aluminium alloys,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139295,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139295.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303774)
+Abstract: In this study, the plastic flow and ductile fracture of three 6000-series aluminium alloys commonly used for crash components in the automotive industry are characterised experimentally and the observations are related to microstructural features. The three alloys are used in the cast and homogenised condition after artificial ageing to temper T6 to ensure isotropic behaviour. Tension tests on smooth and notched axisymmetric specimens are carried out to reveal the stress–strain behaviour, ductility and fracture mechanisms of the materials for different stress states. Through the use of optical and scanning electron microscopes, the initial microstructure of the alloys and the fracture surfaces of the tension test specimens are investigated. The work-hardening of the alloys is analysed up to large strains. Whereas the ductility of two of the alloys falls into the trend of previous experimental data on 6000-series aluminium alloys, where the strain to failure decreases linearly with increasing yield stress, the third alloy stands out by combining high strength with high ductility. The excellent properties of the latter alloy are assumed to be due to a favourable size distribution of constituent particles.
+Keywords: Aluminium alloys; Tension test; Triaxiality; Fractography
+
+Xiaojuan Jiang, Yu Bai, Ling Zhang, Guilin Wu, Si Gao, Xiaoxu Huang, Nobihiro Tsuji,
+Termination of local strain concentration led to better tensile ductility in multilayered 2N/4N Al sheet,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139240,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139240.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303257)
+Abstract: Multilayered aluminum composites (ARB6-2N/4 N) with alternating layers of commercially purity aluminum (2N–Al) and high-purity aluminum (4N–Al) were fabricated by six cycles of accumulative roll bonding (ARB) processing. The ARB processed specimens were annealed at different temperatures. It was found that heterogeneous lamellar microstructures composed of fine-grained 2 N (hard) layers and coarse-grained 4 N (soft) layers formed in the specimens. The specimen with the heterogeneous layered structure showed a large tensile elongation with a strength following the rule of mixture. Digital image correlation analyses revealed that the deformation bands with high local strains formed in the 4 N layers but were terminated at the interfaces between the 2 N and the 4 N layers in the multilayered aluminum composites, accommodating the deformation between the hard (2 N) layers and the soft (4 N) layers during tensile deformation. Termination of the strain localization delayed macroscopic necking of the materials, leading to a better combination of high strength and good ductility in the multilayered aluminum composites.
+Keywords: Al; Multilayered composites; ARB; Strain accommodation; DIC
+
+Xiao-Ming Wang, Wen-Zhu Shao, Jian-Tang Jiang, Guo-Ai Li, Xiao-Ya Wang, Liang Zhen,
+Quantitative analysis of the influences of pre-treatments on the microstructure evolution and mechanical properties during artificial ageing of an Al–Cu–Li–Mg–Ag alloy,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139253,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139253.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303373)
+Abstract: The quantitative effects of pre-treatments, namely pre-stretching and natural ageing (NA), on the precipitation sequence, precipitation kinetics and mechanical properties of an Al–Cu–Li–Mg–Ag alloy during artificial ageing were systematically investigated, aiming to elucidate the mechanisms by which these effects proceed. At the early ageing stage, pre-stretching could inhibit the formation of GP zones by restricting the Mg–Cu co-clustering, and could result in a higher nucleation rate of the T1 precipitates due to an increase in the quantity of dislocations covered by solute segregations. The introduction of NA after pre-stretching could further increase the number density of T1 by providing more nucleation sites, which evolved from the much more Mg–Ag co-clusters forming during the NA process. With prolonging ageing time, the precipitation kinetics for T1 were strongly enhanced by pre-stretching due to a more efficient nucleation of T1 and a more rapid growth rate of this phase, which was attributed to the combination of the suppression effect on the GP zone precipitation and the pipe diffusion effect derived from the introduced dislocations. When applying NA after pre-stretching, a further acceleration of the precipitation kinetics was observed, which was related to the formation of much more T1 nuclei. At the peak-aged condition, both the two pre-treatments could not only refine the precipitates but also result in a higher T1 volume fraction. Mechanisms of the strength changes induced by the pre-treatments under various ageing conditions were discussed in detail in view of these experimental results.
+Keywords: Al-Cu-Li alloy; Pre-treatments; Precipitation; Mechanical properties; Atom probe tomography; Small-angle scattering
+
+Nicholas C. Ferreri, Sven C. Vogel, Marko Knezevic,
+Determining volume fractions of γ, γ′, γ″, δ, and MC-carbide phases in Inconel 718 as a function of its processing history using an advanced neutron diffraction procedure,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139228,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139228.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303130)
+Abstract: In this work, quantitative crystallographic and microstructural analyses of γ, γ′, γ″, δ, and MC carbide phases are performed on wrought samples, samples fabricated via additive manufacturing (AM), and samples that underwent hot isostatic pressing (HIP) after AM of alloy Inconel 718 (IN718). In doing so, an advanced neutron diffraction-based procedure is developed facilitating the determination of volume fractions of every detectable phase in the alloy. To supplement the diffraction procedure, precipitate sizes are measured by scanning electron microscopy. Moreover, semi-quantitative elemental analyses are performed by energy dispersive spectroscopy. Finally, image thresholding is carried out on micrographs of samples that underwent cathodic dissolution to create secondary electron contrast between phases to verify the phase fractions determined from the neutron diffraction datasets. The study reveals a significantly higher volume fraction of δ phase and a significantly lower volume fraction of γ″ phase governing a higher strength of the AM material relative to the lower strength AM + HIP and wrought materials. Furthermore, γ′ and MC volume fractions are found similar in the materials despite the differences in MC morphology, elemental composition and distribution controlling the dispersion strengthening. These results are presented and discussed in this paper along with the procedure developed for determining volume fractions of all detectable phases present in the alloy.
+Keywords: Phase composition; Precipitates; Neutron diffraction; Additive manufacturing; Inconel 718
+
+Jianlong Chai, Yabin Zhu, Zhiguang Wang, Tielong Shen, Yiwen Liu, Lijuan Niu, Shufen Li, Cunfeng Yao, Minghuan Cui, Chao Liu,
+Microstructure and mechanical properties of SPS sintered Al2O3–ZrO2 (3Y)–SiC ceramic composites,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139197,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139197.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302835)
+Abstract: Al2O3–ZrO2 (3Y)–SiC ceramic composites were prepared by spark plasma sintering in vacuum under 40 MPa of uniaxial compression between 1300 °C and 1400 °C. The effect of nano-size SiC and sintering temperature on the microstructure and mechanical properties of ceramic composites were investigated. The results showed that SiC particles was uniformly distributed in the composite, mainly within the matrix grains. Sintering temperature and SiC particles caused the shape of alumina grains to be columnar. The flexural strength of 22.3 vol% Al2O3-57.7 vol% ZrO2-20 vol% SiC sintered at 1350 °C composites was 1081 MPa, fracture toughness was 15.18 MPa m1/2 and hardness was 16.42 GPa. The addition of SiC particles leads to grain boundary strengthening, and the change of fracture mode and cracks deflection and bridging are considered to be the main reasons for the increase in material fracture toughness.
+Keywords: Al2O3–ZrO2 (3Y)–SiC; Ceramic composites; SPS; Sintering temperature; Mechanical properties
+
+Yakai Zhao, Xutao Wang, Tangqing Cao, Jae-Kyung Han, Megumi Kawasaki, Jae-il Jang, Heung Nam Han, Upadrasta Ramamurty, Lu Wang, Yunfei Xue,
+Effect of grain size on the strain rate sensitivity of CoCrFeNi high-entropy alloy,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139281,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139281.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303646)
+Abstract: Strain rate sensitivity (SRS) of a face-centered cubic (fcc) CoCrFeNi high-entropy alloy (HEA) with grain sizes ranging from 57 μm to 45 nm was investigated using nanoindentation, and was compared with those reported for conventional fcc metals. Experimental results show pronounced grain boundary strengthening in the HEA. Estimated values of the SRS parameter, m and activation volume, V*, indicate similar plastic deformation mechanisms in HEA and Ni in nanocrystalline regime that are grain boundary mediated. In coarse-grained regime, the high lattice friction stress in the HEA results in much higher m and smaller V* as compared to coarse grained Ni.
+Keywords: High-entropy alloy; Grain size effect; High-pressure torsion; Nanoindentation; Strain-rate sensitivity
+
+Xingchen Yan, Chaoyue Chen, Cheng Chang, Dongdong Dong, Ruixin Zhao, Richard Jenkins, Jiang Wang, Zhongming Ren, Min Liu, Hanlin Liao, Rocco Lupoi, Shuo Yin,
+Study of the microstructure and mechanical performance of C-X stainless steel processed by selective laser melting (SLM),
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139227,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139227.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303129)
+Abstract: In this study, a new precipitation hardening stainless steel (PHSS), C-X stainless steel, was manufactured using selective laser melting (SLM) technology. Following SLM fabrication, a series of heat treatments were applied to improve the mechanical properties of the as-built samples. The microstructure precipitates distribution and evolution, and mechanical properties of SLM C-X stainless steels in the as-built and heat-treated conditions were systematically studied using scanning electron microscope (SEM), X-ray diffraction (XRD), and transmission electron microscope (TEM). The XRD spectrum revealed that solution treatment resulted in the formation of a complete martensite phase, and a reverted austenite (γ’) phase formed after aging treatment. The TEM analysis indicated that numerous dislocations and nanoprecipitates were dispersed within the martensite matrix for both the as-built and aged samples. The rod-like NiAl precipitates with a size range of 3–25 nm for the as-built samples and 7–30 nm for the solution-aged samples were determined through high-resolution TEM (HRTEM), selected area electron diffraction (SAED), and energy-dispersive X-ray spectroscopy (EDS). Furthermore, the microhardness of the SLM C-X stainless steel parts was found to significantly improve from 350 HV0.2 in the as-built state to 510 HV0.2 in the solution-aged state. The ultimate tensile strength (UTS) of the SLM C-X stainless steel parts also increased from 1043 MPa in the as-built state to 1601 MPa after solution-aging heat treatment.
+Keywords: Selective laser melting; C-X stainless steel; Microstructure characteristics; Precipitates; Precipitation hardening behaviour
+
+Daichi Asari, Satoshi Mizokami, Mitsugi Fukahori, Kenichi Takai,
+Microscopic defects formed during crack incubation, initiation and propagation processes causing hydrogen-related fracture of dual-phase steels,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139209,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139209.
+(https://www.sciencedirect.com/science/article/pii/S092150932030294X)
+Abstract: Factors promoting hydrogen embrittlement of dual-phase (DP) steels fractured in the elastic region have been investigated from the viewpoint of the relationship between hydrogen states present in the vicinity of a fracture surface and hydrogen embrittlement susceptibility. Hydrogen embrittlement susceptibility was evaluated using slow strain rate testing (SSRT) and constant load testing (CLT). The hydrogen states present in the vicinity of the fracture surface were analyzed using thermal desorption analysis (TDA). The results indicated that fracture strength significantly decreased only at higher hydrogen contents as the crosshead speed was reduced. Additionally, the hydrogen desorption profiles showed that the hydrogen content corresponding to each temperature peak markedly increased with decreasing crosshead speed at higher hydrogen content. Only specimens fractured at a lower crosshead speed at higher hydrogen contents showed both a lower-temperature peak and also a higher-temperature peak. Specimens fractured by CLT also showed a higher-temperature peak, which was detected before fracturing at the applied load for 20 h. This indicates that microscopic defects might have formed and grown to cause damage even in the elastic region. In addition, it was confirmed that microscopic defect formation changed depending on the hydrogen content, crosshead speed and loading time, and the states of defect formation significantly affected hydrogen embrittlement susceptibility.
+Keywords: Hydrogen embrittlement; Dual-phase steel; Thermal desorption analysis; Tensile testing; Constant-load testing; Intergranular fracture
+
+C. Yang, Y.G. Liu, Y.H. Shi, M.Q. Li,
+Microstructure characterization and tensile properties of processed TC17 via high energy shot peening,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139298,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139298.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303804)
+Abstract: The microstructure and tensile properties of the processed TC17 via high energy shot peening (HESP) were investigated, in which special attention was paid to reveal the fracture behaviour of the HESP processed surface layer. The results indicated that the severe plastic deformation (SPD) zone with the nanograins appeared in the HESP processed surface layer of TC17, in which the SPD thickness increased with the increasing of air pressure while it increased firstly and then decreased with the prolonging of peening duration, and the finer nanograins could be obtained at the higher air pressure and longer peening duration. Due to the generation of the gradient structure layer, the HESP processed TC17 had ruptured in a hybrid fracture. The fracture features corresponding to nanograined structure, ultrafine-grained structure and coarse-grained structure were the brittle fracture, the mixed fracture and the ductile fracture respectively. Comparing with the properties of the annealed TC17, the HESP processed TC17 possessed a better strength-ductility balance owing to combined effects of grain refinement, high-density dislocations, work hardening and compressive residual stress (CRS), in which the yield strength (YS) and the ultimate tensile strength (UTS) were increased by 10.1% and 13.9%, respectively.
+Keywords: High energy shot peening; SPD zone; Nanograins; Hybrid fracture; CRS; Tensile properties
+
+Dipesh Kumar Mishra, Pulak Mohan Pandey,
+Mechanical behaviour of 3D printed ordered pore topological iron scaffold,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139293,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139293.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303762)
+Abstract: This paper deals with the development of a five-step rapid manufacturing technique for iron scaffold fabrication based on micro-extrusion-based 3D printing and pressureless microwave sintering. Two different pore morphology structures were fabricated with similar strut and pore sizes. Further, the mechanical properties of the fabricated scaffolds were evaluated.
+Keywords: Porous Fe scaffold; Pore morphology; 3D printing; Microwave sintering
+
+H.M. Tawancy,
+On the tensile strength of medium entropy Fe30Ni30Cr20Co17Mo2W1 alloy with high microstructural stability,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139239,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139239.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303245)
+Abstract: It is shown that a medium entropy Fe30Ni30Cr20Co17Mo2W1 alloy maintains a single-phase solid-solution with fcc structure and high stability toward precipitation of detrimental intermetallic compounds. Aging for up to 1000 h at 600–1000 °C is found to have no marked effect on both room-temperature and elevated-temperature tensile strength.
+Keywords: Medium entropy alloys; Aging; Tensile strength; Microstructure
+
+Yue Sun, Chang Zhou, Zimin Zhao, Zhenhe Yu, Zhijun Wang, Hao Liu, Ningbo Zhang, Wenshu Yang, Gaohui Wu,
+Microstructure and mechanical properties of Ti2AlC particle and in-situ TiAl3 reinforced pure Al composites,
+Materials Science and Engineering: A,
+Volume 785,
+2020,
+139310,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139310.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303920)
+Abstract: A novel Ti2AlC particle and in-situ TiAl3 reinforced pure Al composites with different preparation temperature were fabricated by pressure-infiltration technique. The microstructure, phases and compressive strength of 45% Ti2AlC–Al system composites were studied. Compress test and XRD results reveal that the composite consisting 50% TiAl3 exhibits the best properties when the fabrication temperature was 1023 K. SEM results reveal that the presence of in-situ TiAl3 phase can great influence the interface bonding status. After carefully controlling the interface structure, the composite showed excellent compressive strength (1250 MPa) and specific strength (385 MPa⋅cm3/g) properties compared with other MAX-type or TiAl3 reinforced Al composites. High temperature test demonstrated that great strength and good ductility properties were maintained after heating above 773 K. Three strengthening mechanisms were discussed to characterize the mix-phase (Ti2AlC + TiAl3)/Al composites. The results indicate that high strength of in-situ TiAl3 phase and good deformation ability of Ti2AlC phase contribute to the improvement in compression behavior. This simple and efficient preparation method of MAX phase reinforced Al-based composite provides a new sight for high-performance metal matrix composites.
+Keywords: Ti2AlC; MAX phases; Interface structure; Metal matrix composites
+
+F.J. Guo, Y.F. Wang, M.S. Wang, Q. He, H. Ran, C.X. Huang, Y.T. Zhu,
+Hetero-deformation induced strengthening and toughening of pure iron with inverse and multi-gradient structures,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139256,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139256.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303403)
+Abstract: Here an inverse gradient structure (IGS) is processed by induction heat treatment on ultrafine-grained substrate, and a multi-gradient structure (MGS) is gained by surface mechanically peening treatment on IGS material. The grain size distributions of coarse-ultrafine and nanostructure-coarse-ultrafine gradient from surface to interior are identified in IGS and MGS materials, respectively. Gradient structures maintain reasonable elongation and at the same time display 3–4 times higher yield strength as compared with homogeneous coarse-grained counterpart, indicating improved strength-ductility synergy. Moreover, it is found that the fracture of gradient structures depends largely on the high internal stress caused by the heterogeneous deformation of layers.
+Keywords: Inverse gradient structure; Multi-gradient structure; Heterogeneous deformation; Synergistic strengthening; Mechanical incompatibility
+
+A. Degnah, J. Du, K.S. Ravi Chandran,
+CALPHAD Approach and processing of a multicomponent titanium matrix composite for high strength and fracture toughness,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139210,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139210.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302951)
+Abstract: The high temperature phase fields of a multicomponent titanium alloy system have been determined by the CALPHAD approach to assist in rapid processing of a titanium metal matrix composite by electric-field-assisted reaction sintering. The phase field calculations revealed the existence of a wide composition range (in terms of B, Fe, Mo and Al content) for the flexible synthesis of various β-Ti-TiB composites. After processing, the uniform dispersion of in-situ formed titanium boride (TiB) whiskers, in the ductile beta titanium (β-Ti) matrix, has resulted in a composite with a flexural strength of 1622 MPa and a fracture toughness of 23 MPa m, which are much greater than the levels achieved before in this class of materials.
+Keywords: Titanium; CALPHAD; Composite; Strength; Toughness
+
+Roghayeh Mohammadzadeh,
+Reversible deformation in nanocrystalline TWIP steel during cyclic loading by partial slip reversal and detwinning,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139251,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139251.
+(https://www.sciencedirect.com/science/article/pii/S092150932030335X)
+Abstract: Mechanical responses of nanostructured twinning induced plasticity (TWIP) steels have attracted attention owing to their ultra high strength and ductility. A set of molecular dynamics simulations were carried out to characterize and track the atomic structure of Fe–22Mn (wt. %) nanocrystalline TWIP steel during reverse loading (tension-compression). The results show that intrinsic stacking faults and deformation twins which were formed during forward tensile loading up to total strain of 5.8% were eliminated upon subsequent reverse compression loading up to strain of 0.0 %. The current study provides the first simulation evidence of detwinning in nanocrystalline TWIP steel during the reverse loading. The atomic structure and dislocation analysis show that the observed detwinning is due to the dependence of shear stress acting on the trailing and leading partial dislocations on the loading direction. The results show that the Schmid factor of the trailing partial dislocations in compression loading are larger than leading partial dislocations one. The reversible deformation by detwinning could allow for reversible plastic deformation, storage of energy and mechanical damping in micro or nano devices.
+Keywords: Nanocrystalline; TWIP; Reverse loading; Detwinning; Schmid factor
+
+Qi Liu, Chunlei Qiu,
+Variant selection of α precipitation in a beta titanium alloy during selective laser melting and its influence on mechanical properties,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139336,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139336.
+(https://www.sciencedirect.com/science/article/pii/S0921509320304172)
+Abstract: A β titanium alloy was fabricated horizontally and vertically at two different energy densities by selective laser melting. The microstructures of the as-fabricated samples were examined using a range of characterization techniques and the properties evaluated by tensile testing. It was found that the samples that were horizontally built at the lower energy density were dominated by both β and athermal ω phases while the vertically built samples consist of not only β and ω but also nano-sized α laths. Increased energy density led to a significant increase of α in horizontally built samples which tended to constitute a grid-like structure in the β matrix. All the α-bearing samples showed preferential α variant selection and pronounced α micro-texture. The α-free samples all showed high 0.2% yield strengths (922-934 MPa), high ultimate tensile strengths (935-939 MPa) and good ductility (10.2%–13.8% elongation) whereas the α-bearing samples all exhibited poor ductility (elongation < 1.2%). A significant anisotropy in plasticity was observed in the samples made with the lower energy density. Transmission electron microscopy examination revealed that the α-free samples experienced global plastic deformation via both long-range dislocation slipping and twinning whereas the α-bearing samples underwent localised plastic deformation where slipping was either interrupted by the nano-sized α laths or contained within the α-grid demarcated β matrix, which may account for their poor ductility.
+Keywords: Selective laser melting; Titanium alloy; Microstructure; Mechanical property anisotropy; Deformation mechanism
+
+Weiguo Mao, Xiaoxue Zhu, Zhouqing Zhang, Huiyu Huang, Cuiying Dai, Junan Pan, Yong Pan, Xi Chen, Daining Fang,
+Measurements of fracture properties of MWCNTs modified LiNi0.5Mn0.3Co0.2O2 electrodes by a modified shear lag model,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139223,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139223.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303087)
+Abstract: The multi-walled carbon nanotubes (MWCNTs) modified LiNi0.5Mn0.3Co0.2O2 (NMC532) electrodes were prepared by using blade-coated method. The corresponding microstructure morphology were observed by scanning microscopy electron. The impedance spectroscopy and cycle performances of the electrodes with different MWCNTs contents were measured and discussed. Tensile fracture measurements of the electrodes were performed with the aid of digital image correlation technique. The cracking nucleation and propagation on the active layer surface were in situ monitored. A modified shear lag model was developed to analyze the fracture strength, fracture energy and fracture toughness of the active layer during tensions. The effect of MWCNTs on tensile failure mechanisms of two-layered NMC532 electrodes was discussed. The proposed method is useful for appraising the mechanical properties of other advanced active layers in lithium ion batteries.
+Keywords: Lithium-ion battery; Tensile facture; Shear lag; Digital image correlation
+
+S.D. Jiang, H. Wang, Y.J. Huang, H.X. Shen, D.W. Xing, Z.L. Ning, J.F. Sun,
+Effect of strain rate on tensile behavior in amorphous fibers by an in-situ video extensometer system,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139252,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139252.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303361)
+Abstract: Understanding the relationship between strain rate and deformation behavior in micro-sized amorphous alloys is key to optimizing mechanical properties for emerging flexible skin smart sensors and engineering applications. The tensile behavior of Co68.15Fe4.35Si12.25B15.25 amorphous fiber was investigated over a wide range of strain rate of 5 × 10−5 s−1–1 × 10−1 s−1 at room temperature (RT) by an in-situ video extensometer system. Higher shear strain rate resulted in a hardening effect, thereby facilitating enhanced fracture strength. In contrast, tensile plasticity increased with decreasing strain rate. In comparison, to analyze the strain rate sensitivity, tensile behaviors of Fe75Si10B15 amorphous fiber over different strain rates were also observed. Fracture strength and tensile plasticity were found to be insensitive to strain rate. Pronounced tensile plasticity of up to 1% was observed for Co-rich amorphous fiber at strain rates ≤1.0 × 10−4 s−1, which is attributed to the balance between the generation rate and extinction rate of free volume. The critical shear offset had a significant impact on the plastic deformation of amorphous fibers. A predictive relationship was established between tensile plasticity and measured critical shear offset for Co-rich fiber.
+Keywords: Amorphous fiber; Strain rate sensitivity; Free volume; Tensile plasticity; Deformation behavior
+
+Shoudao Qu, Zesheng You, Ruicong Gu, Yao Jiang, Jing Tao Wang,
+Fracture toughness anisotropy of ultrafine-grained pure copper processed by equal channel angular pressing,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139260,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139260.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303439)
+Abstract: The fracture anisotropy of ultrafine grained pure Cu processed by eight passes of equal channel angular pressing in route BC was investigated based on elastic-plastic fracture mechanics. For different crack planes and different crack propagation directions, both the global fracture initiation toughness measured by JIC and KIC and the crack growth toughness represented by the non-dimensional tearing modulus TR were evaluated by accurately determining the J-integral resistance curves. Furthermore, the crack tip opening displacements at fracture initiation were also measured through crack profile analysis to determine the local crack initiation J-integral Ji. The results demonstrate that the specimen orientation has a pronounced influence on the fracture toughness of the ultrafine grained Cu. Among all the tested orientations, the fracture resistance is highest in the transverse direction with KIC = 99 MPa m1/2 and TR = 100, and lowest in the extrusion direction with KIC = 66 MPa m1/2 and TR = 30. The origin causing the anisotropic fracture toughness is discussed based on detailed fracture appearance characterization and microscale crack path analysis.
+Keywords: Severe plastic deformation; Nonequilibrium grain boundary; Fracture toughness; Fracture anisotropy; Void nucleation; Crack deflection
+
+Partha Duley, Souriddha Sanyal, T.K. Bandyopadhyay, Sumantra Mandal,
+Implications of grain size distribution, precipitate evolution and texture development on tensile properties in hard plate hot forged and annealed Mg–Zn–Ca–Mn alloy,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139288,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139288.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303713)
+Abstract: A cast and homogenized Mg–4Zn–0.5Ca–0.16Mn (wt.%) alloy is hot forged at different temperatures (523–623K) employing a new ‘hard plate hot forging’ technique. During the forging operation, the coarse Ca2Mg6Zn3 phase facilitates dynamic recrystallization (DRX) through particle stimulated nucleation (PSN) process. This phenomenon eventually leads to the evolution of bimodal grain size distribution and basal texture in all the forged specimens. The specimen forged at 573K exhibits higher DRX fraction as compared to the specimens deformed at lower (523K) or higher (623K) temperature, due to the pronounced PSN effect originated from the higher fraction of Ca2Mg6Zn3 phase. The texture intensity in the specimen forged at 573K is stronger due to the higher fraction of DRX grains, since the DRX grains exhibit typical basal texture. This specimen exhibits a combination of high room temperature strength (YS ~259 MPa, UTS ~304 MPa) and moderate ductility (eu ~4.2%, ef ~6.5%) owing to the higher basal texture intensity, bimodal grain size distribution, higher fraction of second phase and the presence of nano-sized Mn precipitates. Following annealing of this specimen at 623K for 5 min, an excellent strength-ductility balance (YS ~142 MPa, UTS ~241 MPa, eu ~15%, ef ~19%) is achieved. Such improvement in the tensile properties following annealing has been attributed to the combined influence of the retention of grain size heterogeneity, the weakening of basal texture and presence of nano-sized Mn as well as β1' precipitates.
+Keywords: Mg-Zn-Ca-Mn alloy; Dynamic recrystallization; Particle stimulated nucleation; Bimodal grain size distribution; Texture; Tensile properties
+
+Shuanglei Li, Yeon-wook Kim, Mi-seon Choi, Tae-hyun Nam,
+Microstructure, mechanical and superelastic behaviors in Ni-free Ti-Zr-Nb-Sn shape memory alloy fibers prepared by rapid solidification processing,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139283,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139283.
+(https://www.sciencedirect.com/science/article/pii/S092150932030366X)
+Abstract: Ni-free Ti-based shape memory alloy with superior superelasticity is promising and attractive for biomedical applications. In this study, Ti-18Zr-12.5Nb-2Sn (at.%) alloy fibers were prepared by rapid solidification method and then the effect of various heat treatments on phase constitutions, microstructures, mechanical properties, and superelasticity was investigated by means of X-ray diffraction (XRD), optical microscope (OM), transmission electron microscope (TEM) and tensile test. α phase was observed in the 673 K and 773 K annealed alloy fibers, leading to the degraded ductility. The total recovery strain at room temperature decreased, grain size and transformation temperature increased with increasing annealing temperature from 873 K to 1173 K. Athermal ω was observed in the 1173 K annealed alloy fibers. A good combination of clear superelasticity and high yield stress was achieved by annealing at 873 K followed by aging at 573 K due to the combined effect of the age-hardening caused by isothermal ω phase and small grain size, which indicates these alloy fibers have a good potential in biomedical applications.
+Keywords: Ti-Zr-Nb-Sn alloy; Shape memory alloy; Rapid solidification; Superelasticity; Mechanical properties
+
+Jiatao Zhang, Zhaohua Liu, Jianxin Sun, Hongli Zhao, Qiuyue Shi, Dongwei Ma,
+Microstructure and mechanical property of electropulsing tempered ultrafine grained 42CrMo steel,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139213,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139213.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302987)
+Abstract: Microstructure and mechanical property of 42CrMo steel after electropulsing (EP) treatment were studied. The average prior austenite grains (PAGs) size was refined to 2.9 μm after EP austenitization, compared with conventional austenitization. EBSD test results indicated the size of sub-grains with high angle boundaries was refined from 1.53 μm to 0.53 μm. The quenched 42CrMo steel with ultrafine PAGs was tempered by EP with peak temperatures ranging from 524–670 °C. Carbides precipitated during EP tempering within the total duration less than 20s. The size of carbides was refined. Combined with grain refinement strengthening and higher precipitation strengthening effects, the strength of EP treated 42CrMo steel was dramatically improved. The effects of PAGs ultra-refinement on martensitic structures were discussed. And the reasons for carbides refinement were analyzed. One reasonable reason was due to the PAGs ultra-refinement. Another reason should be attributed to the athermal effect of high density pulse current.
+Keywords: Grain ultra-refinement; High strength steel; Electropulsing treatment
+
+Wenchao Li, Xiaohua Li, Yongchang Liu, Zumin Wang, Chenxi Liu, Huijun Li,
+Homogenization stage during TLP bonding of RAFM steel with a Fe–Si–B interlayer: Microstructure evolution and mechanical properties,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139205,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139205.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302902)
+Abstract: In this paper, microstructure evolution and mechanical properties of transient liquid phase (TLP) bonding joints of reduced activation ferritic/martensitic (RAFM) steel using Fe–Si–B amorphous foil during homogenization stage were investigated. The results show that, numbers of block-like M23C6 carbides and ~500 nm-size elliptical Fe2B phase are precipitated in the isothermal solidification zone (ISZ), while the larger-size rod-like Cr2B phase with size of ~3 μm is distributed in the diffusion affected zone (DAZ). When the homogenization time extends to 30 min, the amount of Cr2B phase reduces dramatically in the DAZ due to the interdiffusion of the alloying elements. The distribution of Cr atoms along the bonding joint was estimated through a model. The model indicates that the dissolution of the Cr2B phase works dynamically during the homogenization stage. The maximum shear strength was obtained about 558 MPa for bonding 30 min. With extending the homogenization time, the fracture transitions from brittle mode to ductile mode. The precipitation of coarse Cr2B phase is the main factor of the shear failure for short homogenization time. Hence, the bonding quality is able to be significantly improved with adjusting the geometric characteristics of such Cr2B via changing the homogenization time rationally.
+Keywords: TLP bonding; RAFM steel; Fe–Si–B interlayer; Homogenization; Microstructure evolution; Mechanical properties
+
+Chengran Xiao, Wenchun Jiang, Yue Yu, Ming Song, Shan-Tung Tu, Jianming Gong,
+Influence of borides dissolution during the homogenization treatment on the mechanical properties and fracture behavior of austenitic stainless steel brazed joints,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139200,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139200.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302860)
+Abstract: The effects of borides dissolution during the homogenization treatment on the mechanical properties and fracture behavior of austenitic stainless steel brazed joints are investigated. The microstructure evolution of brazed joints is investigated by field emission scanning electron microscope (FE-SEM) and electron probe microanalyser (EPMA). The mechanical properties of brazed joints are investigated by microhardness test and tensile test of T-shape brazing specimen. In particular, electron back scatter diffraction (EBSD) measurement is conducted to study the fracture behavior of brazed joints. The results show that the diffusion affected zone of the brazed joints contains substantial Cr enriched boride precipitates with different morphologies. The homogenization treatment effectively eliminates the boride precipitates and significantly reduces the difference in chemical composition between different zones. The boride precipitates experience the fragmentation and dissolution during the homogenization treatment. In addition, the microhardness of the diffusion affected zone gradually decreases as the homogenization time increases. The maximum force of the tensile test increases first and then decreases as the homogenization treatment time increases. The fracture mechanism of the brazed joints is discussed. After the homogenization treatment, the fracture position of brazed joints changes from the diffusion affected zone to the base metal. It is attributed to that the dissolution of boride precipitates enhances the binding force of grain boundaries and improve the cracking resistance of the diffusion affected zone.
+Keywords: Austenitic stainless steel; Brazed joint; Homogenization treatment; Boride precipitates; Mechanical properties; Fracture behavior
+
+L. Cao, P. Thome, L. Agudo Jácome, C. Somsen, G. Cailletaud, G. Eggeler,
+On the influence of crystallography on creep of circular notched single crystal superalloy specimens,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139255,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139255.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303397)
+Abstract: The present work contributes to a better understanding of the effect of stress multiaxiality on the creep behavior of single crystal Ni-base superalloys. For this purpose we studied the creep deformation and rupture behavior of double notched miniature creep tensile specimens loaded in three crystallographic directions [100], [110] and [111] (creep conditions: 950 °C and 400 MPa net section stress). Crystal plasticity finite element method (CPFEM) was used to analyze the creep stress and strain distributions during creep. Double notched specimens have the advantage that when one notch fails, the other is still intact and allows to study a material state which is close to rupture. No notch root cracking was observed, while microstructural damage (pores and micro cracks) were frequently observed in the center of the notch root region. This is in agreement with the FEM results (high axial stress and high hydrostatic stress in the center of the notched specimen). Twinning was observed in the notch regions of [110] and [111] specimens, and <112> {111} twins were detected and analyzed using orientation imaging scanning electron microscopy. The present work shows that high lattice rotations can be detected in SXs after creep fracture, but they are associated with the high strains accumulated in the final rupture event.
+Keywords: Single crystal Ni-Base superalloys; Double notched creep specimen; Stress distribution; Lattice rotation; Cracks; Fracture
+
+Fang Wang, Li-Ming Lei, Xin Fu, Zhu-Man Song, Lei Shi, Bin Zhang, Guang-Ping Zhang,
+Effect of heat treatment on microstructures and tensile properties of TA19 alloy fabricated by laser metal deposition,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139284,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139284.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303671)
+Abstract: Influences of solution temperature and subsequent cooling rate on microstructures and room temperature tensile properties of near α-TA19 alloy (Ti-6Al-2Sn-4Zr-2Mo-0.1Si) manufactured by laser metal deposition were investigated. The results show that after the solution and aging treatment, fine Basketweave structure of the as-fabricated TA19 alloy was transformed into Widmannstatten structure for the samples heat treated in the single β phase region and double lamellar special bimodal structure for those heat treated in the α+β two-phase region. The as-fabricated TA19 samples subjected to solution treatment at 1000 °C with subsequent oil cooling and aging treatment have a good synergy of strength and plasticity due to the best combination of the content and width of αp and αs+α′ martensite phases. Not only the widths of αp and αs/α′ martensite phases affect the yield stress of the alloy, but also the phase contents of the double lamellar special bimodal structure alloy play an important role. The rule of mixtures is developed to predict the yield stress of the LMD-fabricated TA19 alloy after heat treatment in the α+β two-phase region.
+Keywords: Near α titanium alloy; Laser metal deposition; Heat treatment; Microstructure; Yield stress
+
+Filip Siska, Jaroslav Cech, Petr Hausild, Hynek Hadraba, Zdenek Chlup, Roman Husak, Ludek Stratil,
+Twinning in CoCrFeNiMn high entropy alloy induced by nanoindentation,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139297,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139297.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303798)
+Abstract: The nanoindentation tests of CoCrFeNiMn high entropy alloy prepared by mechanical alloying route have been performed. Pop-ins on loading curves have been characterized by their indentation load, depth and length. Locations of indents within the grains, grain sizes and their orientation were obtained by the Scanning Electron Microscope/Electron Back Scattered Diffraction analysis. The stress state under the indenter was analyzed by Finite Element Method simulations using von Mises plasticity. The analysis has shown that pop-in events can be attributed to twin initiation as the pop-in length can be correlated with the twin thickness. The estimated critical twin shear stress corresponds to the one measured by the tensile test when the indentation size effect is taken into account. Fine grained HEA has very close Critical Resolved Shear Stress values for slip and twinning.
+Keywords: HEA; Nanoindentation; Twinning; FEM
+
+Gajula Gowthami, G.V.S. Nageswara Rao, Amit Bhattacharjee, G. Madhusudhan Reddy,
+Effect of arc pulsing in gas tungsten arc welding on microstructure and mechanical properties of Ti–6Al–4V-2.5Cu,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139318,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139318.
+(https://www.sciencedirect.com/science/article/pii/S0921509320304007)
+Abstract: In the present study, a copper modified titanium alloy (Ti–6Al–4V–2.5Cu) was prepared by using vacuum arc re-melting and processed successfully by hot forging and rolling. The alloy was subjected to solution treatment (ST) at two temperatures, viz. 900 °C and 1010 °C followed by low temperature ageing at 500 °C. The weldments were fabricated from the alloy by using gas tungsten arc welding (GTAW) in continuous current (CC) and pulsed current (PC) modes. The effect of heat treatment and welding mode with and without post weld heat treatment (PWHT) on microstructure, hardness and tensile properties has been studied and compared. Pulsing of current during GTAW prompted in refinement of grains. While CC weldments showed coarser columnar grains, PC weldments reveal finer equiaxed β grains. Ageing and PWHT caused the formation of Ti2Cu intermetallic precipitates in the base alloy as well as in weldments. While the grain refinement in PC weldments manifested in higher strength and percent elongation relative to that of CC weldments, the higher improvement of strength in PWHT condition is due to the combination of both grain refinement and presence of Ti2Cu precipitates. However, the base metal evidenced the better strength properties in both heat treatment conditions than the weldments.
+Keywords: Ti-6Al–4V-2.5Cu alloy; Heat treatment; Gas tungsten arc welding; Pulsed current; Microstructure; Tensile properties
+
+Shengshi Zhao, Xiaoping Lin, Tao Chai, Jie Ye, Kongyang Yu, Yun Dong,
+The strain accommodation of grain boundary and deformation mechanism of directionally solidified Mg alloy,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139272,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139272.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303555)
+Abstract: The Mg93.72Gd5.85Y0.43 alloy with columnar grains and preferred orientation of [224(_)5] was selected in this paper, and its deformation mechanism was investigated by room-temperature tensile test, quasi-in-situ observation and Electron Back Scatter Diffraction (EBSD). The results showed that all the columnar grains had the “soft” orientation ([224(_)5]) for both basal <a> slip system and {101(_)2} tensile twinning system. At the initial deformation stage (ε ≤ 3%), basal <a> dislocations started to move and crossed grain boundary, forming the basal-basal slip system pairs (B/B). As the deformation increased (ε ≤ 50%), {101(_)2} tensile twins selectively nucleated in single columnar grain and then expanded and merged rapidly, forming the bands of tensile twins and the basal slip system + tensile twinning-basal slip system pairs (BT/B). At the later deformation stage (ε ≤ 74.5%), the orientation transition brought by tensile twinning triggered the activation of {101(_)1} compression twins, leading to severe stress concentration and crack nucleation near the large-angle grain boundary and twinning boundary. The evolution of B/B pairs to BT/B pairs driven by grain boundary compatibility stress resulted in relaxation of the stress concentration at grain boundaries and guaranteed the excellent plasticity of the experimental alloy. A modified grain boundary compatibility stress calculation was proposed in this paper and was proved to be more effective in predicating the nucleation of tensile twins than the geometric compatibility factor.
+Keywords: Directionally solidified magnesium alloy; Strain accommodation; Tensile twinning system; Geometric compatibility factor
+
+Wenjie Lu, Xian Luo, Yanqing Yang, Kang Yan, Bin Huang, Pengtao Li,
+Nano-precipitates strengthened non-equiatomic medium-entropy alloy with outstanding tensile properties,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139218,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139218.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303038)
+Abstract: In this work, a novel non-equiamotic Ni46Cr23Co23Al4Ti4 medium-entropy alloy (MEA) strengthened by nanoscale coherent γ′ particles with L12 superlattice was successfully synthesized, then its microstructure, mechanical properties, strengthening and deformation mechanism were systemically investigated. Our experimental results demonstrated that this precipitation strengthened MEA exhibited outstanding strength-ductility synergy, combination a high yield strength of ~920 MPa, an ultimate tensile strength of ~1320 MPa and an excellent ductility of ~36%. The nanosized γ′ particles bought out effective precipitation strengthening in this non-equiamotic MEA, contributing a majority yield strength enhancement of ~600 MPa. For this γ′-strengthened MEA, the dominant deformation model was the stacking-faults controlled mode rather than the mechanical twin dominated mode in single-phase face-centered-cubic structure Ni50Cr25Co25 MEA. Our work provides a further understanding of precipitate strengthening in non-equiamotic high-entropy alloys (HEAs)/MEAs.
+Keywords: Medium-entropy alloy; L12 superlattice; Precipitation strength; Stacking-faults
+
+Chao Li, Cheng Wang, Pin-Kui Ma, Jin Xu, Zhi-Zheng Yang, Min Zha, Jin-Guo Wang, Hui-Yuan Wang,
+Effect of Sb modification on microstructure and mechanical properties of hypoeutectic Al–11Mg2Si alloy,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139247,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139247.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303312)
+Abstract: Effects of Sb modification on the eutectic microstructure and tensile properties of hypoeutectic Al–11Mg2Si alloy were systematically investigated in this work. Eutectic Mg2Si phase in hypoeutectic Al–11Mg2Si alloy was successfully refined from the long rod-like structure into fine spherical morphology when introducing 0.2 wt% Sb, whereas 1.0 wt% Sb reversely led to the formation of coarse eutectic Mg2Si phase. Specifically, the elongation to failure in the 0.2 wt% Sb modified alloy was significantly improved to 9.7% as compared to the unmodified counterpart (1.5%), and the ultimate tensile strength increased from 183 MPa to 208 MPa. This result can be attributed to the spheroidization of eutectic Mg2Si phase with Sb modification, which greatly relieved the stress concentration and restrained the crack source from initiating and propagating. The achieved results could shed new light on a more efficient and economical way to obtain high-performance hypoeutectic Al–Mg2Si alloys.
+Keywords: Modification treatments; Hypoeutectic Al–11Mg2Si alloy; Spheroidization; Eutectic Mg2Si; Mechanical properties
+
+Igor Moravcik, Vit Hornik, Peter Minárik, Linlin Li, Ivo Dlouhy, Michaela Janovska, Dierk Raabe, Zhiming Li,
+Interstitial doping enhances the strength-ductility synergy in a CoCrNi medium entropy alloy,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139242,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139242.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303270)
+Abstract: An equiatomic CoCrNi medium entropy alloy (MEA) with face-centered cubic (FCC) structure exhibits excellent combination of strength and ductility. Here we employ interstitial doping to enhance its mechanical performance. Interstitial CoCrNi MEAs with two different carbon contents, i.e., 0.5 at. % and 1 at. %, as well as a carbon-free CoCrNi reference MEA have been studied. The results show that up to 1 at. % carbon can be fully dissolved into the homogenized plus water-quenched FCC solid solution structure. Subsequent annealing leads to precipitation of nano-sized M23C6 type carbides which provide dispersion strengthening and enhanced strain hardening. The best combination of ultimate tensile strength of 1180 MPa at an elongation above 60% was obtained in fine grained CoCrNi doped with 0.5 at. % of carbon. Carbon alloying is also shown to significantly increase the lattice friction stress. Dislocation glide and mechanical twinning act as main deformation mechanisms. Thus, the joint contribution of multiple deformation mechanisms in the carbon-doped MEAs leads to significantly enhanced strength-ductility combinations compared to the carbon-free reference alloy, demonstrating that interstitial alloying can enhance the mechanical properties of MEAs.
+Keywords: Medium entropy alloy; Interstitials; Solid solution; Deformation behavior; Strengthening; Microstructure
+
+M. Czerny, W. Maziarz, G. Cios, A. Wójcik, Y.I. Chumlyakov, N. Schell, M. Fitta, R. Chulist,
+The effect of heat treatment on the precipitation hardening in FeNiCoAlTa single crystals,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139327,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139327.
+(https://www.sciencedirect.com/science/article/pii/S0921509320304081)
+Abstract: The main goal of this work was to examine the effect of aging process on the precipitation behavior including phase morphology, chemical composition and degree of coherence in Fe–28Ni–17Co-11.5Al-2.5Ta single crystals. The nano-sized and coherent γ′ precipitates were used for strengthening process. The particles were investigated with transmission and scanning electron microscopies along with high energy X-ray diffraction. The single crystalline material of [100] (001) orientation was subjected to three different heat treatments: slowly cooled, quenched and then annealed with various aging conditions. Aging at 973 K for short times results in coherent 2-6 nm-sized γ′ precipitates and fully reversible superelastic strains while annealing at 973 K for 5 h and longer times leads to the precipitation of larger γ’ particles formed together with β phase which significantly reduces the transformed martensite volume fraction.
+Keywords: Superelasticity; Single crystal; Iron-based shape memory alloys; Phase transformation; Precipitation
+
+Veerappan Prithivirajan, Michael D. Sangid,
+Examining metrics for fatigue life predictions of additively manufactured IN718 via crystal plasticity modeling including the role of simulation volume and microstructural constraints,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139312,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139312.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303944)
+Abstract: There is a growing demand for the development of precise, accurate, and industrially applicable predictive models for evaluating the fatigue performance of additively manufactured (AM) materials to accelerate their qualification. Six fatigue metrics based on microstructure-sensitive crystal plasticity finite element (CPFE) simulations are utilized to assess the fatigue performance of Inconel 718 produced via selective laser melting (an AM technique). Each metric is used to predict the probable locations of failure and the scatter in fatigue life under high cycle fatigue loading conditions. The predicted scatter from all the fatigue metrics was in good agreement with the experimental test data. The predictions locations of failure using two of the metrics, plastic strain accumulation, and plastic strain energy density, were found to correlate in a statistical sense with the post mortem fractography results. Moreover, an additional set of CPFE simulations were performed with varying volumes of the input microstructures, with the largest microstructure having a volume close to that of the test specimen's gauge section. This additional analysis was intended to provide informed guidelines for simulation volume that is both computationally tractable, and results in consistent scatter predictions, which was estimated to be a simulation volume consisting of ~200 grains. Lastly, fatigue life predictions obtained from traction-free and more realistic microstructure constraints were compared to understand the role of boundary conditions (BCs) in fatigue life predictions. This work is beneficial in determining the statistical minimum for safe-life analyses, thereby reducing the overall number of experimental tests and accelerating the qualification process.
+Keywords: Selective laser melting; Microstructure-sensitive modeling; Fatigue crack initiation; High cycle fatigue (HCF); Boundary conditions; Microstructure size
+
+Di Ouyang, Qian Zheng, Liang Wang, Hao Wang, Chong Yang, Pengcheng Zhang, Ning Li,
+The brittleness of post-treatment of 3D printed Zr-based metallic glasses in supercooled liquid state,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139259,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139259.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303427)
+Abstract: 3D printed technique of selective laser melting (SLM) has attracted great attention in fabricating bulk metallic glass (BMG) due to its superiority on fabrication of large-sized BMGs with desirable geometries. However, compared to traditional casting BMGs, 3D printed BMGs present brittleness due to annealing effect in 3D printing process. Rejuvenation treatment in supercooled liquid state was expected to improve the plasticity by increasing free volume in amorphous phases. Here, 3D printed Zr55Cu30Al10Ni5 BMG was selected to perform heat treatment. The results reveal that both molten pool and heat affected zone are gone soft after heat treatment because of the increasing free volume in amorphous phases. However, tiny micro-cracks induced by non-uniform thermal deformation during quenching process deteriorate the macroscopic mechanical properties. The present work provides an understanding on heat treatment to 3D printed BMG that free volume can be introduced successfully and soften the amorphous phases, but need a suitable cooling rate to restrain micro-cracks.
+Keywords: Selective laser melting; Metallic glass; Heat treatment; Supercooled liquid
+
+Mohamed A. Afifi, Ying Chun Wang, Terence G. Langdon,
+Effect of dynamic plastic deformation on the microstructure and mechanical properties of an Al–Zn–Mg alloy,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139287,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139287.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303701)
+Abstract: A supersaturated Al–Zn–Mg alloy was processed by dynamic plastic deformation (DPD) using a Split-Hopkinson pressure bar (SHPB) facility with strain range from 0.5 to 1.5 and then subjected to compressive testing at strain rates of 1 × 10−3–4 × 103 s−1. The results show that there is concurrent occurrence of grain refinement, increase in dislocation density and precipitation of fine precipitates in different morphologies during DPD at strain over 1. This enhances the yield strength of the Al alloy after DPD over the as-received material in peak-aging state (T6). Grains are refined through the formation of low angle grain boundaries (LAGBs) by rearrangement of dislocations which leads to the subdivision of original grains. Heterogeneous coarse precipitates mainly of T (Al20Cu2Mn3) and E (Al18Mg3Cr2) phases distribute along dislocations and grain boundaries after DPD. Dynamic precipitation of very fine η′ and η during DPD occurs where the volume fraction of precipitates increases with increasing the number of presses. The influence of precipitates on the strain rate sensitivity is also discussed.
+Keywords: Al–Zn–Mg alloy; Dynamic plastic deformation; Precipitates; Split-Hopkinson pressure bar; Strain rate sensitivity
+
+Xinyuan Jin, Liang Lan, Shuang Gao, Bo He, Yonghua Rong,
+Effects of laser shock peening on microstructure and fatigue behavior of Ti–6Al–4V alloy fabricated via electron beam melting,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139199,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139199.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302859)
+Abstract: Laser shock peening (LSP) is a post-treatment process that is widely used to modify the surface microstructure and mechanical properties of parts constructed by additive manufacturing (AM). In this study, the influence of LSP on the microstructure and fatigue behavior of Ti–6Al–4V alloy manufactured via electron beam melting (EBM), a popular method of AM, was investigated. The microstructure of the EBM sample consisted of the β phase (~6 vol%) and α lamellar phase. Grain refinement of the α phase occurred via both dislocation evolution and deformation twinning during LSP. A theoretical description of the microstructural evolution, particularly the distribution of deformation twins, was developed. The fatigue strength and micro-hardness of the EBM samples increased by approximately 17% and 11% after LSP treatment, respectively. The fatigue fracture morphologies at three defined damage stages (crack initiation, crack propagation, and instantaneous rupture) were examined for EBM samples before and after LSP. The dominant mechanism of fatigue strength enhancement by LSP was discussed. The effects of residual compressive stress assistant with adiabatic temperature increase and grain refinement of the α phase produced by LSP reduced the pre-existing crack size, suppressed crack initiation, and increased the required work for fatigue fracture.
+Keywords: Laser shock peening; Electron beam melting; Ti–6Al–4V titanium alloy; Fatigue behavior; Microstructural characterization
+
+Paul Baral, Guillaume Kermouche, Gaylord Guillonneau, Gabrielle Tiphene, Jean-Michel Bergheau, Warren C. Oliver, Jean-Luc Loubet,
+Indentation creep vs. indentation relaxation: A matter of strain rate definition?,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139246,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139246.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303300)
+Abstract: An extensive study of the different methods able to measure material creep properties in indentation is proposed. A systematic comparison of the fast creep, long-term creep, constant strain rate and long-term relaxation tests is performed on amorphous selenium. Even though measured apparent activation energy and strain rate sensitivities are very similar for all tests, a discrepancy is highlighted between the creep/constant strain rate tests and the relaxation tests. This effect seems to be related to the strain rate definition which should be a function of the strain rate sensitivity m. In this paper, it is proposed to use a representative strain rate ϵ̇r as proposed by Kermouche et al. (2008). An excellent agreement is found between all the methods, including uniaxial compression when expressing the creep behavior as a function of representative stress and strain rate.
+Keywords: Nanoindentation; Strain rate sensitivity; Relaxation; Creep; Selenium
+
+A. Katzensteiner, J.M. Rosalie, R. Pippan, A. Bachmaier,
+Synthesis of nanodiamond reinforced silver matrix nanocomposites: Microstructure and mechanical properties,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139254,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139254.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303385)
+Abstract: Nanodiamond reinforced silver matrix nanocomposites with different nanodiamond content are produced from pure silver and nanodiamond powders by a combination of two severe plastic deformation methods, ball-milling and high-pressure torsion (HPT). The ball milling parameters are varied to improve the distribution of the nanodiamonds in the powder blends. An optimized processing route combining both processes has been developed to achieve a homogenous dispersion of small nanodiamond particles in a nanocrystalline silver matrix. The microstructure of these nanocomposites was characterized by scanning and transmission electron microscopy. The mechanical properties were characterized by microhardness measurements and tensile tests. An increasing amount of nanodiamonds (up to 5 wt% and 15 vol%, respectively) can raise the microhardness by up to 70% and the tensile strength by up to 60% of the values achieved in HPT deformed pure silver. The microhardness and tensile strength is about 5 times higher than microcrystalline pure silver.
+Keywords: Nanocomposites; Nanodiamond; Severe plastic deformation; High-pressure torsion
+
+Z.Y. Chang, Y.J. Li, D. Wu,
+Enhanced ductility and toughness in 2000 MPa grade press hardening steels by auto-tempering,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139342,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139342.
+(https://www.sciencedirect.com/science/article/pii/S0921509320304238)
+Abstract: This work proposed a simplified process to obtain high ductility of 2000 MPa press hardening steels (PHS) by smartly controlling auto-tempering. Without an additional tempering, a 2000 MPa PHS with remarkable combination of high strength, ductility and toughness was successfully produced by the novel industrial hot stamping process.
+Keywords: Press hardening steels; Auto-tempering; Carbon diffusion; Microstructure; Mechanical property
+
+Reshma Sonkusare, Krishanu Biswas, Nowfal Al-Hamdany, H.G. Brokmeier, R. Kalsar, Norbert Schell, N.P. Gurao,
+A critical evaluation of microstructure-texture-mechanical behavior heterogeneity in high pressure torsion processed CoCuFeMnNi high entropy alloy,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139187,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139187.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302732)
+Abstract: The present study aims to understand the evolution of textural and microstructural heterogeneity and its effect on evolution of mechanical properties of an equiatomic FCC CoCuFeMnNi high entropy alloy (HEA) disc subjected to high pressure torsion (HPT). HPT was performed on disc specimen with a hydrostatic pressure of 5 GPa for 0.1, 0.5, 1 and 5 turns at room temperature where the hardness saturated at 1941 MPa at the periphery of the sample after five turns. Synchrotron diffraction texture analysis of five-turn HPT sample reveals characteristic shear texture with the dominance of A {11⇀1⇀}<110> and A* {11⇀1⇀}<112> components near central region of the disc and it shifts to C {001}<110> component near the periphery of the disc. X-ray diffraction analysis shows decrease in crystalline size with simultaneous increase in dislocation density for five-turn HPT sample with increasing strain from centre to the periphery of the disc. Microstructural analysis using electron back scatter diffraction and transmission electron microscopy indicates extensive grain fragmentation (≈55 nm) at the periphery of five-turn sample. The evolution of hardness from centre to the periphery of the disc cannot be explained only on the basis of evolution of grain size and dislocation density. The increase in contribution from solid solution strengthening due to partial dissolution of copper rich nano-clusters is expected to be the underlying cause for increase in the hardness. Thus, evolution of gradient microstructure, texture, and chemistry opens up new vistas for designing functionally graded materials for engineering applications.
+Keywords: High entropy alloy; High pressure torsion; Shear texture; Synchrotron diffraction; Heterogeneity; Strengthening mechanisms
+
+F. Alghamdi, X. Song, A. Hadadzadeh, B. Shalchi-Amirkhiz, M. Mohammadi, M. Haghshenas,
+Post heat treatment of additive manufactured AlSi10Mg: On silicon morphology, texture and small-scale properties,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139296,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139296.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303786)
+Abstract: Post-fabrication heat treatment, including solution treatment (at 520 °C for 1 h) followed by water quenching (WQ), air cooling (AC) and furnace cooling (FC), was performed on a selective laser melted AlSi10Mg alloy. The objective is to assess the effect of various cooling rates on the microstructure (specifically eutectic-Si morphology) and small-scale mechanical properties, measured by employing a depth-sensing nanoindentation platform, of the selective laser melted AlSi10Mg alloy. Results show extensive evolutions in the microstructure and the mechanical properties of the heat-treated materials relative to the as-fabricated sample. Upon solutionizing treatment, the eutectic Si is first fragmented, then spheroidized, and finally coarsened when cooled with slow rates. The microstructural evolution directly affects the mechanical properties, where the as-fabricated and the FC are the hardest and the softest structures, respectively. This is directly attributed to the size and morphology of the eutectic-Si within the microstructure. The findings of this study could help to adjust the optimized heat-treatment process to fabricate SLM AlSi10Mg parts with desirable microstructure and mechanical properties.
+Keywords: Additive manufacturing; SLM AlSi10Mg; Heat treatment; Si spheroidization; Nanoindentation; Cooling rate; Texture
+
+Yong Keun Kim, Byung Ju Lee, Soon-Ku Hong, Sun Ig Hong,
+Strengthening and fracture of deformation-processed dual fcc-phase CoCrFeCuNi and CoCrFeCu1.71Ni high entropy alloys,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139241,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139241.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303269)
+Abstract: In this study, the microstructural evolution and strengthening mechanism of deformation-processed CoCrFeCuNi and CoCrFeCu1.71Ni were studied. Segregation and phase separation into dual fcc phases was found to be thermodynamically stable even after homogenizing annealing at 1273K. Dual fcc phase structure with elongated Cu-rich filaments developed by deformation processing and elongated dual-phase structure was found to remain stable even during annealing at1173 K. The high temperature stability of Cu-rich filaments is attributed to the low internal strain energy of filaments due to continuous recrystallization during deformation processing. One interesting consequence of stability of Cu-rich filaments is that the phase boundaries act as barriers to grain growth and the grain of Cr–Fe–Co–Ni matrix and Cu-rich filaments are controlled by the distribution and thickness of Cu-rich phase. The yield strengths of CoCrFeCuNi (506 MPa) and CoCrFeCu1.71Ni (477Mpa) were observed to be greater than that of the original Cantor alloy (220 MPa) with minor reduction of elongation less than 3–7%. Phase boundaries in CoCrFeCuNi or CoCrFeCu1.71Ni HEAs act as effective barriers to grain growth during annealing and to dislocation transmission during deformation. The strengthening with excellent ductility in HEAs of this study is attributed to the grain size refinement and the development of the enhanced back stress by the phase boundaries between Cu-rich filaments and Cu-lean matrix with higher modulus and strength. The lower strength of annealed CoCrFeCu1.71Ni than that of CoCrFeCuNi can be attributed to the presence of higher fraction of soft Cu-rich filaments.
+Keywords: High entropy alloy; Dual-phase; Filament; Heterogeneous lamella; Strengthening
+
+Jan Racek, Jan Duchoň, Marek Vronka, Miroslav Cieslar,
+TEM observation of twins in surface grains of superelastic NiTi wire after cyclic loading,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139271,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139271.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303543)
+Abstract: Since the surface dominates fatigue of medical grade NiTi wire by yet unexplained causes, for comparison, we carried out a TEM observation of surface grains, both after one thousand superelastic cycles and on the unloaded wire. Crystallographic defects consisting of aggregates of austenite twins stacked in the bands were observed after cycling deformation. The nuclei of aggregates are already present in an unloaded wire that originates from cold drawing or heat treatment. Severe plastic deformation induced by a stress increasing in the surface during a cyclic phase transformation enables an accumulation of these aggregates into bands at inclined angle of 55° to the wire axis corresponding to the spreading of diffused martensite band front paths during their propagation. An unrecovered strain, suppression of transformation and acceleration of crack propagation can be expected while the aggregates grow. Based on investigation of the grain orientation and boundaries in the twin lamellae using nano beam diffraction mapping, it can be proposed that, with exceeding martensite twin variant stress, twinning plane {1 1 4}B2 is a result of non-transforming pathway.
+Keywords: Shape memory alloys; Biomedical NiTi wire; Phase transformation; Superelastic deformation; Defects
+
+Yuzhu Hou, Liang Chen, Zhigang Li, Guoqun Zhao, Cunsheng Zhang,
+Effects of artificial aging on microstructure, mechanical properties and stress corrosion cracking of a novel high strength 7A99 Al alloy,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139217,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139217.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303026)
+Abstract: A recently developed 7A99 Al alloy was subjected to hot extrusion, solid solution and artificial aging. The microstructure evolution and precipitation behavior were examined, and their effects on mechanical properties and stress corrosion cracking were analyzed. The results showed that the coarse Mg(Zn, Cu)2 phases were broken and refined by hot extrusion. Most of the phases dissolved into Al matrix during solution, and only insoluble Al7Cu2Fe phase was remained. GPI zones and η′ appeared in the under-aged and peak-aged samples. With the extension of aging time, stable η phase with large size formed and became the dominant precipitate in the over-aged sample. It was concluded that the precipitation of 7A99 Al during aging at 150 °C followed the sequence of solid solution → GPI zones → metastable η′ → stable η. The peak-aged sample owned the high yield and ultimate tensile strength of 588 MPa and 622 MPa, and a low elongation of 10.2%. The under-aged and over-aged samples exhibited relatively lower strength and higher elongations. 2% pre-stretching prior to aging could further improve the tensile properties. Both the under-aged and peak-aged samples were susceptible to the stress corrosion cracking, and the intergranular cracking was observed. In contrary, the over-aged sample showed much better corrosion resistance with a typical ductile fracture, due to the coarsening and separation of grain boundary precipitations.
+Keywords: 7A99 Al; Aging; Precipitation; Mechanical properties; Stress corrosion cracking
+
+A.S. Tirunilai, T. Hanemann, C. Reinhart, V. Tschan, K.-P. Weiss, G. Laplanche, J. Freudenberger, M. Heilmaier, A. Kauffmann,
+Comparison of cryogenic deformation of the concentrated solid solutions CoCrFeMnNi, CoCrNi and CoNi,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139290,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139290.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303737)
+Abstract: The current work compares the deformation behavior of CoCrFeMnNi and CoCrNi in the temperature interval between 295 K and 8 K through a series of quasi-static tensile tests. Temperature-dependent yield stress variation was found to be similarly high in these two alloys. Previous investigations only extended down to 77 K and showed that a small amount of ε-martensite was formed in CoCrNi while this phase was not observed in CoCrFeMnNi. The present study extends these investigations down to 8 K where similar low levels of ε-martensite were presently detected. Based on this result, a rough assessment has been made estimating the importance of deformation twinning to the strength. The relative work hardening rates of CoCrFeMnNi and CoCrNi were comparable in value despite the differences in ε-martensite formation during deformation. CoCrFeMnNi deforms by dislocation slip and deformation twinning while deformation in CoCrNi is also accommodated by the formation of ε-martensite at cryogenic temperatures. Additionally, CoNi, a solid solution from the Co–Cr–Fe–Mn–Ni system with low strength, was used for comparison, showing contrasting deformation behavior at cryogenic temperatures.
+Keywords: Alloy; Deformation; Microstructure; High-entropy alloys; Plasticity; Cryogenic temperatures
+
+Lihong Su, Guanyu Deng, Vladimir Luzin, Hui Wang, Zhiyang Wang, Hailiang Yu, Huijun Li, Anh Kiet Tieu,
+Effect of cryogenic temperature equal channel angular pressing on microstructure, bulk texture and tensile properties of AA1050,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139190,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139190.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302768)
+Abstract: Plastic deformation of metallic materials at cryogenic temperature is believed to be able to suppress the dynamic recrystallization and further refine their microstructures compared to that at room temperature. This paper investigates the microstructure, bulk texture as well as the tensile properties of commercially pure aluminum AA1050 processed by equal channel angular pressing (ECAP) at both cryogenic temperature (CT-ECAP) and room temperature (RT-ECAP). The experimental results suggest that CT-ECAP process is more effective than RT-ECAP in grain refinement and strength enhancement for the studied material. As for the bulk texture, a significant difference is observed between the 1-pass CT-ECAP and RT-ECAP samples, which is attributed to the suppression of texture development at cryogenic temperature. After 2 or more passes CT-ECAP, the texture obtained is similar to RT-ECAP and can be interpreted by the ideal ECAP texture for FCC metals. It can be concluded that CT-ECAP suppresses the dislocation sliding and dynamic recovery as well as texture evolution, thus it has the capability to fabricate materials with higher strength. The CT-ECAP process induced higher strengths than RT-ECAP can be explained by two main mechanisms, namely the grain boundary strengthening and dislocation strengthening. It has also been found that the grain boundary strengthening mechanism plays the dominant role.
+Keywords: Equal channel angular pressing; Cryogenic temperature; Grain refinement; Bulk texture; Neutron diffraction
+
+Yu Li, Wei Li, Chun Xu, Na Min, Wenqing Liu, Huibin Liu, Xuejun Jin,
+Investigation of hierarchical precipitation on bimodal-grained austenite and mechanical properties in quenching-partitioning-tempering steel,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139207,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139207.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302926)
+Abstract: The influence of the hierarchical nanometer-sized precipitates (NPs) on the microstructure evolution and mechanical properties of ultra-low carbon medium manganese quenching-partitioning-tempering (QPT) steel was studied. A unique combination of hierarchical NPs including lenticular Cu/Ni precipitates (>5 nm) and spherical (<1.5 nm) NiAl/Cu co-precipitates was obtained during QPT treatment. The shear mechanisms of spherical NPs mainly contribute to a strength enhancement of approximately 500–700 MPa, whereas the lenticular Cu/Ni precipitates result in an enhanced driving force for an abnormal austenite growth owing to the localized element enrichment and the interfacial incoherency, thereby obtaining a bimodal-grained distribution of austenite which possesses a wide mechanical stability. Thus, a continuous transformation-induced plasticity (TRIP) effect over the entire strain regime occurs, contributing to a good strain hardening capacity and superior ductility enhancement (uniform elongation change from 8% to 16%). However, the introduction of the hierarchical NPs not only inevitably creates a strong concentration of stress within the weak grain boundaries, but also leads to a detrimental transformation product from the blocky austenite with a low mechanical stability, thus resulting in the formation of intergranular cracks and a low impact toughness (20 J).
+Keywords: Hierarchical precipitates; TRIP effect; Grain growth; Toughness; QPT steel
+
+Dong Han, Hua Ding, Degang Liu, Bernard Rolfe, Hossein Beladi,
+Influence of C content and annealing temperature on the microstructures and tensile properties of Fe–13Mn–8Al–(0.7, 1.2)C steels,
+Materials Science and Engineering: A,
+Volume 785,
+2020,
+139286,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139286.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303695)
+Abstract: In the present work, the Fe-13Mn-8Al-(0.7, 1.2)C steels were subjected to different post-cold rolling annealing treatments in a temperature range of 800–1000 °C for 15 min to investigate the microstructural evolution and the mechanical properties. Both steels annealed at 800 °C consisted of fine austenite and ferrite grains along with intergranular κ-carbides formed by eutectoid reaction, which contributed to the high strength but deteriorated ductility. With annealing temperature increasing, the volume fraction of ferrite and intergranular κ-carbides progressively decreased. Meanwhile, the precipitation of intragranular κ′-carbides enhanced the yield strength, whereas coarse austenite was harmful to both strength and elongation. The increase in C content increased the volume fraction of intergranular κ-carbides and austenite as well as retarded the austenite recrystallization, which further increased strength and strain hardening rate but deteriorate ductility. The deformation mechanism in austenite was massive planar slip. The microbands were widely observed in both steels at an annealing temperature above 900 °C.
+Keywords: Medium Mn low density steel; κ-carbide; Mechanical properties; Carbon content; Strain hardening
+
+Qiuyan Shen, Zhanwei Yuan, Huan Liu, Xuemin Zhang, Qinqin Fu, Quanzhao Wang,
+The damage mechanism of 17vol.%SiCp/Al composite under uniaxial tensile stress,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139274,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139274.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303579)
+Abstract: In this paper, the deformation, fracture and damage behavior of SiCp/Al composites are studied by experiments and finite element analysis. The crack cracking process of the material was observed by in-situ tensile test, it was found that the composite first produced microcracks near the particles, and the cracks mainly spread to depth and then to both sides. It is determined by a tensile test that the fracture mechanism of the material is the tearing of the aluminum matrix and the peeling between the particles and the matrix. The tensile damage mechanism of the composite material in three directions (rolling direction, rolling transverse direction and rolling normal direction) and different strains were determined. It is found that in the process of tensile deformation, micro-cracks are first formed at the defects (voids) and weak interfaces, and many fine cracks converge together to form large cracks leading to the fracture of the material, during which a few particles fall off, but there is no particle fracture. The global and local tensile tests of the composites were simulated by finite element method, the results of the stress-strain state under different strains and the effects of particles on the materials are analyzed in detail, and the validity of the test results is determined.
+Keywords: SiCp/Al composite; Damage behavior; Fracture mechanism; Finite element method; Stress-state
+
+H. Jiryaei Sharahi, M. Pouranvari, M. Movahedi,
+Strengthening and ductilization mechanisms of friction stir processed cast Mg–Al–Zn alloy,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139249,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139249.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303336)
+Abstract: AZ91 alloy, the most widely used Mg casting alloy, exhibits low strength/ductility and weak energy absorption, which is a function of its large grain size and the presence of a coarse and continuous network of β-Mg17Al12 intermetallic compounds. This work demonstrated that friction stir processing (FSP) enables enhancement of strength and energy absorption capability of AZ91 alloy. The influence of FSP treatment on various potential strengthening mechanisms, including grain boundary, solid solution, and sub-micron particle strengthening mechanisms, was studied. It is identified that the grain boundary strengthening plays a significant contribution to the strength of the FSP treated AZ91. FSP treatment altered the failure mechanism of the alloy from brittle cleavage-dominant mode to ductile dimple-dominant mode, which can increase the potential of cast Mg alloys to use in the safety-critical application. The significant improvement in energy absorption capability is a function of grain refining and the formation of ultra-fine sub-micron Mg17Al12 particles. The trends in mechanical properties of AZ91 treated by various severe plastic deformation approaches are disused.
+Keywords: Friction stir processing; AZ91 magnesium cast alloy; Microstructure modification; Mechanical properties
+
+Shuanglei Li, Mi-seon Choi, Tae-hyun Nam,
+Role of fine nano-scaled isothermal omega phase on the mechanical and superelastic properties of a high Zr-containing Ti–Zr–Nb–Sn shape memory alloy,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139278,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139278.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303610)
+Abstract: This work studied the microstructure, superelastic and mechanical performances of a high Zr-containing Ti–40Zr–8Nb–2Sn (at.%) shape memory alloy aged at 300 °C for 1 h. Nanodomains and quite fine nano-scaled ωiso phases with 2.1–2.9 nm wide and 2.9–4.4 nm long were formed in the aged alloy. The aged alloy in this study exhibited excellent superelasticity with a large total recovery strain of 7.1%, high ductility of 11.6% and high yield stress of 578 MPa, indicating that a good balance of functional and mechanical properties was achieved in the aged alloy. The stress-induced β → α" martensitic transformation occurred in the nanodomain-containing aged Ti–40Zr–8Nb–2Sn alloy.
+Keywords: Titanium alloys; Superelasticity; Shape memory alloys; High-resolution electron microscopy; Nanodomain
+
+Mustafa Rifat, Edward C. DeMeter, Saurabh Basu,
+Microstructure evolution during indentation of Inconel-718 created by additive manufacturing,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139204,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139204.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302884)
+Abstract: Finishing of components originating from additive manufacturing (AM) is critically important for providing them with adequate tolerances and fatigue life. These processes often rely on surface deformation for removal of roughness features and enhancing the underlying microstructures. Optimization of finishing processes is however challenging for AM components as their mechanics of deformation is complicated by microstructure/defect/roughness combinations present in as-received surfaces. In this work, the mechanics of surface deformation in additively manufactured IN718 is studied via indentation. Effects of graded surface microstructure, surface texture and porosity defects on microstructure evolution trajectories are delineated. Using these insights, a finite element based numerical framework of surface deformation of additively manufactured IN718 is created. Utility of this framework in analysis of surface deformation of various microstructure/defect/roughness combinations is demonstrated. Implications of these insights in the optimization of finishing processes of various additively created parts is discussed.
+Keywords: Indentation; Surface roughness; Microstructure; Additive manufacturing
+
+Xiaoli Zhuang, Song Lu, Longfei Li, Qiang Feng,
+Microstructures and properties of a novel γ′-strengthened multi-component CoNi-based wrought superalloy designed by CALPHAD method,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139219,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139219.
+(https://www.sciencedirect.com/science/article/pii/S092150932030304X)
+Abstract: The γ′-strengthened Co-based superalloys have a lower γ′ solvus temperature and a higher γ′ volume fraction compared with Ni-based wrought superalloys, making this type of alloy more appropriate as a wrought superalloy for hot components of aero engines and industrial gas turbines, such as turbine disk. In order to accelerate the development and application of novel γ′-strengthened Co-based superalloys, CALPHAD method was employed to design a γ′-strengthened multi-component CoNi-based wrought superalloy with improved comprehensive performances on the basis of the Co–7Al–8W–4Ti–1Ta (at.%) quinary alloy. The preliminary evaluation of physical properties, microstructure, oxidation resistance, and mechanical properties of the designed alloy in as cast and as heat treated state shows that, in comparison with Ni-based wrought superalloys, the designed alloy which has a comparable density and a larger processing window, demonstrates better oxidation resistance and comparable mechanical properties. These results suggest that the CALPHAD method is helpful for the design and development of the γ′-strengthened multi-component CoNi-based superalloys, and the designed alloy has a potential for engineering application.
+Keywords: CoNi-based superalloys; CALPHAD method; Microstructure; Partitioning behavior; Oxidation resistance; Mechanical property
+
+A. Gramlich, T. Schmiedl, S. Schönborn, T. Melz, W. Bleck,
+Development of air-hardening martensitic forging steels,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139321,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139321.
+(https://www.sciencedirect.com/science/article/pii/S0921509320304020)
+Abstract: A new alloy design for air-hardening forging steels has been investigated. Five laboratory melts with C contents between 0.15 and 0.19wt.−% and a Mn content of 4wt.−% distinguished by their Al (0.03/0.50), Ti (-/0.02), B (-/0.005), Mo (-/0.20) contents have been laboratory casted and forged into rectangular blocks with a cross section of 60 x 60 mm. After air cooling the tensile test properties, the Charpy toughness and the fatigue properties have been determined and compared to a Q+T steel as reference material. While the static mechanical properties are comparable to the reference grade, a small decrease in toughness and a significant increase in fatigue strength have been obtained. These findings are discussed with respect to the role of the individual alloying elements and their impact on microstructure and precipitation state.
+Keywords: Martensite; Mechanical properties; Forging steels; Medium manganese steels
+
+Zhuang Li, Yingchun Wang, Xingwang Cheng, Zongyuan Li, Jinke Du, Shukui Li,
+The effect of Ti–Mo–Nb on the microstructures and tensile properties of a Fe–Mn–Al–C austenitic steel,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139220,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139220.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303051)
+Abstract: An investigation was performed to evaluate the effect of the Ti–Mo–Nb co-addition on the microstructure and the tensile behavior of a Fe–26Mn–8Al-1.5C austenitic steel after aging at temperatures from 500 to 600 °C. The co-addition of Ti–Mo–Nb in the steel refines grains, increases the sizes and volume fractions of κ-carbides, and forms inter- and intra-granular (Ti,Mo,Nb)C particles. The promotion effect of Ti–Mo–Nb on the κ-carbides precipitation varies with different aging temperature. The steel with co-addition of Ti–Mo–Nb possesses higher yield strength due to the combination of grain refinement, more κ-carbides precipitation, and the formation of fine (Ti,Mo,Nb)C particles distributed uniformly within the grains, but has lower ductility ascribed to the coarseness of κ-carbides with larger volume fraction and the existence of micron-sized inter-granular (Ti,Mo,Nb)C particles along the grain boundaries. With aging temperature increasing, the strength increases but the ductility decreases for both steels with and without microalloying. In addition, the strengthening mechanisms were analyzed quantitatively. The results show that the precipitation hardening is the dominant strengthening mechanisms for both steels.
+Keywords: Micro-alloying; Fe–Mn–Al–C austenitic Steel; κ-carbide; Tensile properties; Strain hardening
+
+Tomáš Vávra, Peter Minárik, Jozef Veselý, Robert Král,
+Excellent superplastic properties achieved in Mg–4Y–3RE alloy in high strain rate regime,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139314,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139314.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303968)
+Abstract: This study is focused on high strain rate superplasticity of commercial magnesium alloy Mg–4Y–3RE (WE43) in ultrafine-grained condition prepared by equal channel angular pressing (ECAP). Attaining microstructure with the average grain size of ~340 nm and high density of secondary phase particles provided a possibility to significantly decrease temperature during the deformation at strain rates of 10−2 s−1 and 10−1 s−1 in comparison with previous studies. Consequently, extent of negative effect of grain growth was partially suppressed and the investigated alloy did exhibit exceptionally high deformability with a maximum elongation of ~1230% at strain rate of 10−2 s−1 and at two temperatures: 350 °C and 400 °C. Increase in the strain rate to 10−1 s−1 resulted in maximum elongation of ~1000% at the temperature of 400 °C. The microstructural analysis after the deformation showed that the microstructure was fine-grained even after large deformation and plasticity-controlled growth of cavities did occur only at the temperature of 450 °C. The optimization of ECAP processing resulted in very weak texture and, therefore, the deformability should be more isotropic in comparison with strongly textured materials usually investigated in this regard.
+Keywords: Magnesium; ECAP; Ultra-fine grained; Texture; Superplasticity; Deformation
+
+Firaz Ebrahem, Franz Bamer, Bernd Markert,
+Vitreous 2D silica under tension: From brittle to ductile behaviour,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139189,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139189.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302756)
+Abstract: Based on measured ring size distributions of real 2D silica, we numerically prepare sample sets of vitreous 2D silica with varying network topology. We use a Monte Carlo bond-switching method to apply a sequence of topological flip transformations to initially hexagonal 2D silica. In doing so, we are able to control the network heterogeneity by means of the ring size distribution. This method also enables physically meaningful ring neighbourhood statistics according to the empirical Aboav-Weaire law. The obtained vitreous 2D silica sample sets undergo athermal quasistatic tensile deformation in order to investigate the changes of the mechanical behaviour as a function of the underlying network heterogeneity. The molecular statics simulations reveal that the ductility and tensile strength of 2D silica can significantly be tuned varying the network ring statistics. Furthermore, the stress-drop statistics of the respective sample sets are evaluated and shown to display a self-organised critical behaviour.
+Keywords: 2D silica; Tensile deformation; Fracture; Molecular statics
+
+Xiaomeng Qin, Yi Xu, Yufeng Sun, Hidetoshi Fujii, Zhiguang Zhu, Chan Hung Shek,
+Effect of process parameters on microstructure and mechanical properties of friction stir welded CoCrFeNi high entropy alloy,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139277,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139277.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303609)
+Abstract: In this study, CoCrFeNi high entropy alloy was successfully joined by friction stir welding (FSW) and the influences of welding process parameters on the microstructure and mechanical properties were studied. Three distinct zones, namely, the stir zone (SZ), thermo-mechanically affected zone (TMAZ), and base metal (BM), have been identified. The SZ showed an equiaxed microstructure because of the recrystallization and the TMAZ exhibited a mixed microstructure with elongated and equiaxed grains. Under different process parameters, the morphology of the SZ was changed from basin-shaped to elliptical accompanied with the occurrence of banded structures and small tungsten-rich particles. The grain size in the SZ increased with the increasing rotation speeds of the welding tool with other parameters unaltered. The hardness of the SZ in all welded samples was higher than that of the base metal due to the dynamic recrystallization induced by the FSW process and the hardness followed the Hall–Petch relationship. At the optimum welding conditions, the UTS and the ductility of the joints reached 627 MPa and 42%, which were comparable to those of the base metal (628 MPa and 63%). The results were analyzed in terms of the heat input, which was shown to correlate well with the average grain size and hence the strength of the joints.
+Keywords: High entropy alloy; Friction stir welding; Microstructure; Mechanical properties
+
+Zhenguo Li, Ruojin Zang, Pizhi Zhao, Zhihong Jia,
+Effects of pre-aging and natural aging on the clusters, strength and hemming performance of AA6014 alloys,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139206,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139206.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302914)
+Abstract: In this study, the effects of pre-aging and natural aging on the clusters, strength and hemming performance of AA6014 Al–Mg–Si alloys with different Mg/Si ratios were investigated through three-dimensional atom probe (3DAP) in combination with tensile test and three-point bend test. Samples are subjected to natural aging (room temperature, ~25 °C) or pre-aging (elevated temperature, 75 °C) treatments in order to generate different types of clusters. The number density, size and compositions of clusters are analyzed by 3DAP. The increased strength and deteriorated hemming performance are found in natural aged alloys, especially for Si-rich alloy. The hemmability is sensitive to the strength, and an increased strength leads to inferior hemmability. The formation of Mg1Si1 type cluster is encouraged during pre-aging treatment regardless of the alloy composition. Natural aging following directly water quenching promotes the formation of a large number density of small-sized Si-rich clusters in Si-rich alloy, whereas relatively low density of clusters with scattered Mg/Si ratios distribution in Mg-rich alloy. The concentration of the excess vacancies and the binding energy between vacancy and Mg and Si atoms plays an important role in the precipitation kinetics of cluster during different aging processes. Finally, the clusters and solid solution atoms statistics are utilized to predict the yield strength of the alloys in different aging conditions.
+Keywords: Al-Mg-Si alloys; Aging; Clusters; Atom probe tomography; Yield strength
+
+H. Paul, R. Chulist, M. Miszczyk, L. Lityńska-Dobrzyńska, G. Cios, A. Gałka, P. Petrzak, M. Szlezynger,
+Towards a better understanding of the phase transformations in explosively welded copper to titanium sheets,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139285,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139285.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303683)
+Abstract: The influence of post-process annealing on the growth kinetics of the intermetallic phases and mechanical properties of titanium/copper bimetallic sheets were analysed using scanning and transmission electron microscopies, X-ray synchrotron radiation, and mechanical testing. In order to weld two metal sheets, an explosive welding technique was utilised. Subsequently, the clads were subjected to post-weld annealing at 973 K from 0.25 to 1000 h. In the bonded state, the interface exhibited a wavy structure with only a small amount of solidified melt zones, composed of non-equilibrium phases of variable chemical compositions. After short annealing times (<1 h) these non-equilibrium phases transformed into equilibrium phases of TiCu4 and Ti3Cu4 via spinodal decomposition. For longer annealing times (>1 h), the growth of four intermetallic layers: Ti2Cu, TiCu, Ti3Cu4, and TiCu4 situated along the entire interface is predominant. It was observed that the phases enriched with Cu and Ti were situated near the Cu and Ti parent sheets, respectively. The nano-hardness of the intermetallic phases decreased as the Ti content increased, whereas the Young's modulus reached its highest values for phases with equiatomic or close-to-equiatomic composition.
+Keywords: Electron microscopy; Copper/titanium-clad; Explosive welding; Annealing; Phase transformation
+
+A. Arabi-Hashemi, E. Polatidis, M. Smid, T. Panzner, C. Leinenbach,
+Grain orientation dependence of the forward and reverse fcc ↔ hcp transformation in FeMnSi-based shape memory alloys studied by in situ neutron diffraction,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139261,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139261.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303440)
+Abstract: The grain orientation dependence of the deformation-induced forward fcc→hcp and reverse hcp→fcc martensite transformation of a FeMnSi-based shape memory alloy was studied by in situ neutron diffraction during cyclic loading. A deformation-induced fcc→hcp transformation is observed during tensile straining to +2%. The hcp martensite phase that forms under tension partially reverts to fcc austenite upon subsequent compression from +2% → −2% for the {220}, {331} and {111} grain families aligned with respect to the loading direction but not for the {200} grain family. The martensite formation and the reversion of the individual grains can be explained by considering grain orientation dependent Schmid factors of the {111}<112> slip system underlying the fcc to hcp transformation. While for post-yield elastically compliant grains the Schmid factor of the leading partial dislocation is larger than that of the trailing partial dislocation, the opposite is true for post-yield elastically stiff grains. The former grains show a phase reversion, i.e. hcp→fcc upon compression, the latter grains do not transform back to fcc. EBSD characterization confirms the phase reversion for a <541> orientated grain by the disappearance of hcp bands. Martensite bands, which have not reverted to austenite during compression, showed a thickening. The thickening of existing bands during compression is associated with the activation of a second slip system.
+Keywords: FeMnSi; Neutron diffraction; Martensite transformation; Schmid factor
+
+S.S. Liang, S.P. Wen, X.L. Wu, H. Huang, K.Y. Gao, Z.R. Nie,
+The synergetic effect of Si and Sc on the thermal stability of the precipitates in AlCuMg alloy,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139319,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139319.
+(https://www.sciencedirect.com/science/article/pii/S0921509320304019)
+Abstract: The effect of Si and Sc on the evolution of the precipitates during aging in Al4.0Cu0.5 Mg alloys was investigated by means of microhardness tests and transmission electron microscope. The results show that Si can significantly refine the size of θ′ phases, because addition of Si introduces a considerable amount of small, uniformly dispersed Al–Cu–Mg–Si (Q) quaternary phases, which provides nucleation sites for the θ′ phases. Sc atoms segregate at the interfaces between the matrix and the θ′-Al2Cu precipitates in AlCuMgSiSc alloy. The segregation of Sc atoms inhibits the growth of the θ′ phases and improves the thermal stability of the θ′ phases. At the same time, the segregation of Sc atoms in Q phases restrains the coarsening of the Q phases, which also contributes to the thermal stability of the θ′ phases. The co-addition of Si and Sc thus leads to a combination of high strength and high thermal stability of the Al–Cu–Mg–Si-Sc alloy.
+Keywords: Sc; Segregation; AlCuMg; Precipitate; Thermal stability
+
+Abbas Mohammadi, Kaveh Edalati, Diego Davi Coimbrão, Walter José Botta, Hiroshi Noguchi,
+Influence of nanotwins on hydrogen embrittlement of TWIP (twinning-induced plasticity) steel processed by high-pressure torsion,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139273,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139273.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303567)
+Abstract: Recent studies suggested that nanotwinned metallic materials can exhibit a good combination of high strength and high ductility. However, few studies examined the strength and ductility of nanotwinned alloys under hydrogen atmosphere. In this study, nanotwins are introduced in a TWIP (twinning-induced plasticity) steel by application of high-pressure torsion (HPT) followed by annealing. The nanotwinned austenitic TWIP steel exhibited a high tensile strength as ~1.4 GPa but without ductility after hydrogen charging. Unlike nanotwinned alloy, the HPT-processed sample, which experienced a phase transformation to a bimodal martensitic structure, exhibited both high strength (~1.6 GPa) and high uniform ductility (6%) after hydrogen charging. It was concluded that twin boundaries act mainly as crack initiation sites and propagation paths but not as effective barriers for dislocation accumulation to enhance the ductility of the TWIP steels under hydrogen atmosphere.
+Keywords: Hydrogen embrittlement; Martensitic phase transformation; Ultrafine-grained materials; Severe plastic deformation; ASTAR orientation Mapping
+
+Wenguang Zhu, Jia Lei, Bin Su, Qiaoyan Sun,
+The interdependence of microstructure, strength and fracture toughness in a novel β titanium alloy Ti–5Al–4Zr–8Mo–7V,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139248,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139248.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303324)
+Abstract: In order to study the correlation between microstructure, strength and fracture toughness (KIC) and optimize the strength-KIC combination, BASCA (β annealing slow cooling plus aging) and STA (α/β solution treatment plus aging) heat treatment followed by near β forging is conducted to obtain a variety of multiscale lamella structure and Bi-modal structure. The results show that multiscale lamella structure exhibits good strength-toughness combination. The fracture toughness is ~52 MPa⋅m0.5 at the strength level of ~1460 MPa. By decreasing the tensile strength to ~1260 MPa, the fracture toughness increases to ~64 MPa⋅m0.5. In both lamella structure and Bi-modal structure, fracture toughness increases with decreasing yield strength which is attributed to a lager plastic zone at crack tip of lower strength. A linear relationship between yield strength and KIC gives a good fit in multiscale lamella structure. This suggests that continuum property (e.g. strength and ductility) governs KIC in the same microstructure type. Comparing different microstructure type, multiscale lamella structure exhibited higher KIC than Bi-modal structure at similar strength level. This is mainly attributed to the effect of back stress during deformation. A lower α/β interphase stress (back stress) and homogeneous strain distribution are exhibited in lamella structure which retards the crack propagation and increases the KIC. Meanwhile, coarse α lamella in multiscale lamella structure promotes the crack deflection. This crack shielding decreases the effective stress intensity (Keff) at crack tip and increase fracture toughness accordingly. Our study indicates that forming multiscale lamella α phase by BASCA treatment is an effective approach to overcome the mutually exclusive properties of strength and fracture toughness in high strength β titanium alloys. Multiscale lamella structure improves KIC by both intrinsic toughening (a more homogeneous strain distribution) and extrinsic toughening (improved crack propagation resistance).
+Keywords: β titanium alloy; Fracture toughness; Lamella structure; Bi-modal structure; Local strain inhomogeneity
+
+Honglei Hu, Mingjiu Zhao, Shenghu Chen, Lijian Rong,
+Effect of grain boundary character distribution on hydrogen embrittlement in Fe–Ni based alloy,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139201,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139201.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302872)
+Abstract: The feasibility of using grain boundary engineering (GBE) to reduce the susceptibility of hydrogen embrittlement in precipitation strengthened Fe–Ni based austenitic alloy is investigated. After GBE treatment, the fraction of special boundaries (SBs) increased from 46% to 78% while the hydrogen-induced loss of elongation is decreased from 21.8% to 8.6%. This improvement of hydrogen resistance can be attributed to not only the high fraction of SBs but also the disruption of random grain boundaries (RGBs) network. As the former has high resistance to hydrogen-induced crack initiation and the later can suppress the propagation of cracks.
+Keywords: Fe–Ni based Alloy; EBSD; Gas hydrogen charging; Grain boundary engineering; Hydrogen embrittlement; Intergranular cracking
+
+Woong-Kyeong Seong, Byeong-Min Ahn, Yuho Min, Geon-Tae Hwang, Jong-Jin Choi, Joon-Hwan Choi, Byung-Dong Hahn, Young-Rae Cho, Cheol-Woo Ahn,
+An easy approach to manufacture high quality zirconia-toughed alumina,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139328,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139328.
+(https://www.sciencedirect.com/science/article/pii/S0921509320304093)
+Abstract: Zirconia-toughened alumina (ZTA) is used to release the heat generated in electronic components, since it shows the high thermal conductivity of 23–27 W/mK and the excellent flexural strength of 550–700 MPa. However, it has not been reported how the high quality ZTA can be manufactured, in the literature. In this manuscript, an interesting approach is described to manufacture a high quality ZTA. The high quality ZTA can be manufactured by contaminating the surface of alumina particles with YSZ using a ball-milling process. It shows the microstructure of a nanocomposite composed of Nb-doped YSZ and alumina. Consequently, the high quality ZTA has the high thermal conductivity of 27.5 W/mK and the excellent flexural strength of 732 MPa similar to those of a commercial ZTA.
+Keywords: Zirconia toughened alumina; Microstructure; Thermal conductivity; Flexural strength
+
+Prince S. Singh, Zhiyuan Liang, George M. Pharr, Maarten P. de Boer,
+Creep of a thermally stable nanocrystalline nickel tungsten alloy as measured by high temperature nanoindentation,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139309,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139309.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303919)
+Abstract: The creep behavior of pure nanocrystalline (nc) fcc metals has not been studied above 200 °C because the nanoscale grains tend to grow at temperatures moderately above ambient. In this work, we study the creep of nanocrystalline Ni–W (nc Ni–W) up to 450 °C, near its thermal stability limit. A nanoindenter with the capability to heat both the specimen and the indenter tip addresses the issue of heat flow and provides more accurate test temperatures when compared to heating only the specimen. Creep experiments are performed on a nc Ni–W film (grain size ~15 nm) at 300, 350, 400 and 450 °C using the constant load and hold (CLH) method combined with the constant stiffness measurement (CSM) technique in which the peak load is maintained at a constant level. No grain growth occurs even at the highest temperature and highest stress. We conduct an analysis that accounts for the effect of the oscillating loads used in this combined CLH-CSM technique on creep. We find that nc Ni–W exhibits negligible creep at 300 °C, and that at 350 °C, creep in nc Ni–W is three orders of magnitude smaller than creep in pure nc Ni at 100 °C. The creep response of nc Ni–W differs significantly from that predicted by the standard Coble creep model and is attributed to the dislocation–grain boundary interaction.
+Keywords: Nanoindentation; Creep; High temperature; Nickel–tungsten alloy; Thermally stable
+
+Guanfei Xiao, Jufu Jiang, Ying Wang, Yingze Liu, Ying Zhang,
+Microstructure and mechanical properties of nickel-based superalloy GH4037 parts formed by thixoforming,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139196,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139196.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302823)
+Abstract: Semi-solid processing has unique advantages over traditional forging and casting routines. However, there is little research of semi-solid processing on nickel-based superalloys. In this paper, semi-solid thixoforming of nickel-based superalloy was carried out for the first time. Specimens of extruded GH4037 alloy were heated directly to a semi-solid temperature ranging from 1350 °C to 1390 °C and soaked for 30 min, and then transferred to a preheated die for thixoforming. GH4037 parts with complete filling status and good surface quality were thixoformed successfully at 1370 °C, 1380 °C and 1390 °C, respectively. The effect of temperature on microstructure evolution and mechanical properties of thixoformed GH4037 parts was investigated. The results indicated that fine recrystallized grains were obtained in the center of GH4037 parts formed at 1350 °C, while the microstructure was composed of large solid grains and partial liquid phases in the edge region. Homogeneous semi-solid microstructure consisting of solid grains and liquid phases was obtained at high temperatures. Excellent tensile properties were obtained at 1350 °C, but incomplete filling status affected the quality of GH4037 part. Both the tensile strength and elongation were poor at 1370 °C. The optimum forming temperature was 1380 °C, GH4037 part formed at this condition had complete filling status, good surface quality, uniform microstructure and good mechanical properties. This work has demonstrated the feasibility of thixoforming a nickel-based superalloy component with high performance.
+Keywords: Nickel-based superalloy; Thixoforming; Semi-solid processing; Microstructure; Mechanical properties
+
+Junjie Sun, Chen Yang, Shengwu Guo, Xuejiao Sun, Mingyue Ma, Shengdu Zhao, Yongning Liu,
+A novel process to obtain lamella structured low-carbon steel with bimodal grain size distribution for potentially improving mechanical property,
+Materials Science and Engineering: A,
+Volume 785,
+2020,
+139339,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139339.
+(https://www.sciencedirect.com/science/article/pii/S0921509320304202)
+Abstract: A lamella structured low-carbon steel plate with bimodal grain size distribution (LSBG steel) was produced by a two-step warm rolling and subsequently annealing, and its mechanical properties, strengthening and toughening mechanisms were studied. The heterogeneous lamellar structure is characterized with ultrafine-grained (UFG) lamellae (with average grain diameter about 1 μm) embedded in coarse-grained (CG) lamellae matrix. The LSBG steel shows an improved combination of strength and toughness when compared with corresponding CG specimens, and also evades strength-ductility trade-off compared with UFG ones. When comparing with initial CG steel, the yield strength and tensile strength are increased by 87.4% and 35% respectively, but the ductility is only with a small sacrifice, and the ductile-to-brittle transition temperature is significantly decreased from about −70 °C to −110 °C. The improved strength is mainly attributed to ultrafine grain strengthening, and the reasonable ductility can be attributed to both the bimodal grain size and the lamellar structure as they can increase the work hardening rate by the accumulation of geometrically necessary dislocations in their vicinity. And the improved toughness of the LSBG steel is thought to be mainly attributed to grain refinement and the lamellar structure.
+Keywords: Low-carbon steel; Lamellar microstructure; Ultrafine-grained; Mechanical properties; Strengthening mechanism; Toughening mechanism
+
+Haimin Ding, Haoran Jia, Minmin Li, Wenzhi Miao, Chunyan Li, Qing Liu,
+Study on stress distribution in microregion close to the shell of core-shell particle reinforced metal matrix composites,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139317,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139317.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303993)
+Abstract: The stress distribution in microregion close to the shell of core-shell particle reinforced metal matrix composites is studied by the finite element analysis in this work. It is found that the stress distribution of the composites is dependent on the elastic modulus of both shell and core phases as well as the difference between them. If the elastic modulus of the formed shell is larger than that of the core, the load borne by the shell will be increased, otherwise, the load borne by the matrix and the core will be increased. The formation of shell and its nature can also significantly change the position of the maximum stress on the reinforced particles but have little influence on that in the matrix. When the elastic modulus of the shell is smaller than that of the core, the maximum stress position in the core-shell particle will be at the core and close to the interface between core and shell, otherwise, it is shift to the shell and also close to the interface between core and shell. The degree of the stress concentration in Al matrix becomes more serious after the formation of the shell in the reinforced particles, while that in shell of core-shell particles mainly depends on the modulus difference of core and shell.
+Keywords: Metal matrix composites; Finite element analysis; Stress distribution
+
+Pengfei Zheng, Yanfen Li, Jiarong Zhang, Jingjie Shen, Takuya Nagasaka, Takeo Muroga, Hiroaki Abe,
+On the thermal stability of a 9Cr-ODS steel aged at 700 °C up to 10000 h - Mechanical properties and microstructure,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139292,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139292.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303750)
+Abstract: Thermal aging experiments on a 9Cr-ODS steel were carried out at 700 °C with a period from 100 up to 10000 h, and the effects on mechanical properties and microstructural evolutions were investigated. It was found that hardness and tensile properties exhibited negligible degradation by thermal aging. The mixed ductile and brittle fracture modes in the tensile specimens remained almost no change. Although a slight recovery of grains/subgrain structures and dislocations took place, the homogeneously dispersed nano-size oxides with an ultrahigh density in matrix were not affected during the thermal aging. However, a significant coarsening of carbides around grain/subgrain boundaries appeared. Benefited from the extreme stability of nano-size oxides, the 9Cr-ODS steel possesses the excellent thermal stability of mechanical properties exposed to the elevated temperature of 700 °C up to 10000 h.
+Keywords: Nuclear materials; Oxide dispersion strengthened (ODS) steels; Thermal stability; Mechanical properties; Microstructural evolution
+
+Qi Qiao, Yishi Su, Zhiqiang Li, Qifeng Cui, Hong Yu, Qiubao Ouyang, Di Zhang,
+Effect of overlapping region on double-sided friction stir welded joint of 120 mm ultra-thick SiCp/Al composite plates,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139238,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139238.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303233)
+Abstract: Effective joining techniques are urgent and necessary for the rapid developments and widespread applications of aluminum matrix composite (AMC) components. Friction stir welding (FSW) is a very promising method for joining AMCs without clear defects, while double-sided FSW is especially preferred in joining thick or ultra-thick AMC plates. The overlapping region stirred twice by the two welding passes is formed during the double-sided FSW, which has an important effect on the microstructures and mechanical properties of the composite joint. In this work, 120 mm ultra-thick plates of 16 vol % SiCp/2014Al composites were successfully joined by the double-sided FSW, and an overlapping region appearing at the middle thickness of the composite joint is mainly concerned and studied. Compared with the base material and the region stirred once in the SiCp/Al composite joint, the decrease of SiC particle size, improved uniformity of particle distribution and refinement of aluminum grains and precipitates are observed in the overlapping region as a result of repetitive mechanical stirring during the double-sided FSW. The overlapping region exhibits the largest Vickers hardness and overall tensile properties: yield strength of 224 MPa, ultimate tensile strength of 369 MPa and failure elongation of 6.6%. The simultaneous enhancement in tensile strength and ductility in the overlapping region is attributed to the more effective load-transfer of reinforced particles with decreasing particle size, and the increased grain boundary strengthening due to matrix grain refinement. A comprehensive understanding the effect of overlapping region on the microstructural characterization and mechanical properties of the composite joint is positive and important to promote and accelerate the industrial applications of double-sided FSW technology in joining thick or ultra-thick metal matrix composite plates.
+Keywords: Ultra-thick aluminum matrix composite plates; Double-sided friction stir welding; Overlapping region; Microstructural characterization; Mechanical properties
+
+Ruxue Liu, Jiang Zheng, Larry Godlewski, Jacob Zindel, Mei Li, Wenkai Li, Shiyao Huang,
+Influence of pore characteristics and eutectic particles on the tensile properties of Al–Si–Mn–Mg high pressure die casting alloy,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139280,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139280.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303634)
+Abstract: Heterogeneous microstructure and unpredictable porosity distribution in Al–Si high-pressure die-castings give rise to a significant variation in their mechanical properties. This study investigated the influence of porosity distribution, volume of the largest pore, eutectic phase morphology and Mn-containing intermetallics on the tensile properties of Al–Si–Mn–Mg high-pressure die-castings. The as-cast material has a “network” of fine coralloid eutectic Si as well as blocky AlSiFeMn intermetallics in interdendritic area. The solution treatment step of the T7 heat treatment spheroidized the eutectic silicon. Tensile samples were tested in both the as-cast and T7 conditions. The yield strength (YS), ultimate tensile strength (UTS) and elongation (%E) of as-cast samples were in the ranges of 129–146 MPa, 242–282 MPa and 2.6–4.7%, respectively. After T7 heat treatment the YS, UTS and %E had ranged from 124-142 MPa, 195–207 MPa and 4.6–12.1%, respectively. The T7 heat treatment had little effect on the YS but reduced the UTS considerably. The enhanced %E can be ascribed to the spheroidization of eutectic Si. The largest pore by volume in the sample also plays an important role in determining the ductility according to three-dimensional (3D) pore morphologies obtained via computed tomography (CT). The sample with largest pore by volume has the lowest %E, indicating the %E can be estimated prior to tensile test based on the size of the largest pore by volume in the sample.
+Keywords: Aluminum alloy; High pressure die casting; Ductility; Porosity; X-ray tomography
+
+Xianchang Mao, Youping Yi, Hailin He, Shiquan Huang, Wanfu Guo,
+Second phase particles and mechanical properties of 2219 aluminum alloys processed by an improved ring manufacturing process,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139226,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139226.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303117)
+Abstract: 2219 Al alloy has been used to manufacture the launch vehicle storage tank transition ring, but the large ring obtained in conventional manufacturing processes still suffers from severely agglomerated coarse second phase particles and poor mechanical properties. An improved process (forging at 510 °C with 20% deformation and at 240 °C with 50% deformation, then rolling at 240 °C with 30% deformation, followed by solid solution at 538 °C for 4 h and T8 treatment) for 2219 Al alloy large ring manufacturing was proposed, and the corresponding simulation tests were carried out. The evolution of Al2Cu second phase particles and the mechanical properties of the produced workpieces were investigated. The results showed that the degree of crushing, dissolution, and precipitation of Al2Cu particles were significantly improved in the improved process, and the area fractions of Al2Cu coarse second phase particles after saddle forging and rolling were significantly reduced, leading to 2.4 times increase in area fraction of the θ′ phase after T8 treatment. More homogeneous slip occurred during the tensile testing process and intergranular fracture was the main fracture mechanism. The tensile strength σb, yield strength σs, and elongation δ in the radial direction of the 2219 workpieces were increased to 491 MPa, 388 MPa, and 13.1%, where were increases of 11%, 14%, and 68%, respectively. The uniformity in σb, σs, and δ of the 2219 workpieces increased by 57%, 38%, and 64%, respectively.
+Keywords: 2219 Al alloy; Warm deformation; Al2Cu second phase particles; Evolution; Mechanical properties
+
+Srinivasa Rakesh Ch, A. Raja, R. Jayaganthan, N.J. Vasa, M. Raghunandan,
+Study on the fatigue behaviour of selective laser melted AlSi10Mg alloy,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139180,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139180.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302665)
+Abstract: Selective laser melted (SLM) AlSi10Mg alloy was subjected to high cycle fatigue test to elucidate the effect of microstructural characteristics and sub-microscopic defects in its dynamic behaviour. The microstructure of the processed materials revealed scan tracks on the scanning surface and solidified melt pool/melt pool tracks on the surface in the build direction. The processed material exhibits equi-axed morphology with 〈100〉 fibre texture on the scanned surface and elongated grains preferably 〈100〉 orientation in the build direction. The pore size and distribution in the selective laser melted materials were measured using computed micro-tomography method μ-(CT). The cellular structures constituting 500 nm sized grains were observed. The boundary of the cell was a eutectic mixture of Al and Si while the matrix comprised of primary α-Al as observed from TEM results. The influence of grain morphology, microtexture, pores, and cellular structure on the deformation behaviour of processed materials under cyclic loading were investigated. Load controlled axial fatigue test was conducted at a stress ratio of 0.1 and 25 Hz frequency. Fractographs revealed crack initiation occurred, typically, due to the pores and the Si particles in surface or sub-surfaces. The cellular structures in the microstructure played a significant role in influencing the fatigue crack path, depends on its location in the microstructure. Dislocations in the cellular matrix and dislocation fringes in the cellular boundaries observed through transmission electron microscopy affirms this influence. Anisotropy and shielding gases observed to exhibit no significant influences on the fatigue life of the processed material. The crack initiation and propagation are heavily influenced by surface/subsurface pores and cellular structure as evident from the detailed microscopic investigation made in the present work.
+Keywords: AlSi10Mg alloy; Selective laser melting; Cellular structure; High cycle fatigue; Crack path propagation
+
+Li Li, Qihong Fang, Jia Li, Bin Liu, Yong Liu, Peter K. Liaw,
+Lattice-distortion dependent yield strength in high entropy alloys,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139323,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139323.
+(https://www.sciencedirect.com/science/article/pii/S0921509320304044)
+Abstract: High entropy alloys (HEAs) have attracted great attention due to their impressive properties induced by the severe lattice distortion in comparison to the conventional alloys. However, the effect of severe lattice distortion on the mechanical properties in face-centered-cubic (FCC) and body-centered-cubic (BCC) structured HEAs is still not fully understood, which are critically important to the fundamental studies as well as the industrial applications. Herein, an analytical model for predicting the solid-solution strengthening and the yield stress in FCC and BCC HEAs accounting for the lattice distortion is presented. Both the calculated solid-solution strengthening and the yield strength are compared to the experimental results, to verify the rationality of the built theoretical model. The numerical predictions considering the severe lattice-distortion effect agree well with the experimental results for both FCC and BCC HEAs, in terms of the yield strength and the solid-solution strengthening. Based on theoretical model, the constructed contour line of solid-solution strengthening can be used to evaluate the effect of elemental type on yield strength of HEAs, which provides guideline for discovering and screening the advanced HEAs. Furthermore, it has been identified the atomic-radius mismatch and solid-solution strengthening do not increase directly as the number of components increases in HEAs based on the theoretical analysis. In the Alx-Cr-Co-Fe-Ni-Mn HEA system, the atomic-radius mismatch and shear-modulus mismatch induced by the added Al element govern the solid-solution strengthening, but this situation disappears in the Alx-Hf-Nb-Ta-Ti-Zr HEA system. It is further confirmed that the effect of the atomic-radius mismatch on the solid-solution strengthening is obviously higher than effect of the shear-modulus mismatch, dominating the yield strength. These results provide an insight into the effect of severe lattice distortion on the yield strength, and demonstrate a theoretical framework for identifying the desired compositions to create the excellent HEAs.
+Keywords: High-entropy alloys; Lattice distortion effect; Solute concentration; Solid-solution strengthening; Yield strength
+
+A. Facco, M. Couvrat, D. Magné, M. Roussel, A. Guillet, C. Pareige,
+Microstructure influence on creep properties of heat-resistant austenitic alloys with high aluminum content,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139276,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139276.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303592)
+Abstract: This work focusses on the link between microstructure and creep properties for heat-resistant austenitic alloys with high aluminum content (3–5 wt %). An emphasis was put on the coupling of thermodynamic simulations, microstructural characterizations by scanning electron microscopy and transmission electron microscopy, and creep testing. The phase predictions performed by the calculation of phase diagrams method are in good agreement with the observed microstructure after creep at 1000 °C and 1050 °C. Correlation between creep properties and microstructure characterizations at 1000 °C and 1050 °C revealed that NiAl and α’ (chromium-rich base centered cubic phase) phases are deleterious for the creep properties at service temperature. Several high Al-content alloys are selected in order to replace the chromia-forming alloys standardly used in cracking furnaces.
+Keywords: Heat-resistant; Alumina-forming austenitic alloy (AFA); Precipitation; Creep behavior; Alloy design; Phases diagram
+
+X.L. Zhao, J. Kuang, K.K. Shi, P. Zhang, H. Xue, J.Y. Zhang, G. Liu, J. Sun, G.M. Xu, Z.D. Wang,
+Heterogeneous microstructure-mediated ductile fracture of twin-roll cast Al–Mn strip,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139222,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139222.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303075)
+Abstract: The microstructure and mechanical properties of the twin-roll cast (TRC) and traditional direct-chill cast (DC) Al–Mn strip have been compared using electron backscattered diffraction, scanning electron microscope, transmission electron microscope, and atom-probe tomography. The TRC Al–Mn strip showed a heterogeneous microstructure and texture along the thickness direction of the strip, forming a 'hard shell-soft core' structure. This heterogeneous microstructure resulted in a mutual constraint between the surface region and the center region, enabling the TRC strip to be plastically deformed to a total elongation >30% prior to fracture. In comparison, the DC strip, with a relatively homogeneous microstructure and texture, exhibited a uniform elongation close to zero. The distinct tensile properties presented by the two strips have been rationalized in terms of the differences in their microstructural features, including grain size/orientation, dislocation density, coarse constituent particles and solute atoms. A micromechanics model has been employed to understand the superior ductility of the TRC strip.
+Keywords: Al-Mn strip; Twin-roll casting; Heterogeneous structure; Ductile fracture
+
+S.L. Cai, J.C. Wan, Y.J. Hao, C.C. Koch,
+Dual gradient microstructure to simultaneously improve strength and electrical conductivity of aluminum wire,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139308,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139308.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303907)
+Abstract: High strength and high electrical conductivity are needed for the usage of aluminum wire in high-voltage lines. Strength and electrical conductivity are contradictory in metallic materials. Improving strength comes with the sacrifice of electrical conductivity. Here we produced a dual gradient microstructure to improve the strength of aluminum wire without compromising electrical conductivity. Aluminum wires with gradient microstructures and dual gradient microstructures were processed through clockwise torsion and subsequent anti-clockwise torsion. Compared with the gradient microstructural aluminum, aluminum with dual gradient microstructures possesses higher strength and higher electrical conductivity. Microstructural characterizations and numerical simulations further reveals that dual gradient grain size provides extra strain hardening and less electrical resistivity. This explains the high strength and high electrical conductivity in aluminum wire with dual gradient microstructure.
+Keywords: Gradient microstructure; Aluminum wire; High strength; High electrical conductivity; High-voltage line
+
+Alexei Vinogradov, Einar Agletdinov, Igor S. Yasnikov, Kristián Máthis, Yuri Estrin,
+A phenomenological model of twinning-mediated strain hardening,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139194,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139194.
+(https://www.sciencedirect.com/science/article/pii/S092150932030280X)
+Abstract: We present a model of strain-hardening in materials with twinning-mediated plasticity. While the model is largely phenomenological, it was motivated by microstructural considerations and can be claimed to be physically sound. Using simple, yet sensible, assumptions regarding the stress-driven twinning kinetics and dislocation-twin interactions, constitutive equations governing the strain hardening behaviour were obtained and solved numerically. The solutions were compared with the experimental data on uniaxial deformation of pure magnesium and Mg alloy ZK60, and this comparison substantiated the validity and practicality of the model proposed.
+Keywords: Magnesium; Twinning; Phenomenological modelling; Strain hardening; Dislocation-twin interaction
+
+I.V. Kireeva, Yu.I. Chumlyakov, A.V. Vyrodova, Z.V. Pobedennaya, I. Karaman,
+Effect of twinning on the orientation dependence of mechanical behaviour and fracture in single crystals of the equiatomic CoCrFeMnNi high-entropy alloy at 77K,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139315,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139315.
+(https://www.sciencedirect.com/science/article/pii/S092150932030397X)
+Abstract: The plastic flow behaviour of single crystals of the CoCrFeMnNi high-entropy alloy is shown to be greatly influenced by the twinning multiplicity on the stress-strain (σ(ε)) curves, the strain hardening coefficient Θ = dσ/dε, plasticity and fracture. It is shown that a maximum effect of strain hardening is obtained during the onset of twinning in two systems in the [1¯11]- and [1¯44]-oriented crystals, while a transition to the development of twinning predominantly in one system simultaneously with slip, is accompanied by a decrease in strain hardening. At 77K in the [1¯11]-, [1¯23]- and [011]-oriented crystals, when twinning develops in one system with slip, the extension of the linear hardening stage and plasticity increase as a result of the suppression cross-slip and shifting the neck formation according to the Considère condition to higher stress levels. The development of deformation by twinning only in several systems and the suppression of the relaxation of local stresses during twin-twin intersection by slip or twinning, leads to the failure of quasi-cleavage in the [1¯44]-oriented crystals at 77K, after 50% strain. With the development of twinning predominantly in one system and a high density of dislocations, the [1¯11]-, [1¯23]- and [011]-oriented crystals show ductile failure, since the stresses for neck formation according to the Considère condition are reached before the stresses for brittle fracture.
+Keywords: CoCrFeMnNi High-entropy alloy; Single crystals; Tensile strain; Deformation twinning; Fracture
+
+Wanru Tang, Shimeng Liu, Zheng Liu, Shuang Kang, Pingli Mao, Hui Guo,
+High strain rate compression deformation mechanism and constitutive equation of fine grained Mg–7Gd–5Y–1.2Nd–0.5Zr alloy at different temperatures,
+Materials Science and Engineering: A,
+Volume 780,
+2020,
+139208,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139208.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302938)
+Abstract: Dynamic compression experiments of fine grained Mg–7Gd–5Y–1.2Nd–0.5Zr alloy were measured by the split-Hopkinson pressure bar test at the strain rates in the range 1000–2000 s−1 and the temperature range 293–573 K along the transverse direction. The microstructure of the alloy was characterized by electron back-scattering diffraction and transmission electron microscopy. The results showed that the deformation hardening mechanisms dominated by pyramidal <c + a> slip and assisted by many mechanisms such as tension twinning, while the deformation softening mechanism just dominated by a partial dynamic recrystallization at the grain boundaries. During the entire deformation process at different temperatures, softening was found as the only accompanying mechanism of hardening. Even at 573 K, the fully recrystallized structure was not achieved, and the hardening mechanism was always dominant until they tend to balance. Based on these deformation mechanisms, especially the continuous attenuation mechanism of dynamic recrystallization softening associated with hardening, the Johnson–Cook model was modified, and a unified constitutive equation for deformation under high strain rate at different temperatures was constructed. The resulted obtained by this equation were in good agreement with the experimental results.
+Keywords: Fine grained magnesium alloy; High strain rate deformation; Dynamic recrystallization softening; Constitutive equation
+
+Petr Kral, Wolfgang Blum, Jiri Dvorak, Nikita Yurchenko, Nikita Stepanov, Sergey Zherebtsov, Lenka Kuncicka, Marie Kvapilova, Vaclav Sklenicka,
+Creep behavior of an AlTiVNbZr0.25 high entropy alloy at 1073 K,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139291,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139291.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303749)
+Abstract: The deformation behavior of an AlTiVNbZr0.25 high entropy alloy at 1073 K was investigated in creep in protective argon atmosphere at stresses of 100–560 MPa with and without changes. In the initial condition after annealing at 1473 K for 24 h the alloys was composed of B2 matrix phase and coarse Zr5Al3-type particles. During creep a limited amount of new Nb2Al-type sigma phase precipitates at the Zr5Al3/B2 hetero-phase interface and a quasi-stationary dislocation density of the expected order of magnitude are developed. The quasi-stationary creep rate obeys a three-power law and the transients after stress changes are inverted. This is interpreted in terms of the class A creep behavior with viscous glide due to cloud drag.
+Keywords: High Entropy alloys; Creep; Deformation mechanisms; Microstructure; Phase transformations; Viscous glide
+
+Jie Chen, Yongqiang Yang, Changhui Song, Di Wang, Shibiao Wu, Mingkang Zhang,
+Influence mechanism of process parameters on the interfacial characterization of selective laser melting 316L/CuSn10,
+Materials Science and Engineering: A,
+Volume 792,
+2020,
+139316,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139316.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303981)
+Abstract: Bimetallic structures can combine the performance of dissimilar metal materials to meet the multifunctional requirement in industrial solutions. In this paper, steel-bronze bimetallic structures were fabricated via self-developed multi-material selective laser melting (SLM) equipment. In order to investigate the influence of laser power, scanning speed, and hatching space on the interfacial characterization, three factors and five levels of orthogonal experiments were performed on twenty layers of CuSn10 tin bronze after forming the 316 L stainless steel. Optical microscope (OM), large depth field microscope, scanning electron microscopy (SEM), energy dispersive spectroscopy (EDS), tensile properties, electron backscattering diffraction (EBSD) and nanoindentation were used to characterize these bimetallic structures to validate the impact from process parameters. The large depth field microscope revealed protrusions at the steel/bronze interface, and its height increased and then decreased with increasing volumetric energy input. Besides, the generation of interfacial defects is related to the interfacial process parameters, and it is found that the types of defects are mainly classified as holes and cracks. Insufficient energy will cause cracks in the horizontal direction and then lead to bonding failure. Conversely, higher energy input will generate microcracks in the vertical direction. The defects near the interfacial region are the main factors affecting the ultimate strength of the bonding strength. As a result, the steel-bronze bimetallic structure displays optimal joint ultimate strength of 459.54 ± 3.08 MPa with elongation of 5.23 ± 0.65%, and minimum joint ultimate strength of 199.02 ± 0.56 MPa with elongation of 1.70 ± 0.22%. Their fracture morphology also exhibited gully-like and fan-shaped features, respectively. Additionally, the EBSD results show that there are fine grain regions appeared in the interfacial region, which helps increase the average nano-hardness of the interfacial region. This study provides a reference for the influence of process parameters on the interfacial characterization and mechanical properties of steel-bronze bimetallic parts prepared by selective laser melting.
+Keywords: Selective laser melting; Multi-material; Bimetallic structure; Interfacial characterization; Mechanical properties
+
+Débora Cristina Niero Fabris, Mariana Borges Polla, Juliana Acordi, André Luiz Luza, Adriano Michael Bernardin, Agenor De Noni, Oscar Rubem Klegues Montedo,
+Effect of MgO·Al2O3·SiO2 glass-ceramic as sintering aid on properties of alumina armors,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139237,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139237.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303221)
+Abstract: Liquid-phase sintering is advantageous compared to solid-state sintering in manufacturing ceramic composites including lightweight armors. The crystalline phases formed from the liquid phase affect the mechanical properties of the material, and thus, to the best of our knowledge, their effect on the ballistic behavior need to be understood. In this paper, the correlation between mechanical properties and ballistic performance of non-stoichiometric cordierite-based glass-ceramic/alumina composites arrays with 99.8% purity was evaluated. The precursor alumina had average particle sizes of 0.5 and 1.7 μm, and the added glass-ceramic contents were 7 and 14 vol%. Cold-pressed samples were sintered under conditions of maximum densification. The behavior of each composition was compared with that of pure alumina with respect to sintering, mechanical properties, and ballistic performance evaluated by depth of penetration (DOP). For a single precursor alumina, decreases in ballistic resistance were observed with increases in the content of glass-ceramic due to the reduction in mechanical properties, specially hardness and Young's modulus (E). The overall analysis of the data indicated that ballistic behavior of alumina is more complex, and the toughness (KIC) and hardness (HK) can be regarded as predictive properties for determining alumina ballistic performance in DOP test. It is demonstrated that glass-ceramic addition lead to lower sintering time and temperature, from 1670 °C for 5 h to 1570 °C for 0.5 h, and these compositions have the similar areal density of pure alumina regarding ballistic performance, with less than 4% difference between 1.7 μm pure alumina and the composition with 7 vol% glass-ceramic precursor addition.
+Keywords: Alumina; Cordierite; Glass-ceramics; Mechanical properties; Armor
+
+Virendra Kumar Verma, Motomichi Koyama, Shigeru Hamada, Eiji Akiyama,
+Multiple damage mechanisms facilitated by planar dislocation glide in a commercial-grade precipitation-strengthened Fe–Ni–Cr-based steel,
+Materials Science and Engineering: A,
+Volume 782,
+2020,
+139250,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139250.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303348)
+Abstract: The present study addresses the damage evolution mechanism in precipitation-strengthened Fe–Ni–Cr-based steel (SUH 660) at ambient temperature in air. Specifically, damage quantification and associated microstructure characterization were performed. The damage initiation sites were inclusion and grain boundaries impinging dislocation slip. The early stage of damage evolution was observed before necking of the specimen. Subsequent plastic straining caused damage growth along slip planes and coalescence of damage via localized shear in ligaments between damages, for which the behavior was associated with the planar character of the slip. The damage evolution behavior observed in the post-mortem specimen was consistent with fractographic characteristics.
+Keywords: Damage; Precipitation strengthening; Austenitic steel; Planar dislocation glide; Failure
+
+Yu.P. Sharkeev, V.P. Vavilov, V.A. Skrypnyak, E.V. Legostaeva, A. Yu Eroshenko, O.A. Belyavskaya, A.M. Ustinov, A.A. Klopotov, A.O. Chulkov, A.A. Kozulin, V.V. Skrypnyak, A. Yu Zhilyakov, V.P. Kouznetsov, M.V. Kuimova,
+Research on the processes of deformation and failure in coarse- and ultrafine-grain states of Zr1–Nb alloys by digital image correlation and infrared thermography,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139203,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139203.
+(https://www.sciencedirect.com/science/article/pii/S0921509320302896)
+Abstract: The mechanical behavior of coarse- and ultrafine-grained (CG/UFG) Zr–1Nb alloy specimens under quasi-static tensile testing, the distribution of εxx, εyy, εxy strains and the evolution of temperature patterns have been studied using the techniques of digital image correlation and infrared thermography. The microstructure of the Zr–1Nb alloy in the initial CG and UFG states, as well as after deformation at the prefracture stage, has been investigated. A study of the accumulation and dissipation of energy in these materials under tensile load has demonstrated the influence of the alloy heat capacity on these processes. It has been found that, under tensile testing, the Zr–1Nb alloy in the UFG state is characterized by a stage with constant temperature, which takes place up to εtrue≈0.04 thus indicating that UFG materials, unlike CG ones, more efficiently use the structural energy absorption channel during deformation. The prefracture stage of the Zr–1Nb in the UFG state is characterized by the sharp temperature increase up to 60 °C. At this stage, the strain hardening coefficient becomes negative reaching values up to -6.5 GPa thus indicating local material softening before fracture. The formation of large local areas with disoriented mesh structure of dislocations is another feature of structural transformations in the Zr–1Nb alloy in the UFG state before fracture that also indicates a local material softening.
+Keywords: Coarse- and ultrafine-grained alloy; Tensile test; Severe plastic deformation; Microstructure; Digital image correlation; Infrared thermography
+
+M. Wang, J.C. Pang, H.Q. Liu, S.X. Li, M.X. Zhang, Z.F. Zhang,
+Effect of constraint factor on the thermo-mechanical fatigue behavior of an Al-Si eutectic alloy,
+Materials Science and Engineering: A,
+Volume 783,
+2020,
+139279,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139279.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303622)
+Abstract: The thermo-mechanical fatigue (TMF) behaviors and corresponding damage mechanisms of Al-Si piston alloy were investigated in the temperature range of 120~425 °C under different constraint factors (η). The TMF hysteresis loops exhibit asymmetrical, because the yield strength and elastic modulus decrease significantly with the increasing temperature. Taking the phase angles into consideration, the mean tensile stress for out of phase TMF (OP-TMF, η<0) and mean compressive stress for in-phase TMF (IP-TMF, η>0) can be found. The fatigue life of IP-TMF is longer than that of OP-TMF except for higher constraint factor, and the life of TMF decreases with the increasing absolute value of η. There are two different crack initiation mechanisms under the constrain TMF: primary phases broken mainly for OP-TMF and matrix deboned mainly for IP-TMF. The oxidation may have only little influence on the crack behavior and TMF life, considering the obvious damage by deboned or broken primary phases. The tensile stress is key factor for fatigue crack initiation and growth in primary phases (Si and intermetallic) under cyclic deformation. The TMF life under different constrain factors can be predicted by the strain energy model with good precision.
+Keywords: Thermo-mechanical fatigue; Al-Si eutectic alloy; Constraint factor; Damage mechanism; Life prediction
+
+Reza Mahjoub, Dudekula Althaf Basha, Alok Singh, Michael Ferry, Nikki Stanford,
+The contrasting fracture behaviour of twin boundaries and general boundaries – A first principles study based on experimental observation,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139225,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139225.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303105)
+Abstract: Experimental observations of grain boundary fracture behavior have been used as exemplars, and boundaries with the same crystallography as the experiments were developed. These boundaries were non-symmetrical, and this necessitated the first ever study of non-symmetrical boundaries in magnesium using density functional theory. The broad agreement of the calculated boundary cohesion values with the experimental observations of fracture behavior showed the simulations to be good approximations of real behavior, and from this point the simulations were further interrogated to understand the differences between the boundary types and solute species. Solutes with both larger and smaller radii than magnesium had a preference for segregation to the grain boundary. The boundary cohesion was examined by the parameter known as embrittlement potency, and it was found that solutes smaller than magnesium had a toughening effect, while those solutes larger than magnesium had more tendency to embrittle. The two boundaries studied in most detail, the {101‾2} twin boundary, and a general grain boundary observed experimentally, showed different cohesive behaviors. Although the symmetrical twin boundary behaved in a similar manner to previous reports, the non-symmetrical boundary showed more complex cohesive behavior, highlighting the importance of studying the non-symmetrical boundaries that predominate real materials.
+Keywords: Magnesium; Density functional theory; Grain boundary; Electronic structure; Solute
+
+Vivek Patel, Wenya Li, Xichang Liu, Quan Wen, Yu Su, Junjun Shen, Banglong Fu,
+Tailoring grain refinement through thickness in magnesium alloy via stationary shoulder friction stir processing and copper backing plate,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139322,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139322.
+(https://www.sciencedirect.com/science/article/pii/S0921509320304032)
+Abstract: To develop ultrafine grains (UFG) in 6.35 mm thick magnesium alloy, stationary shoulder friction stir processing (SSFSP) with steel and copper backing plates was conducted. Steel backing plate produced uniform fine grains (FG) size of 4.98, 4.75, 4.12 μm in top, middle, bottom of the stir zone (SZ), respectively. In contrast, copper backing plate tailored microstructure from FG (4.1 μm) in the top to UFG (0.96 μm) in the bottom of SZ. SSFSP produced uniform and gradient microstructures, altering temperature gradient by placing steel and copper backing plates, respectively. It is worth to note that UFG microstructure achieved without usage of external cooling, owning to the copper backing plate. Most of the grains found under ~2 μm size in UFG microstructure. FG and UFG microstructures contributed to the enhancement in the ductility and strength, respectively. UFG resulted in significant improvement in hardness and tensile strength by ~80% and 24% of the base material, respectively. The intensity of strong basal texture throughout the thickness found independent of the backing plate type. Microstructure evolutions across the SZ thickness for both processing conditions are discussed using electron back scattered diffraction (EBSD).
+Keywords: Stationary shoulder; Ultrafine grained microstructure; Friction stir processing; Grain refinement; Copper backing plate
+
+Shaofan Ge, Huameng Fu, Long Zhang, Huahai Mao, Hong Li, Aimin Wang, Weirong Li, Haifeng Zhang,
+Effects of Al addition on the microstructures and properties of MoNbTaTiV refractory high entropy alloy,
+Materials Science and Engineering: A,
+Volume 784,
+2020,
+139275,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139275.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303580)
+Abstract: AlxMoNbTaTiV alloys are designed according to the binary phase diagrams and calculation of phase diagrams (CALPHAD). The phase formation and elemental segregation are predicted using the CALPHAD method. The effects of Al on microstructures, and mechnical properties of AlxMoNbTaTiV are investigated, which verified the results of calculated dendritic microstructure and BCC structure. The strengthening mechanism is proved as the result of chemical and electrical interactions. The serration behavior in the compression test at 25 °C, 500 °C, 700 °C, 900 °C is discussed. At room temperature, addition of Al enhanced the dynamic aging effects in low concentration. The effects became weaker with the increase of Al content. At 500 °C, higher Al concentration leads to stronger serrated flow.
+Keywords: Refractory high entropy alloys; CALPHAD; Serration behavior
+
+Yan Xu, Xuxing Zhang, Wei Li, Penghong Hu, Jianbo Jia, Junting Luo,
+Ultrafine lamellar structure AM60B magnesium alloy sheet prepared by high strain rate rolling,
+Materials Science and Engineering: A,
+Volume 781,
+2020,
+139221,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2020.139221.
+(https://www.sciencedirect.com/science/article/pii/S0921509320303063)
+Abstract: The rolled sheet was successfully prepared for the as-cast AM60B magnesium alloy by using the high strain rate rolling (HSRR) in the temperature range of 310 °C – 370 °C. An ultrafine lamellar structure consisting of small angle grain boundaries was developed in the HSRRed sheet by the detwinning of high-density twins. The ultrafine lamellar structure was characterized by means of the high-resolution transmission electron microscopy technique, and the effect of temperature on the detwinning was analyzed. Furthermore, the morphological difference of the ultrafine lamellar structure and its effect on the mechanical properties of the rolled sheet were investigated. The results show that the dislocation motion, cross twinning, dynamic recovery and dynamic recrystallization have multiple interactions with the detwinning behavior in different modes. And the degree of detwinning and the post-rolling microstructure are greatly affected by the interaction. Dynamic precipitation of the second phase is induced by the HSRR process at 370 °C. Nano particles precipitate along twin grain boundaries and form the ‘precipitation band’. However, the detwinning is not affected by the ‘precipitation band’. In addition, it is also revealed from the results that a uniform and fine fully-lamellar structure is developed as the HSRR process is conducted at a medium temperature of 340 °C. Meanwhile, the alloy rolled at 340 °C has relatively optimal mechanical properties, and the strength and ductility are well balanced.
+Keywords: Mg–Al–Mn alloys; High strain rate rolling (HSRR); High-density twins; Detwinning; Ultrafine lamellar structure

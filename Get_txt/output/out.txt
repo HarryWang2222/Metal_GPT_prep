@@ -1,0 +1,218 @@
+Scripta Materialia  185 (2020) 170–174 
+Contents  lists available  at ScienceDirect  
+Scripta  Materialia  
+journal  homepage:  www.elsevier.com/locate/scriptamat  
+Core-shell  structured  nanoprecipitates  in zirconium  based  alloy  
+Chengze  Liu a , b , Geping  Li a , ∗, Fusen  Yuan a , b , Fuzhou  Han a , b , Muhammad  Ali a , b , 
+Yingdong  Zhang  a , b , Wenbin  Guo a , b , Hengfei  Gu a , c 
+a Institute of Metal Research,  Chinese Academy  of Sciences, 72 Wenhua Road, Shenyang  110 016, People’s Republic of China 
+b School of Materials  Science and Engineering,  University  of Science and Technology  of China, 96 JinZhai Road, Baohe District, Hefei, Anhui 230026, People’s 
+Republic of China 
+c University  of Chinese Academy  of Sciences, 19 Yuquan Road, Beijing, 10 0 049, People’s Republic of China 
+a r t i c l e i n f o 
+Article history: 
+Received  30 January 2020 
+Revised 23 March 2020 
+Accepted  23 March 2020 
+Keywords:  
+Precipitation  
+Crystal defects 
+Core-shell  structure  
+Grain interfaces  a b s t r a c t 
+Unique precipitations  with core-shell  structure  between  metal and intermetallics  were ﬁrstly observed  
+in zirconium  based alloy. The spherical  core structure  was identiﬁed  as tetragonal  Zr 3 Ge nanoprecipi-  
+tate, and the shell structure  was determined  to be face-centered-cubic  (FCC) zirconium  phase, which uni- 
+formly encircled  the Zr 3 Ge nanoparticle  while obeying  the orientation  relationship  with the hexagonal-  
+close-packed  (HCP) zirconium  phase matrix: [1 1 0] FCC // [2 1 1 0] HCP and (1 1 1) FCC // (0 0 01) HCP . Based on 
+electron  microscopy  characterization  and theoretical  analysis,  the formation  mechanism  of the core-shell  
+structured  nanoprecipitates  was proposed.  
+© 2020 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.  
+Precipitation  hardening  has been widely implemented  in metal- 
+lic structural  materials,  such as Aluminum,  Magnesium,  Nickel, Ti- 
+tanium  and Zirconium  alloys. These strengthening  particles  of dis- 
+similar  compositions  or crystalline  structures  impede  the move- 
+ment of dislocations  or other defects  in the crystal’s  lattice. Mean- 
+while, extra interfaces  were produced,  which actually  act similarly  
+as grain boundaries.  For example,  it was ﬁrstly observed  in Al-Li- 
+Zr alloy that Al 3 Zr precipitates  can serve as heterogeneous  nucle- 
+ation/growth  sites for Al 3 Li phase, resulting  in a ‘composite’  pre- 
+cipitation  [1] . This phenomenon  has attracted  wide attentions  from 
+researchers,  for the superior  mechanical  performance  at high tem- 
+peratures  due to core-shell  precipitates  [2–4] , and they concluded  
+that these precipitations  were due to the segregation  of alloying  
+elements  at the interface  between  the matrix and the pre-existed  
+precipitates.  
+In this research,  we report another  kind of core-shell  struc- 
+tured precipitation  in a zirconium  based metallic  material.  Using 
+transmission  electron  microscope  combined  with spectroscopy  and 
+diffraction  techniques,  we have investigated  the crystallographic  
+orientation  relationships  among  the matrix,  shell structure  and the 
+nanoparticle.  Furthermore,  the formation  mechanism  of the shell 
+structure  was discussed.  
+∗Corresponding  author. 
+E-mail address: gpli@imr.ac.cn  (G. Li). The studied  material,  Zr-0.10%Cr-0.21%Fe-0.50%Ge-1.28%Sn-  
+0.14%O  (in weight  percentage)  alloy was prepared  by arc melting.  
+Subsequently,  the alloy button was solid solution  treated  at 1100 °C 
+in furnace  with a holding  time of 1h, followed  by isothermal  forg- 
+ing in reduction  of 50% at 10 0 0 °C, which was above the ( α+ β)/ β
+transus  temperature,  and air cooling.  
+As shown in Fig. 1 , identiﬁcation  of the nanoparticle  was ac- 
+complished  through  indexing  the corresponding  selected  area elec- 
+tron diffraction  (SAED)  patterns  and an energy  dispersive  spec- 
+trometer  (EDS) analysis.  It was concluded  that the core structure  
+was Zr 3 Ge phase (P4 2 /n, a = b = 11.07 ˚A, c = 5.47 ˚A). Interestingly,  a 
+uniform  shell structure  with ∼25nm in thickness  was perfectly  en- 
+circling  the nanoparticle,  and it did not display  any segregation  of 
+alloying  elements  (EDS analysis  referring  to point B in Fig. 1 ). 
+Based on SEAD analysis  (as shown in Fig. S1 in the supplemen-  
+tary material),  the shell structure  was indexed  as face centered  
+cubic (FCC) Zr (Fm 3 m, a = 4 . 93 ˚A, measured  by SAED patterns),  
+obeying  the orientation  relationship:  [2 1 1 0] hcp-Zr ∥ [1 1 0] fcc-Zr ∥ [0 
+3 4] Zr3Ge and (0 0 01) hcp-Zr ∥ (1 1 1) fcc-Zr ∥ ( 18 4 3 ) Zr3Ge . As shown in 
+Fig. 2 , a stacking  faults region with 10nm in width was observed  
+between  the shell structure  and the matrix ( Fig. 2 b and f). 
+The HCP to FCC phase transformation  has been recently  ob- 
+served in Ti, Zr, and Hf under straining  conditions  [5-10] . This 
+transformation  typically  produces  two types of orientation  rela- 
+tionships  between  the two structures,  named  by B-type and P- 
+type [7] relations,  correspondingly:  (1) [2 1 1 0] hcp-Zr ∥ [1 1 0] fcc-Zr 
+https://doi.org/10.1016/j.scriptamat.2020.03.061  
+1359-6462/© 2020 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.  
+C. Liu, G. Li and F. Yuan et al. / Scripta Materialia  185 (2020) 170–174 171 
+Fig. 1. EDS analysis of the region containing  the core-shell  structured  precipitate  and indexed SAED patterns of the core structure.  
+and (0 0 01) hcp-Zr ∥ ( 1 1 1 ) fcc-Zr ; (2) [0 0 01] hcp-Zr ∥ [0 0 1] fcc-Zr and 
+( 10 1 0 ) hcp-Zr ∥ (220) fcc-Zr . Obviously,  the shell structure  and matrix 
+obeyed  B-type orientation  relationship.  The B-type HCP-FCC  trans- 
+formation  was mainly  driven by Shockley  partial dislocations  with 
+Burgers  vectors  of the 1/3 ⟨ 1 0 1 0 ⟩ type, which were generated  and 
+glided on every other (0 0 01) hcp-Zr plane during transformation  [7] . 
+During  this transformation,  the process  of ...AB ABAB AB... sequence  
+converting  to ...AB CABC AB... required  shifting  of sequences  in at 
+least four crystal planes (layers),  as marked  by underlines.  How- 
+ever, in earlier researches,  only partial dislocations  were observed  at the HCP/FCC  interface,  instead  of a stacking  faults region.  Thus, 
+the interface  between  the FCC shell structure  and HCP matrix was 
+further  analyzed.  
+The interplanar  spacing  along the [0 0 01] hcp-Zr direction  in the 
+matrix and shell structure  were different:  2.79 ˚A for (0 0 01) hcp-Zr 
+increased  to 2.85 ˚A for ( 1 1 1 ) fcc-Zr , corresponding  to a transforma-  
+tion strain of 2.15%. As a result, the HCP matrix was subjected  
+to an effective  tension  along the [0 0 01] hcp-Zr direction  during the 
+HCP to FCC transformation.  Once the FCC shell structure  formed,  
+it changed  the local strain distribution  due to the crystal expan-  
+172 C. Liu, G. Li and F. Yuan et al. / Scripta Materialia  185 (2020) 170–174 
+Fig. 2. HR-TEM micrograph  and FFT analysis of the core-shell  structured  precipitate  interface  region viewed along [2 1 1 0] hcp-Zr zone axis. 
+sion [11] . With the help of geometric  phase analysis  (GPA), quan- 
+titative  strain maps at the region containing  the matrix,  stacking  
+faults region and shell structure  were generated  and analyzed.  The 
+local strain components  ( εxx and εyy ) were calculated  by analyz-  
+ing the derivative  of two-dimensional  displacement  ﬁeld, based on 
+HR-TEM  images  [12] . The region marked  by yellow frame in Fig. 3 
+(e) was deﬁned  as a reference  region with zero strain. We found 
+that there was large strain along the X direction  in the stacking  
+faults region,  which was also portrayed  in the horizontal  intensity  
+linescans  results ( Fig. 3 g). However,  enervate  strains along Y di- 
+rection  were detected  ( Fig. 3 h). As discussed  above, the B-type 
+transformation  was driven by gliding  of partial dislocations  along 
+(0 0 01) hcp-Zr planes in the matrix,  resulting  in the shifting  of planar 
+sequences  along the [0 0 01] hcp-Zr direction.  In other words, during 
+the HCP-FCC  transformation,  the atomic  distances  along the Y di- 
+rection  did not alter. Thus, the εyy strain at the transition  zones 
+(the stacking  faults region)  between  the two structures  was much 
+less than the εxx values. According  to a ﬁrst-principles  study of 
+stacking  faults in HCP metals,  the stacking  fault energy  (SFE) of 
+the (0 0 01) hcp-Zr plane was lower among  the close-packed  crystal 
+planes in HCP-Zr  [13] . In other words, stacking  faults were prefer- 
+entially  observed  among  basal planes.  In this research,  the faulted  
+crystal planes in the stacking  faults region were parallel  to both 
+(0 0 01) hcp-Zr and ( 1 1 1 ) fcc-Zr planes,  which was in perfectly  agree- 
+ment with the theoretical  calculations.  In other words, the rela- 
+tively low stacking  fault energy  had promoted  the B-type HCP- 
+FCC structure  transformation  and the stacking  faults region.  For 
+the interface  between  FCC-Zr and Zr 3 Ge precipitate,  the interfaci-  
+cal structure  was highly incoherent:  [1 1 0] fcc-Zr ∥ [0 3 4] Zr3Ge and 
+( 1 1 1 ) fcc-Zr ∥ ( 18 4 3 ) Zr3Ge , which failed to activate  a group of parallel  
+partial dislocations.  Thus, no stacking  faults region were observed  
+between  the FCC-Zr and Zr 3 Ge phase. 
+Based on TEM characterization  for multiple  specimens,  the 
+core-shell  precipitates  were only observed  at grain boundaries  (as 
+shown in Figure S2 and S3 in the supplementary  material).  Till 
+now, FCC-Zr phase observed  in the interior  were all resulted  from 
+plastic deformation  at room temperature  [5–11] , which produces  
+the driving  force for the HCP-FCC  phase transformation.  In this re- 
+search,  the alloy went through  isothermal  forging  followed  by air 
+cooling,  which failed to provide  driving  force for intracrystalline  HCP-FCC  phase transformation.  According  to our research  [14] , the 
+dragging  force between  nanoprecipitates  and grain boundary  could 
+lead to phase transformations  in zirconium  alloy. Thus, the grain 
+boundary  dragging  effect could be one of the prerequisites  for the 
+core-shell  structured  precipitates.  As shown in Fig. 4 (a), the grain 
+boundary  near the nanoparticle  was curved due to the pinning  ef- 
+fect. As a result, dragging  force (F) was applied  to the nanoparticle  
+and it could be calculated  by: 
+F = F Z 
+S 
+π( 1 + 2 . 14 ε ) 
+ε 1 / 2 ( ε ≥1 ) (1) 
+F S = 2 πrγsin θcos (π
+2 −α+ θ)
+(2) 
+γAP −γBP = γcos α (3) 
+where A and B refer to grains at each side of the grain boundary;  
+γis the boundary  surface  tension,  containing  two particle/surface  
+tensions  γAP and γBP ; θis the bypass angle and γAP −γBP = γ
+cos α; εis the aspect (ratio between  major axis ‘b’ and minor 
+axis ‘a’) of the ellipsoidal  particle;  F S is the dragging  force from a 
+spherical  particle  of the same volume  [15] . For the same nanaopar-  
+ticle, there were two cases for the interaction  (case 1 and case 
+2 shown in Fig. 4 c): in case 1, the dragging  force increased  
+with the aspect;  in case 2, the dragging  force decreased  with the 
+aspect.  In this research,  the interaction  between  the nanoparti-  
+cle and grain boundary  was similar  to case 1, resulting  in rela- 
+tively lower dragging  force. According  to the Fig. 4 (b), this di- 
+rection  was nearly parallel  to the close-packed  (0 0 01) hcp-Zr planes,  
+but angled from the close-packed  plane of the Zr 3 Ge nanoparti-  
+cle. Thus, B-type HCP-FCC  phase transformation  was preferentially  
+activated.  
+Data availability  
+The raw/processed  data required  to reproduce  these ﬁndings  
+cannot be shared at this time as the data also forms part of an 
+ongoing  study. 
+C. Liu, G. Li and F. Yuan et al. / Scripta Materialia  185 (2020) 170–174 173 
+Fig. 3. Atomic conﬁgurations,  HR-TEM images and GPA analysis for the interface  region of the core-shell  structured  precipitate  viewed along [2 1 1 0] hcp-Zr . (a-b) Diffraction  
+patterns of the matrix, stacking faults region, shell structure  and Zr 3 Ge phase; (c-d) Atomic conﬁgurations  of the matrix, stacking faults (SFs) region, shell structure  and 
+Zr 3 Ge phase; (e) FFT ﬁltered HR-TEM micrograph  of the region containing  the matrix, stacking faults region and shell structure;  (f) The macro coordinates  of the ﬁgure; (g) 
+εxx mapping  and horizontal  linescans  of the region containing  the matrix, stacking faults region and shell structure;  (h) εyy mapping  and horizontal  linescans  of the region 
+containing  the matrix, stacking faults region and shell structure.  
+174 C. Liu, G. Li and F. Yuan et al. / Scripta Materialia  185 (2020) 170–174 
+Fig. 4. Formation  mechanism  of the core-shell  structured  precipitates.  (a) Schematic  diagram showing the interaction  between  grain boundary  and precipitates;  (b) Rela- 
+tionship between  the core-shell  structured  precipitate  crystallography  and the dragging  force; (c) Dragging  force as a function of εin two cases; (d, e) Schematic  diagram 
+showing the interaction  between  precipitate  and GB in Case 1 and 2, correspondingly.  
+Declaration  of Competing  Interest  
+There are no interests  to declare.  
+Supplementary  materials  
+Supplementary  material  associated  with this article can be 
+found, in the online version,  at doi: 10.1016/j.scriptamat.2020.03.  
+061 . 
+References  
+[1] F.W. Gayle , J.B.V. Sande , Scripta Mater. 18 (1984) 473–478 . 
+[2] V. Radmilovic  , A . Tolley , E.A . Marquis , M.D. Rossell , Z. Lee , U. Dahmen ,S c r i p t a 
+Mater. 58 (2008) 529–532  . 
+[3] W. Nasim , S. Yazdi , R. Santamarta  , J. Malik , D. Erdeniz , B. Mansoor  , D.N. Seid- 
+man , D.C. Dunand , I. Karaman  , J. Mater. Sci. 54 (2019) 1857–1871  . [4] M.E. Krug , A. Werber , D.C. Dunand , D.N. Seidman  , Acta Mater. 58 (2010) 
+134–145 . 
+[5] H. Zhao , M. Song , S. Ni , S. Shao , J. Wang , X. Liao , Acta Mater. 131 (2017) 
+271–279  . 
+[6] X. Zheng , M. Gong , T. Xiong , H. Ge , L. Yang , Y. Zhou , S. Zheng , J. Wang , X. Ma , 
+Scripta Mater. 162 (2019) 326–330  . 
+[7] H. Zhao , X. Hu , M. Song , S. Ni , Scripta Mater. 132 (2017) 63–67 . 
+[8] J.X. Yang , H.L. Zhao , H.R. Gong , M. Song , Q.Q. Ren , Sci. Rep. 8 (2018) 1992–20  0 0 . 
+[9] H.C. Wu , A. Kumar , J. Wang , X.F. Bi , C.N. Tomé, Z. Zhang , S.X. Mao , Sci. Rep. 6 
+(2016) 24370–24377  . 
+[10] D.H. Hong , T.W. Lee , S.H. Lim , W.Y. Kim , S.K. Hwang , Scripta Mater. 69 (2013) 
+405–408  . 
+[11] Henglv Zhao , Min Song , Song Ni , Shuai Shao , Jian Wang , Xiaozhou  Liao , Acta 
+Materialia  131 (2017) 271–279  . 
+[12] M.J. Hÿtch , E. Snoeck , R. Kilaas , Ultramicroscopy  74 (1998) 131–146 . 
+[13] Binglun Yin , Zhaoxuan  Wu , W.A. Curtin , Acta Mater. 123 (2017) 223–234  . 
+[14] C.Z. Liu , G.P. Li , F.S. Yuan , F.Z. Han , Y.D. Zhang , H.F. Gu , Nanoscale  10 (2018) 
+2249–2254  . 
+[15] E. Nes , N. Ryum , O. Hunderi , Acta Mater. 33 (1985) 11–22 . 

@@ -1,0 +1,194 @@
+F.D. Fischer, T. Waitz, D. Vollath, N.K. Simha,
+On the role of surface energy and surface stress in phase-transforming nanoparticles,
+Progress in Materials Science,
+Volume 53, Issue 3,
+2008,
+Pages 481-527,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2007.09.001.
+(https://www.sciencedirect.com/science/article/pii/S0079642507000588)
+Abstract: The role of surface energy and surface stress has been a topic of extensive discussion since the seminal work by Gibbs [Gibbs JW. The scientific papers of J. Willard Gibbs. Vol. I: Thermodynamics. New York and Bombay:Longmans, Green, and Co; 1906; Gibbs JW. Collected works. New Haven:Yale University Press; 1957]. Both quantities have the same value for liquids, but not for solids. The distinction between these terms is of special importance for phase transforming nanoparticles (precipitates, transforming or melting/solidifying single particles), since surface quantities scale as the inverse of the particle size relative to volume quantities. Continuum mechanics and, especially, the concept of configurational forces (stresses) provide a convenient framework for distinguishing between “surface energy”, “surface tension” and “surface stress”. Therefore, this progress report gives a rather detailed introduction into the continuum mechanics and thermodynamics of a moving surface. The transformation conditions for the cases where an entire nanoparticle transforms suddenly and when the transformation is interface-driven are discussed. A global transformation condition for a sudden phase-transforming nanoparticle is explained. For the interface-driven transformation, the concept of configurational forces is applied to derive a local transformation condition in a material point at the phase interface. Four examples of nanoparticles (growing precipitate, growing solid nucleus in liquid, melting particle, solidifying particle) are studied in detail. The surface energy and surface stress are shown to contribute to the thermodynamic driving force on the interface in different ways. These contributions are quantified and discussed with respect to the case of a sudden transformation of the nanoparticle.
+
+R. Nadella, D.G. Eskin, Q. Du, L. Katgerman,
+Macrosegregation in direct-chill casting of aluminium alloys,
+Progress in Materials Science,
+Volume 53, Issue 3,
+2008,
+Pages 421-480,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2007.10.001.
+(https://www.sciencedirect.com/science/article/pii/S007964250700059X)
+Abstract: Semi-continuous direct-chill (DC) casting holds a prominent position in commercial aluminium alloy processing, especially in production of large sized ingots. Macrosegregation, which is the non-uniform chemical composition over the length scale of a casting, is one of the major defects that occur during this process. The fact that macrosegregation is essentially unaffected by subsequent heat treatment (hence constitutes an irreversible defect) leaves us with little choice but to control it during the casting stage. Despite over a century of research in the phenomenon of macrosegregation in castings and good understanding of underlying mechanisms, the contributions of these mechanisms in the overall macrosegregation picture; and interplay between these mechanisms and the structure formation during solidification are still unclear. This review attempts to fill this gap based on the published data and own results. The following features make this review unique: results of computer simulations are used in order to separate the effects of different macrosegregation mechanisms. The issue of grain refining is specifically discussed in relation to macrosegregation. This report is structured as follows. Macrosegregation as a phenomenon is defined in the Introduction. In “Direct-chill casting – process parameters, solidification and structure patterns” section, direct-chill casting, the role of process parameters and the evolution of structural features in the as-cast billets are described. In “Macrosegregation in direct-chill casting of aluminium alloys” section, macrosegregation mechanisms are elucidated in a historical perspective and the correlation with DC casting process parameters and structural features are made. The issue of how to control macrosegregation in direct-chill casting is also dealt with in the same section. In “Role of grain refining” section, the effect of grain refining on macrosegregation is introduced, the current understanding is described and the contentious issues are outlined. The review is finished with conclusion remarks and outline for the future research.
+
+Manh-Huong Phan, Hua-Xin Peng,
+Giant magnetoimpedance materials: Fundamentals and applications,
+Progress in Materials Science,
+Volume 53, Issue 2,
+2008,
+Pages 323-420,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2007.05.003.
+(https://www.sciencedirect.com/science/article/pii/S0079642507000576)
+Abstract: Since the discovery of the magnetoimpedance (MI) effect just over a decade ago, international research interest into the giant magnetoimpedance (GMI) effect has been growing. This article aims to provide a comprehensive summary of the GMI topic, encompassing fundamental understanding of the GMI phenomena, the processing and properties of GMI materials and the design and application of GMI-based magnetic sensors. The paper starts with the definition of GMI and an assessment of the current theoretical understanding of the frequency dependence of GMI. Then a detailed description of processing methods for the production of amorphous and nanocrystalline GMI materials in the form of wires, ribbons and thin films is given, with an examination of the advantages and disadvantages of each technique. Properties of existing GMI materials including magnetic, mechanical, electrical and chemical properties are described, and a correlation between domain structures and magnetic properties is established. The influences of measuring and processing parameters on the GMI effect are systematically analysed and the underlying physical origins of hysteretic and asymmetric phenomena of GMI are explained. This enables the selection of optimal conditions to design high-performance GMI-based sensors. After discussing the material selection criteria, a range of candidate materials are evaluated and nominated for the design of GMI-based sensors. Finally, a variety of potential applications of GMI-based magnetic sensors are presented with an outlook of future research development in this field.
+
+
+IFC - Editorial Board etc. (repeat from previous issue),
+Progress in Materials Science,
+Volume 53, Issue 7,
+2008,
+Page IFC,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(08)00072-8.
+(https://www.sciencedirect.com/science/article/pii/S0079642508000728)
+
+Y.-L. Shen,
+Externally constrained plastic flow in miniaturized metallic structures: A continuum-based approach to thin films, lines, and joints,
+Progress in Materials Science,
+Volume 53, Issue 5,
+2008,
+Pages 838-891,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2008.03.001.
+(https://www.sciencedirect.com/science/article/pii/S0079642508000248)
+Abstract: Mechanical behavior of materials at small length scales has received significant attention in recent years, due mainly to the development of devices and components having micro- and nano-scale feature sizes. In miniaturized structures, deformation is heavily influenced by the physical confinement imposed on the material. The present article is devoted to this type of constrained plastic deformation in metals. Continuum plasticity is used as a primary tool to describe the deformation features, for the purpose of establishing an overall mechanistic view which is often missing in the materials science community. We discuss recent progresses in understanding the externally influenced plastic flow behavior in selected metallic structures, including thin continuous films attached to stiff or compliant substrates, various forms of metal lines in modern semiconductor devices, and metallic joints in electronic packages. Special emphasis is on the evolution of local deformation pattern and overall mechanical response, and their implications in the interpretation of experimental results and the structural integrity for real-life applications. Aside from the review of current status of knowledge, we also address common misconceptions, remaining challenges as well as directions of future research in constrained small-scale plasticity.
+
+Bharat Bhushan,
+Nanoscale characterization of human hair and hair conditioners,
+Progress in Materials Science,
+Volume 53, Issue 4,
+2008,
+Pages 585-710,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2008.01.001.
+(https://www.sciencedirect.com/science/article/pii/S0079642508000029)
+Abstract: Human hair is a nanocomposite biological fiber. Hair care products such as shampoos and conditioners, along with damaging processes such as chemical dyeing and permanent wave treatments, affect the maintenance and grooming process and are important to study because they alter many hair properties. Nanoscale characterization of the cellular structure, mechanical properties, and morphological, frictional, and adhesive properties (tribological properties) of hair are essential to evaluate and develop better cosmetic products, and to advance the understanding of biological and cosmetic science. The atomic/friction force microscope (AFM/FFM) and nanoindenter have become important tools for studying the micro/nanoscale properties of human hair. In this review article, we present a comprehensive review of structural, mechanical, and tribological properties of various hair and skin as a function of ethnicity, damage, conditioning treatment, and various environments.
+
+
+IFC - Editorial Board etc. (repeat from previous issue),
+Progress in Materials Science,
+Volume 53, Issue 6,
+2008,
+Page IFC,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(08)00056-X.
+(https://www.sciencedirect.com/science/article/pii/S007964250800056X)
+
+
+Editorial Board,
+Progress in Materials Science,
+Volume 53, Issue 8,
+2008,
+Page IFC,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(08)00084-4.
+(https://www.sciencedirect.com/science/article/pii/S0079642508000844)
+
+R. Nandan, T. DebRoy, H.K.D.H. Bhadeshia,
+Recent advances in friction-stir welding – Process, weldment structure and properties,
+Progress in Materials Science,
+Volume 53, Issue 6,
+2008,
+Pages 980-1023,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2008.05.001.
+(https://www.sciencedirect.com/science/article/pii/S007964250800039X)
+Abstract: Friction-stir welding is a refreshing approach to the joining of metals. Although originally intended for aluminium alloys, the reach of FSW has now extended to a variety of materials including steels and polymers. This review deals with the fundamental understanding of the process and its metallurgical consequences. The focus is on heat generation, heat transfer and plastic flow during welding, elements of tool design, understanding defect formation and the structure and properties of the welded materials.
+
+Markus J. Buehler, Sinan Keten, Theodor Ackbarow,
+Theoretical and computational hierarchical nanomechanics of protein materials: Deformation and fracture,
+Progress in Materials Science,
+Volume 53, Issue 8,
+2008,
+Pages 1101-1241,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2008.06.002.
+(https://www.sciencedirect.com/science/article/pii/S0079642508000510)
+Abstract: Proteins constitute the building blocks of biological materials such as tendon, bone, skin, spider silk or cells. An important trait of these materials is that they display highly characteristic hierarchical structures, across multiple scales, from nano to macro. Protein materials are intriguing examples of materials that balance multiple tasks, representing some of the most sustainable material solutions that integrate structure and function. Here we review progress in understanding the deformation and fracture mechanisms of hierarchical protein materials by using a materials science approach to develop structure-process-property relations, an effort defined as materiomics. Deformation processes begin with an erratic motion of individual atoms around flaws or defects that quickly evolve into formation of macroscopic fractures as chemical bonds rupture rapidly, eventually compromising the integrity of the structure or the biological system leading to failure. The combination of large-scale atomistic simulation, multi-scale modeling methods, theoretical analyses combined with experimental validation provides a powerful approach in studying deformation and failure phenomena in protein materials. Here we review studies focused on the molecular origin of deformation and fracture processes of three types of protein materials. The review includes studies of collagen – Nature’s super-glue; beta-sheet rich protein structures as found in spider silk – a natural fiber that can reach the strength of a steel cable; as well as intermediate filaments – a class of alpha-helix based structural proteins responsible for the mechanical integrity of eukaryotic cells. The article concludes with a discussion of the significance of universally found structural patterns such as the staggered collagen fibril architecture or the alpha-helical protein motif.
+
+Z.F. Zhang, Z.G. Wang,
+Grain boundary effects on cyclic deformation and fatigue damage,
+Progress in Materials Science,
+Volume 53, Issue 7,
+2008,
+Pages 1025-1099,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2008.06.001.
+(https://www.sciencedirect.com/science/article/pii/S0079642508000522)
+Abstract: The cyclic deformation behaviors of single- and polycrystals were well documented in the past three decades. It has been recognized that there existed great difference in the fatigue damage mechanisms between single- and polycrystals, which can be mainly attributed to the effects of grain boundaries (GBs) and the crystallographic orientations. In the present work, a series of research work mainly on copper bicrystals with various GBs and different component crystals have been systematically investigated, including the macroscopic cyclic stress–strain responses and fatigue damage mechanisms in micro-scale. Firstly, direct evidence is offered to show the obvious strengthening effect caused by the large-angle GBs during cyclic deformation. The data of cyclic stress–strain responses will be presented to show the effects of the GBs and the crystallographic orientations in the macro-scale. Next, the influence of various GBs on fatigue cracking behavior will be considered for the crystalline materials. Clear evidences are shown that the interactions of persistent slip bands (PSBs) with various GBs play a decisive role in the intergranular fatigue cracking during cyclic deformation. It is suggested that the intergranular fatigue cracking strongly depends on the interactions of PSBs with GBs in fatigued crystals, rather than the GB structure itself. The underlying fatigue damage mechanisms were further discussed in terms of the different interactions between PSBs and three types of GBs.
+
+Alexander P. Zhilyaev, Terence G. Langdon,
+Using high-pressure torsion for metal processing: Fundamentals and applications,
+Progress in Materials Science,
+Volume 53, Issue 6,
+2008,
+Pages 893-979,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2008.03.002.
+(https://www.sciencedirect.com/science/article/pii/S007964250800025X)
+Abstract: High-pressure torsion (HPT) refers to the processing of metals whereby samples are subjected to a compressive force and concurrent torsional straining. Although the fundamental principles of this procedure were first proposed more than 60 years ago, processing by HPT became of major importance only within the last 20 years when it was recognized that this metal forming process provides an opportunity for achieving exceptional grain refinement, often to the nanometer level, and exceptionally high strength. This review summarizes the background and basic principles of processing by HPT and then outlines the most significant recent developments reported for materials processed by HPT. It is demonstrated that HPT processing leads to an excellent value for the strength of the material, reasonable microstructural homogeneity if the processing is continued through a sufficient number of torsional revolutions and there is a potential for achieving a capability for various attractive features including superplastic forming and hydrogen storage. The review also describes very recent developments including the application of HPT processing to bulk and ring samples and the use of HPT for the consolidation of powders.
+
+Daniel Errandonea, Francisco Javier Manjón,
+Pressure effects on the structural and electronic properties of ABX4 scintillating crystals,
+Progress in Materials Science,
+Volume 53, Issue 4,
+2008,
+Pages 711-773,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2008.02.001.
+(https://www.sciencedirect.com/science/article/pii/S0079642508000236)
+Abstract: Studies at high pressures and temperatures are helpful for understanding the physical properties of the solid state, including such classes of materials as, metals, semiconductors, superconductors, or minerals. In particular, the phase behaviour of ABX4 scintillating materials is a challenging problem with many implications for other fields including technological applications and Earth and planetary sciences. A great progress has been done in the last years in the study of the pressure-effects on the structural and electronic properties of these compounds. In particular, the high-pressure structural sequence followed by these compounds seems now to be better understood thanks to recent experimental and theoretical studies. Here, we will review studies on the phase behaviour of different ABX4 scintillating materials. In particular, we will focus on discussing the results obtained by different groups for the scheelite-structured orthotungstates, which have been extensively studied up to 50GPa. We will also describe different experimental techniques for obtaining reliable data at simultaneously high pressure and high temperature. Drawbacks and advantages of the different techniques are discussed along with recent developments involving synchrotron X-ray diffraction, Raman scattering, and ab initio calculations. Differences and similarities of the phase behaviour of these materials will be discussed, on the light of Fukunaga and Yamaoka’s and Bastide’s diagrams, aiming to improve the actual understanding of their high-pressure behaviour. Possible technological and geophysical implications of the reviewed results will be also commented.
+Keywords: 62.50.+p; 61.50.Ks; 61.10.Ht; 71.15.Mb; 63.20.−e; 78.30.−j
+
+
+Editorial Board,
+Progress in Materials Science,
+Volume 53, Issue 4,
+2008,
+Page IFC,
+ISSN 0079-6425,
+https://doi.org/10.1016/S0079-6425(08)00027-3.
+(https://www.sciencedirect.com/science/article/pii/S0079642508000273)
+
+Marc André Meyers, Po-Yu Chen, Albert Yu-Min Lin, Yasuaki Seki,
+Biological materials: Structure and mechanical properties,
+Progress in Materials Science,
+Volume 53, Issue 1,
+2008,
+Pages 1-206,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2007.05.002.
+(https://www.sciencedirect.com/science/article/pii/S0079642507000254)
+Abstract: Most natural (or biological) materials are complex composites whose mechanical properties are often outstanding, considering the weak constituents from which they are assembled. These complex structures, which have risen from hundreds of million years of evolution, are inspiring Materials Scientists in the design of novel materials. Their defining characteristics, hierarchy, multifunctionality, and self-healing capability, are illustrated. Self-organization is also a fundamental feature of many biological materials and the manner by which the structures are assembled from the molecular level up. The basic building blocks are described, starting with the 20 amino acids and proceeding to polypeptides, polysaccharides, and polypeptides–saccharides. These, on their turn, compose the basic proteins, which are the primary constituents of ‘soft tissues’ and are also present in most biominerals. There are over 1000 proteins, and we describe only the principal ones, with emphasis on collagen, chitin, keratin, and elastin. The ‘hard’ phases are primarily strengthened by minerals, which nucleate and grow in a biomediated environment that determines the size, shape and distribution of individual crystals. The most important mineral phases are discussed: hydroxyapatite, silica, and aragonite. Using the classification of Wegst and Ashby, the principal mechanical characteristics and structures of biological ceramics, polymer composites, elastomers, and cellular materials are presented. Selected systems in each class are described with emphasis on the relationship between their structure and mechanical response. A fifth class is added to this: functional biological materials, which have a structure developed for a specific function: adhesion, optical properties, etc. An outgrowth of this effort is the search for bioinspired materials and structures. Traditional approaches focus on design methodologies of biological materials using conventional synthetic materials. The new frontiers reside in the synthesis of bioinspired materials through processes that are characteristic of biological systems; these involve nanoscale self-assembly of the components and the development of hierarchical structures. Although this approach is still in its infancy, it will eventually lead to a plethora of new materials systems as we elucidate the fundamental mechanisms of growth and the structure of biological systems.
+
+L.B. Kong, T.S. Zhang, J. Ma, F. Boey,
+Progress in synthesis of ferroelectric ceramic materials via high-energy mechanochemical technique,
+Progress in Materials Science,
+Volume 53, Issue 2,
+2008,
+Pages 207-322,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2007.05.001.
+(https://www.sciencedirect.com/science/article/pii/S0079642507000266)
+Abstract: Ferroelectric ceramics are important electronic materials that have a wide range of industrial and commercial applications, such as high-dielectric constant capacitors, piezoelectric sonar or ultrasonic transducers, pyroelectric security sensors, medical diagnostic transducers, electro-optical light valves, and ultrasonic motors, to name a few. The performances of ferroelectrics are closely related to the ways they are processed. The conventional solid state reaction method requires high calcination and sintering temperatures, resulting in the loss of lead, bismuth or lithium components due to their high volatilities, thus worsening the microstructural and subsequently the electrical properties of the ferroelectric materials. Various wet chemistry based routes have been developed to synthesize ultra-fine and even nano-sized ferroelectric powders. However, most of the chemistry based routes still involve calcinations, although at relatively lower temperatures. High energy mechanochemical milling process has been shown that some ferroelectric materials can be synthesized directly from their oxide precursors in the form of nano-sized powders, without the need for the calcination at intermediate temperatures, thus making the process very simple and cost-effective. A large number of ferroelectric materials, including lead-containing ferroelectrics, antiferroelectrics and relaxors, and bismuth-containing Aurivillius families, have been synthesized by the high-energy milling process. Some ferroelectrics, such as barium titanate (BaTiO3 or BT), lead iron tungstate [Pb(Fe2/3W1/3)O3 or PFW], and several bismuth-containing materials, that cannot be directly produced from their oxide mixtures, have been formed at relatively low temperature after their precursors are activated by an high-energy milling. Ferroelectric ceramics derived from the activated precursors demonstrated better microstructure and electrical properties than those without mechanochemical treatment. This review presents an overview of the recent progress in the synthesis of ferroelectric ceramic powders using various high-energy milling techniques. The progress includes several aspects: (i) direct synthesis of nano-sized powders with better sinterability, (ii) promoted reactive sintering due to the modification of the precursors, (iii) amorphization of the precursors, and (iv) refinement of the precursors with high homogeneity. The underlying mechanisms of mechanochemical synthesis of ferroelectric materials are discussed. Further research emphasizes on issues related to the synthesis of ferroelectric ceramic powders are suggested.
+
+S.R.J. Saunders, M. Monteiro, F. Rizzo,
+The oxidation behaviour of metals and alloys at high temperatures in atmospheres containing water vapour: A review,
+Progress in Materials Science,
+Volume 53, Issue 5,
+2008,
+Pages 775-837,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2007.11.001.
+(https://www.sciencedirect.com/science/article/pii/S0079642507000692)
+Abstract: The kinetics of oxide formation in the presence of water vapour are discussed and compared with oxidation in dry atmospheres. The main protective oxide systems are considered, i.e. alumina, chromia, silica, titania and iron and nickel oxides, and with the possible exceptions of alumina and nickel oxide, oxidation rates are increased by the presence of water vapour. Scale morphology is also influenced by water vapour, and an important observation is that whisker formation is encouraged; this is believed to be due to the more rapid dissociation of water vapour compared to oxygen. In general, water vapour promotes the formation of a more porous scale. This is related to an increase in cation diffusion and consequent vacancy condensation, thereby developing a porous structure. The thermochemistry of oxide formation is discussed, and here oxide stability and hydroxide formation are considered. A significant observation is that where hydroxides or oxyhydroxides form, they generally have higher volatility than the corresponding oxide, and this leads to loss of protection. The effect of water vapour on oxide growth processes is considered. It is demonstrated that all aspects of oxide growth including adsorption, dissociation and diffusion of reactants are altered in the presence of water vapour compared with similar processes in dry conditions. The important first stages of the reaction involving adsorption and dissociation are controlled by the catalytic activity and acid base nature of oxides. For oxides formed at high temperatures very limited information is available, but, in general, data obtained at room temperature is confirmed and strongly suggests that dissociation of any gas molecule is favoured by defects in the surface. Dissociation of water seems to be more rapid at lower temperatures than, for example, oxygen, but this difference may be less pronounced at higher temperatures. Fast diffusion of water in oxides is possible due to “proton hopping”, in which protons localised at oxide ions move by transfer from one oxygen to another. Since the OH− ion concentration is increased there is a resultant increase in cation vacancies, and this, in part, is responsible for the observed increase in oxidation rates. A further factor to consider is the possibility of molecular diffusion, and it has been demonstrated that where pores or voids are present in the scale, and the void contains both hydrogen and water vapour, oxidation of the surface nearest the metal will occur by reaction with water to form new oxide and the reaction product hydrogen, while a reduction reaction occurs at the surface of the void nearest the gas phase to produce water vapour. Thus it can be seen that this process provides for rapid inward diffusion of oxygen while the void gradually moves outwards from the metal/oxide interface to the oxide/gas interface. Finally, the review considers the effect of water vapour on the mechanical properties of the scale. Scale adhesion can be improved (iron oxides) or made worse (alumina and chromia) by the presence of water vapour. It is shown that while there is experimental evidence for altered mechanical behaviour, there is very little data on relevant mechanical properties. It is possible, therefore, that water vapour either alters mechanical properties of some oxides, or, as has been demonstrated, the oxide growth process has been changed. Alternatively, at least for the cases where increased oxidation rates were caused by the presence of water vapour, the observed differences between wet and dry behaviour may simply be a function of the greater scale thickness. A significant effort has been made to develop models that can be used to predict the onset scale spallation observed in industrial boilers using process steam. The further development of these models is strongly dependent upon obtaining relevant input data, and this is considered a major challenge for materials scientists. Some areas for future research are proposed.
+
+J.-M. Joubert,
+Crystal chemistry and Calphad modeling of the σ phase,
+Progress in Materials Science,
+Volume 53, Issue 3,
+2008,
+Pages 528-583,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2007.04.001.
+(https://www.sciencedirect.com/science/article/pii/S0079642507000242)
+Abstract: A systematic review of the crystal chemical properties of the σ phase is presented, with special emphasis on the atomic order, i.e. the distribution of the atoms on the different sites of the crystal structure. The data available in the literature have been systematically assessed, and are complemented by an experimental investigation in the following systems: Al–Nb, Al–Ta, Cr–Mn, Cr–Os, Cr–Re, Cr–Ru, Co–Mo, Fe–Mo, Fe–Re, Mn–Mo, Mn–Re, Mn–V, Mo–Re, Nb–Pt, Nb–Re, Ni–V, Pd–Ta, Re–V, Rh–Ta and Ru–W. The properties are analyzed as a function of composition and the nature and atomic size of the elements involved. The possibility of an order–disorder transition has also been reviewed and completed by diffraction experiments in two systems (Cr–Mn and Ni–V). First-principles calculations on the σ phase are reviewed in line with the Calphad approach. An analysis of the literature data concerning the Calphad modeling of systems involving the σ phase has been made. The different models used are presented and discussed. The conclusions of crystal structure data analysis are used to make some recommendations about the choice of a model in the frame of a Calphad assessment.
