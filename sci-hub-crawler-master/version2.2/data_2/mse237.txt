@@ -1,0 +1,335 @@
+J Aldazabal, J.Gil Sevillano,
+Hall–Petch behaviour induced by plastic strain gradients,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 186-190,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.026.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007871)
+Abstract: A very simple one-dimensional cellular automaton numerical model of plastic deformation that takes into account the local heterogeneity of strains, stresses and dislocation density predicts a realistic polycrystalline work hardening behaviour as well as a convincing Hall–Petch effect for the flow stress versus grain size relationship. In the model, the plastic strain gradients are resolved through the storage of geometrically necessary dislocations (GND). The results presented in the paper correspond to low-temperature deformation (no long-range diffusion, no account for the influence of spatial strain rate fluctuations) of materials not suffering from dislocation locking from solute atoms. The predicted Hall–Petch constants and their plastic strain dependence agree well with values of FCC metals or interstitial-free low-carbon steels at low temperatures and for small plastic strains.
+Keywords: Hall–Petch effect; Plastic strain gradients; Grain size effects; Geometrically necessary dislocations; Cellular automaton model
+
+Z Shi, Z.X Guo,
+Kinetic modelling of binder removal in powder-based compacts,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 129-135,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.016.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007792)
+Abstract: Binder burnout kinetics has been simulated using a “shrinking core” model for powder compacts and powder/fibre compacts. The model takes into account polymer decomposition, monomer diffusion in the core region and gaseous transport in the porous outer layer. Both cylindrical and plate compact geometries were considered. It is noted that a relatively longer time of debinding is required for the plate geometry. Experimental results with cylindrical powder compacts showed good agreement with the model prediction. The effects of compact size and shrinkage, fibre volume fraction and orientation on the burnout kinetics have been studied. It was found that the burnout time is increased with compact size and by compact shrinkage. Fibres aligned perpendicularly to the removal direction require the longest burnout time, while fibres aligned parallel to the removal direction provide faster diffusion paths along their surfaces and facilitate the burnout process. For all the cases, a higher fibre volume fraction leads to a more significant effect.
+Keywords: Binder burnout; Kinetic modelling; Powder compact; Metal matrix composites (MMCs)
+
+W.H. Li, H. Du, N.Q. Guo,
+Dynamic behavior of MR suspensions at moderate flux densities,
+Materials Science and Engineering: A,
+Volume 371, Issues 1–2,
+2004,
+Pages 9-15,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(02)00932-2.
+(https://www.sciencedirect.com/science/article/pii/S0921509302009322)
+Abstract: In many proposed applications, magnetorheological (MR) fluids are subjected to a dynamic stimulus with finite deformation. Dynamic behavior of reduced iron based MR suspensions under oscillatory shear is experimentally investigated using a parallel-plate rheometer. The effects of strain amplitude, oscillation frequency, and magnetic field strength on the dynamic behavior are studied. MR fluids behave as linear viscoelastic materials for only sufficiently small strain amplitudes. At large strain amplitudes, MR fluids are nonlinear viscoelastic or viscoplastic, where the storage modulus shows a decreasing trend with the strain amplitude. At large enough strain rate amplitudes, the yield stress contribution is negligible and the suspension response is Newtonian. The dependence of the dynamic behavior on the strain amplitude and oscillation frequency is qualitatively summarized in the form of a Pipkin diagram.
+Keywords: Dynamic behavior; Oscillatory shear; Strain amplitude; Oscillation frequency; Viscoelastic; Viscoplastic
+
+A Das, Z Fan,
+A Monte Carlo simulation of solidification structure formation under melt shearing,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 330-335,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.043.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008062)
+Abstract: Semi-solid metal (SSM) processing of alloys under applied shear has a promising future for near net-shape production of components. Although non-dendritic growth of solid is critical for semi-solid metal processing, a comprehensive understanding of morphological evolution under melt shearing is lacking. Through Monte Carlo simulation a growth-based evolution of solidification structure under different melt shearing conditions is proposed in the present work. It has been demonstrated that the nature of the diffusion boundary layer determines the growth morphology of the solid under shear. In effect, the nature of fluid flow determines the morphology of the solid by influencing the geometry of the boundary layer. A generalized explanation of morphological evolution under melt shearing is presented that qualitatively corroborates the experimental observations.
+Keywords: Semisolid metal processing; Solidification; Microstructure; Monte Carlo simulation
+
+Y.C Chen, Y.G Zhang, C.Q Chen,
+General theory of interdiffusion growth in diffusion couples,
+Materials Science and Engineering: A,
+Volume 368, Issues 1–2,
+2004,
+Pages 1-9,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(03)00480-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509303004805)
+Abstract: This paper shows that it is possible to treat solid-phase growth thoroughly with methods of fluid mechanics. Based on the concept ‘flow point’ borrowed from fluid mechanics, the general equations are derived to describe atomic interdiffusion in diffusion couples. Two types of phase growth, i.e. volume and interface growths, are mathematically defined as the growing expansion of flow points within interdiffusion field and the creation of flow points at interphase interface, respectively. Mathematical discussions on the thickness–time dependence also indicate that phase growth in diffusion couples can be really interface-controlled when the interface coefficient is much smaller than the characteristic diffusion coefficient. It is also shown that with certain conditions Darken's equations can be strictly deduced from the general equations and Darken's equations should be only applicable for the binary interdiffusion system, in which system no new phase should be created. Furthermore, the Kirkendall velocity expressed by one of the Darken's equations should be defined as the velocity of flow point within that system.
+Keywords: Interdiffusion growth; General equations; Flow point; Thickness–time dependence; Darken's equations; Kirkendall velocity
+
+K Chen, L.R Zhao, John S Tse,
+A first-principles survey of γ/γ′ interface strengthening by alloying elements in single crystal Ni–base superalloys,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 80-84,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.009.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007718)
+Abstract: The strengthening effects induced by alloying elements on γ/γ′ interface in single crystal (SC) Ni–base superalloys have been investigated using first-principles quantum mechanics DMol3 calculations. The charge density difference indicates that a strong anisotropic bonding forms between the first-nearest alloying metal and Ni atoms due to alloying metal-d/Ni-d hybridization. The bond orders (BO) for a local environmental cluster are proposed and calculated to describe the cohesion and shear strength of γ/γ′ interface, respectively. Larger bond-order values represent stronger interfacial cohesion and shear strength. Our calculations show that alloying elements significantly increase the net vertical and horizontal bond-order values, with Mo yielding the most effective cohesive strength, while W yielding the most effective shear strength. A complete order of strengthening effects is presented for alloying elements that are typically added in SC superalloys.
+Keywords: First principles; Interface; Strengthening; Ni–base superalloys
+
+K.L. Anderson, J.T. Wescott, T.J. Carver, A.H. Windle,
+Mesoscale modelling of polymer welding,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 14-24,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.002.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007639)
+Abstract: A cubic F lattice model of dense polymer systems, implementing a kinetic Metropolis Monté Carlo diffusion algorithm, is used to elucidate the development of intrinsic welding in polymer systems. The validation and parameterisation of this model has been described in a previous publication [Comput. Theor. Polym. Sci. 11 (1) (2001) 17–28.], showing its ability to reproduce bulk relaxation theory while possessing the computational advantage of being able to simulate complex polymer behaviour on ‘realistic’ time and size scales. Here we review the use of this model for simulating the interdiffusion of long amorphous polymer chains subject to simple thermal protocols as well as extensions of the model for simulating more complex welding effects.
+Keywords: Mesoscale modelling; Polymer; Welding; Monté Carlo; Simulation
+
+Y.L Hao, R Yang, Y Song, Y.Y Cui, D Li, M Niinomi,
+Concentration of point defects and site occupancy behavior in ternary NiAl alloys,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 85-89,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.010.
+(https://www.sciencedirect.com/science/article/pii/S092150930300772X)
+Abstract: A model was established under the mean-field first nearest neighbor interaction approximation to evaluate the concentration of point defects and the site occupancy of micro alloyed NiAl. The theoretical results suggest that micro alloying has only slight effect on point defect formation. The vacancy concentration decreases in both the Al-rich and the Ni-rich alloys as compared to binary alloys, while the concentration of the Al anti-site defects increases and that of the Ni anti-site defects decreases by about half the difference of vacancy concentration between the binary and ternary systems on the Al- and Ni-rich sides, respectively. At low concentration, Ga, Si, Ge, Ti, V, Zr, Nb, Hf and Ta occupy the Al sublattice, whereas Mn, Fe and Co occupy the Ni sublattice; the dependence of occupancy on composition and temperature is weak. By contrast, the site preference of Mo, W and Cr changes considerably with alloy chemistry and temperature and they show strong tendency to occupy both sublattices at high temperature. In general, with increasing atomic number, transition metal elements in the same period increasingly tend to substitute for Ni.
+Keywords: Site occupancy; Point defect; NiAl intermetallics
+
+J.-C. Zhao, M.R. Jackson, L.A. Peluso,
+Mapping of the Nb–Ti–Si phase diagram using diffusion multiples,
+Materials Science and Engineering: A,
+Volume 372, Issues 1–2,
+2004,
+Pages 21-27,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.008.
+(https://www.sciencedirect.com/science/article/pii/S0921509303006804)
+Abstract: A high-efficiency diffusion-multiple approach was employed to map the phase diagram of the Nb–Ti–Si ternary system, which is critical for the design of niobium silicide-based composites. These composites have high potential as a replacement for Ni-base superalloys for jet engine applications. Titanium is one of the most important elements for oxidation resistance and fracture toughness enhancement. Three isothermal sections of Nb–Ti–Si at 1000, 1150 and 1200°C were constructed from the results obtained from diffusion multiples using scanning electron microscopy (SEM), electron probe microanalysis (EPMA), and electron backscatter diffraction (EBSD). Extremely high solubility of Nb in Ti5Si4 (up to ∼46at.% Nb at 1200°C, substituting for Ti) was observed.
+Keywords: Nb–Ti–Si; Diffusion multiple; Silicide; Phase diagram
+
+X Yang, A Jha, R Brydson, R.C Cochrane,
+The effects of a nickel oxide precoat on the gas bubble structures and fish-scaling resistance in vitreous enamels,
+Materials Science and Engineering: A,
+Volume 366, Issue 2,
+2004,
+Pages 254-261,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.003.
+(https://www.sciencedirect.com/science/article/pii/S0921509303006725)
+Abstract: The effects of a NiO precoat on the interfacial microchemistry and the structure of gas bubbles at the steel–enamel interface were investigated using scanning electron microscopy (SEM), electron probe microanalysis (EPMA), thermogravimetric analysis (TGA) and image analysis techniques. The experimental evidence demonstrates that nickel oxide applied to the steel substrate as a precoat accelerates the diffusion of Fe from the steel into the enamel and promotes decarburisation of the steel substrate, this latter reaction generating CO and/or CO2 as gases. The resulting increase in FeO concentration reduces the viscosity of enamel. The apparent decrease in the viscosity of liquid enamel, along with formation of substantial quantities of CO and/or CO2 gases control the distribution of gas bubbles in the enamel layer. The investigation also explains the reason for the association of large gas bubbles with Fe–Ni metal-rich particles with a dendritic appearance (termed ‘dendrites in the following text) at the enamel–steel interface. The role of these Fe–Ni metal-rich ‘dendrites’ in reducing the tendency for hydrogen flaking or cracking of the enamel layer, generally referred to as fish-scaling, is also elucidated.
+Keywords: Enamel; Bubble in enamel; Fishscale
+
+S.J Noronha, D Farkas,
+Effect of dislocation blocking on fracture behavior of Al and α-Fe: a multiscale study,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 156-165,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.022.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007834)
+Abstract: We use a multiscale approach in which results from atomistic simulations are combined with discrete dislocation (DD) dynamics simulations of crack-tip plasticity. The method is used to study the effects of dislocation blocking on the fracture behavior of α-iron and aluminum. We studied the effects of blocking for distances ranging from 5nm to 1mm and find that the fracture resistance is increased with increasing blocking distance. The atomistic and dislocation dynamics simulations show that the blocking of dislocations causes a net decrease in the shear stress projected on the slip plane, preventing further dislocation emission. Semi-brittle cleavage occurs after a certain number of dislocations are emitted, explicitly demonstrating the embrittling effects of dislocation blocking. This effect can contribute to the brittle behavior observed in some nanocrystalline metals.
+Keywords: Fracture; Dislocations dynamics; Atomistic simulations
+
+V Mohles,
+The critical resolved shear stress of single crystals with long-range ordered precipitates calculated by dislocation dynamics simulations,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 144-150,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.020.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007810)
+Abstract: The glide of dislocation pairs (superdislocations) in an order strengthened single crystal (superalloy NIMONIC PE16) is computer simulated, and the critical resolved shear stress is derived. The simulations are based on the local stress equilibrium in one glide plane. The elastic interaction of the dislocations with each other and with themselves is fully allowed for. The mean particle radius, the volume fraction and the energy of the antiphase boundary created by the leading dislocation of a pair are varied. Especially the transition from the peak-aged to the overaged aging state of a crystal is covered by these parameters. In the peak-aged state, the dislocations glide in pairs. Towards the overaged state they become decoupled by the Orowan loops left behind by the leading dislocation. A parameter range for this transition is introduced.
+Keywords: Order strengthening; Computer simulation; Dislocation glide; Superdislocation; Critical resolved shear stress
+
+L. Zhang, L. Meng, S.P. Zhou, F.T. Yang,
+Behaviors of the interface and matrix for the Ag/Cu bimetallic laminates prepared by roll bonding and diffusion annealing,
+Materials Science and Engineering: A,
+Volume 371, Issues 1–2,
+2004,
+Pages 65-71,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(03)00626-9.
+(https://www.sciencedirect.com/science/article/pii/S0921509303006269)
+Abstract: The Ag/Cu bimetallic laminates were prepared by roll bonding at different temperatures and annealing for different times at 673 and 1023K. Their microstructure, composition and hardness were investigated in the matrix or diffusion zone of the laminates. Dynamic recrystallization induced in rolling process produces the mixture microstructure containing deformed and equiaxial grains. There exists an incomplete recrystallized structure for the laminates annealed at 673K and a polygonal grain structure for the laminates annealed at 1023K. The grain size in the strip matrixes increases with increasing rolling or annealing temperature. Recrystallization process during rolling or annealing causes the hardness reduction. The reduction is more significant in the Cu side of the laminates rolled at 873K and in the strip matrixes annealed for 0.5h. Faster velocity of Cu atom moving into the Ag side than Ag atom into the Cu side results in a position shifting of Cu concentration curve in the Ag side. The shifting becomes more significant with prolonging annealing time. In the Ag side of the laminates annealed at 1023K, there is a region of fine equiaxial grains along original interface and its width increases with prolonging annealing time. Some Cu-rich particles precipitate along grain boundaries in the fine grain region and can slightly harden the Ag strip component.
+Keywords: Bimetallic laminate; Roll; Anneal; Bond interface; Microstructure; Constituent distribution
+
+M.A Puigvi, Yu.N Osetsky, A Serra,
+Interactions between vacancy and glissile interstitial clusters in iron and copper,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 101-106,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.013.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007755)
+Abstract: Reactions between defect clusters and point defects are the main mechanism of clusters growth and shrinkage under different conditions and therefore they are necessary input of any model for prediction of microstructure evolution. Traditionally such reactions are treated as the evolution of size distribution of defect clusters where the change in size is considered to be a simple reaction independent of the atomic structure. For example, the interaction between a vacancy and a self-interstitial cluster is treated as an annihilation reaction. However, recent atomistic studies have demonstrated that such reactions could be more complicated. In this paper, we present the results of atomic level modelling of the interaction between clusters of self-interstitial atoms (SIAs) and a vacancy in fcc Cu and bcc Fe. It is shown that vacancies annihilate only with interstitials at the cluster edge. Vacancies inside the cluster glide prism do not recombine but prevent cluster mobility. There are significant differences in the interaction related to the differences in the atomic structure of clusters in particular metals.
+Keywords: Radiation damage; Point defects; Clusters; Defect-interactions
+
+X. Zhang, Lei Wang,
+Computer simulation study of La1−xCaxMnO3,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 90-95,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.011.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007731)
+Abstract: The atomistic simulation techniques are used to study La1−xCaxMnO3. Various possible structures of La0.333Ca0.667MnO3 are studied. It is found that the Wigner-crystal model is more energetically favorable than the Bi-stripe model. It is also found that Ca doping site has substantial effect on structure of La0.5Ca0.5MnO3. Two most energetically favorable La0.5Ca0.5MnO3 structures are found. They have an ordered arrangement of La3+ and Ca2+ ions and different arrangements of Mn3+ and Mn4+ ions, which may affect the charge, orbital and magnetic ordering in La0.5Ca0.5MnO3. It is also found that the ordered distribution of Ca is energetically more favorable than the random distribution of Ca in La0.5Ca0.5MnO3 at low temperature.
+Keywords: Manganate; Charge ordering; Simulation
+
+C Jee, Z.X Guo, M.R Nyden,
+Study of thermal decomposition of a polyisobutylene binder by molecular dynamic simulations,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 122-128,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.015.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007780)
+Abstract: Fugitive binders are a group of polymeric materials used in slurry powder-based manufacturing processes. These are often removed at an intermediate temperature before sintering of the powder per-form. Complete removal of binders is usually essential to ensure high quality components after sintering. This requires a clear understanding of the decomposition mechanisms of binders. Polyisobutylene (PIB) is a promising binder for the fabrication of titanium matrix composites via slurry powder metallurgy. Here, the thermal decomposition mechanisms of PIB were investigated using molecular dynamics (MD) to determine the decomposition mechanisms and the optimum debinding conditions. A MD code, MD_REACT, was used to simulate chemical reactions such as bond breaking and forming during the simulation. This code is coupled with a commercially available MD package (Discover95). The current model consists of a single chain PIB simulated at different temperatures for 5ps to investigate the influence of temperature on the degradation behaviour and the yield of volatile species. Interactions of degraded products were also analysed. Likely degradation products from PIB were identified and compared with experimental findings from mass spectrometry analyses.
+Keywords: Molecular dynamics; Polyisobutylene; Thermal decomposition; Debinding; Slurry powder metallurgy
+
+K.H. Ho, Y.Y. Zhao,
+Modelling thermal development of liquid metal flow on rotating disc in centrifugal atomisation,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 336-340,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.044.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008074)
+Abstract: In centrifugal atomisation the formation of a solid skull on the atomising disc is a major problem, which has adverse effects on the quality and quantity of the as-produced powder and also on the balance of the disc during atomisation. It is costly and difficult to study the flow behaviour because of the complex interaction between the liquid metal and the atomising disc. A computational fluid dynamics model has been developed using Flow-3D to simulate the thermal development of the liquid metal on the atomising disc. Under a fixed process condition, the liquid metal has a nearly constant solidification rate before the steady state is achieved and a solid skull is formed gradually. The volume of the skull decreases with increasing liquid metal flow rate, initial disc temperature and initial liquid temperature.
+Keywords: Centrifugal atomisation; Atomising disc; Thermal development; Skull formation; Solidification rate
+
+Dong Ping Tao,
+A thermodynamic model for solid solutions and its application to the C–Fe–Co, C–Fe–Ni and Mn–Cr–Pt solid dilutions,
+Materials Science and Engineering: A,
+Volume 366, Issue 2,
+2004,
+Pages 239-247,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(03)00651-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509303006518)
+Abstract: Based on the free volume theory and the lattice model, the partition functions of pure solids and their mixtures were expressed. This resulted in the establishment of a thermodynamic model for solid solutions. The model naturally combines the excess entropy and excess enthalpy of a solution by means of new expressions of the configurational partition functions of solids and their mixtures derived from statistical thermodynamics, which is approximate to real solid solutions, that is SE≠0 (VE≠0) and HE≠0. It can describe the thermodynamic properties of partially miscible systems and predict the thermodynamic properties in a multicomponent solid solution system using only the related binary infinite dilute activity coefficients. The predicted activity coefficients from the model are in good agreement with the experimental data of the ternary solid dilutions. This shows that the prediction effect of the proposed model is of better stability and reliability because it has a good physical basis.
+Keywords: Thermodynamic model; Solid solution; Ternary dilutions
+
+Chang Gil Lee, Sung-Joon Kim, Tae-Ho Lee, Sunghak Lee,
+Effects of volume fraction and stability of retained austenite on formability in a 0.1C–1.5Si–1.5Mn–0.5Cu TRIP-aided cold-rolled steel sheet,
+Materials Science and Engineering: A,
+Volume 371, Issues 1–2,
+2004,
+Pages 16-23,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(03)00035-2.
+(https://www.sciencedirect.com/science/article/pii/S0921509303000352)
+Abstract: The effects of volume fraction and stability of retained austenite on formability of a 0.1C–1.5Si–1.5Mn–0.5Cu (hereafter all in wt.%) TRIP-aided cold-rolled steel sheet was investigated after various heat treatments (intercritical annealing and isothermal treatment). Tensile tests and limiting dome height (LDH) tests were conducted on the heat-treated sheet specimens, and the changes of retained austenite volume fraction as a function of tensile strain were measured using an X-ray diffractometer. The results showed a plausible relationship between formability and retained austenite parameters such as stability and initial volume fraction. The formability was improved with increasing volume fraction of retained austenite. However, when the volume fraction of retained austenite was same, the better formability was obtained in the specimens with the higher stability of retained austenite. This indicated that the strain-induced transformation of retained austenite to martensite could be stably progressed, thereby leading to the improvement of formability. Thus, the heat-treatment conditions should be established in consideration of the maximum volume fraction and high stability of retained austenite, and the optimal conditions were found to be intercritical annealing in the temperature range at which the austenite volume fraction was about 50%, followed by isothermal treatment at Ms temperature.
+Keywords: TRIP steel; Retained austenite; Stability; Formability; Limiting dome height (LDH); Flow limiting curve (FLC)
+
+P. Oramus, M. Kozłowski, R. Kozubski, V. Pierron-Bohnes, M.C. Cadeville, W. Pfeiler,
+Dynamics of atomic ordering in intermetallics,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 166-171,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.023.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007846)
+Abstract: Intermetallic compounds showing high stability of superstructure are promising technological materials. As their attractive properties follow mostly from a high degree of long-range atomic order (LRO), knowledge of ordering kinetics in these systems is crucial. Recently, kinetics of “order–order” processes in L12 systems such as Ni3Al have been extensively investigated experimentally, as well as by means of Monte Carlo (MC) and molecular dynamics simulations. Computer simulations yield an information about the atomistic mechanism of ordering in terms of a correlation of atomic jumps between particular sublattice sites. The present contribution reports new Monte Carlo simulation results of “order–order” processes in B2 and L10 superstructures. The results reveal an effect of the sublattice geometry; specifically, the availability of easy-diffusion channels, on the structure of “order–order” relaxations.
+Keywords: Intermetallic; Monte Carlo; Superstructures; Dynamics
+
+Xianping Dong, Jiansheng Wu,
+The influence of zirconium on the crystallization behavior and electrical properties of Cr–Si–Al resistive films,
+Materials Science and Engineering: A,
+Volume 371, Issues 1–2,
+2004,
+Pages 1-8,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(02)00898-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509302008985)
+Abstract: The microstructure and electrical properties of annealed Cr–Si–Al and Cr–Si–Al–Zr films were investigated. When sputtered amorphous Cr–Si–Al and Cr–Si–Al–Zr films were heated up to a temperature of 700°C, both were found to crystallize into two phases: the nanocrystalline Cr(Al,Si)2 and Si phase. The addition of Zr into amorphous Cr–Si–Al films inhibited the nucleation and growth of the crystallization phase, resulting in the higher annealing temperatures for Cr–Si–Al–Zr films in comparison with Cr–Si–Al films to obtain a small temperature coefficient of resistance (TCR). As a result, the Cr–Si–Al–Zr films had higher electrical stability.
+Keywords: Resistive films; Microstructure; Crystallization; Zirconium; Electrical stability
+
+K Nikbin,
+Justification for meso-scale modelling in quantifying constraint during creep crack growth,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 107-113,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.014.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007767)
+Abstract: Meso-scale models over a range of 50–500μm are employed for predicting crack growth in the creep range. They make use of fracture mechanics, creep damage mechanics under multi-axial loading and limit analysis techniques. A study is made of the several levels of approximations and validations in the modelling process that are needed in order to make the method an acceptable tool for use in a safe defect assessment procedure. The NSW meso-scale model developed previously has been used to compare crack growth rate in a 316H stainless steel tested at 550°C using compact tension (CT) and centre-cracked panel (CCP) specimens. In this way the steady crack growth region can be explained by an upper/lower bound cracking rate based on the level of multiaxial constraint. However, the model only quantifies the upper/lower plane stress–strain bounds and does not quantify the intermediate levels of constraint. Therefore, a two-parameter concept to predict constraint and the various steps is employed to improve the predictions for defect assessment in components. Preliminary results using 2D modelling of a CCP specimen under plane strain conditions suggest that the method could be used to predict conservative estimates for crack growth rates when compared to experimental results. Further numerical analysis using 3D models of actual geometric sizes are necessary to confirm the usefulness of the two parameter method in defect assessment procedures.
+Keywords: Creep crack growth; Fracture mechanics; Creep damage; Constraint; Failure strain; Multiaxiality
+
+J Aldazabal, A Martı́n-Meizoso, J.M Martı́nez-Esnaola,
+Simulation of liquid phase sintering using the Monte Carlo method,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 151-155,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.021.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007822)
+Abstract: The use of the dihedral angle as the unique parameter to model liquid phase sintering does not provide good results. In fact, micrographs of sintered materials do not show a constant wetting angle. This phenomenon is driven by solidification-precipitation of particles in the matrix. This effect is controlled by phase diagrams and by surface energies. This paper proposes a model, based on Monte Carlo methods, to simulate liquid phase sintering processes. The main variables used in the model are the concentration of solute in the matrix, the diffusion of this solute and the surface energy. The discretisation of the microstructure has to be fine enough to show the thin layers of matrix that appear between solid particles. The effect of surface energies is accounted for using the 18 closest neighbours. The volume fractions obtained with the proposed model match analytical results. The simulated microstructures show the same morphology as real liquid phase sintered materials.
+Keywords: Monte Carlo method; Solidification; Precipitation; Microstructure; Voxel
+
+N Carrere, J.-F Maire, S Kruch, J.-L Chaboche,
+Multiscale analysis of SiC/Ti composites,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 275-281,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.036.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007986)
+Abstract: Titanium materials reinforced by silicon carbide fibres are good candidates for the manufacture of integrally bladed compressor rings. The composite is thus used as a ring to carry the very high hoop stress generated in the disc. A multiscale approach is presented in this paper to describe the damageable/viscoplastic behaviour of the composite. An analytical method based on the “elastic localisation rule” is used to give the relation between the macroscopic and the microscopic scale. Virtual tests are thus used in order to (re)identify the composite behaviour. Finally, the comparison between the experiment and model results is presented.
+Keywords: Multiscale; Composite; Non-linear behaviour
+
+Xiangli Liu, S.I Golubov, C.H Woo, Hanchen Huang,
+Glide of edge dislocations in tungsten and molybdenum,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 96-100,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.012.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007743)
+Abstract: The glide of a dislocation is the fundamental process of plastic deformation in crystalline solids. For body-centered-cubic (bcc) metals, the three-fold core dissociation of screw dislocations has attracted much attention and investigation. In this paper, we present a molecular dynamics study of glide of edge dislocations in bcc tungsten and molybdenum. On the {110} glide planes, the Peierls–Nabarro stress (PNS) of the edge dislocation is found to be (3.75–5.0)×10−4μ and (1.25–2.50)×10−4μ for tungsten and molybdenum, respectively, where μ is the shear modulus. On the glide planes {112}, these two numbers are (8.13–8.75)×10−4μ and (3.75–5.0)×10−4μ along one direction, and (1.13–1.38)×10−3μ and (6.25–8.75)×10−4μ along the opposite direction. The asymmetry of the PNS on the {112} planes is attributed to the asymmetrical dislocation core structure. During the glide process on {110} planes, the three constituent planes of an edge dislocation displace in sequence. The glide on {112} planes involve two such subsequent displacements, since the core consists of two non-equivalent planes.
+Keywords: Deformation; Dislocation
+
+S. Vives, E. Gaffet, C. Meunier,
+X-ray diffraction line profile analysis of iron ball milled powders,
+Materials Science and Engineering: A,
+Volume 366, Issue 2,
+2004,
+Pages 229-238,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(03)00572-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509303005720)
+Abstract: The size of coherently diffracting domains and the lattice strain of iron ball milled powders have been determined according to various models. The Williamson–Hall plot, the Voigt model and the Warren–Averbach model have been employed. The analytical expressions of the size and strain Fourier coefficients have been extracted from the integral breadth using the so-called “double Voigt” method. The shock power generated in the planetary ball milling equipment employed has been calculated for each synthesis condition and used to plot the size and the strain. The nature (screw or edge) and the density of the dislocations have been determined for each powder under investigation.
+Keywords: X-ray line profile analysis; Ball milling; Iron
+
+D Porter,
+Pragmatic multiscale modelling of bone as a natural hybrid nanocomposite,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 38-45,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.005.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007664)
+Abstract: A multiscale modelling strategy is proposed to predict the mechanical properties of polymer-inorganic hybrid nanocomposites. In particular, high volume fractions of oriented mineral plates in a ductile polymer matrix offer the potential of an attractive balance of stiffness and toughness. Bone is used here as a natural example of such a material, since it has a hierarchy of structures at all scales of dimension, and is an excellent subject for multiscale materials modelling. The key step in the model is to predict the individual properties of the component materials by a self-consistent mean-field method from their molecular structure. This allows the synergistic interaction of mineral and polymer at the large number of interfaces in a nanocomposite to be modelled as an energy sharing process, whose main effect is upon the polymer modulus. The interface-modified mechanical properties are then used in composite models at higher scales to predict the nonlinear stress–strain curve to failure as a function of the main variables of mineral volume fraction (MVF) and particle aspect ratio.
+Keywords: Modelling; Multiscale; Nanocomposite; Bone
+
+S.P.A. Gill, P.E. Spencer, A.C.F. Cocks,
+A hybrid continuum/kinetic Monte Carlo model for surface diffusion,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 66-72,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.017.
+(https://www.sciencedirect.com/science/article/pii/S092150930300769X)
+Abstract: A hybrid continuum/kinetic Monte Carlo method for modelling surface diffusion is presented. A blending region which smoothly and consistently passes information (mass) from one description to the other is used to connect conventional continuum and atomistic models together. This approach allows for the co-existence of multiple length and time scales within a single simulation. The effectiveness of the hybrid model is demonstrated in a simple example.
+Keywords: Surface diffusion; Multiscale modelling; Kinetic Monte Carlo; Adatom density
