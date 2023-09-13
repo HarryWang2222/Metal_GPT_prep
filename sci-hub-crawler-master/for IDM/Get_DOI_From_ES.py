@@ -1,4 +1,4 @@
-for i in range(1,16):
+for i in range(1,100):
     with open ('./data_2/mse{}.txt'.format(i), 'rt', encoding='utf-8')as file_read:
         with open('./urls/mse{}.txt'.format(i), 'w')as file_write:
             for line in file_read.readlines():
