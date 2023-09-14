@@ -1,0 +1,1163 @@
+Z.W. Xing, J. Bao, Y.Y. Yang,
+Numerical simulation of hot stamping of quenchable boron steel,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 28-31,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.09.102.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006084)
+Abstract: Quenchable boron steel is a new type of ultra-high-strength steel used for automotive parts to reduce the weight of automobiles and maintain the safety requirements. On the basis of experimental data of mechanics and thermal physical properties, a material model under hot stamping condition of quenchable steel was set up, and the numerical simulation to the whole hot stamping process of hot forming, quenching and spring-back of bending parts was made with ABAQUS software. The results show that the springback of hot stamping parts increases when the blank-holder force (BHF) decreases; and it increases when the clearance between punch and dies increases and when the die radius increases. The simulation results are basically in agreement with experimental results.
+Keywords: Quenchable boron steel; Thermo-mechanical coupling; Hot stamping; Numerical simulation
+
+
+Subject Index,
+Materials Science and Engineering: A,
+Volume 526, Issues 1–2,
+2009,
+Pages 255-259,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)01067-3.
+(https://www.sciencedirect.com/science/article/pii/S0921509309010673)
+
+
+Editorial Board,
+Materials Science and Engineering: A,
+Volume 527, Issues 1–2,
+2009,
+Page CO2,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)01124-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509309011241)
+
+E.N. Chumachenko,
+Development of computer simulation of industrial superplastic sheet forming,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 342-346,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.129.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006527)
+Abstract: A new technique estimating progressive shape changes for three-dimensional shells based on the generalized cross-sections method is introduced. The formulation of mathematical simulation of technological conditions of forming of three-dimensional shells in conditions of superplasticity is reviewed. An original algorithm of a solution finite element method with usage of orthogonal sections results. The veracity of a receivable solution is analyzed. Experimental tests are realized and a procedure to correlate the idealized forecasts with experimental data is constructed. The results and designed algorithms allow essentially to increase performance and operationability at mining new and retrofit of existing manufacturing processes of gaseous forming in conditions of superplasticity.
+Keywords: Mathematical simulation; Mechanics; Technological process; Theory of superplasticity; Sheet forming; Industry; Titanium alloy
+
+H. Guo, D.W. Zuo, H.B. Wu, F. Xu, G.Q. Tong,
+Prediction on milling distortion for aero-multi-frame parts,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 230-233,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.137.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006369)
+Abstract: Because the multi-frame component of an airplane has thin walls of variable wall thickness, and a high fitting accuracy is required, the prediction of its milling distortion is extremely important. In this study, the finite element model of the milling distortion analysis is established firstly for the multi-frame components, and the prediction analysis of the milling distortion under different milling conditions is carried out, by means of three-dimensional finite element simulation technology. Comparing the simulation results and the measurement ones of the milling distortion, the proposed model is modified and prediction method is proved to be effective. Software system is developed specially for the prediction of the milling distortion for aero-monolithic multi-frame components. By using of the software, a platform structure with 192 frames is analyzed and its milling distortion is predicted successfully.
+Keywords: Milling distortion; Monolithic component; Multi-frame; Finite element method
+
+Manping Liu, Hans J. Roven, Maxim Murashkin, Ruslan Z. Valiev,
+Structural characterization by high-resolution electron microscopy of an Al–Mg alloy processed by high-pressure torsion,
+Materials Science and Engineering: A,
+Volume 503, Issues 1–2,
+2009,
+Pages 122-125,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.02.053.
+(https://www.sciencedirect.com/science/article/pii/S0921509308009118)
+Abstract: Defects and deformation structures including 0° and 60° full dislocations, 30° Shockley partials, stacking faults and deformation twins in a nanostructured Al–Mg alloy processed by high-pressure torsion were identified using high-resolution transmission electron microscopy. The twinning mechanism previously predicted by the molecular dynamics simulation, i.e., the homogeneous mechanism involving dynamic overlapping of the stacking faults inside grains, was directly verified. A four-layer twin formed by the dynamic overlapping of four stacking faults was experimentally observed. Deformation twins and stacking faults formed by partial dislocations in ultrafine grains were experimentally confirmed. These results suggest that partial dislocation emissions from grain boundaries could become a deformation mechanism in ultrafine-grained aluminum during severe plastic deformation.
+Keywords: Deformation twinning; Stacking faults; Partial dislocations; High-pressure torsion; Severe plastic deformation; Aluminum alloys
+
+F.H. Kao, W.C. Li, C.Y. Chen, C.Y. Huang, J.R. Yang, S.H. Wang,
+Cross-sectional observation of the intermetallic phase in a galvannealed steel,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 45-48,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.04.072.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006126)
+Abstract: The coated zinc layer on the dual-phase steel can possess excellent anti-corrosion properties, and the continuous hot-dip process for the dual-phase steel is well known as galvannealed treatment. Since the coated layer is very thin, it is very difficult to acquire a thin foil for transmission electron microscopy by the traditional twin-jet method. The focused ion beam method was used in the present study to obtain high-quality specimens for investiging the details of the microstructure in the coated layer. It was found that a fully microalloying layer exists between the zinc layer and iron matrix. The zinc-rich phases ζ and δ can be observed in the coated layer. However, the Γ1 and Γ2 phases could not be detected in the present study, although they could be expected in parts of lower zinc content in the coated layer.
+Keywords: Focus ion beam method; Galvannealed steel; Microalloying; Dual-phase steel
+
+S.H. Fu, J.X. Dong, M.C. Zhang, X.S. Xie,
+Alloy design and development of INCONEL718 type alloy,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 215-220,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.115.
+(https://www.sciencedirect.com/science/article/pii/S092150930800659X)
+Abstract: The effect of alloying elements such as Al, Ti, Nb, W and Co in INCONEL 718 type alloys on phase precipitation behavior has been investigated by means of Thermo-Calc software. The results show that both the solvus temperature and fraction of phases in 718 type alloys has been significantly changed with variation these alloying elements. The experimental results also reveal that precipitation kinetics of δ, γ″ and γ′ phases in developed 718 type alloys have been changed. The alloy with higher content of Al shows microstructural stability superior to that of conventional 718 alloy. Based on thermodynamical and experimental results, the optimum content of Al, Ti and Nb of the developed 718 type alloy without W and Co additions has been determined to be 1%, 1% and 5.5%, respectively.
+Keywords: Alloy design; 718 type alloy; Thermo-Calc; Precipitation behavior
+
+C.Y. Chen, H.W. Yen, F.H. Kao, W.C. Li, C.Y. Huang, J.R. Yang, S.H. Wang,
+Precipitation hardening of high-strength low-alloy steels by nanometer-sized carbides,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 162-166,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.110.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006400)
+Abstract: The effects of Ti, Ti–Mo, and Ti–Nb microalloy additions on the precipitation strengthening in three experimental high-strength low-alloy steels have been investigated. The objective of this work was to study the carbide precipitation under the conditions of continuous cooling and interrupted cooling. It was found that titanium molybdenum complex carbide, (Ti, Mo)C, can strongly maintain nanometer-scaled sizes and has the largest contribution to the hardness as compared to titanium carbide, TiC, and titanium niobium complex carbide, (Ti, Nb)C. The result emphasizes that (Ti, Mo)C particles possess an excellent behavior of thermal stability.
+Keywords: Interface precipitation; Complex carbide; Continuous cooling; Interrupted cooling; Nano-sized carbide
+
+D. Ferguson, W. Chen, T. Bonesteel, J. Vosburgh,
+A look at physical simulation of metallurgical processes, past, present and future,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 329-332,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.10.121.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006485)
+Abstract: The year 2007 marks the 50th anniversary of the founding of Dynamic Systems Inc., the developer and manufacturer of Gleeble physical simulation systems. From the initial welding simulators in the 1950s to today's complex rolling simulators and multi-axis nano-material development tools, the evolution of equipment for physical simulation research has evolved along several paths. In each case, a need to develop or improve processes and materials has pushed the technology to new levels. This paper takes a brief look at the historical developments of physical simulation tools over the last 50 years and reviews a number of significant milestones in the evolving science of physical simulation. After a historical review, the current technologies and accomplishments are discussed. This includes a look at the most recent developing methods such as the use of laser ultrasonics to gather real-time microstructure information during the simulation. This paper also reviews recent work in simulating thin slab continuous casting. Finally a look at what may be expected in the future for physical simulation is presented.
+Keywords: Physical simulation; Metallurgical process; Laser ultrasonics
+
+William M. Kane, C.J. McMahon,
+Part II. Effects of grain-boundary structure on the path of cracking in polycrystals,
+Materials Science and Engineering: A,
+Volume 507, Issues 1–2,
+2009,
+Pages 61-65,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.07.015.
+(https://www.sciencedirect.com/science/article/pii/S0921509308008265)
+Abstract: Four triple junctions along an intergranular crack caused by oxygen-induced dynamic embrittlement of the nickel-base superalloy IN718 have been modeled with bicrystals having the same kinds of boundaries as the boundaries at the triple junctions that did and did not crack. It was found that in all cases the cracking susceptibilities of the bicrystals matched those found at the triple junctions. A low-angle boundary and a Σ3 boundary were found to be much more resistant to cracking than four random boundaries and a Σ19 and a Σ31 boundary. This supports the position that thermo-mechanical processes that increase cracking resistance do so mainly because they increase the content of Σ3 boundaries.
+Keywords: Dynamic embrittlement; IN718; Bicrystals; Polycrystals; Intergranular fracture; High-temperature brittle fracture; Superalloys
+
+G.L. Liang, G. Zhou, S.Q. Yuan,
+Study on hybrid heat source overlap welding of magnesium alloy AZ31B,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 93-96,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.04.073.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006242)
+Abstract: The magnesium alloy AZ31B was overlap welded by hybrid welding (laser-tungsten inert gas arc). According to the hybrid welding interaction principle, a new heat source model, hybrid welding heat source model, was developed with finite element analysis. At the same time, using a high-temperature metallographical microscope, the macro-appearance and microstructure characteristics of the joint after hybrid overlap welding were studied. The results indicate that the hybrid welding was superior to the single tungsten inert gas welding or laser welding on the aspects of improving the utilized efficiency of the arc and enhancing the absorptivity of materials to laser energy. Due to the energy characteristics of hybrid overlap welding the macro-appearance of the joint was cup-shaped, the top weld showed the hybrid welding microstructure, while, the lower weld showed the typical laser welding microstructure.
+Keywords: Hybrid overlap welding; Microstructure; Numerical simulation; Macro-appearance
+
+L. Li, Q. Zhou, Y.Y. Zhou, J.G. Cao,
+Numerical study on the size effect in the ultra-thin sheet's micro-bending forming process,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 32-35,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.101.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006096)
+Abstract: Size effect is the most challenging problem for the development of metal micro-forming technologies, and the urgent requirement for understanding the size effect is presented. In this paper, size effect phenomena in the ultra-thin sheet's micro-bending forming process are studied numerically based on the concept of strain-gradient plasticity. Results show that the sheet's mechanical response is strongly influenced by the sheet thickness. When the sheet's thickness is close to the material characteristic length, the deflection curve and the distributions of stress and strain are greatly different from those predicted by classical plasticity. If the sheet's thickness is considerably larger than the material characteristic length, the size effect disappears and the results tend to be the same as those predicted by classical plasticity. Hence, in the micro-forming process, the size effect should be taken into account in the selection of the technical parameters.
+Keywords: Micro-forming; Size effect; Strain-gradient plasticity; Finite element method
+
+Z.Q. Hu, M.Z. Li, Z.Y. Cai, X.P. Gong,
+Continuous flexible forming of three-dimensional surface parts using bendable rollers,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 234-237,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.107.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006370)
+Abstract: A novel idea to form three-dimensional (3D) sheet metal parts using three bendable rollers is presented. It can realize a continuous flexible forming of sheet metal. The forming principle is introduced and forming equipment with three bendable rollers has been developed. The bendable roller with shape-adjusting device is designed based on a flexible shaft of steel wires. Some experiments were performed and typical 3D surface parts were formed. The experiments show that the transversal spine of 3D part is determined by the bended shape of the bendable rollers, and the longitudinal spine of the 3D part is determined by the relative displacement among the top roller and the two bottom rollers. The technology of forming 3D surface sheet metal using bendable rollers can produce 3D surface parts in a rapid and economical way.
+Keywords: Continuous forming; Bending; Flexible forming; 3D surface sheet metal
+
+
+Author Index,
+Materials Science and Engineering: A,
+Volume 526, Issues 1–2,
+2009,
+Pages 253-254,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)01066-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509309010661)
+
+
+Subject Index,
+Materials Science and Engineering: A,
+Volume 524, Issues 1–2,
+2009,
+Pages 210-212,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)00955-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509309009551)
+
+
+Author Index,
+Materials Science and Engineering: A,
+Volume 524, Issues 1–2,
+2009,
+Pages 208-209,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)00954-X.
+(https://www.sciencedirect.com/science/article/pii/S092150930900954X)
+
+M. Čanađija, J. Brnić,
+Nonlinear kinematic hardening in coupled thermoplasticity,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 275-278,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.111.
+(https://www.sciencedirect.com/science/article/pii/S0921509308005959)
+Abstract: This paper deals with permanent deformation of metals in nonisothermal environment. As it is generally known, metals are easier shaped if heated. Dimensions of an object also change with temperature variation. In that way, thermal effects influence mechanical behavior. Vice versa, the plastic deformation is accompanied by the heat release that influences temperature field. Therefore, the problem is of coupled nature. To define this problem, we briefly state governing equations. Constitutive equations must be able to model both isotropic hardening and kinematic hardening. Nonlinear kinematic hardening is of special interest. To gain possibility of description of cyclic processes through nonlinear kinematic hardening, one must use concepts of non-associated plasticity. In order to solve the problem at hand we propose numerical framework. The cornerstone is finite element method. Decoupling technique along with procedures that deal with nonlinearities are also presented.
+Keywords: Thermomechanics; Cyclic plasticity; Nonlinear kinematic hardening; Coupled problems; Finite element method
+
+Shixiong Lv, Jianling Song, Haitao Wang, Shiqin Yang,
+Temperature field and flow field during tungsten inert gas bead welding of copper alloy onto steel,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 347-351,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.04.075.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006539)
+Abstract: The temperature field in the base metal and bead-on-plate weld during tungsten inert gas bead welding Hs201 copper alloy onto 35CrMnSiA steel was studied and the fluid flow of the partially melted steel in the molten pool was analyzed. The results show that the thermal cycle changes remarkably and the peak temperature and the cooling speed in the fusion interface are higher than those far away from the interface. In the liquid overlay, the velocity of the fluid flow of the partially melted steel in the edge of the overlay points to the fourth quadrant, while in the puddle of the base metal, the velocity vector points to the second quadrant. Based on the calculated flow field, the distribution of the Fe-rich phase is predicted. The melted steel is driven to the boundary of the overlay. The distribution of Fe-rich phase is largely more in the outside periphery of the overlay than in the middle of the overlay.
+Keywords: Copper alloy; Steel; TIG bead welding; Temperature field; Flow field
+
+Z.J. Zhang, G.Z. Dai, S.N. Wu, L.X. Dong, L.L. Liu,
+Simulation of 42CrMo steel billet upsetting and its defects analyses during forming process based on the software DEFORM-3D,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 49-52,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.135.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006138)
+Abstract: In order to study the plastic deformation characteristics of 42CrMo steel in upsetting process and find out the feasibility of using computer simulation to analyze and research the upsetting process of the 42CrMo billet, by means of commercial and professional plastic forming software DEFORM-3D, the forging process of 42CrMo billet was simulated. It is concluded that (1) the changes of the temperatures, stresses and strains at the different regions of the billet were simulated during the entire forging process, (2) based on the stress and strain distributions of the forged billet, the forming defects analyze was proceeded and it is concluded that some forging defects or flaw may occur near the head surface or around the side edge during the plastic deformation process.
+Keywords: Forging; Upsetting; DEFORM-3D; Numberical simulation
+
+Y.J. Gao, Q.F. Mo, H.N. Chen, C.G. Huang, L.N. Zhang,
+Atomic bonding and mechanical properties of Al–Li–Zr alloy,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 299-303,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.113.
+(https://www.sciencedirect.com/science/article/pii/S092150930800600X)
+Abstract: The atomic bonding of Al–Li alloy with minor Zr is calculated according to the “Empirical Electronic Theory in Solids”. The result shows that the stronger interaction between Al and Zr atoms, which leads to form the Al–Zr segregation regions, promotes the precipitation of Al3Zr particles and produces a remarkable refinement of Al3Li grains in the alloy. Because there are the strongest covalent Al–Zr bonds in Al3Zr and Al3(Zr, Li) particles, these covalent bonds can cause a great resistance for dislocation movement, and is favorable to strengthen the alloy. On the other hand, with precipitating the Al3(Zr, Li) particles, it causes the coherent interphase boundary energy of Al/Al3Li to decrease, and atomic bonding is well matched in between the interface of two phases.
+Keywords: Al–Li–Zr alloys; Atomic bonding; Mechanical property; Simulation
+
+T. Manninen, P. Myllykoski, T. Taulavuori, A.S. Korhonen,
+Large-strain Bauschinger effect in austenitic stainless steel sheet,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 333-336,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.09.099.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006497)
+Abstract: Large-strain Bauschinger effect in cold-rolled austenitic stainless steel sheet is investigated after large amounts of prestrain. The material is prestrained in uniaxial tension, and the tensile properties of the prestrained material are measured in different angles with respect to the prestraining direction. By comparing the differences in the yield stresses in different orientations, the effect of prestraining on material anisotropy is studied. The method is applied to AISI 304-type stainless steel sheet. The test results are analyzed using a combined isotropic–kinematic hardening model. The results indicate that this kind of material shows a considerable Bauschinger effect. Transient and permanent softening is observed in the experiments. The experimental Young's modulus also seems to decrease with prestrain.
+Keywords: Austenitic stainless steel; Uniaxial prestraining; Constitutive behavior; Baushinger effect
+
+C.H. Zhang, X.J. Zheng, K.Y. Tang,
+Study on the three-dimensional stress-relaxation diagram of cattlehide shoe upper leathers,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 167-170,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.143.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006412)
+Abstract: Due to the structural hierarchy of collagen and the fiber weave pattern within skins and hides, leathers exhibit complicated viscoelastic behaviors. In this study, the stress-relaxation behaviors of chrome-tanned cattlehide shoe upper leathers were investigated. A generalized Maxwell model with four units is used to describe the stress-relaxation behavior of leather held at the strains of 23.0%, 30.9%, 37.2%, 42.6% and 51.9%, respectively. A method to get a three-dimensional stress-relaxation diagram with stress–strain–time coordinate is introduced in this paper, from which the stress of leathers at different strain and relaxation times can be predicted. With stress-relaxation measurement of cattlehide shoe upper leathers and a suitable curve fitting, the three-dimensional stress-relaxation diagram of cattlehide shoe upper leathers is built up. This method can also be applied to other solid viscoelastic materials with a suitable curve fitting equation.
+Keywords: Leather; Strain; Maxwell model; Stress-relaxation
+
+D.S. Mei, D.Q. Li, Z.D. Zhang, L. Lan,
+On-line monitoring method for electrode invalidation during spot welding of zinc-coated steel,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 279-281,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.134.
+(https://www.sciencedirect.com/science/article/pii/S0921509308005960)
+Abstract: In the process of spot welding of zinc-coated steel, because of the existence of zinc coat, the electrode invalidation is accelerated greatly, which causes unacceptable welding quality. A collecting system is developed with a C8051F020 microcomputer as the controlling core, which is used to collect such parameters as welding current, supply voltage, dynamic resistance, etc. Through the comprehensive processing, the whole variety trends of those parameters are obtained. Finally, an on-line monitoring method is given through the relationship between electrode wear and welding parameters, which is valuable for the industrial production.
+Keywords: Dynamic resistance; On-line monitoring; Electrode invalidation
+
+Yang Ruifeng, Zhang Peng, Wu Jin Hui,
+The corrosion mechanism of a stainless steel electrode in the dynamic melting of Al at high temperature,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 134-137,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.04.074.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006254)
+Abstract: Experimental investigations on corrosion mechanism of stainless steel electrode in the dynamic melting aluminum liquid are made by scanning electron microscopy and microstructure and composition analyses by electron probe analysis combined with metallic phase analysis. It can be concluded that the corrosion process is mainly composed of physical corrosion (flowing and scouring corrosion) and chemical corrosion (forming FeAl and Fe2Al5) and the two mechanisms usually operate simultaneously. The corrosion interface thickness was found to be about 10μm, which is different to the usual interface width of hundreds of micrometers in the static melting of Al with iron matrix.
+Keywords: Stainless steel electrode; High temperature; Molten aluminum; Corrosion
+
+J. Guan, G.C. Wang, T. Guo, L.B. Song, G.Q. Zhao,
+The microstructure optimization of H-shape forgings based on preforming die design,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 304-308,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.144.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006011)
+Abstract: A microstructure optimization design method of the forging process is proposed. The optimization goal is a small grain size and a homogeneous grain distribution of the forgings. The optimization object is the preforming die shape. The microstructure optimization code is developed using the micro-genetic algorithm and the finite element method. The two forming steps including the preforming process and the final forging process of H-shape forgings are analyzed using the self-developed code. The optimization results show that small grain size and homogeneous grain distribution can be achieved by controlling the shape of the preforming die. Samples of the same size as in the optimization are preformed and then forged to the desired H-shape forgings under the same deformation conditions as in the optimization. Micrographs in the symmetry section of samples show that the grain sizes of the forgings almost coincide with the optimization results.
+Keywords: Forging; Microstructure; Optimization; Preform design
+
+Y.C. Chang, T.T. Wu, M.F. Chen, C.J. Lee, J.C. Huang, C.T. Pan,
+Finite element simulation of micro-imprinting in Mg–Cu–Y amorphous alloy,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 153-156,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.117.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006382)
+Abstract: Mg–Cu–Y-based metallic glasses have exhibited superior glass-forming ability, and can be cast into bulk metallic glasses (BMGs). At temperatures above the glass transition temperature, the BMGs become supercooled viscous materials that can be formed into complicated shapes or patterns on micro- or even nano-scales. This paper presents the simulated forming evolution, using a finite element simulation software DEFORM 3D, and the experimental observations for the micro-imprinting of the Mg58Cu31Y11 BMGs for making hexagonal micro-lens arrays. The results demonstrate that the imprinting is feasible and promising.
+Keywords: Finite element simulation; Metallic glasses; Micro-imprinting; Mg–Cu–Y
+
+D. Lanc, G. Turkalj, J. Brnic,
+Large-displacement analysis of beam-type structures considering elastic–plastic material behavior,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 142-146,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.105.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006308)
+Abstract: A one-dimensional finite element analysis is presented for large elastic–plastic displacements in beam-type structures. Spatial displacements and rotations are allowed to be large while strains are assumed to be small. The corresponding equilibrium equations are formulated in the framework of co-rotational description, using the virtual work principle. Material is assumed to be homogeneous and isotropic. Elastic–plastic material behavior is modeled supposing isotropic hardening law, while stress–strain curve is approximated as bilinear. An own computer program (BMCA) is developed, and its implementation is tested on several typical examples.
+Keywords: Elastic-plasticity; Beam-type structures; Large displacements; Spatial frames
+
+Cheng Jin, Shiyu He,  GuangtaoZhou, Chengbin Fu,
+Experimental and numerical investigations of void damage in aluminum alloy welds under thermal cycling condition,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 171-176,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.09.095.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006424)
+Abstract: Experimental and numerical investigations on thermal cycling induced void damage in aluminum alloy welds are presented. Microstructural and fractographic observations demonstrate that void nucleation around the second phase particles governs the damage process. A modified void nucleation model is presented to characterize the effect of thermal cycling assisted voiding. The physical simulation technique and finite element calculations are applied respectively to determine the local mechanical properties and damage parameters of the different parts of the welded joint. This model is successfully implemented in the finite element code to describe the void damage evolution of the welded joint under thermal cycling conditions.
+Keywords: Thermal cycling; Welded joints; Void damage; Void nucleation; Gurson model
+
+K.K. Zhang, Y.L. Wang, H.X. Shi, H. Yu, S. Liu,
+Isothermal superplastic solid-state welding of 40Cr and QCr0.5, ZQSn6-6-3,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 97-100,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.103.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006266)
+Abstract: To investigate the feasibility of isothermal superplastic solid-state welding of 40Cr steel and QCr0.5, ZQSn6-6-3 copper alloys, the welded surface of 40Cr steel surface is ultra-fined through laser quenching, and then the welding process tests between different base metals of 40Cr and QCr0.5, ZQSn6-6-3 are made under vacuum-free condition. The experimental results show that, under the pre-pressed stress of 56.6–84.9MPa, at the welding temperature of 750–800°C and at initial strain rate of (2.5–7.5)×10−4s−1, the superplastic solid-state welding can be finished in 2–4min. The strength of the joints is up to that of QCr0.5 base metal or close to that of ZQSn6-6-3 base metal and the expansion rate of the joints is below 6%. The plastic deformation of the joint is further analysed. The superplastic deformation of the copper alloys occurs in welding process and the deformation of 40Cr steel is limited.
+Keywords: 40Cr steel; Copper alloy; Laser quenching; Isothermal superplastic solid-state welding
+
+D.S. Zhao, J.C. Yan, Y. Wang, S.Q. Yang,
+Relative slipping of interface of titanium alloy to stainless steel during vacuum hot roll bonding,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 282-286,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.112.
+(https://www.sciencedirect.com/science/article/pii/S0921509308005972)
+Abstract: The strain–time relation during vacuum hot roll bonding of titanium alloy to stainless steel was simulated by the finite element method software MSC Marc. The characters of the strain variation with time of nodes in the section of Ti, Cu and steel were contrasted between the two conditions of using no interlayer and using copper interlayer. The results show that the relative motion between two contacting surfaces using no interlayer is much smaller than that using copper interlayer. The plastic deformation of stainless-steel plate is larger than that of titanium alloy plate at 780°C and smaller at 880°C. The relative slipping between different plates is increased by using copper interlayer. It can break the oxide film to reveal the fresh surfaces and promote contacting between interfaces to be bonded. This lay a foundation on the reasonable choose of deformation during vacuum hot roll bonding of titanium alloy to stainless steel.
+Keywords: Vacuum hot roll bonding; Titanium alloy; Stainless steel; Strain; Marc FEM
+
+H.J. Zhang, G.J. Zhang, C.B. Cai, H.M. Gao, L. Wu,
+Numerical simulation of three-dimension stress field in double-sided double arc multipass welding process,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 309-314,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.10.119.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006023)
+Abstract: A new high-efficiency method for welding thick plates of low-alloy high-tensile steel which does not require back chipping – double-sided arc welding (DSAW) – is provided in this paper. Backing run adopts double-sided pulse gas tungsten arc welding, and other passes adopt double-sided gas metal arc welding. Three-dimensional numerical models of DSAW with 50mm plates are developed to predict the stress distribution by using finite-element analysis, computer parallel processing technology and multiple jobs design, and are compared with single arc welding (SAW). The analysis of the interpass stresses indicates that the stresses of the back and cover pass are to be regarded as the key point in multipass welding. To verify the calculated results, the residual stresses and transient temperature of back run weld measured individually agree approximately with the calculated results, which illustrates that the backing run and residual stresses of DSAW are lower than those of SAW.
+Keywords: Numerical simulation; Double-sided arc welding; Multipass welding; Residual stress; Backing run stress
+
+Zhi Xin Wang, Jin Bin Lu, Yan Jun Xi,
+Effects of quenching under high pressure on crystallization of Cu60Zr20Hf10Ti10 bulk metallic glass,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 192-194,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.09.096.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006540)
+Abstract: The effects of quenching under high pressure on crystallization of Cu60Zr20Hf10Ti10 (at.%) bulk metallic glass are studied by means of differential scanning calorimetry and X-ray diffraction. The temperature–time–transition diagrams of the alloy quenched under high pressure and the cast state are determined and compared. The crystallization process under different conditions is simulated based on the Johnson–Mehl–Avrami equation. The experimental results demonstrate that the pressure promotes the nucleation. The effects of high pressure on crystallization are discussed in terms of crystallization kinetics and thermodynamics.
+Keywords: Bulk metallic glass; Crystallization; High pressure
+
+A.M. Ivanov, E.S. Lukin,
+Investigation of the stored energy change of steel Fe360 subjected to equal-channel angular pressing,
+Materials Science and Engineering: A,
+Volume 503, Issues 1–2,
+2009,
+Pages 45-47,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.02.054.
+(https://www.sciencedirect.com/science/article/pii/S0921509308009143)
+Abstract: Results related to the evaluation of stored energy in the process of plastic deformation of the structural steel Fe360 subjected to equal-channel angular pressing are presented. Stored energy was determined as the difference between the plastic deformation work and evolved heat. The heat evolved in the process of plastic deformation was determined by solving the heat conduction equation simultaneously with the use of experimental temperature function. Temperature measurements during the static tensile tests were conducted using an FPA-based infrared camera. Numerical data on stored energy, evolved heat and work of plastic deformation after equal-channel angular pressing are 2–2.5 times less than for steel Fe360 in the initial state. The amount of the heat evolved during plastic deformation depends on material plasticity.
+Keywords: Equal-channel angular pressing; Stored energy; Evolved heat; Plastic strain; Heat conduction equation; Heat source
+
+F.T. Kong, Y.Y. Chen, B.H. Li,
+Influence of yttrium on the high temperature deformability of TiAl alloys,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 53-57,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.09.093.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006151)
+Abstract: The effects of yttrium additions on plastic deformability and the change of microstructures after deformation of TiAl alloys were investigated by isothermal hot-compression pressing. The experiments were conducted with the Gleeble-1500D style of thermo-force analogue machine. The results indicated that the higher the deformation temperature and the lower the strain rate, the smaller the deformation resistance, and adding 0.3at.%Y can improve remarkably hot deformability of Ti–43Al–9V and Ti–45Al–5Nb alloys at the same processing parameters. Comparing with the microstructures of Y-free TiAl alloys after deformation, the grain sizes of Y-containing TiAl alloys were much finer and the fraction of the fine equiaxed γ grains formed by dynamic recrystallization increased, and the addition of 0.3at.%Y decreased the flow stress, the deformation activation energy of Ti–43Al–9V and Ti–45Al–5Nb (numbers indicate at.%) alloys. According to the isothermal hot-compression pressing results, appropriate sets of deformation processing parameters are recommended for the present Y-containing TiAl alloys. These recommended hot deformation processing parameters have been successfully used for the quasi-isothermal canned forging of (0.3%)Y-containing TiAl alloy billets.
+Keywords: TiAl alloy; Rare earths; Deformation; Microstructure; Hot-compression
+
+
+Editorial Board,
+Materials Science and Engineering: A,
+Volume 524, Issues 1–2,
+2009,
+Page CO2,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)00949-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509309009496)
+
+
+Author Index,
+Materials Science and Engineering: A,
+Volume 527, Issues 1–2,
+2009,
+Pages 401-402,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)01129-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509309011290)
+
+Fuxiao Chen, Hejun Li, Junqing Guo, Yongshun Yang,
+Predictive model of superplastic properties of aluminum bronze and of the superplastic extrusion test,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 315-319,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.04.077.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006436)
+Abstract: The superplastic properties of aluminum bronze were studied by way of artificial neural network. The model was established using Levenberg–Marquardt algorithm. It was improved by studying superplastic tension test data of aluminum bronze such that the superplastic forming parameters were optimized. According to the parameters, the experiment of superplastic extrusion of a solid bearing was performed. It is shown that the model reflected well the relationship between superplastic properties of aluminum bronze and superplastic tension conditions. The relative error between the test values and the predicted values of the network is less than 8.5%, which meets perfectly the demands of superplastic deformation of aluminum bronze. Moreover, the superplastic forming of solid cage of aluminum bronze show that it is feasible to produce solid cage using superplastic extrusion process. This extrusion process has remarkable economic benefits as well.
+Keywords: Artificial neural network; Levenberg–Marquardt algorithm; Aluminum bronze; Superplasticity; Extrusion
+
+P. Zeng, Y. Gao, L.P. Lei,
+Welding process simulation under varying temperatures and constraints,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 287-292,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.09.101.
+(https://www.sciencedirect.com/science/article/pii/S0921509308005984)
+Abstract: Materials suffer a complex situation of both high-temperature and constraint during welding process. The paper firstly addresses the mechanical behavior of material under varying temperature and constraints by experiments, for which 16Mnq steel is chosen as the specimen material. The conditions of experiments are set to be 30–1200°C for varying range of temperature, 5–50MPa for varying range of stress constraint. As for welded structures with the middle-thickness or thin plates, a new modeling method, called the equivalent inherent bend-moment method based on the original welding position, is proposed. In this method, a new element, called the local equivalent welding element (LEWE), is developed. The simulation based on LEWE has an ability to mainly consider the coupling influences of various conditions: the high-temperature performance of material, the varying constraint condition, and the welding technique parameters. A typical example has been present to show the effect to predict the welding deformations of plate structures.
+Keywords: Welding process; Equivalent element; Numerical simulation
+
+Gui-Sheng Zou, Er-Hu Xie, Hai-Lin Bai, Ai-Ping Wu, Qing Wang, Jia-Lie Ren,
+A study on transient liquid phase diffusion bonding of Ti–22Al–25Nb alloy,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 101-105,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.104.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006278)
+Abstract: Transient liquid phase diffusion bonding of Ti–22Al–25Nb (at.%) alloy with Ti–15Cu–15Ni (wt.%) was performed. The factors influencing the microstructure and strength of the joints were studied. A suitably long holding time and high bonding temperature would benefit the formation of joints with homogeneous compositions and high strength. Nb element is the mainly controlling one to the formation of composition-homogenous bonding zone. The bonding zone of joint with a rapid cooling technology after dwelling at bonding temperature is composed of B2 phase. Slow cooling technology is beneficial to improving the joint strength. The tensile strength at room temperature of the joint under the joining conditions of bonding temperature 970°C for 90min with a slow cooling technology reaches up to 1018MPa, which is equal to 93% of base material tensile strength, obviously higher than the joint strength of 931MPa with a rapid cooling technology.
+Keywords: Ti2AlNb alloy; TLP diffusion bonding; Microstructures
+
+J.H. Li, W.F. Fan,
+The plastic flow and finite element simulation of plastic fine blanking,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 200-203,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.141.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006552)
+Abstract: An idea of fine blanking is put forward where negative clearance affects plastic shearing and the plastic state of material in the shearing zone is examined under the condition of negative clearance. By analyzing of blanking force and stress, the paper brings forward a method of setting up the three-directions pressed stress. The method determines if the material of deformation field enters the plasticity regime. Some parameters that control when the material of blanked zone enters into the plastic state are given. The analysis indicates that the material stays in the plastic regime, when the specific energy of elastic deformation for common carbon steel Q235 reaches 8.34MPa. The status of plastic flowing in the shearing zone is simulated.
+Keywords: Plastic flowing; Plastic status; Simulation; Experiment
+
+T. Sakai, H. Miura, X. Yang,
+Ultrafine grain formation in face centered cubic metals during severe plastic deformation,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 2-6,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.098.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006035)
+Abstract: The evolution mechanisms of new high-angle boundaries as well as ultrafine grains at large strains were studied by means of multidirectional forging (MDF) of pure copper at low temperature and aluminum alloy at high temperature, where dynamic recovery operates as a main restoration process. The structural changes can be characterized by the evolution of deformation bands such as microshear or kink bands at moderate strains. Multidirectional forging accelerates the evolution of many mutually crossing microshear or kink bands developed in various directions. The misorientations between (sub)grains increased gradually with increasing cumulative strain, finally leading to the development of a new fine-grained structure. The dynamic grain formation can be resulted from in situ or continuous dynamic recrystallization which is discussed in detail.
+Keywords: Ultrafine grained structure; Severe plastic deformation; Microshear band; Grain fragmentation; Continuous dynamic recrystallization
+
+Q.N. Shi, S.G. Liu,
+The development of a new Al–Li alloy extrusion process,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 126-129,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.102.
+(https://www.sciencedirect.com/science/article/pii/S092150930800614X)
+Abstract: A new double extrusion Al–Li alloy production process is proposed by the authors, and influence of this process on the alloy's microstructures and properties is analyzed. The results show that double extrusion weakens 〈111〉 fiber texture and reduces the grain size of this alloy. This process provides an alloy write a certain remaining strength and improves its plasticity.
+Keywords: Al–Li alloy; Extrusion; Strength; Plasticity; Fiber texture
+
+
+Editorial Board,
+Materials Science and Engineering: A,
+Volume 525, Issues 1–2,
+2009,
+Page CO2,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)01011-9.
+(https://www.sciencedirect.com/science/article/pii/S0921509309010119)
+
+N. Kang, Y. Lee, S. Byun, K. Kim, K. Kim, J. Chung, K. Cho,
+Quantitative analysis of microstructural and mechanical behavior for Fe–0.1C–(V, Nb) steels as a function of the final rolling temperature,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 157-161,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.145.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006394)
+Abstract: The microstructure, tensile property and impact toughness of Fe–0.1C steel were investigated as a function of the final rolling temperature (FRT: 950 or 860°C) and microalloying contents: Fe–V steel, Fe–V–Nb steel, and Fe–Nb steel. Microstructural features (ferrite volume fraction and grain size) were correlated with mechanical properties (hardness, tensile strength, and impact toughness). Specifically, the mixed grain size of ferrite was quantitatively and statistically analyzed to explain the level of toughness. For FRT 860°C, the impact toughness of Fe–Nb steel deteriorated due to the inhomogeneity of ferrite grain size, although its ferrite grain size was mostly the same or slightly smaller than the Fe–V steel. However, Fe–V–Nb steel showed the smallest average and the narrowest distribution of ferrite grain size, which produced comparable impact toughness with Fe–V steel with a minimum loss of the tensile property.
+Keywords: Controlled rolling; Vanadium; Niobium; Impact toughness; Microstructural homogeneity; Tensile property
+
+
+Author Index,
+Materials Science and Engineering: A,
+Volume 523, Issues 1–2,
+2009,
+Pages 316-317,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)00923-X.
+(https://www.sciencedirect.com/science/article/pii/S092150930900923X)
+
+Sandip Ghosh Chowdhury, Elena V. Pereloma, D.B. Santos,
+Corrigendum to “Evolution of texture at the initial stages of continuous annealing of cold rolled dual-phase steel: Effect of heating rate” [Mater. Sci. Eng.: A 480 (2008) 540–548],
+Materials Science and Engineering: A,
+Volume 525, Issues 1–2,
+2009,
+Page 211,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2009.08.001.
+(https://www.sciencedirect.com/science/article/pii/S0921509309008958)
+
+G.Y. Zhao, Y.L. Liu, H. Yang, C.H. Lu, R.J. Gu,
+Three-dimensional finite-elements modeling and simulation of rotary-draw bending process for thin-walled rectangular tube,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 257-261,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.127.
+(https://www.sciencedirect.com/science/article/pii/S0921509308005911)
+Abstract: According to the characteristics of the rotary-draw bending process of a thin-walled rectangular tube, a three-dimensional finite-elements model of this process is built under the ABAQUS/explicit environment based on the solution of several key techniques, such as contact boundary condition treating, material properties definition, meshing technology, etc. The actions of pressure die, wiper die, clamp die and mandrel are considered in the modeling process. Then the reliability of the model is validated by comparison with experiments in the literature. Furthermore, numerical simulation and analysis of the thin-walled rectangular tube bending process of 3A21 aluminum alloy have been carried out by using the model. The distribution laws of tangential stress in the process have been analyzed. The results show that the maximum tangential stress increases sharply in the initial stage and then keeps nearly constant with the progress of the bending process. The circumferential compressive stress zone is basically unchanged when the bending process becomes stable.
+Keywords: Thin-walled rectangular tube; Rotary-draw bending; Modeling; Numerical simulation
+
+S.J. Chen, H.J. Tang, X.T. Jing,
+Transient liquid-phase bonding of T91 steel pipes using amorphous foil,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 114-117,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.133.
+(https://www.sciencedirect.com/science/article/pii/S092150930800631X)
+Abstract: T91 steel pipes were joined by the transient liquid-phase (TLP) bonding process using BNi2, Fe78Si9B13 and FeNiCrSiB amorphous filler in argon atmosphere. The microstructures and properties, as well as the element distribution of TLP joints of T91 martensitic steel with different filler metals have been examined. The testing results showed that the tensile strength and bend strength at room temperature of the joint with Fe–Ni–Cr–Si–B amorphous filler were equal to greater than that of the substrate. In contrast, however, boride is found in the joint region bonded with Fe78Si9B13 interlayer. TLP bonding using the nickel-base foil BNi2, resulted in a bond region stabilized by the high nickel concentration. It is considered that fracture of the joints is caused by these brittle intermetallics at the interface and the discontinuity of the bond line microstructure.
+Keywords: TLP bonding; T91 steel; Interlayer; Microstrostructure; Amorphous foil
+
+S.J. Liang, Z.Y. Liu, E.D. Wang,
+Simulation of extrusion process of AZ31 magnesium alloy,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 221-224,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.120.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006606)
+Abstract: The extrusion process of AZ31 magnesium alloy has been simulated. First, a series of tests were designed to obtain the simulation parameters: stress–strain curves, friction factors and heat transfer coefficient. Then, a special extrusion process was carried out and simulated by DEFORM-2D simultaneously. The results reveal that the simulated temperature–time curve agrees well with the measured one, indicating the good accuracy of the simulation parameters. Accordingly, the extrusion of AZ31 at different conditions was analyzed in detail. The extrusion loads and temperature distribution of billets were obtained.
+Keywords: AZ31 magnesium alloys; Simulation; Extrusion
+
+W.C. Jiang, J.M. Gong, S.D. Tu, H. Chen,
+Three-dimensional numerical simulation of brazed residual stress and its high-temperature redistribution for stainless steel plate-fin structure,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 293-298,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.118.
+(https://www.sciencedirect.com/science/article/pii/S0921509308005996)
+Abstract: A numerical simulated procedure is presented for analyzing the brazed residual stress and its high-temperature redistribution for stainless steel plate-fin structure applied to recuperative heat exchanger in gas-turbine power generation. Based on the finite element ABAQUS code, firstly, the as-brazed residual stress generated during cooling from brazing temperature to room temperature was obtained. Secondly, the residual stress redistribution due to creep relaxation behavior was simulated, which is implemented by Norton creep constitutive equation. Calculated results show that large residual stress with a complex distribution exists in the brazed joint. The peak stress is presented in the fillets where the crack would initiate and propagate. This is mainly caused by the mechanical properties mismatching between filler metal and base metal. But the as-brazed residual stress is greatly relieved and redistributed due to the creep relaxation at elevated temperature. The stress evolution regularity with time at 600°C is achieved.
+Keywords: Stainless steel plate-fin structure; Brazed residual stress; Creep relaxation
+
+P.Z. Zhao, T. Tsuchida,
+Effect of fabrication conditions and Cr, Zr contents on the grain structure of 7075 and 6061 aluminum alloys,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 78-82,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.09.094.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006205)
+Abstract: The correlation between compression conditions at temperatures in the range of 573–773K with the strain rate range of 0.002–2s−1 and grain size after solution heat treatment of 7075 alloy was investigated, as contrasted with 6061 alloy. The grain coarsening occurred under specific Zener-Hollomon (Z) parameters of 5×1010–1012s−1 for 7075 alloy, 108–2×1012s−1 for 6061 alloy, respectively. These phenomena could be explained by crystalline orientation analysis and stored deformation strain evaluation. The site of subgrains with less than 15° misorientation and stored strain after compression increased, but the site of recrystallized grains after solution heat treatment increased with Z parameter. Small Z parameter condition could get low stored strain with fine grain which is stable during SHT. Effect of Cr and Zr on the grain structure of 7075 alloy was also investigated. Cr or Zr addition could inhibit the grain coarsening. The role of Zr addition was confirmed to pinning effect of Al3Zr dispersoids to subgrain boundaries.
+Keywords: 7075 alloy; Cr; Zr; High-temperature compression; Zener-Hollomon parameter; Grain size
+
+Elena D. Tabachnikova, Aleksey V. Podolskiy, Vladimir Z. Bengus, Sergey N. Smirnov, Mikhail I. Bidylo, Kornel Csach, Jozef Miskuf, Lilya R. Saitova, Irina P. Semenova, Ruslan Z. Valiev,
+Mechanical characteristics, failure regularities, and dimple structures on failure surfaces of Ti–6Al–4V ‘ELI’ ultrafine-grained alloy at temperatures from 300 to 4.2K,
+Materials Science and Engineering: A,
+Volume 503, Issues 1–2,
+2009,
+Pages 106-109,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.06.050.
+(https://www.sciencedirect.com/science/article/pii/S092150930800885X)
+Abstract: Low temperature mechanical characteristics in quasistatic uniaxial tension and compression have been studied for ultrafine-grained structural states of Ti–6Al–4V ELI (extra-low interstitials content) alloy processed by equal channel angular pressing. Values of the yield stress and the uniform strain at 300, 77, and 4.2K have been compared for structural states of the Ti–6Al–4V ELI alloy that differ in the average grain size and morphology of α and β phases. Microstructural regularities of failure surfaces and statistical distributions of dimple sizes on the failure surfaces have been studied for different structural states and temperatures.
+Keywords: Equal channel angular pressing; Mechanical properties; Cryogenic temperatures; Dimples
+
+Lihui Lang, Tao Li, Dongyang An, Cailou Chi, Karl Brian Nielsen, Joachim Danckert,
+Investigation into hydromechanical deep drawing of aluminum alloy—Complicated components in aircraft manufacturing,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 320-324,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.126.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006448)
+Abstract: An optimization is presented of the blank shape and the effect of the pressure in the die cavity on the formed parts by using a typical aluminum alloy used in aircraft manufacturing. By means of both numerical simulation and experiment, using two typical parts in aircraft, the forming processes in hydromechanical deep drawing are discussed and the key process parameters are optimized. The experimental results keep reasonable agreement with the numerical one.
+Keywords: Hydromechanical deep drawing; Aluminum; Pressure; Simulation
+
+Hua Hou, Yuhong Zhao, Yuhui Zhao,
+Simulation of the precipitation process of ordered intermetallic compounds in binary and ternary Ni–Al-based alloys by the phase-field model,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 204-207,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.140.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006564)
+Abstract: With the microscopic phase-field model, atomic-scale computer simulation programs for the precipitation mechanism of the ordered intermetallic compound γ′ in binary Ni–15.5at.%Al alloy, θ and γ′ in ternary Ni75AlxV25−x alloys were worked out based on the microscopic diffusion equation and non-equilibrium free energy. The simulation can be applied to the whole precipitation process and composition range. A prior assumptions on the new phase structure or transformation path was unnecessary, the possible non-equilibrium phases, atomic clustering and ordering could be described automatically, and atomic images, order parameters and volume fractions of precipitates were obtained. Computer simulation was performed systematically on the precipitation mechanism, precipitation sequence of θ and γ′ in complicated system with ordering and clustering simultaneously. Through the simulated atomic images and chemical order parameters of precipitates, we can explain the complex precipitation mechanisms of θ (Ni3V) and γ′ (Ni3Al) ordered phases. For the binary alloy, the precipitation mechanism of γ′ phase has the characteristic of both non-classical nucleation and growth (NCNG) and congruent ordering and spinodal decomposition (COSD). For the ternary alloys, the precipitation characteristic of γ′ phase transforms from NCNG to COSD gradually, otherwise, the precipitation characteristic of θ phase transforms from COSD to NCNG mechanism gradually.
+Keywords: Computer simulation; Phase field model (PFM); Ordered intemetallic compounds; Ni–Al-based alloys
+
+Z. Guo, N. Saunders, J.P. Schillé, A.P. Miodownik,
+Material properties for process simulation,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 7-13,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.09.097.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006047)
+Abstract: This paper reviews the recent developments in material property modelling and its applications in processing simulation. Many material properties needed by process simulation can now be readily provided, such as the solidification properties and high temperature stress–strain curves. The solidification properties are affected by changes in composition within the specification range of an alloy; such changes in properties then affect casting simulation results. The mechanical properties are calculated by considering two competing deformation mechanisms (dominated by either dislocation glide or dislocation climb), with automatic selection of the dominant mechanism. Sample calculations are given for a variety of engineering alloys, including steels, aluminum, titanium, and nickel-based superalloys. The material properties data calculated can now be passed directly into commercial computer-aided engineering packages for casting and deformation simulation.
+Keywords: Material properties; Process simulation; High temperature strength; Stress–strain curves; JMatPro
+
+D.R. Li, Z.Y. Liu, Y. Yu, E.D. Wang,
+Numerical simulation of hot hydrostatic extrusion of W-40wt.% Cu,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 118-122,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.125.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006321)
+Abstract: The relationship of stress vs. strain of W-40wt.% Cu at different temperatures and strain rates is obtained by the true stress–strain data obtained from tests using a Gleeble1500 thermo-simulator. The friction factors without and with lubricant of oil and graphite are determined by ring upset experiments. The heat transfer of the billet in various conditions is simulated by DEFORM-2D, and the results are compared with the temperature–time data obtained from heat transfer tests to confirm the convection coefficient and the heat transfer coefficient between the billet and other materials in different states. Based on these works, the hot hydrostatic extrusion process of W-40wt.% Cu is simulated. The results show that the calculated deformation loads during extrusion at different temperatures are in good agreement with the experimental results. The variation of the deformation load during hot hydrostatic extrusion process has been studied, and the distribution of temperature field, equivalent stress, equivalent strain and relative density of the billet are obtained.
+Keywords: W-40wt.% Cu; Hot hydrostatic extrusion; Numerical simulation
+
+
+Subject Index,
+Materials Science and Engineering: A,
+Volume 523, Issues 1–2,
+2009,
+Pages 318-322,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)00924-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509309009241)
+
+S. Hossein Nedjad, M. Nili Ahmadabadi, T. Furuhara,
+Annealing behavior of an ultrafine-grained Fe–Ni–Mn steel during isothermal aging,
+Materials Science and Engineering: A,
+Volume 503, Issues 1–2,
+2009,
+Pages 156-159,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.12.054.
+(https://www.sciencedirect.com/science/article/pii/S0921509308008861)
+Abstract: An ultrafine-grained maraging steel was fabricated by cold rolling and aging of iron–nickel–manganese lath martensite. Transmission electron microscopy was used to study precipitation behavior at grain boundaries during isothermal aging at 753K. Relatively coarse precipitates were found at triple junctions of grain boundaries after aging for 0.36ks. During further aging, precipitates coarsen at triple junctions at the expense of fine precipitates embedded at ultrafine grains. Mass-conservative dissolution of matrix precipitates occurs homogeneously as a result of which the precipitate-free zone around coarse particulates is eliminated. The phenomena of exclusive precipitation at grain boundary triple junctions and homogenous dissolution of matrix precipitates are attributed to the reduced length scale in the ultrafine-grained microstructure.
+Keywords: Nanocrystalline; Grain boundary; Triple junction; Precipitation; Coarsening
+
+W. Chen, Y.Z. Zhang, C.J. Zhang, L.G. Zhu, W.G. Lu, B.X. Wang, J.H. Ma,
+Thermo-mechanical simulation and parameters optimization for beam blank continuous casting,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 58-63,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.116.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006163)
+Abstract: The objective of this work is to optimize the process parameters of beam blank continuous casting in order to ensure high quality and productivity. A transient thermo-mechanical finite element model is developed to compute the temperature and stress profile in beam blank continuous casting. By comparing the calculated data with the metallurgical constraints, the key factors causing defects of beam blank can be found out. Then based on the subproblem approximation method, an optimization program is developed to search out the optimum cooling parameters. Those optimum parameters can make it possible to run the caster at its maximum productivity, minimum cost and to reduce the defects. Now, online verifying of this optimization project has been put in practice, which can prove that it is very useful to control the actual production.
+Keywords: Beam blank; Continuous casting; Thermo-mechanical simulation; Parameters optimization; Subproblem approximation method
+
+H.T. Zhang, J.C. Feng, P. He, B.B. Zhang, J.M. Chen, L. Wang,
+The arc characteristics and metal transfer behaviour of cold metal transfer and its use in joining aluminium to zinc-coated steel,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 111-113,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.124.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006291)
+Abstract: Cold metal transfer (CMT) is a modified metal inert gas welding process based on short-circuiting the transfer process, characterised by low heat input and no-spatter welding. The arc characteristics and its droplet transfer process have been studied by high-speed video photography. The process was used to join aluminium to zinc-coated steel. The results shows that no-spatter welding and low heat input during the welding process can be realized by CMT, and a dissimilar metal joint with good performance can be obtained by the CMT process.
+Keywords: CMT; Arc characteristics; Metal transfer; Dissimilar metal joint
+
+
+Subject Index,
+Materials Science and Engineering: A,
+Volume 525, Issues 1–2,
+2009,
+Pages 214-217,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)01017-X.
+(https://www.sciencedirect.com/science/article/pii/S092150930901017X)
+
+Wang Xi-he, Niu Ji-tai, Guan Shao-kang, Wang Le-jun, Cheng Dong-feng,
+Investigation on TIG welding of SiCp-reinforced aluminum–matrix composite using mixed shielding gas and Al–Si filler,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 106-110,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.07.037.
+(https://www.sciencedirect.com/science/article/pii/S0921509308008071)
+Abstract: Using He–Ar mixed gas as shielding gas, the tungsten inert gas (TIG) welding of SiCp/6061 Al composites was investigated without and with Al–Si filler. Welded joint with filler were submitted to tensile tests. The microstructure and fracture morphology of the joint were examined. The results show that adding 50vol.% helium in shielding gas improves the arc stability, and seams with high-quality appearance are obtained when the Al–Si filler is added. In addition, the interface reaction between SiC and matrix is greatly suppressed when using Al–Si filler. The microstructure of the welded joint displays non-uniformity with many SiC particles distributing in the weld center. The average tensile strength of weld joints with Al–Si filler is 70% above that of the matrix composites under annealed condition.
+Keywords: He–Ar mixed gas; SiCp reinforcement; Al matrix composite; TIG welding
+
+W.F. Cui, Z. Jin, A.H. Guo, L. Zhou,
+High temperature deformation behavior of α+β-type biomedical titanium alloy Ti–6Al–7Nb,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 252-256,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.109.
+(https://www.sciencedirect.com/science/article/pii/S092150930800590X)
+Abstract: Isothermal hot compression tests were carried out in the temperature range 750–900°C and strain rate range 0.001–10s−1 for implant biomedical Ti–6Al–7Nb alloy to obtain the hot deformation behavior. Hot tensile tests were conducted to examine the hot ductility. The stress–strain curves in hot compression tests behave the characteristics of flow softening. According to the kinetic rate equation, the apparent activation energies at 750–850°C and 900°C are calculated to be 200kJ/mol and 130kJ/mol, respectively. It is concluded that at lower temperature (750–850°C) and low strain rate (0.001–0.1s−1), the deformation is mainly controlled by recrystallization and grain-boundary sliding of the α phase. At higher temperature (900°C) or large strain rate (1–10s−1), dynamic recovery in the β phase is the rate-controlling step. Considering workability and microstructural control, the optimum hot deformation conditions are determined in the temperature range 750–850°C and strain rate range 0.01–0.1s−1.
+Keywords: Biomedical titanium alloy; Hot compression; Microstructure; Deformation mechanisms
+
+S.Y. Bae, H.G. Kang, H.S. Yun, C.W. Kim, D.B. Lee, B.S. Lim,
+Oxidation and fatigue crack propagation in the range of low stress intensity factor in relation to the microstructure in P122 Cr–Mo steel,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 262-266,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.04.076.
+(https://www.sciencedirect.com/science/article/pii/S0921509308005923)
+Abstract: Fatigue strength and life of weldment at high temperatures are important for the materials in power plants. The fatigue crack growth rate is accelerated by oxidation. Similarly, the high-temperature fatigue life is influenced by oxidation. The base metal, the weld metal and the heat-affected zone (HAZ) of the P122 (Cr–Mo steel) weldment were oxidized between 600°C and 700°C for up to 500h in air, and their oxidation behavior was examined. The oxidation resistance increased in the order of HAZ, base metal and weld metal. The scales were mainly Fe2O3. Fatigue tests were performed to measure the fatigue crack growth rate in the range of low stress intensity factor, and the results are discussed from the viewpoint of different microstructures and oxidation.
+Keywords: High temperature; HAZ (heat-affected zone); P122; Fatigue; Weldment
+
+Y.Q. Yang, B.C. Li, Z.M. Zhang,
+Flow stress of wrought magnesium alloys during hot compression deformation at medium and high temperatures,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 238-241,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.106.
+(https://www.sciencedirect.com/science/article/pii/S092150930800587X)
+Abstract: The plasticity of AZ31 and ZK60 magnesium alloys was studied by means of hot compression deformation tests on Gleeble 1500D machines at different temperatures and strain rates. The results indicate that the thermal simulation curves of AZ31 and ZK60 have different forms under the same deformation condition. The general curves of AZ31 have the character of dynamic recrystallization that the flow stress increases to a peak and then decreases to a steady state. Most deformation curves of ZK60 have the obvious character that around 0.2 in strain the stress reaches the peak and declines rapidly to the lowest, while the other curves have the character of dynamic recrystallization. From the analysis, a deformation temperature should reasonably be selected from 250°C to 400°C for AZ31, while it was concluded to be 200°C or 400°C for ZK60.
+Keywords: AZ31 alloy; ZK60 alloy; Hot compression deformation; Flow stress
+
+
+Editorial Board,
+Materials Science and Engineering: A,
+Volumes 521–522,
+2009,
+Page CO2,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)00881-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509309008818)
+
+Jianmin Zeng, Ping Gu, Yongzhi Zou, Zhengbing Xu,
+Simulation of mold filling under counter gravity for A356 alloy and A356/SiCp composite,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 130-133,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.147.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006217)
+Abstract: Dynamic characteristics of mold filling under counter gravity for A356 alloy and A356/SiCp composites are compared and analyzed. It is pointed out that there exists much difference in fluidity and flow morphology between A356 alloy and the composites due to the difference in viscosity and equivalent solidification latent. The mold filling under counter gravity can be described by a second-order nonlinear equation characterized by damping oscillations. Composite flows steadier than the matrix alloy during mold filling, and the temperature field resulting from mold filling is more beneficial to directional solidification.
+Keywords: A356/SiCp composites; Counter gravity casting; Simulation
+
+Jiuba Wen, Liusong Yang, Limin Zhu, Jinmin Zhang, Quan-An Li,
+A study on the growth kinetics of CeO2-modified aluminide coating and its computer fitting,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 123-125,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.139.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006333)
+Abstract: A CeO2-modified aluminide coating was obtained by composite electro-deposition Ni and CeO2 particles on 20 steel with different holding time using pack cementation. The growth kinetics curve was given with computer fitting by measuring the thickness of the layer. Scanning electronic microscopy and X-ray energy dispersive spectrometry were used to analyze the microstructure and components of the layer. The results showed that the content of CeO2 was up to 5.21wt.% in the rich area of NiAl coatings, which restrain the interdiffusion between the coating and the base during the oxidation process at high temperature. Meanwhile, the growth curve obtained could offer an important basis to forecasting and controlling the depth of the coating.
+Keywords: Pack cementation; Electro-deposition; CeO2-modified; Computer fitting; Growth kinetics
+
+Z.J. Wang, L.D. Cheng,
+Experimental research and numerical simulation of the dynamic cylinder upsetting,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 138-141,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.128.
+(https://www.sciencedirect.com/science/article/pii/S092150930800628X)
+Abstract: In order to study the dynamic effects under impulsive load, experimental and numerical investigations on the dynamic upsetting process of lead cylinder were conducted. Experiments were carried out on a drop hammer impact test machine. The results show that the dynamic effects on the forming load is related to the hammer velocity, radius–height ratio of specimen and drop mass. The forming load increases with the increase of the hammer velocity or radius-to-height ratio. The fluctuation of load–displacement curve becomes obvious with the increase of the hammer velocity and drop mass. The deformation processes were simulated by the finite element program ANSYS/LS-DYNA. The deformed configuration, velocity vector field and equivalent strain distribution were obtained. The results show that the deformed geometry exhibits mushroom, the material points in the upper region flow faster than that in the lower region, and a strain concentration zone appears in the upper center region.
+Keywords: Physical experiment; Dynamic upsetting; Drop hammer impact test; Dynamic load
+
+J.H. Deng, H.P. Yu, C.F. Li,
+Numerical and experimental investigation of electromagnetic riveting,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 242-247,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.05.049.
+(https://www.sciencedirect.com/science/article/pii/S0921509308005881)
+Abstract: An electromagnetic field model, in which the electric circuit and magnetic circuit are coupled, is established by finite element analysis software ANSYS/Multiphysics. The magnitude and distribution of magnetic force is obtained through the coupling model. Based upon the magnetic force from the coupling model, a deformation analysis model is performed by ANSYS/LS-DYNA. The simulations indicate that the driver is mainly subjected to axial magnetic force and the distribution is non-uniform along its radial direction; the deformation process of rivet consists of the whole free upsetting and the local free upsetting. The experimental results show that grain elongation is present but no crack is found in the shear zone of the rivet head. For composite joining, the lamination and decohesion are not observed and the expansion of the rivet shaft is uniform.
+Keywords: Electromagnetic riveting; Numerical simulation; Rivet deformation; Composite
+
+J.F. Lin, S.J. Yuan,
+Influence of internal pressure on hydroforming of double handles crankshaft,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 208-211,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.10.120.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006576)
+Abstract: The hydroforming process of a double handles crankshaft with the biggest expansion ratio up to 54% is studied by means of simulation and experiment in this paper. The effects of loading paths during hydroforming process on the failure modes are analyzed. The simulation results show that the part can be formed successfully with the feeding pressure selected in the range from 65 to 75MPa. A successful crankshaft component can be manufactured in the experiment as the internal pressure is 70MPa. Folding back occurs as the internal pressure <65MPa and bursting occurs as the internal pressure >75MPa. The most serious thinning occurs in the top of crankshaft handle. The maximum thickness appears in the area of the opposite to crankshaft handle. The maximum of thinning rate by the simulation is about 11%, which is close to 10% that is obtained in experiment.
+Keywords: Hydroforming; Numerical simulation; Hollow crankshaft
+
+Y.H. Ji, J.J. Park,
+Development of severe plastic deformation by various asymmetric rolling processes,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 14-17,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.099.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006059)
+Abstract: Rolling is the most appropriate process to produce a severe plastic deformation in the sheet or plate type of materials. Compared to symmetric rolling, asymmetric rolling is more efficient in producing plastic deformation since it develops additional shear strain for a given reduction in thickness. In the present investigation, various asymmetric rolling processes were analyzed by the rigid-viscoplastic finite element method. The results of the analyses were compared to each other in terms of plastic deformation: effects of asymmetries due to the differences in size, rotational speed and frictional condition between upper and lower rolls. Rolling pressure distribution, rolling force and rolling torque were also compared.
+Keywords: Severe plastic deformation; Asymmetric rolling; Differential speed rolling; Finite element method
+
+J. Tang, X. Xue,
+Numerical simulation of multi-grain structure and prediction of microsegregation in binary Ni–Cu alloy under isothermal conditions,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 64-68,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.114.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006175)
+Abstract: The multi-grain structure and microsegregation during solidification of the binary alloy Ni–Cu under isothermal condition are simulated and predicted by use of the phase-field method. Two concentrations are selected as the computational initial conditions. The results indicate that the supersaturation plays a very important role in microsegregation. The comparison shows that the larger the supersaturation, the higher the degree of microsegregation. Furthermore, the larger the supersaturation, the coarser the dendrite structure and the higher the velocity of dendritic growth. The dendritic evolution starting from different initial conditions is given, and the dynamic reasons of this are also analyzed and discussed.
+Keywords: Numerical simulation; Microstructure; Microsegregation; Phase-field
+
+
+Subject Index,
+Materials Science and Engineering: A,
+Volume 527, Issues 1–2,
+2009,
+Pages 403-408,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)01130-7.
+(https://www.sciencedirect.com/science/article/pii/S0921509309011307)
+
+
+Editorial Board,
+Materials Science and Engineering: A,
+Volume 526, Issues 1–2,
+2009,
+Page CO2,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)01061-2.
+(https://www.sciencedirect.com/science/article/pii/S0921509309010612)
+
+C.Y. Sun, G. Fang, L.P. Lei, P. Zeng,
+Micro-thermomechanical constitutive model of transformation induced plasticity and its application on armour steel,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 18-22,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.100.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006060)
+Abstract: Based on the crystallographic theory of martensitic transformation and internal variable constitutive theory, a micromechanical constitutive model of martensitic transformation induced plasticity was developed. Plastic strains of product and parent phases as well as the volume fraction of each martensitic variant were considered as internal variables describing the microstructure evolution. The plasticity flow both in austenite and martensitic variants domain is described by J2 flow theory. The thermodynamic driving force acting on these internal variables was obtained through the determination of the intrinsic dissipation due to plastic flow and the growth of martensitic domains. The evolution laws of the internal variables are derived, furthermore macroscopic response due to the change of internal variables is obtained. Thermomechanical behavior of armour steel under uniaxial loading was tested which showed a good agreement with experimental results.
+Keywords: Constitutive model; Transformation induced plasticity; Martensitic transformation; Armour steel
+
+Guofa Mi, Shouping Qi, Xiangyu Liu, Jitai Niu,
+Research on water simulation experiment of the rotating impeller degassing process,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 195-199,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.07.004.
+(https://www.sciencedirect.com/science/article/pii/S0921509308008083)
+Abstract: The purification technology by rotating impeller degassing (RID) is becoming one of the important methods to purify molten Al alloys. The degassing efficiency of the RID process is determined by the interaction of many factors. The relationship between technological parameters and degassing efficiency can be defined by building the proper mathematical model which can be used for guidance in practical production. In this work, a quadratic polynomial model of degassing efficiency was built by using the orthogonal regression method. The response equation of degassing rate to the gas flow rate, rotational speed and blowing time was fitted by using multiple-regression estimation methods. Furthermore, the optimal processing parameters of the RID process were defined, namely rotational speed v=374 rpm/min and gas flow rate q=1.8dm3/min and the optimized parameters were confirmed by smelting trial.
+Keywords: Al alloy; Rotating impeller degassing; Water simulation; Orthogonal test
+
+Z.H. Lai, J.C. Zhu, J.H. Jeon, B. Zhang, J. Yu,
+Phase constitutions of MoSiN anti-oxidation multi-layer coatings on CC composites by fused slurry,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 267-270,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.138.
+(https://www.sciencedirect.com/science/article/pii/S0921509308005935)
+Abstract: To improve the oxidation resistance of MoSi fused slurry coating fabricated in vacuum, MoSiN multi-layer coatings were synthesized on C/C composites in nitrogen atmosphere by fused slurry using same Mo and Si element powders. The phase compositions and microstructures were characterized by X-ray diffractometry (XRD), optical microscopy (OM), scanning electron microscopy (SEM) with energy-dispersive spectroscopy (EDS). The results indicate that the MoSiN coating contains SiC inner layer and MoSi2/Si main layer, which was similar with MoSi coating. Additionally, a thin outer layer with nano-filiform morphology has been found on the coating surface, which consists of SiC, Si3N4, AlN, Al2O3 and sialon phase. Oxidation experiments show that the MoSiN multi-layer coating exhibits excellent oxidation resistance at 1400°C and anti-oxidizing potential ability at 1450°C.
+Keywords: C/C composites; Coating; Anti-oxidation; Microstructures; Fused slurry
+
+Chong-xiang Yue, Li-wen Zhang, Shu-lun Liao, Ji-bin Pei, Hui-ju Gao, Yuan-wei Jia, Xiao-jie Lian,
+Research on the dynamic recrystallization behavior of GCr15 steel,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 177-181,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.123.
+(https://www.sciencedirect.com/science/article/pii/S092150930800645X)
+Abstract: The dynamical recrystallization (DRX) of GCr15 steel was investigated at deformation temperatures of 950–1150°C and strain rates of 0.1–10s−1 on a Gleeble-3800 thermo-mechanical simulator. The stress–strain curves at lower strain rates are typical of the occurrence of DRX and exhibit a peak in the flow stress before reaching steady state. The flow stress at higher strain rates increases rapidly to the maximum too, but followed by a steady region. The microstructures after deformation certify that DRX takes place in all specimens. And the results show that DRX occurs more easily with the decrease of strain rate and the increase of deformation temperature. Using regression analysis, the DRX activation energy of the steel, the relationship of critical strain and deformation conditions were determined. In order to determine the recrystallized fraction under different conditions, an approximate model based on the stress–strain curves was investigated, and the kinetic model for DRX was established.
+Keywords: GCr15; Compression test; Dynamic recrystallization; Critical strain; Kinetic model
+
+S.X. Liu, Y. Chen, G.Q. Liu, X.F. Liu, Y.G. Zhang, J.K. Huang,
+Microstructure evolution of medium carbon steel during manufacture process for non-quenched and tempered oil well tubes,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 83-87,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.146.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006229)
+Abstract: The microstructure evolution of medium carbon microalloyed steel during the manufacture sub-processes of N80 grade hot rolling seamless oil well tubes was investigated by compression simulation on Gleblee 1500 thermal simulator and industrial experiments of seamless tubes production. The results show that the tested steel has good anti-coarsening ability at equalization sub-procedure. The quantitative analysis of austenite grain size has illustrated that the average austenite grain size in the steel would almost always continuously increase in the tube manufacture process till just before the stretch-reduction-diameter deformation. The most effective microstructure refinement in industrial experiment did not occur in austenite state, but mainly in austenite decomposition following the stretch-reduction-diameter process. The intra-granular ferrite formation should be very useful for effective refinement of the whole microstructure. The variation tendencies of austenite grain size in simulated and industrial experiments are nearly the same, while the optical microstructures and precipitation characterization are quite different.
+Keywords: Vanadium; Microstructure evolution; Non-quenched and tempered; Seamless steel tube; Intra-granular ferrite
+
+Ronald L. Plaut, Angelo F. Padilha, N.B. Lima, Clara Herrera, Antenor Ferreira Filho, Leandro H. Yoshimura,
+Medium carbon steel deep drawing: A study on the evolution of mechanical properties, texture and simulations, from cold rolling to the end product,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 337-341,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.131.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006503)
+Abstract: Medium carbon steels are mostly used for simple applications; nevertheless new applications have been developed for which good sheet formability is required. This class of steels has an inherent low formability. A medium carbon hot rolled SAE 1050 steel has been selected for this study. It has been cold rolled with reductions in the 7–80% range. Samples have been used to assess the cold work hardening curve. For samples with a 50 and 80% thickness reduction, an annealing heat treatment has been performed to obtain recrystallization. The material has been characterized in the “as received”, cold rolled and annealed conditions, using several methods: optical microscopy, X-ray diffraction (texture), Vickers hardness and tensile testing. The 50% cold rolled and recrystallized material has been further studied in terms of sheet metal formability and texture evolution during the actual stamping of a steel toecap that has been used to validate the finite element simulations.
+Keywords: Medium carbon steels; Texture; Mechanical properties; Deep drawing; Forming limit diagram; FEM simulations
+
+D.M. Cheng, B.G. Teng, B. Guo, S.J. Yuan,
+Thickness distribution of a hydroformed Y-shape tube,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 36-39,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.09.100.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006102)
+Abstract: The process of hydroforming a Y-shape tube was investigated through numerical simulation and experiments. Characteristics of three different forming stages were studied. Thickness distribution of these three stages and the thickness of typical location that varies with internal pressure during forming process were analyzed when the calibration pressure was 136MPa. It is shown that thickness distribution of the leftward fillet transition region is the thickest, rightward takes the second place, the top of the protrusion is the thinnest after forming. The influence of different calibration pressures on the thickness distribution was studied through numerical simulation. It is indicated from the simulation results that with the increase of calibration pressure, the biggest thickening rate is not obviously changed; however, the highest thinning rate increased significantly.
+Keywords: Hydroforming; Y-shape tube; Internal pressure; Thickness; Numerical simulation
+
+W.F. Fan, J.H. Li,
+An investigation on the damage of AISI-1045 and AISI-1025 steels in fine-blanking with negative clearance,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 248-251,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.108.
+(https://www.sciencedirect.com/science/article/pii/S0921509308005893)
+Abstract: The technical process of fine-blanking with negative clearance is introduced in this paper. Under the guidance of the Cockcroft and Latham fracture criteria, possible damage and fracture in the blanking process are simulated with FEM code DEFORM-2D. The quality differences between the conventional blanking and negative clearance blanking are discovered by computer simulation of AISI-1045 steel, as well as the effects caused by the material plasticity on blanking quality. The punch and die radii influence the blanking damage, and the appropriate values of the punch and die radii are determined. In addition, the following conclusions are obtained: the quality of negative clearance blanking is better than that of conventional blanking; and the better material plasticity, the better blanking quality. Final results of the FEM simulation agree with experimental data, which will provide reference for the engineering practice.
+Keywords: Negative clearance; Finite element method (FEM); Damage
+
+J. Guo, X. Yuan,
+The aging behavior of SiC/Gr/6013Al composite in T4 and T6 treatments,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 212-214,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.142.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006588)
+Abstract: The aging behavior of SiCp/Gr/6013Al composite was investigated for both artificial aging (T6) and natural aging (T4) by means of Brinell hardness measurement and compared with that of 6013Al. The results show that SiCp/Gr/6013Al attained peak hardness in a shorter time than 6013Al during artificial aging and the stable hardness of the composite reached in a longer time during natural aging. The increase of aging hardness for SiCp/Gr/6013Al composite was less than for 6013Al for both aging processes due to the lower graphite powder content.
+Keywords: Aluminum matrix composite; Silicon carbide; Graphite; Aging
+
+
+Editorial Board,
+Materials Science and Engineering: A,
+Volume 523, Issues 1–2,
+2009,
+Page CO2,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)00918-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509309009186)
+
+M. Hockauf, L.W. Meyer, B. Zillmann, M. Hietschold, S. Schulze, L. Krüger,
+Simultaneous improvement of strength and ductility of Al–Mg–Si alloys by combining equal-channel angular extrusion with subsequent high-temperature short-time aging,
+Materials Science and Engineering: A,
+Volume 503, Issues 1–2,
+2009,
+Pages 167-171,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2008.02.051.
+(https://www.sciencedirect.com/science/article/pii/S0921509308008885)
+Abstract: The aging behaviour after room temperature (RT) equal-channel angular extrusion (ECAE) of the pre-ECAE solid-solution treated 6060 Al alloy was investigated in wide ranges of temperature, time, and ECAE pre-strain. It is shown that high-temperature, short-time aging is most effective in improving both strength and ductility. Compared to the commercially available peak aged condition with coarse grains, an increase of ∼35% in both ultimate tensile strength and uniform elongation was obtained after one extrusion and aging at 170°C for 18min. Competing recovery and precipitation activity play a significant role in enhancing the ductility of Al–Mg–Si alloys. This work demonstrates a strategy for an efficient processing of UFG Al alloys with outstanding mechanical properties.
+Keywords: Equal-channel angular extrusion (ECAE); Aging; Recovery; Annihilation; Precipitation; Thermal stability
+
+Guangtao Zhou, Xuesong Liu, Cheng Jin, Jianguo Yang, Hongyuan Fang,
+Welding deformation controlling of aluminum-alloy thin plate by two-direction pre-stress method,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 147-152,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.122.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006345)
+Abstract: The two-direction pre-stress method was proposed to control welding deformation as well as hot cracking, and it was applied to 2024Al aluminum alloys. The new method can decrease the tendency of hot cracking caused by the conventional single pre-tension during welding, especially at the starting position of the weld. In tests, the contribution supplied by transverse pre-stress for controlling welding deflection deformation was found, except for preventing cracking. The maximum residual stress was calculated by finite element simulation method under the condition of welding without pre-stress and welding with two-direction pre-stress. The results showed that the deflection deformation of weldments gradually decreased with the increasing of pre-stress value. For given pre-stress value of 0, 0.5σs, 0.7σs in longitudinal direction and 0.7σs (longitudinal)+0.15σs (transverse), the maximum deflections were 13mm, 9mm, 5mm, 1.5mm, respectively.
+Keywords: Two-direction pre-stress; Deflection deformation; Numerical simulation; Tensile strain; Hot cracking
+
+Liu Wei, Yang Yuying, Xing Zhongwen, Zhao Lihong,
+Springback control of sheet metal forming based on the response-surface method and multi-objective genetic algorithm,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 325-328,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.121.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006461)
+Abstract: An automated optimization method by the integration of the response-surface method and an optimization algorithm is presented to control springback of stamping parts. In order to minimize both objective functions of springback and thickness deformation simultaneously, a multi-objective genetic algorithm is applied to find all the optimal solutions at one run instead of transforming multi-objective functions into a single objective function. The response-surface model is employed as a fast analysis tool to surrogate the time-consuming finite-element procedure in the iterations of the multi-objective genetic algorithm. An example is studied to illustrate the application of the approach proposed, and it is concluded that the proposed method is more efficient than the traditional manual finite-element procedure and the ‘trial and error’ approach for springback controlling.
+Keywords: Springback; Sheet metal; Response-surface method; Multi-objective genetic algorithm
+
+X. Xue, L. Xu,
+Numerical simulation and prediction of solidification structure and mechanical property of a superalloy turbine blade,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 69-73,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.12.052.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006187)
+Abstract: A Ni-based superalloy gas turbine blade was chosen as the test casting. The grain size, secondary dendrite arm spacing and Vickers hardness of the blade casting were simulated and also measured by using a software package. The comparison indicates that there is a good agreement between the results simulated and the results measured. By varying the casting conditions, the calculated results show that with the decrease of pouring temperature the grain size and the secondary dendrite arm spacing decrease and the hardness increases. With the increase of the preheated mould temperature, the grain size and the secondary dendrite arm spacing increase and the hardness decreases. However, with a higher preheated mould temperature the grain size in the blade would be more uniform. This indicates that numerical simulation offers a useful tool for predicting solidification structures and mechanical properties of gas turbine blade castings.
+Keywords: Superalloy; Numerical simulation; Solidification structure; Hardness
+
+J. Brnic, G. Turkalj, M. Canadija, D. Lanc,
+Creep behavior of high-strength low-alloy steel at elevated temperatures,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 23-27,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.08.102.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006072)
+Abstract: In this paper experimental data about the creep behavior of high-strength low-alloy (HSLA, ASTM A618) steel are presented. For different elevated temperatures tensile tests are carried out and also for some of the mentioned elevated temperatures uniaxial creep tests for different constant loads are made. The results are useful for determining, e.g., the load-bearing capacity of a structure under fire conditions as well as for its lifetime prediction.
+Keywords: Material mechanical properties; Room and elevated temperatures; Short time creep tests; ASTM A618 steel
+
+
+Author Index,
+Materials Science and Engineering: A,
+Volume 525, Issues 1–2,
+2009,
+Pages 212-213,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)01016-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509309010168)
+
+
+Subject Index,
+Materials Science and Engineering: A,
+Volumes 521–522,
+2009,
+Pages 418-425,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(09)00888-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509309008880)
+
+J.X. Zhang, C.A. Tang, X.Z. Guo, X.Y. Zhou, S.G. Zhuo, Y.D. Peng,
+Effect of reinforcement speciality on average fracture spacing of reinforced concrete specimen,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 271-274,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.130.
+(https://www.sciencedirect.com/science/article/pii/S0921509308005947)
+Abstract: A numerical test code named RFPA (realistic failure process analysis) was used to investigate the crack distribution rule of reinforced concrete specimens under axial tension. The results indicate that, the periodically distributed fracture spacing phenomenon exists in the failure process of the reinforced concrete structure. Besides, the effect of reinforcement characteristics on the mechanical behavior and average crack spacing of reinforced concrete was also studied in five samples with different elastic moduli of the reinforcement. The elastic modulus value of the reinforcement is considered to be an important factor not only to significantly influence the average crack spacing but also to control the ultimate strain of the specimen. In addition, the average crack spacing is increased and the ultimate strain of the specimen is also increased with the decrease of the elastic modulus of the reinforcement.
+Keywords: 3D; Numerical test; Reinforcement concrete; Crack distribution
+
+S.K. Guan, L.H. Wu, P. Wang,
+Hot forgeability and die-forging forming of semi-continuously cast AZ70 magnesium alloy,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 187-191,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.136.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006515)
+Abstract: Semi-continuously cast AZ70 Mg alloy were studied at different temperatures and various strain rates in uniaxial tensile and compressive tests. The plastic diagram, the curves of deformation resistance and the relationship curves between deformation degree and mean grain sizes were determined. The possible hot-forging process parameters were subsequently confirmed. Based on these results and the presently used forging equipments and dies, a conventional forging experiment for a projectile head shell was performed on an oil hydraulic press with the capacity of 3MN by directly utilizing semi-continuously cast AZ70 billet. The forged head shell possesses the desired microstructure and good combined mechanical properties with 30wt.% saving in comparison with an Al alloy shell.
+Keywords: Semi-continuous casting; AZ70 Mg alloy; Forgeability; Die-forging
+
+J.L. Song, Y.T. Li, Z.Q. Liu, J.H. Fu, K.L. Ting,
+Numerical simulation and experiments of precision bar cutting based on high speed and restrained state,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 225-229,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.09.098.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006357)
+Abstract: According to the disadvantages of conventional bar cutting technology such as low-cutting speed, inferior section quality, high-processing cost and so on, a kind of novel precision bar cutting technology has been proposed. The cutting mechanism has also been analyzed. Finite element numerical simulation of the bar cutting process under different working conditions has been carried out with DEFORM. The stress and strain fields at different cutting speed and the variation curves of the cutting force and appropriate cutting parameters have been obtained. Scanning electron microscopy analysis of the cutting surface showed that the finite-element simulation result is correct and better cutting quality can be obtained with the developed bar cutting technology and equipment based on high speed and restrained state.
+Keywords: Bar material; Precision cutting; High speed; Restrained state
+
+L.M. Ren, S.H. Zhang, G. Palumbo, D. Sorgente, L. Tricarico,
+Numerical simulation on warm deep drawing of magnesium alloy AZ31 sheets,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 40-44,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.132.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006114)
+Abstract: Warm forming of magnesium alloys has attracted much attention due to the very poor formability of Mg alloys at room temperature. In the present paper, the warm deep drawing of magnesium alloy AZ31 (3wt.% Al, 1wt.% Zn) sheets was studied by both the experimental approach and the finite element analysis. The results indicated that the formability of the AZ31 sheets could be improved significantly at elevated temperatures. Sound cups could be formed at 150°C with the highest punch speed of 6mm/min, while when the forming temperature was increased up to 250°C, sound cups could be drawn with the highest punch speed of 120mm/min. Finite element analyses were performed to investigate the effects of the process parameters on the drawability of rectangular cups and to predict the formation of the process defects. The reasonable agreement between the numerical simulation results and experimental data validated the accuracy of the finite element analysis.
+Keywords: Numerical simulation; Warm deep drawing; Magnesium alloy AZ31; Fracture
+
+Yong-Cheng Lin, Ming-Song Chen, Jun Zhang,
+Modeling of flow stress of 42CrMo steel under hot compression,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 88-92,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.11.119.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006230)
+Abstract: The compressive deformation behavior of 42CrMo steel was investigated at temperatures from 850°C to 1150°C and strain rates from 0.01s−1 to 50s−1 on a Gleeble-1500 thermo-simulation machine. The results show that the true stress–true strain curves exhibit peak stresses at small strains, then the flow stresses decrease monotonically until high strains, showing a dynamic flow softening. The stress level decreases with increasing deformation temperature and decreasing strain rate, which can be represented by a Zener–Hollomon parameter in an exponent-type equation. A revised model describing the relationships of the flow stress, strain rate and temperature of the 42CrMo steel at elevated temperatures is proposed by compensation of strain. The stress–strain relations of 42CrMo steel predicted by the proposed models agree well with experimental results.
+Keywords: 42CrMo steel; Hot compression deformation; Flow stress; Constitutive equation
+
+G. Turkalj, J. Brnic, G. Vizentin, D. Lanc,
+Numerical simulation of instability behaviour of thin-walled frames with flexible connections,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 74-77,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.10.117.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006199)
+Abstract: A one-dimensional finite element formulation for numerical simulation of instability behaviour of thin-walled frames containing flexible connections is presented. Stiffness matrices of a conventional 14-degree of freedom beam element are derived by applying the linearized virtual work principle and Vlasov's assumption. The structural material is assumed to be homogeneous, isotropic and linear-elastic. Flexible connection behaviour and different warping deformation conditions are introduced into the numerical model by modifying stiffness matrices of a conventional beam element. For that purpose a special transformation matrix is derived. The effectiveness of the numerical algorithm discussed is validated through the test problem.
+Keywords: Structural stability; Thin-walled frames; Flexible connections; Space beam element
+
+Y.Q. Zhang, H.Q. Zhang, W.M. Liu, H. Hou,
+Effects of Nb on microstructure and continuous cooling transformation of coarse grain heat-affected zone in 610MPa class high-strength low-alloy structural steels,
+Materials Science and Engineering: A,
+Volume 499, Issues 1–2,
+2009,
+Pages 182-186,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2007.10.118.
+(https://www.sciencedirect.com/science/article/pii/S0921509308006473)
+Abstract: Continuous cooling transformation diagrams of the coarse grain heat-affected zone and microstructure after continuous cooling were investigated for 610MPa class high-strength low-alloy (HSLA) structural steels with and without niobium. For the steel without Nb, grain boundary ferrite, degenerate pearlite and acicular ferrite are produced at slower cooling rates. Bainite phase is formed at faster cooling rates. However, for the steel with Nb, granular bainite is dominant at a large range of cooling rates. At cooling rates <32K/s, transformation start temperature is decreased by 20K approximately in the steel with Nb compared with that without Nb. Ferrite nucleation at prior austenite grain boundaries is suppressed and the cooling rate region for granular bainite transformation is broadened. At cooling rates >32K/s, Nb addition has no obvious influence on transformation start temperature, but it influences microstructure transformation significantly. Martensite is observed in steel with Nb at faster cooling rates, but not produced in steel without Nb.
+Keywords: Continuous cooling transformation; Coarse grain heat-affected zone; HSLA steel; Niobium

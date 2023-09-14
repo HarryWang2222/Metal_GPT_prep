@@ -1,0 +1,1199 @@
+Michel Duneau, Marc Audier,
+Icosahedral quasiperiodic packing of fibres,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 258-262,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01211-9.
+(https://www.sciencedirect.com/science/article/pii/S0921509300012119)
+Abstract: Methods for constructing icosahedral packing of fibres are reported. Closest packing constructions were realised using straight fibres of circular cross-section and threaded parallel to five- or three-fold icosahedral axes, or both. Their symmetry point group and related 2D tiling as obtained by cut and projection from periodic hyperspace, are presented in the case of the closest packing of fibres only parallel to the six five-fold axes. As a result of the analysis of the related 2D tiling, constructions can also be made using simple 2D building rules. Future experiments on elasticity properties of composite materials with a quasiperiodic fibrous reinforcement are discussed.
+Keywords: Quasiperiodic tilings; Fibre packings; Composite materials
+
+Zorka Papadopolos, Oleg Ogievetsky,
+On inflation rules for Mosseri–Sadoc tilings,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 385-388,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01166-7.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011667)
+Abstract: We give the inflation rules for the decorated Mosseri—Sadoc tiles in the projection class of tilings T(MS). Dehn invariants related to the stone inflation of the Mosseri–Sadoc tiles provide eigenvectors of the inflation matrix with eigenvalues equal to τ=(1+√5)/2 and (−τ−1).
+Keywords: Quasiperiodic tiling; Icosahedral tiling; Inflation rules; Dehn invariant
+
+K Kirihara, T Nakata, M Takata, Y Kubota, E Nishibori, K Kimura, M Sakata,
+Electron-density distribution of approximants of the icosahedral Al-based alloys by the maximum-entropy method and the Rietveld refinement,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 492-495,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01069-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010698)
+Abstract: The electron-density distributions of two approximants, metallic Al12Re constructed of 13 atoms icosahedra with the center Re atoms and non-metallic α-Al–Mn–Si constructed of 12 atoms icosahedra without the center atom, are obtained using the maximum entropy method with synchrotron radiation powder data. Since the minimum electron-density of Al12Re is about one hundred times larger than that of α-Al–Mn–Si, Al12Re has free electron background and apparently metallic bonding. α-Al–Mn–Si is found to have strong covalent bonds in the Mackay icosahedron and those between the glue atom sites and the Mackay icosahedron. The covalency of Al (or Si) icosahedron and that between Al (or Si) and Mn atoms are considered to be the origin of the pseudogap in the α-Al–Mn–Si rather than the Hume–Rothery mechanism.
+Keywords: Maximum entropy method; α-Al–Mn–Si; Al12Re; Covalent bonds
+
+Boaz Rubinstein, Shelomo I Ben-Abraham,
+The ‘random’ square–triangle tiling: simulation of growth,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 418-420,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01142-4.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011424)
+Abstract: Some alloy systems, such as Ni–Cr, V–Ni–Si and Ta–Te, have quasicrystalline phases with 12-fold symmetry. These structures may be described in terms of dodecagonal tilings by equilateral triangles and squares. The formation of quasicrystals still poses a problem, since local information is insufficient for the construction of a perfect quasiperiodic structure. The growth of real quasicrystals may be due to several mechanisms. We have simulated the growth of a quasicrystal from a melt, consisting of squares and equilateral triangles of equal edge length. We are interested in the abundancies of the vertex configurations formed, both regular and defective. Unrestricted random growth tends to result in segregation of triangles from squares. Favoring triangles to attract squares and vice versa brings about nearly perfect patterns with nearly perfect vertex abundancies, as well as realistic defect concentrations. We have also calculated the exact vertex frequencies of the ideal square–triangle tiling by relying on inflation symmetry.
+Keywords: Dodecagonal tilings; Vertex; Inflation symmetry
+
+F. Dénoyer, R. Reich, J.P. Lauriat,
+Phase transformations in decagonal Al-Cu-Co-Si alloy,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 287-290,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01178-3.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011783)
+Abstract: A high quality single grain of Al63Cu17.5Co17.5Si2 was studied by high resolution X-ray diffraction (synchrotron radiation) as a function of annealing temperature, until its transformation into the decagonal quasicrystal. An assembly of phason-strain quasicrystalline domains with orientations which differ by 2πn/10 (n=0,…,4) around the tenfold axis, allow us to accurately explain the peak splitting of the quasicrystal diffraction peaks, if we consider the domains periodic along the twofold ‘P’ direction (direction of the phason-strain) and quasiperiodic along their corresponding orthogonal twofold ‘D’ axis. This 1D quasicrystal is transformed into the 2D decagonal quasicrystal at 830°C. Intensity anomalies were observed at about 770°C and interpreted as resulting of a phason ordering transformation.
+Keywords: Quasicrystals; Decagonal phases; Approximants; Phase transitions; X-ray diffraction
+
+Hiroshi Abe, Nobumichi Tamura, D Le Bolloc’h, Simon C Moss, Yoshie Matsuo, Yasushi Ishii, Jianming Bai,
+Anomalous-X-ray scattering associated with short-range order in an Al70Ni15Co15 decagonal quasicrystal,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 299-302,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01102-3.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011023)
+Abstract: The diffuse scattering around Bragg reflections was observed in a single decagonal quasicrystal of Al70Ni15Co15 using anomalous-X-ray scattering. The intensities of diffuse scattering vary with the three incident X-ray wavelengths, near the Co K-edge and the Ni K-edge and between them. The contrast of diffuse scattering shows the existence of atomic short-range order (SRO) between Ni and Co. The distributions of diffuse scattering are anisotropically modulated and the diffuse shapes vary from one reciprocal lattice point to another. In quasicrystals, anisotropic diffuse shapes derive from phason strain. It is concluded that both SRO and phason strains exist in Al70Ni15Co15. In addition, as the first neighbor of Ni, Ni is preferred to Co statistically, since SRO intensities appear about zone-centers, i.e. there is local clustering of these species.
+Keywords: Short-range order; Phason; Anomalous-X-ray scattering; Decagonal quasicrystal
+
+Janusz Wolny, Anna Wnęk, Jean-Louis Verger-Gaugry, Lucjan Pytlik,
+Average unit-cell approach to diffraction on Thue–Morse sequence and decorated quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 381-384,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01154-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011540)
+Abstract: The average unit cell approach has been successfully used to construct the probability distributions of atomic displacements from the reference lattice points and to calculate the diffraction patterns for two aperiodic structures — the Thue–Morse sequence and decorated Fibonacci chains. For the singular continuous diffraction pattern of the Thue–Morse sequence fractal exponents and multiplication factors have been found for scaling with the number of atoms. General method able to distinguish between various quasilattice decorations has been elaborated and tested for decorated Fibonacci chains.
+Keywords: Thue–Morse sequence; Fibonacci chain; Average unit cell
+
+K Giannò, A.V Sologubenko, M.A Chernikov, H.R Ott, I.R Fisher, P.C Canfield,
+Electrical resistivity, thermopower, and thermal conductivity of single grained (Y, Tb, Ho, Er)-Mg-Zn icosahedral quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 715-718,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01057-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010571)
+Abstract: We report on measurements of the temperature dependence of the electrical resistivity ρ, the thermopower S, and the thermal conductivity λ of single grained RE-Mg-Zn (RE=Y, Tb, Ho, Er) icosahedral quasicrystals between 5 and 300K. The resistivity of all four samples is very weakly temperature dependent with a negative slope dρ/dT. The S/T versus temperature curves exhibit a maximum at temperatures between 12 and 15K. This feature is observed for all here investigated quasicrystalline materials. The appearance of a maximum in the thermal conductivity of (Y, Ho, Er)-Mg-Zn, and a plateau in that of Tb-Mg-Zn is ascribed to a power-law temperature dependence of the mean free path of delocalized quasilattice excitations at intermediate temperatures. A progressive suppression of the maximum in the thermal conductivity data as the de Gennes factor increases indicates for a coupling of the spin system to the lattice.
+Keywords: Icosahedral; Quasicrystal; Thermal conductivity; Thermopower; Electrical conductivity
+
+Jeffrey C Lagarias,
+The impact of aperiodic order on mathematics,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 186-191,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01193-X.
+(https://www.sciencedirect.com/science/article/pii/S092150930001193X)
+Abstract: Mathematics has been strongly influenced by problems arising from physics. The existence of quasicrystals as strongly ordered structures which cannot be periodic has raised various mathematical questions that have stimulated developments in the areas of discrete geometry, harmonic analysis, group theory and ergodic theory. It seems that extra “internal dimensions” are useful in describing certain features of quasicrystal structure and their diffraction spectra. In particular N-dimensional crystalline symmetries can appear in the diffraction spectra of model sets. This paper describes recent work in discrete geometry suggested by the modeling of atomic positions in quasicrystals by Delone sets with restrictions on interpoint distances. It suggests one mechanism for the appearance and usefulness of “internal dimensions” in describing ordered aperiodic structures.
+Keywords: Aperiodicity; Crystallographic group; Delone set; Ergodic theory; Matching rules
+
+Uichiro Mizutani,
+Electron transport mechanism in the pseudogap system: quasicrystals, approximants and amorphous alloys,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 464-469,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01130-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011308)
+Abstract: We have analyzed the electron transport mechanism in quasicrystals and their approximants in diverse classes as being typical of the pseudogap systems by employing the Mott conductivity formula. The transport mechanism is divided into two regimes dominated by the mean free path effect and the g2-dependent electronic structure effect, the latter of which is specific to the pseudogap system. The critical resistivity ρo is defined as the resistivity across which the former is taken over by the latter. It is shown that the ρ–T dependence of quasicrystals and their approximants can be well interpreted in terms of the critical resistivity line drawn in the resistivity versus the g-parameter diagram.
+Keywords: Pseudogap; Quasicrystal; Approximant; Amorphous alloys; Electrical resistivity
+
+P Schall, M Feuerbacher, M Bartsch, U Messerschmidt, K Urban,
+Dislocation arrangement and density in deformed Al–Pd–Mn single-quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 765-768,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01299-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509300012995)
+Abstract: We present results of microstructural investigations on plastically deformed Al–Pd–Mn single-quasicrystals. Deformations were carried out in uniaxial geometry at different temperatures and to different values of plastic strain and in bending geometry. In the uniaxial geometry, various glide systems are activated. The dependence of the total dislocation density on temperature and on plastic strain is studied. Additional heat treatments on deformed samples show that recovery processes occurring at the high deformation temperatures significantly influence the deformation process. The experimental data are interpreted using a kinetic equation describing the evolution of the dislocation density during deformation. In the bending geometry a defined arrangement of geometrically necessary dislocations of edge type is observed. We find straight dislocation lines with line directions in the plane spanned by the direction of the applied force and the bending axis. The Burgers vectors have twofold direction corresponding to glide planes with the highest shear stress.
+Keywords: Quasicrystals; Plastic deformation; Dislocations
+
+A Kounis, G Miehe, H Fuess,
+Investigation of icosahedral phases in the Zn-Mg-(Y, Er) system by high resolution transmission electron microscopy,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 323-326,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01182-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011825)
+Abstract: Icosahedral phases in Zn-Mg-RE(RE=Er, Y) alloys have been studied by high resolution transmission electron microscopy (HRTEM) and electron diffraction for different RE contents. From the electron diffraction patterns along the twofold axis, for Zn60Mg30+xY10−x a face centered icosahedral structure was found with x=0 whereas crystals with x in the range of 4 display a simple icosahedral structure. In the system with RE=Er a cubic approximant of the icosahedral quasicrystalline phase, the so-called ‘R-phase’, was found. The R-phase crystallizes in the space group F4̄3m with a0=2.02nm. The close relation between the R-phase and the icosahedral quasicrystal is shown by HRTEM imaging.
+Keywords: HRTEM; X-ray powder diffraction; Quasicrystal; Approximant; Zn-Mg-Y; Zn-Mg-Er
+
+Ph Ebert, K.-J Chao, Q Niu, C.K Shih, E.W Plummer, K Urban,
+Scanning tunneling microscopy of defects in quasiperiodically ordered surfaces,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 826-829,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01061-3.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010613)
+Abstract: We demonstrate that the limited coherence length of a one-dimensional quasiperiodically ordered superstructure of a thin Ag film on GaAs(110) surfaces is due to structural defects. We identify dislocations, phason defects, and domain walls. The domain walls end at dislocations, whose stress field is found to induce a wide distribution of oriented phason defects.
+Keywords: Quasiperiodic; Defects; Surface structure; Gallium arsenide; Thin films
+
+H Klein, M Feuerbacher, K Urban,
+Dislocations in Al–Pd–Mn approximants: a high resolution electron microscopy study,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 769-772,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01189-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011898)
+Abstract: In plastically deformed crystals of the ξ′-Al–Pd–Mn phase dislocations with different Burgers vectors were observed in a high-resolution electron microscopy (HREM) study. The Burgers vector magnitudes are equal to the physical space components of the Burgers vectors found in the icosahedral phase. In particular, they also show a scaling behavior in the approximant involving the golden mean τ. Through the orientation relationships between the icosahedral phase and the approximant we have found that the Burgers vector directions are equivalent in both phases. This is surprising as some of the Burgers vector directions do not correspond to any crystallographic orientation in the approximant crystal, indicating that local (icosahedral) order is more important to dislocations than long range (crystalline) order.
+Keywords: Quasicrystal; Approximant; Dislocation; Phason
+
+Julien Vidal, Rémy Mosseri,
+Generalized Rauzy tilings: construction and electronic properties,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 572-575,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01165-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011655)
+Abstract: We study a new class of quasiperiodic codimension one tilings based on a natural generalization of the Fibonacci chain. These so-called generalized Rauzy tilings allow for simple and explicit expressions of the site coordinates, and their associated tight-binding Hamiltonians are quickly written as band (Toeplitz-like) matrices. First results are given for their electronic properties which display similar behaviors as higher codimension tilings.
+Keywords: Quasicrystals; Quasiperiodic tilings; Electronic properties
+
+Dieter Joseph,
+Quasiperiodic tilings and self-organized criticality,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 685-688,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01141-2.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011412)
+Abstract: Self-organized critical models are used to describe the 1/f-spectra of rather different physical situations like snow avalanches, noise of electric currents or luminosities of stars. The prototype of these models is the sandpile model of Bak et al. [Phys. Rev. Lett. 59 (1987) 381]. We implement this model on the eight-fold Ammann–Beenker tiling where the model can become either isotropic or anisotropic and investigate its properties.
+Keywords: Crystals; Quasicrystals; Random tilings; Self-organized criticality
+
+M Scheffer, M Rouijaa, J.-B Suck, R Sterzel, R.E Lechner,
+Magnetic neutron scattering from quasicrystalline Zn–Mg–Ho and Zn–Mg–Y at low temperatures,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 488-491,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01068-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010686)
+Abstract: In contrast to the magnetic transition metal ions in other quasiperiodic alloys, the RE (RE=rare earth) ions in icosahedral Zn–Mg–RE show localised magnetic moments due to localised 4f electrons. Long range as well as short range order of these moments are still under discussion. To investigate the magnetic properties of these fci-structures of Frank–Kasper type, we performed inelastic neutron scattering experiments at temperatures between 1.6 and 25.0K and measured the DC magnetic susceptibility. The results show mainly paramagnetic scattering of the samples. Comparison with the data of Zn–Mg–Y ensures, that the observed scattering is not of phononic or phasonic nature. The lineshape of the quasielastic peak can be modeled by a shifted Lorentzian. The observed shift is small (approximately 0.6meV) and shows no dispersion. The linewidth is constant in Q and increases with temperature. A possible interpretation of this behaviour is the existence of a crystal field splitting.
+Keywords: Magnetic neutron scattering; Quasicrystal; Spin dynamics; Crystal field splitting
+
+N. Shramchenko, H. Klein, R. Caudron, R. Bellissent,
+Comparison of local order in icosahedral Al–Pd–Mn quasicrystal and in approximant phase by thermal neutron scattering,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 335-339,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01096-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010960)
+Abstract: In a previous paper [R. Caudron, A. Finel, Y. Calvayrac, M. Fradkin, R. Bellissent, in: S. Takeuchi, T. Fujiwara (Eds.), Proceedings of the Sixth International Conference on Quasicrystals, Tokyo, May 26–30, 1997, World Scientific, Singapore, 1998, pp. 375–378], we presented the results of neutron diffuse scattering in an icosahedral Al–Pd–Mn single grain. The background intensity, measured away from any intense Bragg peak was in good agreement with a calculation based on the chemical disorder of the ξ′ approximant of the icosahedral phase whose structure has been resolved by Boudard et al. [M. Boudard, H. Klein, M. de Boissieu, M. Audier, H. Vincent, Philos. Mag. A 74 (1996) 939–956], by using X-ray diffraction. In order to check the generality of this diffuse background and to legitimate this interpretation of local order in quasicrystalline Al–Pd–Mn, we have now measured the diffuse scattering of the ξ′ phase itself and other icosahedral samples.
+Keywords: Neutron diffuse scattering; Quasicrystal; Icosahedral Al–Pd–Mn; Approximant; ξ phase
+
+Chr. Khoukaz, R. Galler, H. Mehrer, P.C. Canfield, I.R. Fisher, M. Feuerbacher,
+Diffusion of 57Co in decagonal Al–Ni–Co-quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 697-701,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01149-7.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011497)
+Abstract: Self-diffusion of 57Co in decagonal Al–Ni–Co single quasicrystals was studied for both principal directions as a function of the temperature by means of the radiotracer method. In combination with serial sectioning, diffusivities were measured over a large temperature range from 732 to 1273K. Below about 1120K diffusion is described by an Arrhenius behaviour along both the periodic and the quasiperiodic directions. The magnitude of the activation enthalpies and pre-exponential factors support a vacancy-type diffusion mechanism. A small anisotropy of diffusion which is temperature-dependent but never exceeds 30% was detected. Above 1120K, a kink in the Arrhenius curve is observed. We attribute this behaviour to a phase transition from the decagonal basic Co-rich phase to an ordered modification.
+Keywords: Diffusion; Decagonal Al–Ni–Co; Radiotracer method; Anisotropy of diffusion
+
+A Sadoc, J.Y Kim, K.F Kelton,
+Local atomic structure of icosahedral quasicrystals and 1/1 approximant in the Ti–Ni–Zr alloy system,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 348-350,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01125-4.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011254)
+Abstract: Extended X-ray absorption fine-structure (EXAFS) experiments were performed above the Ti, Ni and Zr K absorption edges in the icosahedral Ti45Zr38Ni17 phase and in its 1/1 approximant, the Ti50Zr35Ni15 phase. The EXAFS spectra show a strong similarity for both samples, indicating that the local structures around the Ti, Ni and Zr atoms are similar in the icosahedral and 1/1 phases.
+Keywords: Quasicrystal; Approximant; EXAFS; Ti–Ni–Zr
+
+Esther Belin-Ferré, Vincent Fournée, Uichiro Mizutani, Tsunehiro Takeuchi, Herbert Müller,
+Investigation of Al and Mg occupied densities of states of Al–Mg–Zn alloys,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 516-518,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01327-7.
+(https://www.sciencedirect.com/science/article/pii/S0921509300013277)
+Abstract: In this paper we report first results on the investigation of the electronic distributions in a series of Al–Mg–Zn alloys by means of X-ray emission spectroscopy. This technique was selected as it allows to probe separately partial densities of states around each constituent in a compound. Differences are observed in the shapes and energy extent of the partial spectral curves from quasicristalline to 1/1- and 2/1-approximants in this system. This indicates modifications in the electronic interactions according to the atomic structure of the specimen.
+Keywords: Electronic structure; Quasicrystals; Approximants; X-ray spectroscopy
+
+D Brunner, D Plachke, H.D Carstanjen,
+The strain-softening phenomenon of icosahedral Al–Pd–Mn single quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 773-776,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01072-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010728)
+Abstract: For studying the strain-softening phenomenon of icosahedral Al–Pd–Mn single quasicrystals, compression tests with constant plastic strain rate were performed in the strain regime following the upper yield stress and combined with stress-relaxation experiments and temperature changes along the stress–strain curves at selected strains. It is found that both the strain-rate sensitivity and the temperature sensitivity of the flow stress decrease in the above strain regime with increasing strain. These results favour a model which assumes strain softening being caused by a change of the configuration of large cluster-like obstacles (e.g., the icosahedral clusters present in i-Al–Pd–Mn quasicrystals) by the moving dislocations thus reducing the stress needed to maintain the deformation.
+Keywords: Strain-softening; Icosahedral Al–Pd–Mn; Quasicrystals; Plasticity
+
+Przemysław Repetowicz, Uwe Grimm, Michael Schreiber,
+Planar quasiperiodic Ising models,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 638-641,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01153-9.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011539)
+Abstract: We investigate zero-field Ising models on periodic approximants of planar quasiperiodic tilings by means of partition function zeros and high-temperature expansions. These are obtained by employing a determinant expression for the partition function. The partition function zeros in the complex temperature plane yield precise estimates of the critical temperature of the quasiperiodic model. Concerning the critical behaviour, our results are compatible with Onsager universality, in agreement with the Harris–Luck criterion based on scaling arguments.
+Keywords: Quasicrystals; Ising model; Partition function zeros; Phase transition; Critical point properties
+
+Terrence Jach,
+Quasicrystal element correlations from X-ray standing waves,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 315-318,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01181-3.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011813)
+Abstract: X-ray standing waves associated with dynamical diffraction in perfect crystals are also present during diffraction in high-quality quasicrystals. The fluorescence observed from quasicrystals while scanning the rocking curve of a particular Bragg reflection shows an identical form to that observed from periodic planes in a perfect crystal. In this case, however, the coherent fraction is the value of a correlation function: the Fourier component of a given elemental distribution at the wavevector associated with the Bragg peak. We show, using a model for Al−Pd−Mn, how the observed value for the coherent position at a given reflection is a sensitive indicator of the centrosymmetry of the distribution, and the observed value for the coherent fraction is a test of the elemental distribution predicted from the model.
+Keywords: Quasicrystal; X-ray standing wave; Dynamical diffraction
+
+R.G. Hennig, E.H. Majzoub, A.E. Carlsson, K.F. Kelton, C.L. Henley, W.B. Yelon, S. Misture,
+Structural modelling of the Ti–Zr–Ni quasicrystal,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 361-365,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01084-4.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010844)
+Abstract: The atomic structure of the icosahedral Ti–Zr–Ni quasicrystal is studied using a canonical cell tiling approach. An investigation of the previously proposed structure for W-Ti–Zr–Ni, the 1/1 crystal approximant to the Ti–Zr–Ni icosahedral quasicrystal, has revealed improbable occupation of sites in the region between the Bergman clusters and at the cluster centre. The 1/1 structure is refined for a better-ordered sample of the approximant, using X-ray and neutron diffraction measurements and ab initio relaxation studies. Based on this refined structure, an atomic decoration model for large canonical cell tilings is developed. Calculated diffraction patterns from the generated structures are in reasonable agreement with those measured for the icosahedral quasicrystal.
+Keywords: Icosahedral quasicrystals; Atomic structure; Decoration model; Ab initio calculations; Ti–Zr–Ni alloys
+
+F Cyrot-Lackmann,
+Quasicrystals as potential candidates for thermoelectric materials,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 611-612,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01100-X.
+(https://www.sciencedirect.com/science/article/pii/S092150930001100X)
+Abstract: Quasicrystals have unusual thermal and electronic properties, such as low thermal conductivity, electronic conductivity increasing with temperature and defects and a thermoelectric power which can be large and positive in some cases. All these properties can be understood in a scheme where their peculiar atomic structure induces a complex Fermi surface. Applications of quasicrystals as new thermoelectric materials are discussed in terms of their figure of merit.
+Keywords: Quasicrystals; Thermoelectric power; Electronic structure
+
+B.I Wehner, U Köster, A Rüdiger, C Pieper, D.J Sordelet,
+Oxidation of Al–Cu–Fe and Al–Pd–Mn quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 830-833,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01060-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010601)
+Abstract: Oxidation of Al–Cu–Fe and Al–Pd–Mn quasicrystals as compared to related crystalline phases was studied in air at high temperatures. Parabolic rate constants at 840°C were about 6×10−12g2cm−4s−1 for icosahedral Al–Cu–Fe, but only 3×10−13g2cm−4s−1 for cubic AlFe. The oxide layer formed on the icosahedral alloy was inhomogeneous with respect to the oxide growth morphology. Oxide compositions were studied by Auger electron spectroscopy (AES) and X-ray induced photo electron spectroscopy (XPS). The θ-Al2O3 layer on Al–Cu–Fe did not contain any quantities of Cu or Fe that were significant according to the analyses by AES and XPS. In an advanced oxidation stage the θ-Al2O3 layer was penetrated by α-Al2O3 nodules, which contained about 5% Cu. Oxidation of Al–Pd–Mn quasicrystals was found to be strongly influenced by evaporation of Mn. Whereas the formation of δ-Al2O3 was observed at 800°C on Al–Pd–Mn quasicrystals followed by growth of needle-like θ-Al2O3, oxidation of hot isostatically pressed (HIPed) specimens at 850°C led to the formation of a θ-Al2O3 layer containing also extremely thin areas. The metallic Al(LMM) Auger peak observed in these areas was four times the oxidic Al(LMM) peak. Neither in the thick nor the thin oxide areas were Pd or Mn observed.
+Keywords: Oxidation; Quasicrystal; Al–Cu–Fe; Al–Pd–Mn
+
+P. Donnadieu, F. Dénoyer, J.P. Lauriat, P. Ochin,
+Modulated states in Mg–Al alloys and classical Frank–Kasper phases: a high resolution X-ray diffraction study,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 120-123,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01229-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509300012296)
+Abstract: The Mg–Al system shows for composition in the 50–60at.% Al range several states, either periodic or quasiperiodic, related to tetrahedral and icosahedral motif structures. The Mg–Al (61at.%) rapidly solidified alloy shows a cubic quasiperiodic state with inflation symmetry characterized by the algebric number 2−√3. The main question is to know if this state is an example of a new kind of quasicrystal or if this inflation property is only due to a continuous variation of the wavenumber. We report high resolution X-ray diffraction studies of this Mg–Al (61at.%) metastable state and the related stable Frank–Kasper phase (β-phase). These experiments clearly show fluctuations of the wavenumber. The quasiperiodic Mg–Al (61at.%) state appears thus to have typical features of incommensurately modulated phases, but with a persisting connection with Frank–Kasper phases.
+Keywords: Modulated states; Frank–Kasper phases; Quasicrystalline phases
+
+A.F Prekul, N.Yu Kuzmin, N.J Shchegolikhina,
+Thermal activation of carriers and characteristic features of the electronic structure of quasicrystalline systems,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 527-530,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01079-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010790)
+Abstract: The electric conductivity and magnetic susceptibility of the quasicrystalline alloy Al62Cu25.5Fe12.5 are studied in the temperature range from 3.9 to 1200K. The results are analysed under the assumption that the thermal activation of carriers is the main temperature effect.
+Keywords: Quasicrystal; Electronic structure; Thermal activation
+
+M Bartsch, B Geyer, D Häussler, M Feuerbacher, K Urban, U Messerschmidt,
+Plastic properties of icosahedral Al–Pd–Mn single quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 761-764,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01108-4.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011084)
+Abstract: Plastic deformation properties of icosahedral Al–Pd–Mn single quasicrystals have been measured over a wide range of temperature in constant strain rate experiments including stress relaxation tests. The properties are different in the low and high-temperature ranges. At low temperatures, the deformation is controlled by the lattice friction of the gliding dislocations and a very effective work-hardening mechanism. At high temperatures, the deformation properties are discussed in terms of recovery-controlled plastic deformation.
+Keywords: Icosahedral quasicrystals; Plastic deformation; Stress relaxation; Work-hardening; Recovery
+
+M. Jono, Y. Matsuo, Y. Ishii,
+A phason strain in an Al–Cu–Fe icosahedral quasicrystal,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 680-684,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01188-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011886)
+Abstract: The peak profiles and peak positions for an icosahedral Al–Cu–Fe single quasicrystal were measured using a high-resolution four-circle X-ray diffractometer. Notable peak shifts from the ideal Bragg positions with Q⊥ dependence were observed only for the reflections on the five-fold axis. This means that the specimen has the linear phason strain along the five-fold direction. The amplitude of this linear phason strain is estimated as −0.0543 by using matrix elements for Ih to D5d deformation. This value corresponds to the phase transformation from the icosahedral phase to the pentagonal phase. Furthermore, two-dimensional intensity distributions around the Bragg reflections on the two-, three- and five-fold axes are well interpreted with this deformation scheme.
+Keywords: Quasicrystal; Icosahedral phase; Al–Cu–Fe; Phason strain; X-ray diffraction; Diffuse scattering
+
+Nobuhisa Fujita, Komajiro Niizeki,
+Localization properties of electronic wave functions of the Hubbard model on the Fibonacci lattice,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 560-563,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01164-3.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011643)
+Abstract: We employ the Hubbard model on the Fibonacci lattice to study the effect of the repulsive Coulomb interaction on the electronic properties of quasicrystals. Localization properties of the electronic wave functions are analyzed numerically within the Hartree–Fock approximation. For the case when the Fermi energy locates in a gap, all the wave functions remain critical as indicated by a previous report. For the case when the Fermi energy lies on an accumulation point of the energy spectrum, the critical wave function is expected to be unstable because the self-consistent one-electron potential strongly breaks Conway’s theorem on account of the long-range nature of the Friedel oscillation. Still, it is found that the critical nature remains stable provided the interaction is sufficiently weak. Instead, when the strength of the interaction is increased, the system becomes magnetically unstable much more easily than in the former case.
+Keywords: Fibonacci lattice; Conway’s theorem; Hubbard interaction; Hartree–Fock approximation
+
+N Rivier, M Durand,
+Variable-range hopping conductivity in quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 584-587,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01112-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011126)
+Abstract: The electronic density of states (DOS) of 1D quasicrystals looks like that of a highly doped, p-type semiconductor: the Fermi level lies in the “impurity band”, which consists of localized states. At low temperatures, the conductivity of an electronic structure of this type is by variable-range hopping, as observed recently in i-Al–Pd–Re.
+Keywords: Conductivity (electrical); Variable-range hopping; Inflation symmetry; Density of states; Quasicrystals; Mott conductivity
+
+A.K. Pramanick, R.K. Mandal, G.V.S. Sastry,
+Effect of composition on the streaking and diffuse intensity in decagonal phase in Al70−XCo15CuX+YNi15−Y system,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 173-177,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01296-X.
+(https://www.sciencedirect.com/science/article/pii/S092150930001296X)
+Abstract: We report here the transmission electron microscopic examination of alloys of three compositions in the system Al70−XCo15CuX+YNi15−Y. They have been chosen on the basis of: (a) e/a ratio lying between Al65Co15Cu20 (ACC) and Al70Co15Ni15 (ACN) and (b) a possible observation of change in order from ACN to ACC, the end members. The selected area diffraction studies of the melt-spun ribbons of the above compositions have revealed the presence of streaking around some spots and also diffuse rows. These have led to the transformation of a basic P105/mmc structure to that of P10/mmm having a periodicity of ∼8Å. Such a transformation has been explained based on the 6D model earlier proposed by us. The chemical ordering in the layers is shown to accomplish the transformation. However, streaking arises owing to the presence of planar faults with a fault vector having periodic and quasiperiodic components.
+Keywords: Quasicrystal; Decagonal; Streaking; Diffuse intensity; Disorder; Stacking sequence
+
+N. Destainville, M. Widom, R. Mosseri, F. Bailly,
+Two-dimensional random tilings of large codimension: new progress,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 409-412,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01140-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011400)
+Abstract: Two-dimensional random tilings of rhombi can be seen as projections of two-dimensional membranes embedded in hypercubic lattices of higher dimensional spaces. Here, we consider tilings projected from a D-dimensional space. We study the limiting case, when the quantity D, and therefore the number of different species of tiles, become large. We had previously demonstrated [M. Widom, N. Destainville, R. Mosseri, F. Bailly, in: Proceedings of the Sixth International Conference on Quasicrystals, World Scientific, Singapore, 1997.] that, in this limit, the thermodynamic properties of the tiling become independent of the boundary conditions. The exact value of the limiting entropy and finite D corrections remain open questions. Here, we develop a mean-field theory, which uses an iterative description of the tilings based on an analogy with avoiding oriented walks on a random tiling. We compare the quantities so-obtained with numerical calculations. We also discuss the role of spatial correlations.
+Keywords: Two-dimensional random tilings; Entropy; Mean-field theory
+
+R Haberkern, K Khedhri, C Madel, P Häussler,
+Electronic transport properties of quasicrystalline thin films,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 475-480,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01067-4.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010674)
+Abstract: We focus on the question if electronic transport properties of quasicrystals can be understood by a Hume–Rothery like interaction between the atomic structure and the electronic system. Therefore, we report about composition and temperature dependent investigations of the electrical conductivity, the thermopower and the Hall effect of quasicrystalline films, mainly for i-Al–Pd–Re and i-Al–Cu–Fe and compare it to the amorphous counterparts which are known to be electronically stabilized and are much simpler to understand due to their isotropy. Thin films provide the possibility to measure the thermopower and the Hall effect at elevated temperatures up to 1000K. Both indicate a strongly increasing charge-carrier density as a function of temperature.
+Keywords: Electronic transport; Quasicrystalline films; Amorphous films; Al–Pd–Re; Al–Cu–Fe
+
+C Madel, G Schwalbe, R Haberkern, P Häussler,
+Hume-Rothery effects in amorphous and quasicrystalline Al–Cu–Fe,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 535-538,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01159-X.
+(https://www.sciencedirect.com/science/article/pii/S092150930001159X)
+Abstract: A detailed comparison of the amorphous and the quasicrystalline state of Al–Cu–Fe is presented. The samples were prepared amorphously at low temperature. After several annealing steps within the amorphous phase they were transformed into the quasicrystalline state at T=700K. The atomic structure as well as electronic transport properties for both phases have been investigated. Electron diffraction measurements of amorphous Al–Cu–Fe show the atomic structure as electron induced. The dominant structural peak shifts nearly parallel to 2kF, the diameter of the Fermi-sphere, as a function of composition. At the corresponding composition its position is exactly coinciding with one of the two most dominant peaks of the icosahedral phase, indicating that this phase is Hume-Rothery stabilized as well. The electrical conductivity as well as the Hall coefficient indicate strong similarities between both phases. In the amorphous phase magnetic effects are observed.
+Keywords: Al–Cu–Fe; Amorphous phase; Hume-Rothery phase; Electronic transport
+
+J.S Wu, V Brien, P Brunet, C Dong, J.-M Dubois,
+Scratch-induced surface microstructures on the deformed surface of Al-Cu-Fe icosahedral quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 846-849,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01043-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010431)
+Abstract: Scanning electron microscopy (SEM) and transmission electron microscopy (TEM) investigations of sintered Al-Cu-Fe icosahedral quasicrystal (IQC) have been carried out to understand the origin of some ductility previously noticed within tracks produced by standard tribological scratch tests. Transformation of the icosahedral phase to a modulated structure is shown and a transformation of the IQC to a bcc phase has been found beneath the tracks. Twins and dislocations have also been observed.
+Keywords: Quasicrystal; Ductility; Microstructure; TEM; Scratch test; Phase transformation
+
+I Hirai, T Ishimasa, A Létoublon, M Boudard, M de Boissieu,
+Formation conditions of two quasiperiodic modifications of Al–Pd–Mn icosahedral phase studied by annealing method,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 33-36,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01148-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011485)
+Abstract: Formation conditions of F-phase, F2-phase and F2M-phase were systematically studied at alloy composition of Al71Pd21Mn8 by annealing and succeeding quenching method. The results indicated that the transformation from the F-phase to the F2M-phase occurs in two steps between 734 and 743°C; in the first step the F-phase is transformed to the F2-phase, in the second step the F2-phase is transformed to the F2M-phase. It was reconfirmed that the F-phase is a high-temperature phase stable above approximately 748°C, and the F2M-phase is a low-temperature phase stable below approximately 743°C. The present experiment also indicated that the F2-phase is a transient state between the F-phase and the F2M-phase.
+Keywords: Phase transformation; Icosahedral phase; F-phase; F2-phase; F2M-phase; Al–Pd–Mn
+
+K Sugiyama, K Hiraga, K Saito,
+Cubic approximants in the Al–Pd–Fe and Al–Pd–Ru systems,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 345-347,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01124-2.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011242)
+Abstract: The structures of cubic Al66.8Pd21.2Ru12.0 (Fm3; a=15.6058(6)Å), Al63.6Pd30.2Fe6.2 (Fm3; a=15.5187(9)Å) and Al68.9Pd17.1Fe13.9 (Im3; a=15.3755(8)Å) phases, which are referred as the derivatives of 1/0-rational approximants for an icosahedral phase, were determined by means of the single crystal X-ray structural analysis. The edge-shared connection by (Pd,Ru)- and (Pd,Fe)-icosahedra is one of applicable descriptions for these 1/0 related structures and a variety of filling motifs inside the icosahedra produce the crystallographic difference for each structure. The structure of an 1/1-rational approximant of Al57.3Cu31.5Ru11.3 (Pm3; a=12.3773(8)Å) indicates a disordered atomic arrangement inside (Cu,Al)- and Ru-icosahedra. These features are similar to those found in disordered atomic arrangements inside the (Pd,Ru)- and (Pd,Fe)-icosahedra of the 1/0 related approximant structures. Such variation of Mackay atom clusters is suggested to play an important role against the stability region of the fundamental atom clusters with local icosahedral symmetry, together with the chemical and topological ordering found in the icosahedral phases.
+Keywords: Single-crystal X-ray diffraction; Structure; Al–Pd–Fe; Al–Pd–Ru; Crystalline approximant
+
+H.M Kimura, K Sasamori, A Inoue,
+Formation, microstructure and mechanical properties of Al–Fe base quasicrystalline alloys,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 168-172,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01192-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011928)
+Abstract: An icosahedral (I) phase in coexistence with Al-phase was formed in the size fraction range up to 125μm of atomized Al93Fe3Cr2Ti2 powder. The decomposition temperature of the I-phase is about 790K. As per energy dispersive X-ray spectroscopy analysis, the constituent composition of the I-phase is Al84.2Fe7.0Cr6.3Ti2.5. It is found that the Al84.2Fe7.0Cr6.3Ti2.5 alloy forms a mostly single I-phase in the melt-spun state. Bulk I-alloys in a rod form were produced by extrusion of the atomized powders at 673K and an extrusion ratio of 10. The extruded Al93Fe3Cr2Ti2 alloys have good mechanical properties, i.e., σ0.2 of 550MPa, σUTS of 660MPa and εp of 4.5% at room temperature and σ0.2 of 330MPa, σUTS of 350MPa and εp of 1.5% at 573K. The I-based Al93Fe3Cr2Ti2 alloy is expected to be useful as a new type of high-elevated temperature strength material.
+Keywords: Aluminum-base alloy; Quasicrystalline particle; Powder metallurgy; Mechanical property; Elevated temperature strength
+
+E. Weidner, K. Hradil, F. Frey, M. de Boissieu, A. Létoublon, W. Morgenroth, H.-G. Krane, M. Capitan, A.-P. Tsai,
+High resolution X-ray and neutron diffraction of super- and disorder in decagonal Al–Co–Ni,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 308-314,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01180-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011801)
+Abstract: Synchrotron measurements at DESY and ESRF of decagonal quasicrystals with the nominal composition Al70Co15Ni15 and Al72Co16Ni12, show that Bragg reflections with high |Hi∗| values are surrounded by up to four weak subsidiary peaks. The positions of these additional peaks depend solely on the position of the Bragg reflection in the reciprocal perpendicular subspace and can be explained by a linear phason strain model. This model sheds new light on the current superorder models [K. Hradil et al. Phil. Mag. A 79 (1999) 1963] and is a further step towards an understanding of the real structures of decagonal quasicrystals.
+Keywords: Decagonal; Diffuse scattering; Phason
+
+P Kreutzer, R Anton,
+TEM investigations on the growth of the icosahedric phase in AlMn films produced by simultaneous deposition of the components,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 854-858,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01301-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300013010)
+Abstract: Thin AlMn films were grown by simultaneous deposition of the components on carbon substrates (a-C, HOPG). The films were characterized by transmission electron microscopy, electron diffraction and EDX. Depending on composition, deposition rate, and substrate temperature, different phases were found, which partly coexist. At substrate temperatures between 300 and 500°C, and at a total deposition rate of as low as 0.01nm/s, the pure icosahedric phase developed for Mn concentrations near 14at.%, while higher rates caused segregation of Al6Mn crystallites at 400°C. At lower Mn contents, Al was segregated, at higher deposition rates even for Mn contents up to 19at.%. At Mn contents between 19 and 54at.%, precipitates of Al8Mn5 were found.
+Keywords: Quasicrystalline films; Simultaneous deposition; AlMn
+
+Frank Schmithüsen, Marc De Boissieu, Michel Boudard, Joël Chevrier, Fabio Comin,
+Electron energy loss spectroscopy investigation of volume and surface plasmons at the Al–Pd–Mn fivefold surface,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 867-870,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01081-9.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010819)
+Abstract: We have measured the electron energy losses on different Al–Pd–Mn quasicrystal surface states established by low energy electron diffraction, X-ray photoelectron spectroscopy and Auger electron spectroscopy. On the well characterized and ordered Al–Pd–Mn quasicrystalline surfaces, the energy loss signal with an energy of incident electrons at 2keV shows a strong peak at 16eV and a satellite at about 33eV. As the electron primary energy is decreased to 260eV, an energy loss at 10.5eV is clearly observed. A short ion bombardment (1μA at 500eV during 1min) erases this loss at 10.5eV which can be recovered by annealing at 800K. All these observations are simply attributed to the existence of a bulk plasmon at about 16eV and a surface plasmon at 10.5eV. The ratio between these two energies is 1.52. This is quite close to the expected 2 from the classical plasmon model. On the crystalline partially annealed surface, a bulk plasmon is observed at about 16.5eV. Oxygen-contaminated surface presents a bulk plasmon shifted towards higher energy of about 20eV.
+Keywords: Quasicrystal; Al–Pd–Mn; Surfaces; Electron spectroscopy
+
+J.J Préjean, J.-C Lasjaunias, C Berger, A Sulpice,
+Low temperature calorimetric investigation of an insulating icosahedral Al–Pd–Re quasicrystal,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 504-507,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01325-3.
+(https://www.sciencedirect.com/science/article/pii/S0921509300013253)
+Abstract: We report on a very low temperature heat capacity investigation of an icosahedral Al–Pd–Re sample which, from resistivity measurements, is believed to lie on the insulating side of a metal–insulator (M–I) transition. Our main results are: (i) The electronic contribution, which possibly obeys a γT variation above 1K, follows a power Ta law (a≈0.1) below 1K, in agreement with early results obtained for systems crossing the M–I transition. Here T denotes the absolute temperature. (ii) The large nuclear hyperfine contribution of quadrupolar origin, dominant below 300mK, can only be due to the Re nuclei. We reach this conclusion from a comparative study of icosahedral Al–Cu–Fe and Al–Pd–Mn quasicrystals. In addition, from the study of the thermal relaxation of the sample after a heat pulse, we are able to estimate the relaxation times T1 of the different kinds of nuclei, for those which relax during our experimental time span. (iii) We finally propose a microscopic origin of the quadrupolar-electric field-gradient on the nuclei in terms of local electronic density and atomic structure.
+Keywords: Icosahedral; Quasicrystal; Quadrupolar
+
+D Naumović, P Aebi, L Schlapbach, C Beeli,
+Atomic and electronic structure of five-fold i-Al–Pd–Mn surfaces,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 882-885,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01082-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010820)
+Abstract: Differently prepared surfaces of quasicrystalline icosahedral Al–Pd–Mn cut perpendicularly to a five-fold symmetry axis are analysed using angle-resolved photoemission in the X-ray and in the ultraviolet range of photon energies, in order to study the geometrical and electronic structure, respectively. Depending on the preparation, we find both, surfaces with crystalline structure, metallic character and surfaces with quasicrystalline structural fingerprints and a suppressed density of states at the Fermi level compatible with a pseudogap.
+Keywords: Al–Pd–Mn; Atomic structure; Electronic structure; Quasicrystal; UPS; X-ray photoelectron diffraction
+
+Tanja Drobek, Wolfgang M Heckl,
+Scanning probe microscopy studies of the surface of decagonal quasicrystals in ambient conditions,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 878-881,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01038-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010388)
+Abstract: The surface preparation of decagonal Al–Ni–Fe and Al–Ni–Co quasicrystals using chemical polishing and mechanical fracture was investigated with regard to the requirements of scanning probe microscopy. Scanning tunnelling microscopy and atomic force microscopy studies of the morphology of fracture surfaces were carried out in ambient conditions, showing a typical dimension of 60nm for surface corrugations. Oxidic corrosion of the quasicrystal surfaces was observed. On the oxide layer, the friction between the surface and the tip is reduced.
+Keywords: Atomic force microscopy; AFM; STM; Quasicrystals; Decagonal; Friction
+
+Tadaharu Shibuya, Takayuki Asao, Mutsuhiro Tamura, Ryuji Tamura, Shin Takeuchi,
+Production of quasicrystals and crystalline approximants in the Al–Pd–(Fe,Ru,Os) systems,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 61-64,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01199-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011990)
+Abstract: We report the formation regions of single icosahedral phases (i-phase) and crystalline approximants in the Al–Pd–(Fe,Ru,Os) ternary systems. In the Al–Pd–Fe system, a single F-type i-phase is produced in a narrow composition region around Al71Pd18Fe11 in melt-spun ribbon samples, but it transforms to a (1/0)-cubic approximant on annealing at 600°C. In the Al–Pd–(Ru,Os) system, a structurally ordered i-phase is obtained on heating the melt-spun samples at a high temperature of 1000°C for 1h in a composition region along e/a=1.8, but after prolonged annealing at the same temperature the i-phase transforms to a (1/0)-cubic approximant. A bulk single i-phase is also produced by annealing of the as-cast Al73Pd15Ru12 alloy at 1000°C.
+Keywords: Icosahedral quasicrystal; Crystalline approximant; Al–Pd–Fe; Al–Pd–Ru; Al–Pd–Os
+
+Torsten Haibach, Michael A Estermann, Antonio Cervellino, Walter Steurer,
+Phase transitions in quasicrystals — the example of decagonal Al–Co–Ni,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 17-22,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01147-3.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011473)
+Abstract: The numerous phase transformations of quasicrystals observed can be separated into two distinct classes, the transitions from quasicrystals-to-quasicrystals and from quasicrystals-to-crystals of periodic approximants. The formation of modulated quasicrystals driven by chemical ordering represents a member of the first class. The transformation of a quasicrystal to orientationally twinned domain structures of approximants belongs to the latter class. The characteristics of some class-one transformations with special emphasis on their experimental evidence are discussed on the example of phase transformations in the ternary alloy system Al–Co–Ni. State-of-the-art techniques for acquiring in situ X-ray diffraction data at high temperature of quasicrystalline material undergoing a phase transition are presented. Methods suitable for accurate and reproducible determination of structural changes of specimens in thermodynamic equilibrium are shown.
+Keywords: Phase transitions; Quasicrystals; Al–Co–Ni; In situ measurements
+
+Yu.Kh Vekilov, E.I Isaev, I.A Gordeev,
+Electronic spectrum of the two-dimensional Fibonacci lattice,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 553-555,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01162-X.
+(https://www.sciencedirect.com/science/article/pii/S092150930001162X)
+Abstract: The electron spectrum and wave functions of the two-dimensional Fibonacci lattice with “central” and “vertex” decorations are considered. The energy spectrum contains a singular part but does not contain a hierarchical gap structure. The measure of permittable states of the spectrum (the Lebesgue measure) is not equal to zero and in the case of central decoration is close to unity. Most of the wave functions are critical.
+Keywords: Quasicrystals; Fibonacci lattice; Decoration; Electronic spectrum
+
+R Sterzel, E Dahlmann, A Langsdorf, W Assmus,
+Preparation of Zn–Mg–rare earth quasicrystals and related crystalline phases,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 124-126,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01313-7.
+(https://www.sciencedirect.com/science/article/pii/S0921509300013137)
+Abstract: We present our results in growing large single quasicrystals of the icosahedral phase in the Zn–Mg–Ho system with the top-seeded solution growth method. We also show new results of investigations on the Zn–Mg–Y phase diagram focussing on the sector with low Y content, to obtain some information about the solidification behavior of the decagonal phase. In addition, the R-phase, a novel cubic approximant for the icosahedral phase in the Zn–Mg–Er system, is presented.
+Keywords: Quasicrystals; Icosahedral phase; Zn–Mg–rare earth system
+
+B. Bolliger, M. Erbudak, A. Hensch, D.D. Vvedensky,
+Surface structural phase transitions on icosahedral Al–Pd–Mn,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 859-862,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01078-9.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010789)
+Abstract: The sputtering of alloy surfaces with Ar+ ions may change their chemical composition by preferentially removing particular atomic species. For the icosahedral quasicrystal Al–Pd–Mn this produces reversible surface phase transitions either to a cubic structure or to a decagonal quasicrystal, depending on the temperature. In both the cases, the original icosahedral structure is restored upon annealing. We discuss the orientation of these phases relative to the underlying icosahedral bulk and the processes responsible for the restoration of the icosahedral structure.
+Keywords: Al–Pd–Mn; Quasicrystals; Phase transitions; Secondary-electron imaging; Real-space imaging
+
+T Grenet, F Giroud, C Loubet, J.L Joulaud, M Capitan,
+Real time study of the quasicrystal formation in annealed Al-Cu-Fe metallic multilayers,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 838-841,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01054-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010546)
+Abstract: We present a study of the formation of the icosahedral Al-Cu-Fe quasicrystalline phase, when (Al, Cu, Fe) multilayers are heat treated. We first show that pure quasicrystalline films can be obtained in similar conditions, whatever the stacking sequence of the multilayers, even for quite thick elemental layers (hundreds or thousands of angstroms). Using synchrotron radiation diffraction, we, furthermore, study in real time the succession of intermediate phases forming during ramp heat treatments of the sandwiches. This study shows that in contrary to previous suggestions, the pure quasicrystalline phase can be prepared even when (Al, Cu) (and not (Al, Fe)) binary alloys form first.
+Keywords: Quasicrystals; Thin films; Reactive diffusion
+
+E.S Zijlstra, T Janssen,
+Localization of electrons and influence of surface states on the density of states in a tight-binding model on the Penrose tiling,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 886-889,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01146-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011461)
+Abstract: The distribution of participation numbers of electronic states in the vertex model of the Penrose tiling (PT) is calculated for a series of approximants and eight fixed values of the energy by means of contour integrations in the first Brillouin zone. Localization of electrons is seen to depend on energy. The local density of states at the surface of a small approximant of the PT is compared to the density of states (DOS) of the same approximant with periodic boundary conditions. The large difference between the two curves indicates that surface states might be responsible for the fact that experimentally surface sensitive techniques do not resolve spikes in the DOS of quasicrystals. The DOS of the (8,5) approximant of the three-dimensional PT is shown to be less spiky than expected.
+Keywords: Penrose tiling; Participation number; Local density of states; Surface states; Three-dimensional Penrose tiling
+
+Joachim Hermisson,
+Renormalization of two-dimensional Ising systems with irrelevant, marginal and relevant aperiodic (dis)order,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 642-645,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01106-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011060)
+Abstract: We introduce a class of 2d Ising models with aperiodic modulations of the coupling constants following a 2d substitution rule. The relevance of the aperiodicity to the phase transition is examined through an approximative real space renormalization group approach known as the cumulant approximation. We find that the relevance of the aperiodic disorder is determined by the fluctuations of the mean coupling as predicted by the Harris–Luck criterion.
+Keywords: Quasicrystals; Aperiodic order; Renormalization group; Ising spin systems
+
+R. Galler, H. Mehrer,
+Diffusion in icosahedral Al–Pd–Mn quasicrystals: temperature and pressure dependence,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 693-696,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01145-X.
+(https://www.sciencedirect.com/science/article/pii/S092150930001145X)
+Abstract: The temperature and pressure dependence of diffusion in monocrystalline icosahedral Al–Pd–Mn quasicrystals (i-Al–Pd–Mn) was investigated by radiotracer techniques using serial sectioning for depth profiling. Recent results on the temperature dependence of 65Zn, 114mIn and 103Pd diffusion are presented together with previous ones on 54Mn and 59Fe diffusion from our laboratory. The temperature dependence of diffusion is discussed in connection with results on i-Al–Pd–Mn from other groups and compared with the diffusion of foreign elements in Al. This comparison suggests a vacancy mechanism for diffusion in i-Al–Pd–Mn at least at higher temperatures. Magnitude and sign of the activation volumes also support a vacancy mechanism.
+Keywords: Quasicrystal; Diffusion; Icosahedral Al–Pd–Mn; Radiotracer method; Pressure dependence of diffusion
+
+Y. Ishii,
+Anisotropic phasonic diffuse scattering from decagonal quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 377-380,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01134-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011345)
+Abstract: In spite of its isotropic elastic (phonon) properties, anisotropic diffuse scattering is observed in icosahedral quasicrystals and interpreted as a consequence of softening of a particular mode of phasons near hydrodynamic instability. In a decagonal case, the phason elastic energy is isotropic and no anisotropic phason disorder is expected. We show that, nevertheless, the anisotropic diffused scattering from the decagonal quasicrystals is expected through the phason–phonon coupling. We calculate a line shape of the diffuse scattering based on the elasticity theory for 10/mmm and 10m2 symmetries. Physical meanings of such diffuse scattering are discussed in contrast to Huang scattering.
+Keywords: Quasicrystal; Diffuse scattering; Phason; Decagonal phase
+
+R.A Brand, J Voss, Y Calvayrac,
+Phason-dynamics studied by quasielastic mössbauer scattering in i-Al–Cu–Fe quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 666-669,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01186-2.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011862)
+Abstract: Quasicrystals can show a new type of localised defect termed a ‘phason’. At high temperature, these defects become mobile and lead to short-ranged atomic motion without involving vacancies. Cu in i-Al–Cu–Fe is involved in such phason jump process at high temperatures T on a time scale τ of ℏ/250μeV. Surprisingly, τCu was found independent of the temperature, indicating a type of ‘assisted’ jump process. In order to investigate the iron dynamics in this system, we have studied i-Al62Cu25.5 57Fe12.5 using quasielastic Mössbauer spectroscopy for T≤1100K. We find a temperature-dependent iron phason jump process with τFe typically two orders of magnitude slower than copper.
+Keywords: Quasicrystals; Phason dynamics
+
+A Rüdiger, U Köster,
+Corrosion behavior of Al-Cu-Fe quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 890-893,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01037-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010376)
+Abstract: For any application of quasicrystals or quasicrystalline coatings, e.g. for extruders, turbine blades or frying pans, corrosion resistance is of utmost importance. Therefore, corrosion of the quasicrystalline as well as related crystalline phases in the system Al-Cu-Fe was studied in particular at intermediate pH values in order to clarify the influence of the quasicrystalline structure. Salt spray tests were performed at 35°C with several single phase materials in the Al-Cu-Fe system. Highest corrosion resistance was observed in crystalline aluminides AlFe as well as Al5Fe2 where a protective oxide film had developed. The quasicrystalline alloy as well as crystalline Al7Cu2Fe exhibit severe corrosion accompanied with the formation of Cu, Cu2O and Al(OH)3. Anodic polarization of Al63Cu25Fe12 icosahedral quasicrystals reveal after a potentiodynamic scan in 0.1N NaOH the formation of an oxide layer consisting of FeO and Cu2O; there is only very little evidence for a phase transformation of the quasicrystal due to Al loss by selective corrosion. During further polarization in the passive region the oxide layer was observed to transform into probably higher oxidized states. The overall thickness of the oxide layer depends on the scan time, however, not on further polarization time at a distinct potential.
+Keywords: Quasicrystal; Salt spray test; Corrosion; Polarization; Al-Cu-Fe
+
+W Sun, K Hiraga,
+Formation and structures of decagonal quasi-crystals in the Al–Ni–Ru system,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 147-151,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01089-3.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010893)
+Abstract: Two new decagonal quasi-crystals (D-phases), which have periods of 0.4 and 1.6nm, respectively, have been found to form with different compositions in conventionally solidified Al–Ni–Ru alloys. The diffraction patterns of these two D-phases display a large number of sharp diffraction spots located at exact tenfold symmetry positions and almost no diffuse streaks, indicating that they are highly ordered quasi-crystals. The D-phase with 0.4-nm periodicity exhibits a pronounced S1-type superlattice order. The D-phase with 1.6-nm periodicity can be formed as a major phase by annealing at around 900°C. By means of high-resolution electron microscopy, the structural characteristics of the D-phase with 1.6-nm periodicity have been revealed.
+Keywords: Al–Ni–Ru; Decagonal quasi-crystal; Electron diffraction; High-resolution electron microscopy
+
+A. Sadoc, J.P. Itié, A. Polian, J.Y. Kim, K.F. Kelton,
+Icosahedral Ti–Zr–Ni and hydrogenated Ti–Zr–Ni quasicrystals under high pressure,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 804-805,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01065-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010650)
+Abstract: We present results from the first X-ray diffraction studies under high pressure in icosahedral Ti–Ni–Zr quasicrystals (QCs). The icosahedral Ti53Zr27Ni20 phase and an icosahedral Ti45Zr38Ni17 phase that also contains 0.32 hydrogen atoms for each metal atom were investigated. The icosahedral QC structure is retained up to the highest pressures used. The six-dimensional (6D) lattice parameters were obtained as a function of pressure. The zero-pressure bulk modulus and its pressure derivative were determined for the different samples by fitting the 6D parameter change to a Murnaghan-type equation of state. It is worthwhile mentioning that the hydrogenated sample appears more compressible than the one without hydrogen.
+Keywords: Quasicrystal; Hydrogen; High pressure; X-ray diffraction; Ti–Ni–Zr
+
+Takayuki Asao, Jiro Endo, Ryuji Tamura, Shin Takeuchi, Tadaharu Shibuya,
+Electrical resistivities of Al–Pd–Os and Al–Pd–Os–Re icosahedral quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 604-606,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01118-7.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011187)
+Abstract: Electrical resistivities of structurally ordered Al–Pd–Os icosahedral quasicrystalline phase (I-phase) of various compositions were investigated. High resistivity of ρ290K=8000μΩcm and a large resistivity ratio of ρ12K/ρ290K=2.0 has been obtained at a nominal composition Al70Pd19Os11. In addition, the effect of rhenium substitutions on the resistivity of Al–Pd–Os I-phase was studied in view of a strong scattering effect by rhenium atoms. A drastic increase in the resistivity and its temperature dependence has been observed ranging up to ρ300K=12000μΩcm and ρ12K/ρ290K=5.0, indicating the peculiar role of rhenium atoms on the electronic transport of I-phases.
+Keywords: Icosahedral quasicrystal; Electrical resistivity; Al–Pd–Os; Al–Pd–Os–Re
+
+Michael Widom, Ibrahim Al-Lehyani, Yang Wang, Eric Cockayne,
+Ab initio energetics of transition metal ordering in decagonal Al–Co–Cu,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 295-298,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01215-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509300012156)
+Abstract: We perform ab initio total energy calculations for approximants to a model of decagonal Al–Co–Cu. These calculations support previously proposed chemical ordering of Co and Cu atoms along tile edges. Preferred arrow orientations are identified and shown to obey a subset of the single-arrow Penrose matching rules.
+Keywords: Decagonal quasicrystal; Al–Co–Cu; Ab initio
+
+E Abe, T.J Sato, A.P Tsai,
+Structure and phase transformation of the Zn–Mg–rare-earth quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 29-32,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01312-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509300013125)
+Abstract: We report transformations between the quasicrystalline and crystalline phases in the Zn–Mg–rare-earth (RE) alloys. Both the icosahedral and decagonal quasicrystals are shown to be formed through the crystalline compounds being not composed of giant highly symmetric atomic clusters. This suggests that the formation of Zn–Mg–RE quasicrystals can be reduced to the behavior of smaller atomic clusters which should be favorable energetically in terms of given elements and stoichiometry.
+Keywords: Frank–Kasper phase; Atomic structure; Crystalline compound; Quasicrystal–crystal transformation
+
+Tsunehiro Takeuchi, Hiroshi Yamada, Masaki Takata, Tamotsu Nakata, Nobuo Tanaka, Uichiro Mizutani,
+Atomic structure of the Al–Cu–Fe–Si 1/1-cubic approximant,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 340-344,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01198-9.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011989)
+Abstract: By combining the X-ray Rietveld analysis with the high angle annular dark field scanning transmission electron microscopy (HAADF-STEM), we have made a detailed structural analysis for the Mackay-type Al53Si9Cu25.5Fe12.5 1/1-cubic approximant. Electron diffraction measurements identified it as a simple cubic with a space group of Pm3, being the same as that of the Al–Mn–Si 1/1-cubic approximant (α-phase). Both atomic position and occupancy in every atomic site are refined by means of the Rietveld analysis with a choice of the Al–Mn–Si α-phase as the starting structure. The factors Rwp and RI, which are taken as measures for the precision of the Rietveld analysis, are reduced to 2.32 and 3.87%, respectively. Two different icosahedral clusters consisting of triply stacked atomic shells are formed at the vertex and body-centered positions in the CsCl-type unit cell. The number of transition metals involved in one of the clusters is much higher than in the other. In addition, we found that the R-factors are substantially reduced by introducing a “structural disorder” in the first shell of the cluster in one of the sublattices containing more transition metals. Since the occupancy in the first shell is reduced significantly, the structural disorder is most likely introduced by vacancies in that shell. The HAADF images taken along the [100], [110] and [111] directions agree well with the projection images calculated from the Rietveld-refined structure, lending a strong support to the validity of the present atomic structure model.
+Keywords: Al–Cu–Fe–Si; Atomic structure; Rietveld analysis; Approximant
+
+Yoshiko Sakairi, Masatoshi Takeda, Ryuji Tamura, Keiichi Edagawa, Kaoru Kimura,
+Modulated photocurrent measurements on an Al–Pd–Re icosahedral quasicrystal,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 519-521,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01300-9.
+(https://www.sciencedirect.com/science/article/pii/S0921509300013009)
+Abstract: Modulated photocurrent measurements, originally developed for analyzing the electronic states of semiconductors have been performed on an Al–Pd–Re quasicrystal having high electrical resistivity using two kinds of lasers with different excitation energies. No noticeable difference has been found in the phase shift between the two excitation energies. The data of the amplitude and phase shift of modulated photocurrent can be explained well by a simple model in which only the two processes, carrier generation and recombination, are involved. The recombination time is by about six orders larger than those reported for conventional semiconductors. The results obtained are discussed in terms of electron density of states and energy dependence of carrier mobility.
+Keywords: Modulated photocurrent; Al–Pd–Re alloy; Quasicrystal; DOS; Recombination time; Electron mobility
+
+Akihisa Inoue, H.M Kimura, Tao Zhang,
+High-strength aluminum- and zirconium-based alloys containing nanoquasicrystalline particles,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 727-735,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01307-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509300013071)
+Abstract: By the dispersion of nanoscale quasicrystalline (Q) particles in f.c.c.-Al or Zr-based glassy phase, new Al- and Zr-based alloys with good mechanical properties were developed in a high Al content range of 93–95at.% of Al–Cr(or Mn)–Co–Ce, Al–Mn–Co–Cu and Al–Cr–Fe–Ti systems and in Zr65Al7.5Ni10Cu17.5−xMx (M=Ag or Pd; x=5 and 10at.%) systems. The structure consists of Q-particles with a size of 30–50nm surrounded by Al with a thickness of 5–10nm for the Al-based alloys and Q-particles with a size of about 30nm surrounded by glassy phase with a thickness of less than 1nm for the Zr-based alloys. The Q-phase has high volume fractions (Vf) of 60–70% for the former alloys and 80–90% for the latter alloys. The former structure is formed by the solidification mode in which the Q-phase precipitates as a primary phase, followed by precipitation of Al from the remaining liquid. The latter structure results from homogeneous nucleation and slow growth from the glassy phase. The high Vf of the Q-particles is presumably due to the existence of randomly oriented icosahedral clusters in the supercooled liquid of the Al- and Zr-based alloys. The features of mechanical properties are classified into four types, i.e., high-strength type of 800MPa in Al–(Mn, Cr)–Ce–Co systems, high elongation type of 30% in Al–Mn–Co–Cu system, high-elevated temperature strength type of 350MPa at 573K in Al–Fe–Cr–Ti system, and high-strength type of 1900MPa in the Zr-based system. These mechanical properties are promising for the future extension of the new Al- and Zr-based alloys to practical materials.
+Keywords: Quasicrystalline; Volume fraction; Glassy phase
+
+C.V. Landauro, H. Solbrig,
+Temperature dependence of the electronic transport in Al–Cu–Fe phases,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 600-603,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01117-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011175)
+Abstract: The temperature dependences of the electronic conductivity and the thermoelectric power are theoretically examined for the i-Al–Cu–Fe (1/1) approximant in comparison with both crystalline ω-Al7Cu2Fe and amorphous Al84Fe16. Our study is based on ab initio results for the spectral curves which are obtained by means of the linear muffin-tin orbitals (LMTO) method and the Kubo–Greenwood formula. Thermopowers are calculated after the Mott formula. We show that a realistic variety of thermopower curves versus temperature results from small shifts of the Fermi energy in a narrow resistivity peak. A simple model of the energy-dependent resistivity is suggested which supports the interpretation of the thermopower curves.
+Keywords: Quasicrystals; Electronic transport; Icosahedral clusters
+
+A.R Ross, T.A Wiener, I.R Fisher, P.C Canfield, T.A Lograsso,
+Formation and morphological development of porosity in icosahedral Al–Pd–Mn alloys,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 53-56,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01169-2.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011692)
+Abstract: Directional solidification and quenching experiments have been conducted to examine the formation and origin of the faceted porosity commonly observed in icosahedral Al–Pd–Mn alloys. Faceted porosity has been previously observed in both Czochralski grown and Bridgman grown single crystals during single-phase solidification of the icosahedral phase. Detailed observations in Bridgman grown single crystals indicate that the distribution and quantity of pores are non-uniformly distributed along the length of the as-grown ingot. This non-uniform distribution suggests that their formation is influenced by both chemical segregation during solidification as well as convection in the liquid. Controlled solidification of this alloy followed by quenching of the solid–liquid interface provides for a time–temperature history of the porosity formation and morphological development as a function of processing conditions.
+Keywords: Quasi-crystal; Al–Pd–Mn; Porosity; Faceting
+
+Jean Bellissard,
+Anomalous transport: results, conjectures and applications to quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 450-457,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01129-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011291)
+Abstract: We review the main rigorous results accumulated during the last 5 years concerning the theory of transport in aperiodic media. Motivated by the transport properties of quasicrystals, we introduce the mathematical background needed to describe transport in aperiodic media. We then give the definitions and the properties of spectral and diffusion exponents with an emphasis on ‘anomalous transport’. The last section is devoted to discussing the relevance of this theory for quasicrystals.
+Keywords: Anomalous quantum transport; Spectral exponents; Transports exponents
+
+M Scheffer, J.-B Suck,
+Influence of vacancies on the magnetic properties of icosahedral Al7.10Pd20.0Mn9.0,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 629-632,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01105-9.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011059)
+Abstract: Quenched samples of the icosahedral alloy of the ternary system Al–Pd–Mn contain a high amount of vacancies depending on the annealing temperature and the quench rate. As shown before [M. Scheffer, R. Lück, Proceedings Aperiodic ’97, 1998, pp. 469–472], these vacancies result in a change from a diamagnetic to a paramagnetic state at room temperature. We investigated the behaviour of the magnetic moments at low temperatures of a quenched and an annealed sample. At this temperatures a strong decrease of the total magnetic moment after the annealing was observed. The number and the magnitude of the magnetic moments were determined by measurements of the field and temperature dependence of the total magnetic moment. Evaluation of the data yields only a small number of magnetic moments. We relate the observed moments to a high amount of vacancies and to a disorder of Al and Mn, respectively.
+Keywords: Quasicrystals; Magnetism; Al–Pd–Mn; Chemical disorder; Vacancies
+
+Jean-Pierre Gazeau, Rudolf Krejcar, Jacek Miękisz,
+Ground states of quasilattice-gas models,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 421-424,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01157-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011576)
+Abstract: We introduce quasilattice-gas models in which every vertex of certain two-dimensional grids can be occupied by one of two different types of particles interacting through Lennard–Jones potentials. Such grids are quasiperiodic analogs of regular lattices present in periodic systems. To find ground-state configurations of our models, we performed Monte Carlo simulations and obtained structures with local five-fold symmetries and five-fold diffraction patterns.
+Keywords: Quasicrystals; Quasilattice-gas model; β-integers; β-quasilattice
+
+F Baier, M.A Müller, B Grushko, H.-E Schaefer,
+Atomic defects in quasicrystals: an approach with positron annihilation spectroscopy and time-differential dilatometry,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 650-653,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01185-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011850)
+Abstract: Atomic defects have been studied in Al–Pd–Mn and Zn–Mg–Ho icosahedral quasicrystals by means of positron annihilation spectroscopy and time-differential dilatometry. In addition, the first in situ positron lifetime measurements on Al–Pd–Mn quasicrystals at high temperatures are performed. In the time-differential dilatometry studies, after fast cooling at high temperatures an anomalous time-dependent isothermal expansion of the specimen was observed. If this length change is attributed to atomic defects the defect formation and the migration can be studied. Positron lifetimes could be derived for icosahedral Al70.2Pd21.3Mn8.5 and icosahedral Zn61Mg28Ho11 with 214 and 212ps, respectively. These lifetimes are ascribed to structural vacancies in these quasicrystalline systems, which are supported, by electron irradiation and long-term annealing experiments.
+Keywords: Quasicrystals; Defects; Diffusion; Phase transitions
+
+Lara Beraha, Walter Steurer,
+The quasicrystal-to-crystal transformation by Landau theory,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 272-275,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01335-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509300013356)
+Abstract: A phenomenological description of the quasicrystal-to-crystal transformation is presented in terms of Landau theory. The basic idea is to describe the structures of quasicrystals as incommensurately modulated structures and to use the tools developed for phase transitions of this kind. The usefulness of this description is demonstrated on the one-dimensional Fibonacci sequence.
+Keywords: Quasicrystals; Incommensurately modulated structures; Approximants; Landau theory
+
+Petra Gummelt, Christoph Bandt,
+A cluster approach to random Penrose tilings,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 250-253,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01197-7.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011977)
+Abstract: An experimentally relevant subclass of the full random Penrose pentagon tiling ensemble is generated using a single cluster. Local matching rules based on cluster overlaps are equivalent to relatively weak axioms on minimal cluster distances. Energy and entropy arguments and recent results on constituent atomic clusters in decagonal quasicrystals are discussed.
+Keywords: Quasicrystals; Cluster models; Penrose tiling; Random tiling
+
+Taku J. Sato, Hiroyuki Takakura, An Pang Tsai, Kenji Ohoyama, Kaoru Shibata, Ken H. Andersen,
+Magnetic correlations in the Zn–Mg–rare-earth icosahedral quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 481-487,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01121-7.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011217)
+Abstract: The previously reported magnetic long-range order has been revisited in the Zn–Mg–rare-earth systems by means of neutron diffraction, magnetic susceptibility and microstructural analysis. It was found that the long-range order is absent in icosahedral quasicrystals, where only short-range spin correlations develop even at the lowest temperatures. The long-range order was attributed to the (ZnxMg1−x)5–rare-earth crystalline phase, which was shown to be a contaminating phase in the previously used samples. The short-range spin correlations have been investigated in detail by single quasicrystal neutron scattering. A close relation has been suggested between the short-range correlations and the quasiperiodic structure.
+Keywords: Zn–Mg–rare-earth system; Neutron scattering; Short-range spin correlations
+
+K Saito, K Sugiyama, K Hiraga,
+Al13M4-type structures and atomic models of their twins,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 279-282,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01213-2.
+(https://www.sciencedirect.com/science/article/pii/S0921509300012132)
+Abstract: From the structural analysis of Al13Fe4 and Al13Co4 phases as well as a new Al13(Pd, Fe)4 phase with single-crystal X-ray diffraction, their structures were examined in terms of tilings of two types of pentagonal columns, which have similar atomic arrangements in the three phases. It has been found that the tilings of the pentagonal columns in these phases are characterized as arrangements of squashed hexagonal tiles formed by an edge-sharing linkage of the pentagonal columns, and that there is a rule for arrangements of the pentagonal columns forming the hexagonal tiles. It has been found from high-resolution electron microscopy observations that the structures of twins in the three phases can be interpreted by this topological rule for arrangements of the pentagonal columns.
+Keywords: Decagonal phases; Approximants; Al13Fe4; Al13Co4; Twins; HREM
+
+Jerzy Gwóźdź, Benjamin Grushko, Marian Surowiec,
+Mosaic structure of single Al–Pd–Mn icosahedral quasi-crystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 49-52,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01168-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011680)
+Abstract: A series of the Al–Pd–Mn icosahedral crystals grown by the Czochralski technique was examined by X-ray topography in order to determine their mosaic structure. The Auleytner method with the point X-ray source was applied. It was found that there are three characteristic types of block structure with different degrees of mosaicity from 5′ to 2°. All blocks have sharp images on the X-ray topographs. In several cases, we have observed diffused images of the low-angle boundaries as well as diffused contours of the X-ray topography images.
+Keywords: Al–Pd–Mn icosahedral quasi-crystals; Real structure; Mosaicity; X-ray topography
+
+T Ishimasa, T Shimizu,
+Long-range and short-range F-type ordering in Zn–Mg–Ho icosahedral phase,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 232-236,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01209-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300012090)
+Abstract: The behavior of the F-type superlattice in the Zn–Mg–Ho icosahedral phase was studied with respect to long-range ordering and short-range ordering. At the composition Zn60Mg30Ho10, a gradual decrease in intensities of superlattice reflections was observed in the alloys annealed at high temperatures, i.e. at 544, 549, 559 and 563°C. This observation indicated that the long-range order parameters decrease in the high temperature region. The disordered icosahedral phase formed in Zn60Mg35Ho5 alloy exhibits circular diffuse scattering related to F-type ordering. Electron microscopy revealed that the diffuse scattering is caused by domains with approximate size of 100Å, which are related according to an anti-phase relationship.
+Keywords: F-type superlattice; Long-range ordering; Short-range ordering; Icosahedral phase; Zn–Mg–Ho
+
+Hans Kroha,
+Electronic stabilization of amorphous and quasicrystalline metals: importance of quantum correlations,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 500-503,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01120-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011205)
+Abstract: Numerous experimental indications suggest that the Hume–Rothery mechanism plays an important role in stabilizing quasicrystalline and amorphous phases. However, the exponential damping of the conventional Friedel oscillations at the relevant, elevated temperatures T poses a severe challenge to the HR stabilization. In order to resolve this problem it is shown using a Feynman diagram technique that quantum correlations in the electron sea, arising from the interplay of Coulomb interaction and impurity scattering, can strongly enhance the Friedel oscillations in these systems even at elevated temperature. The resulting corrections to the Friedel potential are in agreement with available experimental results on amorphous HR alloys. It is proposed to include the enhancement of the Friedel amplitude derived in the present work into pseudopotentials through the local field factor.
+Keywords: Electronic structure; Coulomb interaction and disorder; Screening; Friedel oscillations
+
+Juan Garcı́a Escudero,
+Stochastic L-systems and quasicrystal patterns,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 389-392,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01156-4.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011564)
+Abstract: Bracketed stochastic Lindenmayer systems (L-systems) are used for the description of certain species of non-deterministic quasicrystal patterns. Several classes of substitution tilings with eight-fold symmetry are introduced. They form the basis for non-deterministic octagonal structures which can be described with stochastic DT0L-systems. Heptagonal structures can also be described with stochastic DT0L-systems, whereas the appropriate scheme for structures with nine-fold symmetry is a stochastic ET0L-system.
+Keywords: L-systems; Octagonal patterns; Non-deterministic structure
+
+K Edagawa, K Kajiyama,
+High temperature specific heat of Al–Pd–Mn and Al–Cu–Co quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 646-649,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01132-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011321)
+Abstract: For the purpose of investigating the behavior of thermally excited phasons, specific heat has been measured by differencial scanning calorimetry (DSC) for icosahedral Al–Pd–Mn (i-Al–Pd–Mn) in the temperature range from 550 to 1080K and for decagonal Al–Cu–Co (d-Al–Cu–Co) in the range from 890 to 1070K. The measured specific heat per atom at constant pressure cp has been converted to that at constant volume cv by use of the data of bulk modulus previously reported and the data of thermal expansion coefficient which we measured by X-ray diffractometry. cv of i-Al–Pd–Mn is about three kB up to about 700K, as expected from the Dulong–Petit’s law. However, it starts deviating upward from three kB at about 700K, increases dramatically and reaches five kB at 1080K. The Similar behavior has been observed also for d-Al–Cu–Co. The origin of such a dramatic increase in cv is discussed in light of possible thermal excitation of phasons.
+Keywords: Specific heat; Quasicrystal; Icosahedral phase; Decagonal phase; Phason dynamics; Phason excitation
+
+E Giacometti, N Baluc, J Bonneville,
+Creep behaviour of icosahedral Al–Cu–Fe,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 777-780,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01310-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509300013101)
+Abstract: Transient creep experiments have been performed on poly-quasicrystalline specimens of the icosahedral Al–Cu–Fe phase. Three temperatures (870, 960 and 1000K) have been selected in the ductile regime for creep stresses that range between 30 and 320MPa. In these experiments, the specimens are first loaded in constant strain-rate conditions, then the testing machine is switched to load control and the specimens are allowed to deform under creep conditions. One- or two-stage creep curves have been obtained depending on temperature, stress and on the deformation level of the stress–strain curve at which the creep tests were performed. When creep conditions are applied before the upper yield stress, at low stress, only a stage of continuous decrease in creep rate is observed, while at higher stress this primary stage is followed by a stage of accelerated creep rate. These two-stage creep curves are predicted within the framework of the strain dependent friction stress model. For creep tests beyond the upper yield stress, only the stage of accelerated creep rate is observed. No distinct steady-state stage has been observed for all investigated creep conditions.
+Keywords: Creep; Mechanical properties; Icosahedral quasicrystals
+
+Virginie Simonet, Françoise Hippert, Marc Audier, Yvonne Calvayrac,
+Magnetism of approximants in the Al–Mn and Al–Pd–Mn systems,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 625-628,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01184-9.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011849)
+Abstract: Magnetic properties of approximants in the Al–Mn and Al–Pd–Mn systems have been investigated. Whereas most phases are non-magnetic, localized moments are found on a fraction of the Mn atoms in the hexagonal μ-Al4Mn, orthorhombic T-Al73.1Pd5.2Mn21.7 and cubic 1/1-Al68Pd11Mn14Si7 phases. In all these phases we could identify the crystallographic sites occupied by magnetic Mn. Localized moments are associated with a few particular sites. The moment formation is influenced by the sp–d hybridization. These results contribute to clarify the origin of magnetism in quasicrystalline phases.
+Keywords: Magnetism; Quasicrystals; Localized moments; Spin-glass
+
+Y Yokoyama, K Fukaura, H Sunada, R Note, K Hiraga, A Inoue,
+Production of single Al64Cu23Fe13 icosahedral quasicrystal with the Czochralski method,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 68-73,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01201-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509300012016)
+Abstract: We have investigated formation mechanisms of the icosahedral (i-) phase in a Cu-enriched region of the Al–Cu–Fe system. The formation of i-phase in the Al–Cu–Fe alloy system is characterized by the peritectic reaction: λ2+L→I (λ2 is an Al3Fe compound with over 5at.% Cu), which has been observed even in the Cu-enriched region. Therefore, we have tried to avoid the λ2-crystallization by preliminary metallurgical treatments for molten alloy. As a result, we have succeeded in growing a single Al64Cu23Fe13 i-quasicrystal with the Czochralski method.
+Keywords: Single Al64Cu23Fe13 icosahedral quasicrystal; Phase diagram; Czochralski method
+
+M.A. Fradkin,
+Finite-resolution correction to the diffraction intensity in icosahedral quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 319-322,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01091-1.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010911)
+Abstract: The correction to the intensity of Bragg scattering by an ideal quasicrystal due to finite experimental resolution is calculated. Intrinsic background intensity is shown to appear due to close filling of the ‘parallel’ reciprocal space by the diffraction spots. This intensity is found as a function of the ‘perpendicular’ wavevector of the strongest peak falling into a particular resolution window and is estimated in a continuous approximation for the one-and three-dimensional quasicrystals. Recent data on the diffraction from a single-grain perfect Al–Pd–Mn quasicrystal are analyzed in a proposed model.
+Keywords: Diffraction intensity; Diffuse scattering; Background intensity
+
+A. Yamamoto, K. Hiraga,
+Six-dimensional model of an i-Al–Pd–Mn quasicrystal compatible with its 2/1 approximant,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 228-231,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01196-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011965)
+Abstract: A six-dimensional (6D) model of the icosahedral Al–Pd–Mn quasicrystal is given, which is obtained from our old model with slight modification and leads to the 2/1 approximant structure by the introduction of an appropriate phason strain. In the old model, two clusters are situated at even-and odd-parity vertices of the 3D Penrose pattern with an edge length of about 20Å. One of them is quite similar to that of the 2/1 approximant but the third and ninth shells of the cluster in the approximant cannot be derived. After adding small occupation domains in the 6D model, we could reproduce all atom sites in the approximant structure by the introduction of appropriate cubic phason strain.
+Keywords: Quasicrystal model; Structure analysis; i-Al–Pd–Mn
+
+S Ranganathan, K Ramakrishnan, U.D Kulkarni, N.K Mukhopadhyay,
+On the relationship between cubic crystalline coincidence site lattices and quasiperiodic superlattices,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 429-433,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01144-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011448)
+Abstract: Quasiperiodic superlattice (QPSL) can be understood as a structure consisting of quasiperiodic arrangements of tiles of rational dimension and can be viewed as a quasiperiodic atomic decoration of a disordered lattice. Varieties of QPSLs have been generated by varying the orientation of the projection plane in the projection formalism. The coincidence site lattice (CSL) has been found to be related to the interfaces of these QPSLs. The structural relationship between the CSLs and the QPSLs related to the octagonal quasilattice has been pointed out for the first time. The physical significance of CSLs have been discussed in the context of the projection formalism.
+Keywords: Octagonal quasilattice; Coincidence site lattice; Quasiperiodic supperlattice
+
+Antonio Cervellino, Torsten Haibach, Walter Steurer,
+Modeling atomic surfaces for the Al–Ni–Co basic decagonal phase,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 276-278,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01212-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300012120)
+Abstract: The atomic surfaces (ASs), supports of a probability density in perpendicular space, are a powerful instrument for describing quasicrystal structure. The attainable resolution of diffraction data does not allow a direct ASs determination hence they need to be modeled and refined. A simple set of geometric rules can be found for modeling ASs. The ASs shapes are constrained by interatomic distances, density and symmetry of the physical 3D structure. Basic decagonal Al71Ni22Co7 is simultaneously the simplest (with only two 2D independent ASs) and the toughest proof for the technique, as the mentioned physical constraints are extremely difficult to be satisfied. It is hence necessary to allow for a probability smaller than one (i.e. partial atomic site occupancy) in part of the ASs. This adds further parameters to the model. Further, some physical constraints may be weakened, evidencing structural features such as pseudo symmetry elements, puckering of the periodic layers, chemical and geometric disorder.
+Keywords: Quasicrystals; Al–Ni–Co; nD-embedding; Atomic surfaces
+
+Franz Gähler,
+Cluster coverings as an ordering principle for quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 199-204,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01236-3.
+(https://www.sciencedirect.com/science/article/pii/S0921509300012363)
+Abstract: Cluster density maximization and (maximal) cluster covering have emerged as ordering principles for quasicrystalline structures. The concepts behind these ordering principles are reviewed and illustrated with several examples. For two examples, Gummelt’s aperiodic decagon model and a cluster model for octagonal Mn–Si–Al quasicrystals, these ordering principles can enforce perfectly ordered, quasiperiodic structures. For a further example, the Tübingen triangle tiling (TTT), the cluster covering principle fails to enforce quasiperiodicity, which sheds some light on the limitations of this approach.
+Keywords: Quasicrystals; Clusters; Tilings; Coverings
+
+M. Boudard, A. Létoublon, M. de Boissieu, T. Ishimasa, M. Mori, E. Elkaim, J.P. Lauriat,
+Phase transition and diffuse scattering studies in the Al–Cu–Fe ternary system,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 217-220,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01195-3.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011953)
+Abstract: The reversible phase transformation between the crystalline multidomain structure of the rhombohedral phase to the perfect icosahedral quasicrystalline state at high temperature has been studied by in situ X-ray diffraction on a four-circle diffractometer using synchrotron radiation. The transient state known as the 5-fold modulated state has been observed and its evolution with temperature is characterised. Diffuse scattering located close to the Bragg reflections is observed in the studied temperature range. Its evolution with temperature shows a reversible transformation with an important change of shape in agreement with the proximity of a 5-fold phason instability.
+Keywords: Phase transition; Icosahedral phases; Al–Cu–Fe
+
+Franz Gähler, Johannes Kellendonk,
+Cohomology groups for projection tilings of codimension 2,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 438-440,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01171-0.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011710)
+Abstract: The gap-labelling group, which provides the set of possible values of the integrated density of states on gaps in the spectrum of a Hamiltonian describing particles in a tiling, is frequently related to the cohomology of the tiling. We present explicit results for the cohomology of many well-known tilings obtained from the cut and projection method with codimension 2, including the (generalized) Penrose tilings, the Tübingen triangle tiling, the Ammann–Beenker tiling, and the Socolar tiling.
+Keywords: Quasicrystals; Tilings; Cohomology groups
+
+K. Hradil, T. Scholpp, F. Frey, T. Haibach, M.A. Estermann, M. Capitan,
+Neutron and X-ray investigation of disordered quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 303-307,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01179-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011795)
+Abstract: Disorder in decagonal quasicrystals is studied by “contrasting methods”, i.e. by joint analysis of X-ray and neutron data and by use of the anomalous dispersion method, to learn about the relative influence of the transition metals. First experimental results with decagonal Al–Ni–Co samples of different origin are discussed qualitatively. A comparative study of Patterson maps from neutron and X-ray Bragg data of d-Al72.5Ni16.5Co11 gives direct evidence for particular sites occupied by Co.
+Keywords: Diffuse scattering; Diffraction; Decagonal phase; Disorder; Neutron diffraction
+
+V.A Borodin,
+Three-dimensional quasicrystalline structures with non-icosahedral global symmetry,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 393-396,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01127-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011278)
+Abstract: The paper discusses a possible atomic structure of a three-dimensional (3D) quasicrystal with the global symmetry that differs from the icosahedral one. The construction of such atomic cluster is performed by expansion of a small initial ‘seed’ using the 1/3 deflation. Here we use a non-icosahedral seed, namely, the Frank–Kasper polyhedron with the coordination number 14. As a result, a 525-atomic cluster is obtained that demonstrates the X-ray diffraction pattern typical rather for quasi-2D quasicrystals. With all atomic positions in the cluster being specified, it is possible to estimate the influence of geometrical restrictions on the possibility of formation of large atomic clusters with such specific symmetry.
+Keywords: Quasicrystal; Structure; Disclination; Modeling
+
+Z.M. Mo, K.H. Kuo,
+A family of hexagonal approximants of decagonal quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 242-245,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01333-2.
+(https://www.sciencedirect.com/science/article/pii/S0921509300013332)
+Abstract: By means of high resolution electron microscopy, the hexagonal phases with about the same c=12.4–12.6Å but different a parameters (κ:17.674Å;λ:28.382Å;ν:40.687Å) in Al-rich Al–TM (TM: transitional metal) alloys were found to consist of similar icosahedral cluster of about 30Å in size. Using the known atomic sites of κ and λ in this cluster, the crystal structure of ν was solved by direct methods of X-ray diffraction analysis. Various icosahedral connections in this cluster were analyzed.
+Keywords: Hexagonal crystal; Quasicrystal; Approximant; Al alloy
+
+Jean-Marie Dubois,
+New prospects from potential applications of quasicrystalline materials,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 4-9,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01305-8.
+(https://www.sciencedirect.com/science/article/pii/S0921509300013058)
+Abstract: Since 1984, several quasicrystalline materials were selected for possible technological applications as coatings and composites. A few examples of products derived from such materials are now on the market. The aim of this review is along several key points raised by the technological prospects of quasicrystals, namely composition tailoring and industrial processing of thick coatings, surface preparation and properties, and new potential applications.
+Keywords: Quasicrystals; Applications; Surface; Tribology; Wetting; Processing
+
+M Heggen, M Feuerbacher, P Schall, H Klein, I.R Fisher, P.C Canfield, K Urban,
+Plasticity of icosahedral Zn–Mg–Dy single quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 781-785,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01073-X.
+(https://www.sciencedirect.com/science/article/pii/S092150930001073X)
+Abstract: We present the results of first deformation experiments on Zn–Mg–Dy icosahedral single quasicrystals. The samples were produced by the flux growth technique. The plastic deformation experiments were performed at temperatures between 490 and 530°C at strain rates of 10−5 and 10−6s−1. The thermodynamic activation parameters of the deformation process were determined. The stress–strain curves show strong yielding followed by a steady state regime with a constant flow stress level up to strains of about 8%. Microstructural investigations by transmission electron microscopy on deformed samples indicate a deformation mechanism mediated by dislocations. We found a high density of planar defects which were interpreted as slip planes of moving dislocations.
+Keywords: Quasicrystals; Plastic deformation; Dislocations
+
+V Srinivas, P Barua, B.S Murty,
+On icosahedral phase formation in mechanically alloyed Al70Cu20Fe10,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 65-67,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01200-4.
+(https://www.sciencedirect.com/science/article/pii/S0921509300012004)
+Abstract: The formation of icosahedral phase by mechanical alloying of crystalline elemental powders has been investigated. The effect of milling energy on icosahedral phase formation in Al70Cu20Fe10 has been studied using X-ray diffraction and energy dispersive X-ray (EDX) microanalysis. In order to study the alloying process during milling, different starting compositions of Al, Cu and Fe elemental blends have been used. The present study indicates that even though the intermediate phases formed during milling are the same, the icosahedral phase formation is sensitive to the way in which the nominal composition is reached.
+Keywords: Mechanical alloying; Quasicrystalline alloy; Icosahedral phase; β-phase
+
+U Messerschmidt, D Häussler, M Bartsch, B Geyer, M Feuerbacher, K Urban,
+Microprocesses of the plastic deformation of icosahedral Al–Pd–Mn single quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 757-760,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01062-5.
+(https://www.sciencedirect.com/science/article/pii/S0921509300010625)
+Abstract: Recent experimental observations on the plastic deformation of icosahedral Al–Pd–Mn single quasicrystals are described originating from conventional transmission electron microscopy in a high-voltage electron microscope (HVEM), from in situ straining experiments in an HVEM and from the determination of activation parameters from macroscopic compression tests at low temperatures. The moving dislocations are created by multiplication events initiated by cross slip. They trail planar faults of different electron microscopy contrast. Since recovery occurs at high temperatures, the dislocation mobility should be discussed on the basis of low-temperature data. While it was previously interpreted in terms of an extended cluster friction model, the present paper shows that it can equivalently be explained by the Peierls mechanism on the cluster scale.
+Keywords: Icosahedral quasicrystals; Plastic deformation; Transmission electron microscopy; Peierls model
+
+B Grushko,
+Composition and precipitation behavior of icosahedral Al–Pd–Mn quasicrystals,
+Materials Science and Engineering: A,
+Volumes 294–296,
+2000,
+Pages 45-48,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(00)01167-9.
+(https://www.sciencedirect.com/science/article/pii/S0921509300011679)
+Abstract: Icosahedral Al–Pd–Mn phase was found to be stable in a compositional range [B. Grushko, et al., J. Alloys Comp. 290 (1999) 164]. Its stability range also depends on temperature. This is favorable for the formation of precipitates in the icosahedral phase by cooling. We demonstrate the precipitation in the “standard” single icosahedral quasicrystals produced by the Czochralski technique. Annealing of the quasicrystals at 800–840°C resulted in the dissolution of the precipitates and they reappeared after annealing at 700–500°C. The relation of this effect to the diffuse scattering in the icosahedral phase is discussed.
+Keywords: Al–Pd–Mn; Quasicrystals; Stability

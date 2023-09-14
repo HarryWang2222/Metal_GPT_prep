@@ -1,0 +1,1199 @@
+Tao Zeng, Lin-zhi Wu, Li-cheng Guo,
+A finite element model for failure analysis of 3D braided composites,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 144-151,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.054.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009213)
+Abstract: The analysis of three-dimensional (3D) braided composites is more difficult due to its complex microstructure. A new type of finite element method (FEM) is developed to predict the local stress and strength within 3D braided composites under the three-dimensional mechanical loading. To verify the present method, the material properties predicted in this paper are compared with the previous work. By using the model, the stress components within a unit cell are obtained and used to analyze the strength of 3D braided composites.
+Keywords: 3D braided composites; Finite element method; Mechanical property; Strength
+
+H Tanimoto, S Sakai, H Mizubayashi,
+Anelasticity of nanocrystalline metals,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 135-141,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.103.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008761)
+Abstract: Nanocrystalline (n-) materials posses a characteristic ultrafine structure where small crystallites less than ∼100nm in diameter are connected by highly disordered grain boundaries (GBs). Although the recent mechanical tests on the high-density n-metals suggest that the dynamic modulus is close to the polycrystalline metals, we have found a large anelastic strain comparable with the elastic strain in the quasi-static tests. The estimated activation energy as low as 0.2eV suggests that certain cooperative motions of many atoms in the GBs are responsible for this large anelastic strain. The strain amplitude dependence (SAMD) in the resonant frequency, f, was measured by the vibrating reed technique, where f decreased by about 1% with increasing strain, ε, up to 10−4 and then turned to increase showing the saturation at ε=10−4–5×10−3. This strange SAMD in f showed no change by the low-temperature irradiation, in contrast, f showed a large increase due to the accumulation of the point defects probably in the GBs during the irradiation. We surmise that the (an)elastic properties of n-metals are governed by the several processes not only in the GBs but also in the crystallites.
+Keywords: Nanocrystalline metal; Gas-deposition method; Grain boundary; Anelastic strain; Cooperative motion
+
+Xingsheng Guan, Kunihiko Iwasaki, Katsuhiro Kishi, Masafumi Yamamoto, Ryohei Tanaka,
+Dry sliding wear behavior of Fe–28Al and Fe–28Al–10Ti alloys,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 127-134,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.049.
+(https://www.sciencedirect.com/science/article/pii/S092150930300916X)
+Abstract: Dry or unlubricated sliding wear tests were carried on Fe–28Al and Fe–28Al–10Ti alloys produced by hot isostatic pressing (HIP) of powders. Since the Ti addition was found to lower both the wear rate and the coefficient of friction significantly, most of the detailed experiments were carried out on Fe–28Al–10Ti. The wear rate increased with the increase in applied load, speed and temperature, while the steady-state values of the coefficients of friction were affected little by them. Plastic deformation and the delamination or peeling-off of surface layers from the wear track were found to be the basic mechanisms in the mild sliding conditions (low load and speed) and in the severe ones (high load and speed), respectively. The wear rate was found to have a clear correlation with the strain-hardening rate but neither with the hardness nor with the yield strength. This implies that the wear properties may be related more keenly with dynamic mechanical properties than static ones.
+Keywords: Fe3Al-type intermetallic alloys; Wear properties; Wear mechanisms; Correlation between mechanical and tribological properties
+
+E Gamsjäger, F.D Fischer, J Svoboda,
+Influence of non-metallic inclusions on the austenite-to-ferrite phase transformation,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 291-297,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.038.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008001)
+Abstract: During continuous casting of low-alloy steels non-metallic inclusions (e.g. aluminium nitride (AlN)) may precipitate and grow inside the austenite phase at temperatures above 1200K. At lower temperatures austenite (γ) will partly transform to the ferrite (α) phase, which significantly influences the properties of the cast product. The kinetics of the γ/α phase transformation depends on the mobility of the interface as well as on the diffusion coefficients of interstitial as well as substitutional components. The driving force for the γ/α phase transformation can be separated in a chemical and a mechanical term. The actual chemical compositions in the γ- and in the α-phase very near to the interface determine the chemical contribution to the actual driving force. The mechanical driving force of the γ/α phase transformation is directly related to the strain energy and plastic work generated by the transforming spherical shell. Therefore, AlN-inclusions, producing large strains and stresses in their surroundings, may affect the γ/α phase transformation. Finite element (FE) calculations show that AlN-inclusions are able to trigger the γ/α phase transformation. This leads to the formation of ferrite at a higher temperature compared to a steel grade without AlN-precipitates. Finally, the kinetics of the γ/α phase transformation is determined numerically by a finite difference method.
+Keywords: Diffusion; Phase transformation; Steel; Aluminium nitride; Transformation kinetics; Driving force
+
+N.R.F Beeley, Z.X Guo,
+Fluid dynamic simulations of a slurry coating process on a continuous fibre,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 341-348,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.045.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008086)
+Abstract: The high costs associated with metal matrix composite production have led to the development of more cost effective processing. One such method, the powder coated fibre (PCF) process, has been under development at Queen Mary, University of London by directly applying particulate coatings onto a monofilament fibre from a slurry reservoir to produce metal matrix composite performs. This work concentrates on the simulations of the coating process using computational fluid dynamics. The findings are related to experimental observations on a Ti powder coated SiC monofilament system.
+Keywords: Slurry powder metallurgy; Fluid dynamics; Fibre composites; Process simulation
+
+S Etienne, S Testu, L David, C Ménissez, E Duval,
+Relaxation processes in a glassy polymer containing methanol molecules,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 273-277,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.07.015.
+(https://www.sciencedirect.com/science/article/pii/S092150930300875X)
+Abstract: The interaction of small guest molecules with the molecular degrees of freedom of a glassy polymer matrix is investigated, i.e. (i) the dynamics of these guest molecules and (ii) their effect on the secondary ‘β’ and main ‘α’ relaxations of the host polymeric matrix. The system considered here is the glassy poly(methyl metacrylate) modified by introduction and desorption of methanol. The dynamics of the system is observed by means of low-frequency mechanical and wide band dielectric spectroscopies. The presence of small molecules in the PMMA glassy matrix induces several effects, namely (i) a strong relaxation peak develops at low temperature (near 120K at 1Hz and called αm in the following), (ii) the strength of the β relaxation is increased while the temperature of the maximum shifts towards the low temperatures, (iii) a sharp peak appears superimposed on the β peak, and finally (iv) the α relaxation shifts towards the low temperatures. Dielectric and mechanical spectroscopies results are in agreement and make it possible to capture the dynamical behavior in a wide frequency range (eight decades). The experimental results are explained on the basis of physical concepts recently introduced in the physics of glassy matter: cooperativity and nanoheterogeneity. In particular, the low-temperature relaxation process αm is attributed to cooperative motions in methanol clusters which form in the nanoheterogeneous polymeric matrix, in agreement with small angle X-rays scattering and low-frequency Raman scattering observations recently reported.
+Keywords: Secondary relaxation; Structural relaxation; Glass transition; Mechanical spectroscopy; Dielectric spectroscopy; PMMA
+
+N.J. Pinto, P. Carrión, J.X. Quiñones,
+Electroless deposition of nickel on electrospun fibers of 2-acrylamido-2-methyl-1-propanesulfonic acid doped polyaniline,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 1-5,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.07.024.
+(https://www.sciencedirect.com/science/article/pii/S0921509303006348)
+Abstract: Micron size diameter fibers of 2-acrylamido-2-methyl-1-propanesulfonic acid doped polyaniline were prepared via electrospinning. The conductivity of individual fibers was found to be lower than that of a cast film of the same polymer. Using the electroless deposition technique, the fibers were coated with thin films of nickel. The metal coated the fibers uniformly, as was evident from SEM spectroscopy without any lateral overlap, leading to a decrease in its resistance by three orders of magnitude while retaining the large surface area that is inherent to small diameter fibers. In this work, we combine the electrospinning and electroless deposition techniques to prepare, in a matter of minutes, metal-coated fibrous polymer substrates with large surface area.
+Keywords: Electrospinning; Polymer; Metal; Fibers
+
+Siddhartha K. Pradhan, E.S. Dwarakadasa, Philip J. Reucroft,
+Processing and characterization of coconut shell powder filled UHMWPE,
+Materials Science and Engineering: A,
+Volume 367, Issues 1–2,
+2004,
+Pages 57-62,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.065.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009614)
+Abstract: A novel polymer matrix composite using coconut shell powder (CSP) as a filler material has been processed by a powder metallurgy technique. A mixture of ultrahigh molecular weight polyethylene (UHMWPE) powder and CSP was compacted at 200°C in a die-punch arrangement. The composite material remained tough when the CSP content was 20–30vol.%, as revealed by notch impact tests and fractography studies. However, the compressive strength of the UHMWPE–CSP composite decreased rapidly beyond 20vol.% CSP. In this paper, preliminary results are presented to throw light on mechanical properties and on some aspects of the processing method used.
+Keywords: UHMWPE; Filled polymer composite; Coconut shell powder
+
+A Ibarra, P.P Rodrı́guez, V Recarte, J.I Pérez-Landazábal, M.L Nó, J San Juan,
+Internal friction behaviour during martensitic transformation in shape memory alloys processed by powder metallurgy,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 492-496,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.06.005.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008402)
+Abstract: Powder metallurgy is a very powerful method to obtain polycrystalline Cu–Al–Ni shape memory alloys with enhanced thermo-mechanical properties. Nevertheless, it is shown that the powder metallurgy process can still be improved by the mechanical alloying of a mixture of powders showing different compositions before the compacting stage. This method gives better results than the ones achieved by just compacting the mixture of powders, due to the improvement of composition homogenisation produced by mechanical alloying. Moreover, the alloy obtained in this way shows accurate martensitic transformation temperatures, hysteresis and width, as it is inferred from the internal friction study, which is carried out on the different specimens.
+Keywords: Shape memory alloys; Cu–Al–Ni; Powder metallurgy; Mechanical alloying; Martensitic transformation; Internal friction
+
+D.J Bacon, Yu.N Osetsky,
+Multiscale modelling of radiation damage in metals: from defect generation to material properties,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 46-56,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.006.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007676)
+Abstract: Atomic- and continuum-scale computer simulation techniques have now become sufficiently powerful that many phenomena associated with radiation damage effects in metals can be modelled with a high degree of realism. Recent studies of several such phenomena are reviewed here. Primary knock-on atoms (PKAs) that recoil under collision from energetic atomic particles such as neutrons or ions are the principal source of damage. At high enough recoil energy, they create cascades of atomic displacements that result in single and clustered self-interstitial and vacancy defects. The time and length scales of the cascade process are ideally suited to atomic-scale computer simulation by molecular dynamics (MD). This method provides data on the number of defects produced and their distribution in clusters. This information was not available from earlier models and so the nature of the primary damage state is now much clearer. MD is also being used to reveal the nature of the motion and interaction of defects. Prediction and understanding of mechanical properties of irradiated metals requires simulation of dislocation–obstacle interactions. Models based on the continuum approximation are now being extended by large-scale MD simulations of the motion of dislocations gliding through irradiation-induced features such as voids and precipitates, and these reveal the strength and weakness of the earlier studies. Dynamic effects at temperatures greater than 0K are also being investigated. The place of modelling in the multiscale problems of radiation damage is emphasised.
+Keywords: Computer simulation; Multiscale modelling; Radiation damage; Displacement cascades; Defect clusters; Dislocation–obstacle interactions
+
+I.S. Golovin, H.-R. Sinning, I.K. Arhipov, S.A. Golovin, M. Bram,
+Damping in some cellular metalic materials due to microplasticity,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 531-536,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.089.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008530)
+Abstract: The damping capacities of a few porous structures are studied. Damping in porous structures is enhanced by localised stresses in comparison with the corresponding dense materials. A model for mechanical damping in porous materials is suggested for the “microplastic” range of deformation on the basis of statistical mechanics of micro-heterogeneous materials. Two types of heterogeneity are discussed: one-level porosity (direct by sintered powder steels) and two-level porosity (larger pores in carcass with smaller pores).
+Keywords: Internal friction; Cellular metallic materials; Foams
+
+Aiguo Liu, Kafui Nyavor, Zhimin Li, Nosa O Egiebor,
+Effects of composition and calcination temperature on morphology and structure of barium modified zirconia nanoparticles,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 66-73,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.048.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007561)
+Abstract: Co-precipitation of zirconyl chloride and barium chloride followed by supercritical ethanol drying was used to synthesize the barium modified zirconia nanoparticles. BET surface area, X-ray diffraction (XRD) and atomic force microscopy (AFM) measurements were employed for structural and morphological characterization. Crystallite particles of ∼10 to 50nm in size with cross-linking boundaries were formed during heat treatment. Results show that the uniform crystallite nanoparticles are generated and stabilized when Ba content is in a intermediate range whereas higher content of barium results in the growth of the nanoparticles into larger micro-scale grains with smeared boundaries at elevated temperature.
+Keywords: Zirconia nanoparticle; Barium oxide; Morphology; AFM; Phase image
+
+J.J Zhu, Q.Y Liu, W.M Huang, K.M Liew,
+To simulate the behavior of shape memory alloys under thermomechanical cycling,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 298-301,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.039.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008013)
+Abstract: In this paper, a thermodynamic constitutive model previously proposed by the authors was further developed in order to be applicable for the simulation of thermomechanical behavior of shape memory alloys under different loading conditions. The volume fractions of austenite and martensite variants were used as internal variables to describe the microstructural evolution. The model was used to investigate the behavior of a round tube Cu–Al–Zn–Mn polycrystalline shape memory alloy under various mechanical loads, including non-proportional loading, torsion cycling in opposite directions and the shape memory effect. The non-proportional loading simulation results were compared with experimental results reported in the literature.
+Keywords: Phase transformation; Martensite; Constitutive model; Shape memory alloy; Shape memory effect; Super-elasticity
+
+H. Tanimoto, S. Sakai, K. Otuka, E. Kita, H. Mizubayashi,
+Underlying mechanisms for unique elastic properties of nanocrystalline Au,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 177-180,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2002.12.008.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009067)
+Abstract: In order to get an insight into the grain boundaries (GBs) in nanocrystalline (n-) metal, we prepared the high-density n-Au with ρ/ρ0>99% by the gas-deposition method and carried out the vibrating reed measurements, where ρ/ρ0 is the relative density referring to the bulk density. The strain amplitude dependence (SAMD) of the resonant frequency (f) and the internal friction (Q−1) was measured for the strain (ε) amplitude between 10−6 and 2×10−3 and for temperature between 5 and 300K. No plastic deformations are detected for the present strain range, where f decreases for ε up to 10−4 and then turns to increase, showing saturation for ε between 10−4 and 2×10−3. The low temperature irradiation by 2MeV electrons or 20MeV protons causes an increase in the Young’s modulus at 6K, which is surmised to reflect a modification of the anelastic process in the GB regions. In contrast, the SAMD of f is hardly modified by irradiation, suggesting that it is indicative of a collective motion of atoms in n-Au.
+Keywords: Nanocrystalline gold; Gas deposition method; Grain boundary; Irradiation; Cooperative motion
+
+V. Recarte, J.I. Pérez-Landazábal, M.L. Nó, J. San Juan,
+Study by resonant ultrasound spectroscopy of the elastic constants of the β phase in CuAlNi shape memory alloys,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 488-491,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.06.004.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008372)
+Abstract: The evolution with temperature of the elastic constants of the metastable β phase in a Cu-27.96at.%Al-3.62at.% Ni shape memory alloy (SMA) has been studied by resonant ultrasound spectroscopy (RUS). The corresponding elastic constants of this cubic phase have been measured near the martensitic transformation temperature in a single crystal. Above the martensitic transformation temperature, an anomalous behavior has been found in the C′elastic constant which shows a softening as the temperature decreases. The internal friction value Q−1 has been obtained in this temperature range from the RUS spectra. The mechanisms associated with the Q−1 increase must be related to {110} shear.
+Keywords: Resonant ultrasound spectroscopy; Shape memory alloys; Martensitic transformation
+
+Y.H Kong, Q.Z Chen,
+Effect of minor additions on the formation of TCP phases in modified RR2086 SX superalloys,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 135-143,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.051.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009183)
+Abstract: The effect of minor additions (C and Hf) on the formation of topologically closed-packed (TCP) phases in single crystal (SX) superalloy RR2086 has been investigated. The base RR2086 and the modified RR2086 were exposed at 950°C for 200–2000h. It was found that both alloys were very stable in terms of TCP phase precipitation. TCP phases initiated in the dendrite regions in both the base and modified RR2086 and near MC carbides in the modified material as well. However, TCP phases formed faster in the modified RR2086 than in the base RR2086. This indicated that the minor additions in the modified RR2086 expedited the formation of TCP phases. EDX measurements showed that Re, W, Cr and Co were predominant in TCP phases, in agreement with the Scheil simulation; that they also segregated in the dendrite cores in both alloys and near MC carbides in the modified RR2086; and that the segregation was intensified by the minor additions in the modified material. These EDX results can explain the initiation of TCP phases in the dendrite cores in both alloys, the formation of TCP phases near MC precipitates, and the faster TCP phase precipitation in the modified RR2086. In contrast with the RR2086, TCP phase formation was retarded by the same minor additions in the modified RR2072. It was thought that this difference was to due to the formation of M23C6 phase which was influenced by the concentration of chromium. The higher level of chromium in RR2072 promoted M23C6 phase prior to the precipitation of TCP phases in the modified RR2072 and subsequently retarded the occurrence of σ phase to a later stage than in the base RR2072. The lower level of chromium in RR2086 suppressed M23C6 precipitation in the modified alloy, and as a result TCP phase precipitation was only influenced by the microsegregation, which led to the faster formation of TCP phases in the modified RR2086 than in the base material.
+Keywords: Superalloy; Phase transformation; Carbon; Chromium
+
+K. Buss, D. Mari,
+High temperature deformation mechanisms in cemented carbides and cermets studied by mechanical spectroscopy,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 163-167,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2002.12.004.
+(https://www.sciencedirect.com/science/article/pii/S092150930300892X)
+Abstract: Two model hardmetals, a pure WC–Co and a TiWCN–Co, have been studied by mechanical spectroscopy. In this work, the materials are studied up to 0.85Tm of cobalt. A parallel analysis of the materials shows that three domains are characterized by similar internal friction peaks. A region characterized by relaxations in Co, a region characterized by relaxations in the ceramics and a high-temperature region characterized by relaxations at grain boundaries are found. Two peaks are located at high temperatures in both materials. The first located at 1420K in WC–Co and at 1520K in TiWCN–Co for 1Hz is attributed to grain boundary sliding. A very broad and high peak estimated for 1Hz around 1600K in WC–Co and above 1700K in TiWCN–Co has only been directly observed in frequency. It is thermally activated and shows a high, apparent activation energy.
+Keywords: Cobalt; Grain boundary sliding; Internal friction; Hardmetal; Carbonitiride
+
+Y. Nishino, Y. Ota, T. Kawazoe,
+Amplitude-dependent internal friction in copper thin films on silicon substrates,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 146-149,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2002.12.001.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008815)
+Abstract: Internal friction in copper thin films 0.2–1.5μm thick on silicon substrates has been measured between 180 and 340K as a function of strain amplitude. Analysis of the amplitude-dependent internal friction in the copper films shows the relation between the plastic strain of the order of 10−9 and the effective stress on dislocation motion. The stress–strain curves thus obtained for the copper films tend to shift to a higher stress with decreasing film thickness and also with decreasing temperature, both indicating a suppression of microplastic flow. It is concluded that the microflow stress at a constant level of the plastic strain varies inversely with the film thickness at all temperatures examined. The film thickness effect in the microplastic range can be explained on the basis of a dislocation-bowing model.
+Keywords: Thin films; Mechanical properties; Internal friction; Microplasticity; Copper films
+
+D Padhi, J.J Lewandowski,
+Resistance curve behavior of polycrystalline niobium failing via cleavage,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 56-65,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.047.
+(https://www.sciencedirect.com/science/article/pii/S092150930300755X)
+Abstract: The present work illustrates the crack growth resistance behavior of polycrystalline niobium failing via transgranular cleavage fracture. Bend tests were conducted on fatigue-precracked Charpy specimens at −125 and −75°C under different loading rates. Crack growth was monitored in situ during the tests in order to compute the fracture initiation toughness and develop crack growth resistance curves. The cleavage fracture initiation toughness (KQ) is shown to be relatively independent of loading rate in the range of −75 to −125°C, although crack growth resistance was greater at −75°C and at the lower loading rates. The spatial location of the cleavage fracture nucleation sites with respect to the fatigue precrack was not significantly affected by the changes in test conditions. Stable cleavage crack growth was associated with large plastic zones ahead of the fracture nucleation sites.
+Keywords: R-curve behavior; Cleavage fracture; Stable cleavage crack propagation; Fracture of polycrystalline Nb; Plastic zone size; Cleavage crack nucleation
+
+M Shapaan, A Bárdos, L.K Varga, J Lendvai,
+Thermal stability and glass forming ability of cast iron–phosphorus amorphous alloys,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 6-9,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.053.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007603)
+Abstract: The effect of P addition on the thermal stability and on the glass forming ability (GFA) of bulk amorphous sheets and melt-spun ribbons of cast iron Ci100−xPx (x=1.56, 3.1, 4.63, 6.14, 7.63, 9.1at.%) was studied by calorimetric measurements. Bulk amorphous sheets of 1mm×4mm transverse cross-section were prepared by centrifugal copper mold casting. For the as-quenched ribbons, it was found that only for x=7.63 and 9.1 glass transition temperatures Tg were detected. The reduced glass transition temperatures Tg/Tl (where Tl is the liquidus temperature) are 0.542 and 0.551, respectively. The as-quenched melt-spun ribbons and the bulk amorphous sheets have nearly the same thermal transition and glass forming ability characteristics.
+Keywords: Metallic glass; Melt-spinning; Copper mold casting; Crystallization
+
+Z.S. Li, Q.F. Fang, S. Veprek, S.Z. Li,
+Evaluation of the internal friction and elastic modulus of the superhard films,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 186-190,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.048.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009109)
+Abstract: In this paper, the vibrating-reed technique was used to measure the elastic modulus and internal fiction of the superhard thin films on the stainless steel substrate. The general formulas for evaluation of the internal fiction and the Young’s modulus of the film were derived for the sample with a rectangular section. The Young’s modulus of the nanocomposite superhard TiN/Si3N4 films on stainless steel is about 420–460GPa at room temperature and decreases with increasing temperature. The internal fiction of the two-side deposited films is small and increases with temperature, while the internal friction of one-side deposited film is large and decreases with temperature due to the larger internal stress in the film.
+Keywords: Superhard film; Young’s modulus; Internal friction; Vibrating reed
+
+I. Gutiérrez-Urrutia, M.L. Nó, J. San Juan,
+Internal friction behavior in SiC particle reinforced 8090 Al–Li metal matrix composite,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 555-559,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.07.010.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008657)
+Abstract: The mechanism of thermal stress relaxation was investigated at temperatures below room temperature for the metal matrix composite (MMC) Al–Li 8090/SiC. The internal friction technique has been used. Several cycles from 453 to 100K were used in order to measure the internal friction and the dynamic modulus of the material. An internal friction peak has been observed in the MMC when cooling from 453K. This peak is linked to the thermal stresses caused by the difference of the thermal expansion coefficients of the matrix and the reinforcement. It is concluded that thermal stresses are relaxed by microplastic deformation. Furthermore, the influence of the microstructure, in particular, the precipitation process, on the internal friction peak associated with microplastic deformation has been analysed. The variation of the dynamic modulus is related to the different stages of precipitation.
+Keywords: Metal matrix composites; Internal friction; Al–Li alloys
+
+P.D Lee, A Chirazi, R.C Atwood, W Wang,
+Multiscale modelling of solidification microstructures, including microsegregation and microporosity, in an Al–Si–Cu alloy,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 57-65,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.007.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007688)
+Abstract: Phase transition phenomena in metallic alloys involve complex physical processes occurring over a wide range of temporal, spatial and energy scales. Multiscale modelling is a powerful methodology for understanding these complex systems. In this paper, a multiscale model of grain and pore formation is presented during solidification. At the microscale, a combined stochastic-deterministic approach based on the cellular automata method is used to solve multicomponent diffusion in a three-phase system (liquid, solid and gas), simulating the nucleation and growth of both grains and pores. The impingement of the growing pores upon the developing solid is also solved to predict the tortuous shape of the porosity, a critical factor for fatigue properties. The micromodel is coupled with a finite element method (FEM) solution of the macroscale heat transfer and fluid flow in industrial castings through the temperature and pressure fields. The result model was used to investigate the influence of local solidification time, hydrogen content, local metallostatic pressure and alloy composition upon the predicted grain structure and pore morphology. Comparison of the model predictions to both laboratory and industrial scale castings are presented.
+Keywords: Solidification; Defects; Porosity; Multiscale modelling; Aluminium
+
+C.A. Gordon, A.V. Granato,
+Equilibrium concentration of interstitials in aluminum just below the melting temperature,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 83-87,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.077.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008414)
+Abstract: A non-contact EMAT technique of ultrasonic generation and detection was used to make high temperature measurements of the C44 deviation from perfect crystal behavior just below the melting temperature and a much smaller effect for C′, which is to be expected for interstitials in FCC crystals. The results are analyzed to give a detected interstitial concentration of 1.7±0.6×10−4 just below the melting temperature of 933K. This corresponds to a reasonable range for the interstitial formation enthalpy and entropy, and supports a major prediction of the interstitialcy theory of condensed matter states.
+Keywords: Interstitials; Thermal equilibrium; Shear modulus; Aluminum; Melting temperatures
+
+F. Cordero, A. Paolone, C. Castellano, R. Cantelli,
+Anelastic spectroscopy measurements of nanoscale charge and magnetic structures in cuprates and manganites,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 346-351,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.04.002.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008931)
+Abstract: Many perovskites and perovskite related materials exhibit electronic phase separation phenomena at nanometer scales, which are thought to concur to important electric and magnetic properties, like high-Tc superconductivity or colossal magnetoresistence (CMR). Recent and new anelastic spectroscopy experiments are presented, which supply information on the dynamics of such inhomogeneities in the superconductors of the La2−xSrxCuO4 (LSCO) family and on the magnetic perovskite La1−xCaxMnO3. In La2−xSrxCuO4, a relaxation process at liquid He temperatures is identified as due to the motion of the hole stripes, acting as walls between antiferromagnetic (AF) domains. Another process is identified as the depinning of these stripes from defects in the disordered phase. In La1−xCaxMnO3 a glassy dynamic response below the ferromagnetic (FM) transition is attributed to the insulating nanodomains coexisting with the ferromagnetic background.
+Keywords: High-temperature superconductors; Colossal magnetoresistance; Charge stripes; Electronic phase separation; Spin glass
+
+Masahiro Koiwa,
+A note on Dr. J.L. Snoek,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 9-11,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.067.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008268)
+Abstract: J.L. Snoek is the eponym of the renowned relaxation effect: the Snoek peak, which is associated with the redistribution of carbon atoms in the bcc iron lattice under the application of the oscillatory stress. A brief review of the Snoek effect and a sketch of Snoek’s life are given; the latter is based on two Dutch articles.
+Keywords: Snoek peak; Internal friction; Magnetic ferrites
+
+S Ahmaniemi, P Vuoristo, T Mäntylä,
+Mechanical and elastic properties of modified thick thermal barrier coatings,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 175-182,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.061.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009511)
+Abstract: Mechanical and elastic properties of the phosphate sealed and laser-glazed 8Y2O3–ZrO2 and 22MgO–ZrO2 thick thermal barrier coatings (TBCs) were studied. Mechanical properties were determined by erosion and abrasion experiments and the elastic properties were evaluated by four-point bending (4PB) tests. Phosphate based sealing treatments improved significantly the erosion and abrasion resistance of the coatings and also increased the coating microhardness, bending strength and stiffness. The improvements of mechanical properties in the phosphate sealed coatings were caused by the lamellae bonding, due to the sealant. The effect of laser-glazing on the mechanical and elastic properties varied between the studied materials. The melted surface layer of the laser-glazed 8Y2O3–ZrO2 coating was very hard and dense and had excellent resistance against mechanical wear. At the same time the vertical segmentation crack network in the coating structure lowered the bending strength and stiffness. In laser-glazed 22MgO–ZrO2 coating the melted layer was also very hard, but most of the segmentation cracks were curved and branched and under mechanical loads they had tendency to coalesce. For this reason the laser-glazed 22MgO–ZrO2 coating had poor mechanical properties.
+Keywords: Thermal barrier coating; Elastic modulus; Erosion resistance; Sealing; Laser-glazing
+
+José Tinoco, Björn Widell, Hasse Fredriksson, Laszlo Fuchs,
+Modeling the in-flight events during metal spray forming,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 302-310,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.040.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008025)
+Abstract: In this work, the in-flight events occurring during deposition over a rotating substrate were modeled. The calculations were performed by solving the momentum and enthalpy equations for the gas. A Lagrangian approach was used to obtain the trajectories and thermal history of the droplets. A modified heat capacity model was used to simulate the release of latent heat due to the solidification of the droplets. Turbulent particle dispersion was not considered. The results showed that the droplet temperature strongly depends on the droplet diameter and on its location in the spray since the relative velocity between the gas and the droplets varies largely depending on the location. An estimation of the state of the spray is presented in terms of mass and thermal averages. The results showed that the average fraction of solid obtained in the spray depends on the initial conditions, such as gas temperature and particle size distribution parameters.
+Keywords: CFD; Spray casting; Droplet solidification; Average solid fraction
+
+S Etienne, Z Ayadi, M Nivoit, J Montagnon,
+Elastic modulus determination of a thin layer,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 181-185,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.01.005.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009079)
+Abstract: The titanium alloy TA6V was nitrogen implanted to improve its wear resistance. In order to extract the value of the elastic modulus of the thin layer that is formed by ion implantation of this titanium alloy, a modelling taking into account different features occurring during implantation is considered, namely erosion, concentration profile and nature of the layer. Then, the elastic modulus of the thin layer is deduced. The estimated value is shown to be consistent with the formation of a TiN rich layer about 0.2μm thick. In this paper, a procedure based on the resonance frequency of a cantilever is presented leading to the optimisation of the measurement. Then the actual modelling proposed above is described and reliability of calculated values is discussed.
+Keywords: Ion implantation; Thin layer; Titanium alloy; Elastic modulus
+
+C.M. Chen, C.C. Yang, C.G. Chao,
+Thixocasting of hypereutectic Al–25Si–2.5Cu–1Mg–0.5Mn alloys using densified powder compacts,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 183-194,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.063.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009596)
+Abstract: Hypereutectic Al–Si alloys with fine and evenly distributed Si grains have superior mechanical characteristics and are usually fabricated by powder metallurgy (PM). However, PM methods cannot easily achieve the net-shape forming of complicated engineering parts. This work presents a novel method, which combines consolidating prealloyed powders with thixocasting the consolidated compacts, for net-shape forming of a hypereutectic Al–25Si–2.5Cu–1Mg–0.5Mn alloy. Experimental results indicate that as-thixocast specimens fabricated with larger powders and greater deformations have higher tensile strengths. Fractographs show that the strengths were strongly affected by the detrimental oxides that originated in the powder compacts, and that the oxides could be effectively eliminated by plastic deformation during thixocasting. Isothermal heat-treatment tests of the powders revealed two distinct ranges of Si grain-coarsening rates in the semi-solid temperature range. The Si grains ripened slowly at temperatures from 540 to 560°C, considered as the appropriate processing temperature range for obtaining fine Si grain. This low coarsening rate was explained by the diffusion of Si through the semi-solid matrix that only consists of a little liquid, since Si diffuses in solid Al much more slowly then in liquid Al.
+Keywords: Hypereutectic Al–Si alloys; Semi-solid; Thixocast; Powder consolidation
+
+M. Daraktchiev, R. Schaller, C. Domı&#x0301;nguez, J. Chevalier, G. Fantozzi,
+High temperature mechanical spectroscopy and creep of calcium hexaluminate,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 199-203,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.03.004.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009353)
+Abstract: Samples of calcium hexaluminate (CA6) were studied by four-point bending creep tests and mechanical spectroscopy at temperatures between 1300 and 1600K. By using the temperature-compensated time concept, proposed by Dorn (1954, 1956), activation enthalpies of the order of 620kJ/mol were deduced from both the isothermal creep and the internal friction measurements. A generic curve, “ master curve”, is obtained by a superposition of the isothermal mechanical loss spectrum along the temperature-compensated frequency axis. The master curve is composed of two components: a high-frequency part (peak) and a low-frequency part (exponential background). Both the peak and the background decrease after performing torsional creep. Additionally, the peak shifts towards higher frequency after annealing. The high temperature mechanical loss behavior of CA6 is discussed in terms of a dislocation model invoking anelastic and viscoplastic relaxation phenomena.
+Keywords: Creep; Internal friction; Annealing; Dislocation damping; Master curve
+
+P. Gadaud, S. Pautrot,
+Application of the dynamical flexural resonance technique to industrial materials characterisation,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 422-426,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.111.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009110)
+Abstract: The determination of the Young’s modulus and damping coefficient Q−1 by means of non-destructive vibrating techniques has been applied to bulk and coated industrial materials. Extensions of a previous analytic model of composite beam allow to determine accurately the macroscopic modulus of each component of multilayered structural materials as coated superalloys or nitride-hardened steels. Furthermore, the study of glasses and polymers has been investigated. An attempt of normalisation of the modulus versus temperature curves allows to establish master curves depending on the specific structure, from metallic glasses to polymeric glasses. Finally a comparison of dynamical modulus and Q−1 values measured between resonant (>1kHz) and subresonant techniques (10−3 to 10Hz) in relation to the loading frequencies applied in real conditions has been under folder. For metallic materials such as forged or rolled titanium alloys, the brittle-to-fragile transition occurs abruptly or smoothly with a shift of 300K following the range of excitation frequencies.
+Keywords: Young’s modulus; Internal friction; Structural coatings; Amorphous materials
+
+Baohua Ji, Huajian Gao,
+A study of fracture mechanisms in biological nano-composites via the virtual internal bond model,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 96-103,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.121.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008141)
+Abstract: As organic–inorganic hybrid composites, natural biological materials exhibit superior mechanical properties such as toughness and strength in comparison with their constituent phases: the organic phase is usually very soft and the inorganic phase very brittle. Understanding the mechanisms by which nature designs strong composites with weak materials could provide helpful insight and guidance for the development and synthesis of novel materials for industrial applications. In our recent studies on nanostructure of biological materials (Proc. Natl. Acad. Sci. U.S.A. 100 (2003) 5597; Eng. Fract. Mech. 70 (2003) 1777), the nanometer size of mineral platelets is interpreted as a result of strength optimization, in that an intrinsically brittle material reaches the theoretical strength at the nanoscale despite of crack-like flaws. The mineral nanoparticles are embedded in a soft protein matrix, resulting in an organic–inorganic composite with high toughness and strength. The present study is focused on the effects of protein and protein–mineral interface. A Virtual-Internal-Bond (VIB) model, which incorporates an atomic cohesive force law into the constitutive model of materials, is adapted to model deformation and failure in the nanostructured biocomposite. We show that the protein layer can effectively enhance the toughness of biocomposites through crack shielding and impact protection.
+Keywords: Biological material; Protein; Fracture modeling; Strengthening and mechanism; Inhomogeneous material
+
+Thomas H. Metcalf,
+Internal friction of solid neon and argon films,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 150-153,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.03.001.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008827)
+Abstract: The internal friction of solid neon and argon films, with thicknesses of several hundred nanometers, was measured at temperatures up to 25% of the triple point temperature, Ttr. At temperatures higher than 0.12Ttr, the internal friction increased strongly, following an Arrhenius law. The activation energy scaled with triple point temperature and was independent of film thickness. The value suggests that lowered energy barriers for dislocation motion enhance the plasticity and give rise to the internal friction peak.
+Keywords: Neon; Argon; Internal friction; Cryocrystals; Plastic deformation
+
+R Ding, Z.X Guo,
+Microstructural evolution of a Ti–6Al–4V alloy during β-phase processing: experimental and simulative investigations,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 172-179,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.024.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007858)
+Abstract: The microstructural evolution of a Ti–6Al–4V alloy during thermomechanical processing in the β-phase field was investigated using both experimental and modelling methods. The experimental results show that dynamic and/or metadynamic recrystallization occurred when the alloy was processed in the β-phase field. A model embedding fundamental metallurgical principles of dynamic recrystallization (DRX) within the cellular automaton (CA) method was able to simulate quantitatively and topographically the microstructural evolution and the flow stress–strain relationship during the thermomechanical processing. In the simulation, the dislocation density variation and the grain growth kinetics of each dynamically recrystallizing grain (R-grain) was calculated on the physical model of DRX, and the plastic flow curve was calculated directly from the dislocation density variation of the matrix grains and the R-grains. The equiaxed growth of R-grains was simulated using the CA method. The influence of strain rate and temperature on the microstructural evolution and the flow stress during dynamic recrystallization was studied, and the results compared with experiments.
+Keywords: Ti–6Al–4V alloy; Modelling; Microstructure; Dislocations; Dynamic recrystallization; Cellular automaton
+
+M. Pérez-Bravo, M.L. Nó, I. Madariaga, K. Ostolaza, J. San Juan,
+High-temperature internal friction on TiAl intermetallics,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 240-245,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.07.011.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008669)
+Abstract: In order to study the microscopic mechanisms controlling the plastic deformation at high temperature of two γ-TiAl alloys with nominal compositions: Ti–46.5Al–4(Cr, Nb, Ta, B) and Ti–45Al–(5–10)Nb (in at.%), internal friction (IF) measurements have been performed. A subresonant torsion pendulum has been used working in two different modes; changing the temperature between 300 and 1200K at a constant frequency, and varying the frequency between 0.001 and 10Hz at a fixed temperature. The resulting mechanical spectra show an anelastic relaxation peak at about 1060K at 1Hz in one of the alloys and a high-temperature background in both of them. Activation parameters of the loss peak have been calculated and an activation enthalpy of about 3.8eV is obtained. The characteristics and a possible responsible mechanism for this relaxation peak are discussed.
+Keywords: Titanium aluminides; Internal friction; Intermetallic alloy; Structural material
+
+P. Mayor, G. D’Anna, G. Gremaud,
+Jamming in weakly perturbed granular media,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 307-310,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.079.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008426)
+Abstract: A granular system is weakly vibrated and we observe how it reaches a static configuration when the perturbation intensity is decreased. This behavior is investigated using an immersed torsion oscillator whose angular deflections are analyzed to give information on the granular agitation. The oscillator can thus be seen as a low-frequency “thermometer” sensing the granular noise. The observed diffusive noise appears to approach the final static (or jammed) state according to the same expressions that describe the temperature dependence of viscosity or diffusivity in supercooled liquids, thus showing strong analogies with the vitrification process. We then discuss a simple model that relates the microscopic dynamics to the macroscopic rearrangements and accounts for that dependence.
+Keywords: Granular; Jamming; Noise; Glass transition; Extreme events statistics
+
+G.B. Vunni, V.F. Coronel, D.N. Beshers,
+Anharmonic aspects of magnetomechanical damping,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 352-355,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.01.003.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008943)
+Abstract: Nonlinear aspects of the magnetization process in vibrating iron are studied by using the harmonics of both acoustic and magnetic coil signals. The prediction of elementary hysteresis theory that the harmonics should all vary as ε2 is borne out to a considerable extent, and some of the exceptions appear to mark the onset of another mechanism of damping at the higher amplitudes. The prediction of only odd harmonics is less well obeyed by these data.
+Keywords: Magnetomechanical damping; Hysteresis; Anharmonic; Anharmonicity; Acoustic losses
+
+Xiaowei Wang, Jingyang Wang, Ping Wu, Hongwang Zhang,
+The investigation of internal friction and elastic modulus in surface nanostructured materials,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 158-162,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.02.002.
+(https://www.sciencedirect.com/science/article/pii/S092150930300889X)
+Abstract: In this paper, 304 stainless steel and pure Fe specimens, which were processed by high-energy shot peening (HESP) and ultrasonic shot peening (USP) respectively, were studied by the internal friction method. Measurements were carried out on a vibrating reed apparatus. The change of internal friction and elastic modulus shows that the treatment duration of specimen is not accompanied by the corresponding persistent increase of internal friction and elastic modulus. There is a transition layer from the top surface to the inside of the materials. Young’s modulus of surface shows obviously a fluctuation along the depth profile. The phenomena have never been shown by other measurement methods. The microstructure change should be related to some basic mechanism of surface layer formation. It may also explain why the improvement of mechanical properties in surface nanocrystallized materials does not simply correspond to the duration time of severe deformation.
+Keywords: Internal friction; Young’s modulus; Surface nanostuctured material
+
+J LLorca, J Segurado,
+Three-dimensional multiparticle cell simulations of deformation and damage in sphere-reinforced composites,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 267-274,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.035.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007974)
+Abstract: The tensile loading of an elasto–plastic matrix reinforced with elastic spheres was studied by means of the three-dimensional finite element analysis of periodic multiparticle cells containing a random dispersion of thirty identical spheres. Damage in the form of void nucleation, growth and coalescence in the matrix was included with the aid of the modified Gurson model. It was found that damage was early localized in regions between spheres closely packed along the deformation axis: the strain concentration in these regions nucleates voids, which grew driven by the tensile hydrostatic stresses. The stress relaxation induced by void nucleation and growth reduced significantly the flow stress of the composite, and eventually a maximum in the stress–strain curves was observed. The multiparticle cell results were compared with those obtained from single-particle axisymmetric simulations, and the effect of reinforcement volume fraction was analyzed as well as that of the matrix damage parameters on the composite behavior.
+Keywords: Particulate-reinforced composites; Finite element analysis; Damage; Plastic deformation; Micromechanical modeling
+
+V.A. Pugsley, H.-G. Sockel,
+Corrosion fatigue of cemented carbide cutting tool materials,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 87-95,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.057.
+(https://www.sciencedirect.com/science/article/pii/S092150930300813X)
+Abstract: The influence of a corrosive environment on the fatigue performance of two cemented carbides has been investigated. The corrosive media used were tannic acid and de-ionised water, chosen to simulate the environment encountered during wood cutting and metal cutting, respectively. The results show a corrosive environment to have a strong influence on the fatigue performance of the materials tested, such that specimen failure is observed at stress amplitudes equal to one quarter of the strength of the as-received material. The influence of the environment increases with decreasing stress amplitude and frequency. The mode of failure observed under corrosion fatigue conditions requires the simultaneous action of corrosive attack and cyclic loading.
+Keywords: Cemented carbides; Corrosion fatigue
+
+Heng Zhang, Jack Gromek, Gayanath Fernando, Harris L. Marcus,
+Novel nanostructred Pd–Zr oxides,
+Materials Science and Engineering: A,
+Volume 366, Issue 2,
+2004,
+Pages 248-253,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.07.004.
+(https://www.sciencedirect.com/science/article/pii/S0921509303006488)
+Abstract: Novel nanostructured Pd–Zr oxides have been synthesized using chemical processing. The composition and structure have been investigated using X-ray diffraction and electron microscopy. The phase stability, thermal behavior and catalytic property under methane atmosphere have been examined by using thermogravimetric analysis, in situ gas environment high temperature X-ray diffraction and gas mass spectroscopy. The study indicated that the alloying of Zr improves the thermal stability and modifies the hysteresis characteristic of the phase transition between Pd–Zr metal and oxide during the thermal cycling.
+Keywords: Nanostructured Pd–Zr oxides; Thermal stability; Catalytic combustion of methane
+
+I.S. Golovin, H.-R. Sinning, J. Göken, W. Riehemann,
+Fatigue-related damping in some cellular metallic materials,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 537-541,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.090.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008554)
+Abstract: Damping in cellular metallic materials is enhanced by localised stresses in comparison with the corresponding dense materials. A pronounced increase in damping with the amplitude of vibration interferes with an additional time dependence due to fatigue processes. This effect, attributed to growth and movement of cracks, is observed in Al- and Zn-based foams, porous steel and titanium. A model of this contribution to amplitude dependent damping is discussed using a simulation of experimental data for a porous 316L (FeNiCr) steel.
+Keywords: Internal friction; Fatigue; Cellular metallic materials
+
+C.L Chu, C.Y Chung, P.H Lin, S.D Wang,
+Fabrication of porous NiTi shape memory alloy for hard tissue implants by combustion synthesis,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 114-119,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.118.
+(https://www.sciencedirect.com/science/article/pii/S092150930300947X)
+Abstract: Porous NiTi shape memory alloy (SMA) with ideal pore characteristics and high strength for hard tissue implants has been fabricated by combustion synthesis in this paper. Microstructure and mechanical properties of the product were studied by optical microscope, scanning electron microscope (SEM), X-ray diffraction (XRD) and compression test respectively. The experimental results show the combustion temperature of Ni+Ti reactant system using an improved ignition technique can reach 1310°C at the pre-heating temperature of 350°C. Porous NiTi SMA with three-dimensionally interconnected pores has the isotropic pore structure, whose general porosity is about 57.3vol.% and the open porosity ratio is about 86%. Besides two second phases (Ti2Ni and Ni4Ti3) in small amount, the desired products, such as B2(NiTi) and B19′(NiTi) are the predominant phases in porous NiTi SMA. The undesired Ti2Ni phase as discrete precipitates formed during the SHS process is often present on or near grain boundaries and difficult to be removed by solution treatment. Porous NiTi SMA has a high compressive strength (208MPa) and a low Young’s modulus (2.26GPa), which is similar to natural bones and can meet the mechanical property demands of hard tissue implants for heavy load-bearing applications.
+Keywords: Porous shape memory alloy; Combustion synthesis; NiTi
+
+Z Shi, Z.X Guo,
+Numerical heat transfer modelling for wire casting,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 311-317,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.041.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008037)
+Abstract: A heat transfer model has been established for a continuous wire casting (CWC) process with a tapered cuboid casting channel. A finite difference method was used for the numerical simulation. The effects of the processing and geometric parameters were analysed on solidification times and positions where final solidification takes place. These include the wire casting speed, the coolant temperature, the inlet temperature, the thermal conductivity of the mould material, and the relative dimensions of the casting channel. Simulation results show that the wire casting speed and the coolant temperature greatly affect the temperature distribution for a fixed casting channel geometry.
+Keywords: Heat transfer; Continuous wire casting; Numerical modelling
+
+K.A. Khor, X.J. Chen, S.H. Chan, L.G. Yu,
+Microstructure-property modifications in plasma sprayed 20 wt.% yttria stabilized zirconia electrolyte by spark plasma sintering (SPS) technique,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 120-126,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.119.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009481)
+Abstract: Spark plasma sintering (SPS) was adopted in this study as a rapid post-spray treatment for 20wt.% yttria stabilized zirconia (YSZ) electrolytes prepared by the direct current (DC) plasma spray process. The lamellar microstructure in the as-sprayed samples was found to significantly reduce the ionic conductivity of the YSZ electrolytes. However, the ionic conductivity (at 1053°C) increased sharply from 0.065S/cm for the as-sprayed electrolyte to 0.122S/cm for electrolyte post-spray treated through SPS at 1400°C for 3min. These phenomena were attributed to the microstructure transformation from lamellar structure of the as-sprayed samples to equi-axial type granular structure of the post-spray samples treated by SPS. Correspondingly, porosity reduced from ∼10.72% in as-sprayed coating to ∼1.38% in the SPS sample treated at 1400°C for 3min. Majority of the pores in the SPS sample were also found to have contracted to a narrow size range 0.03–1μm. AC impedance spectroscopy demonstrated the effect of the microstructure modification among samples treated by SPS at temperature 1200, 1300, and 1400°C for 3min with the concomitant reduction of the resistivity, which is consistent with the microstructure changes of the YSZ electrolyte from lamellar structure to granular structure. Overall, the results show that SPS is an effective and rapid post-spray treatment to improve the relative density and electrical properties of plasma sprayed YSZ electrolytes.
+Keywords: Plasma spray; Spark plasma sintering; YSZ electrolyte; Ionic conductivity; Post-spray treatment
+
+S. Patsias, C. Saxton, M. Shipton,
+Hard damping coatings: an experimental procedure for extraction of damping characteristics and modulus of elasticity,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 412-416,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.07.020.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009080)
+Abstract: Hard coatings can be used as damping treatments, when applied on the surface of a component (both internal and external surfaces). This can help to reduce the resonant vibration levels a component may undergo during operation. This paper discusses the experimental procedure developed for testing such materials at room and elevated temperatures. The procedure involves controlled tests for excitation level (frequency and amplitude) and temperature. The elevated temperature capability is achieved by a custom designed halogen-lamp furnace, which is attached to the test rig. The damping (internal friction) and the modulus of elasticity of the coating are extracted from response decays, where the amplitude-dependent behaviour is accounted for. The results shown here were obtained from a Nimonic C-263 beam specimen, coated with Rokide® A (aluminium oxide). The data is presented as a function of the maximum (peak) strain that the coating undergoes at the interface with the substrate. The paper also discusses the underlying damping mechanism: friction between the coatings lamellae (“splats”), which is supported by evidence from scanning electron microscope images of the cross-section of a sample.
+Keywords: Amplitude-dependent damping measurements; Hard coatings
+
+D.G Pettifor, M.W Finnis, D Nguyen-Manh, D.A Murdick, X.W Zhou, H.N.G Wadley,
+Analytic bond-order potentials for multicomponent systems,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 2-13,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.001.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007627)
+Abstract: Classical interatomic bond-order potentials (BOPs) have previously been obtained by coarse-graining the quantum-mechanical electronic structure within the chemically intuitive reduced tight-binding (TB) framework. This paper generalizes the reduced tight-binding approximation to the case of multicomponent sp-valent systems, thereby allowing a rigorous derivation of expressions for the σ and π bond orders within chemically heterogeneous situations. The close link between the different bond-order potential parameters and different physical properties is illustrated for the particular choice of Goodwin–Skinner–Pettifor (GSP) radial dependences for the repulsive pair potential and two-centre bond integrals.
+Keywords: Classical interatomic bond-order potential; Multicomponent; Tight-binding
+
+S. Malinov, W. Sha,
+Application of artificial neural networks for modelling correlations in titanium alloys,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 202-211,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.029.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007901)
+Abstract: This paper is dedicated to the application of artificial neural networks (ANN) in titanium alloys research, including: (i) time–temperature transformation (TTT) diagrams for titanium alloys; (ii) correlation between processing parameters and properties in titanium alloys and γ-TiAl-based alloys; (iii) fatigue stress life diagrams for Ti–6Al–4V alloy; (iv) corrosion resistance of titanium alloys. For each particular case, appropriate combination of inputs and outputs is chosen. Standard multilayer feedforward networks are created and trained using comprehensive datasets from published literature. Very good performances of the neural networks are achieved. Different effects are modelled, among which are: (i) influence of the alloying elements on the transformation kinetics in titanium alloys; (ii) influence of the processing parameters, alloy composition and the work temperature on the mechanical properties for titanium alloys and titanium aluminides; (iii) influence of the microstructure, temperature, environment, surface treatment and the stress ratio on the fatigue life. The artificial neural networks models are combined with computer programmes for optimisation of the inputs in order to achieve desirable combination of outputs. Graphical user interfaces are developed for use of the models. These models are convenient and powerful tools for practical applications in solving various problems in titanium alloys.
+Keywords: Modelling; Titanium alloys; Neural network; Titanium aluminides; Mechanical properties; TTT diagrams
+
+Hualong Li, M.G. Glavicic, J.A. Szpunar,
+A model of texture formation in ZrO2 films,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 164-174,
+ISSN 0921-5093,
+https://doi.org/10.1016/S0921-5093(02)00787-6.
+(https://www.sciencedirect.com/science/article/pii/S0921509302007876)
+Abstract: A model for predicting the texture development in monoclinic ZrO2 films grown on Zr alloys has been proposed. The model is based on assumptions of selective nucleation and anisotropic oxide grain growth. In this model during the stage of oxide nucleation, oxide and substrate lattice matching is the main factor influencing the orientation of nuclei. In the stage of oxide grain growth, the matching stress at oxide–metal interface plays a major role. The predicted oxide textures have been compared with the results from oxidation experiments performed on three samples obtained from different faces of the Zr–2.5% Nb pressure tube. A good agreement between the predicted oxide texture and the measured texture is observed. Texture analysis of the monoclinic oxide is based on the orientation distribution function (ODF).
+Keywords: Zr–2.5% Nb; Oxidation; Texture; Modeling; ODF
+
+J.P. Bandstra, D.A. Koss, A. Geltmacher, P. Matic, R.K. Everett,
+Modeling void coalescence during ductile fracture of a steel,
+Materials Science and Engineering: A,
+Volume 366, Issue 2,
+2004,
+Pages 269-281,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.018.
+(https://www.sciencedirect.com/science/article/pii/S0921509303006932)
+Abstract: Ductile fracture of HY-100 steel at high stress triaxialities occurs by a void-sheet mode of failure in which large elongated voids, formed at MnS inclusions, coalesce as a result of a localized deformation instability that develops between neighboring voids. In this study, micro-mechanical modeling using finite element analysis has been employed to examine the deformation localization behavior within void arrays based on experimentally observed inclusion microstructures of HY-100 steel. Treating the elongated voids as through-thickness holes, we utilize image-based multi-hole models, each depicting roughly 125 voids, to identify the significance of the critical features (size, spacing, clustering) of the void microstructure on the deformation localization process and ultimately void-sheet coalescence and failure. The deformation localization is especially sensitive to the presence of a few large voids spaced within roughly 30 hole diameters of each other and oriented on planes 45°±15° to the maximum applied principal stress. The results also show that deformation localization develops more readily at high stress triaxialities. Smaller, “secondary” voids can promote the onset of strain localization between large voids, even if they nucleate after a rather large void nucleation strain. Within microstructures consisting of solely of small voids, high density clusters can cause intense strain localization, but it is confined within the scale of the cluster.
+Keywords: Ductile fracture; Coalescence; Steel
+
+H. Mizubayashi, T. Usui, H. Tanimoto,
+Anomalous elastic response of amorphous alloys suggesting collective motions of many atoms,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 260-263,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.100.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008712)
+Abstract: The dynamic Young’s modulus, E, of amorphous (a-) Zr60Cu30Al10 (numbers indicate at.%) alloy was measured as a function of frequency, f, with a strain amplitude, εt, of 10−6, E(10−6,f), and also as a function of εt for f near 102Hz, E(εt,102Hz), by means of the vibrating reed methods. The elasticity study under the passing of electric current (PEC) was carried out too. E(10−6,f) is lower than E0 for f between 10 and 104Hz showing local minima near 5×10, 5×102 and 5×103Hz, which are indicative of the resonant collective motion of many atoms, where E0 is the static Young’s modulus. E(εt,102Hz) increases showing saturation with increasing εt. Qualitatively, the outlines of E(10−6,f) and E(εt,102Hz) observed for a-Zr60Cu30Al10 are similar to those reported for various a-alloys. Quantitatively, a change in E(εt,102Hz) for a-Zr60Cu30Al10 is smallest among that reported for various a-alloys, presumably reflecting that the crystallization volume, (ΔV/V)x, is smallest for a-Zr60Cu30Al10. The effective charge number, Z∗, estimated from the change in E(10−6,102Hz) due to PEC is 3.0×105, which is comparable with Z∗ reported for various a-alloys. We surmise that the number of atoms in the collective motions excited near 102Hz is similar among various a-alloys. The E(10−6,f) data suggest that the spatial sizes of the density fluctuations may show a distribution.
+Keywords: Amorphous alloys; Density fluctuation; Collective motion; Electromigration
+
+Q.F. Fang, X.P. Wang, Z.S. Li, G.G. Zhang, Z.G. Yi,
+Relaxation peaks associated with the oxygen-ion diffusion in La2−xBixMo2O9 oxide-ion conductors,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 365-369,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.02.004.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009006)
+Abstract: The effects of bismuth doping on the oxygen-ion diffusion in oxide-ion conductors La2−xBixMo2O9 (x=0.05, 0.1, and 0.15) have been studied by both internal friction and dielectric relaxation techniques. Two internal friction peaks of relaxation type (P1 and P2 peak) were observed at a measurement frequency of 4Hz around 380 and 430K, respectively. As for the dielectric measurement, a prominent dielectric relaxation peak (Pd) was found in all the Bi-doped samples around 700K at a measurement frequency of 50kHz, which actually consists of two sub-peaks (denoted as Pd1 and Pd2 peak). With increasing Bi-doping content, two peaks shift to higher temperature and decrease in height, while the activation energy of both peaks increases. The main reason was interpreted as the introduction of the lone-pair electrons of bismuth, which tends to block the diffusion of oxygen ion.
+Keywords: Oxide-ion conductor; La2Mo2O9; Oxygen-ion diffusion; Internal friction; Dielectric relaxation
+
+D.W. Zeng, B.L. Zhu, C.S. Xie, W.L. Song, A.H. Wang,
+Oxygen partial pressure effect on synthesis and characteristics of Sb2O3 nanoparticles,
+Materials Science and Engineering: A,
+Volume 366, Issue 2,
+2004,
+Pages 332-337,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.044.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007500)
+Abstract: Influence of the oxygen partial pressure (0.5×103Pa to 4×103Pa) on synthesis and characteristics of Sb2O3 nanoparticles evaporated from the pure antimony by means of hybrid induction and laser heating (HILH) method in a flowing Ar+O2 atmosphere has been systematically investigated using TEM, XRD, XPS, DSC, TGA, and UV-Vis-NIR spectrometry. The as-synthesized Sb2O3 nanopowder consists of small spherical particles with an average size of approximately 80nm. As the oxygen partial pressure increases from 0.5×103Pa to 4×103Pa, the metallic Sb content in the nanopowder was decreased markedly. Both optical property at visible and all far infrared light scope ranging from 360 to 2500nm and thermal characteristic of the Sb2O3 nanoparticles are strongly dependent on the oxygen partial pressure.
+Keywords: Sb2O3 nanoparticles; Oxygen partial pressure; Hybrid induction and laser heating; Optical property; Thermal characteristic
+
+S. Veprek, H.-D. Männling, M. Jilek, P. Holubar,
+Avoiding the high-temperature decomposition and softening of (Al1−xTix)N coatings by the formation of stable superhard nc-(Al1−xTix)N/a-Si3N4 nanocomposite,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 202-205,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.052.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007597)
+Abstract: An approximately one monolayer thin amorphous Si3N4 tissue, that is formed during the deposition of the nc-(Al1−xTix)N/a-Si3N4 superhard nanocomposite coatings with their optimum structure and hardness, efficiently avoids the decomposition and softening of the fcc-(Al1−xTix) metastable solution to the titanium-rich fcc-(Ti1−δAlδ)N and the würtzite h-(AlN) up to a temperature of 1100°C. In the absence of the Si3N4 skin, the decomposition and softening of (Al1−xTix)N occurs at about 800 to 900°C.
+Keywords: Superhard nanocomposites; (AlTi)N; Thermal stability; Spinodal decomposition
+
+S.N. Goyanes, A. Roncaglia, F. Saavedra, G.H. Rubiolo,
+About the measurement of dynamic mechanical properties of bi-layer systems,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 431-434,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.07.022.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009134)
+Abstract: The bi-layer system has been well developed for many engineering structural components in the aircraft, automotive, microelectronics and modern space industries in the last few decades. Consequently, a good determination of its dynamic mechanical properties is important for an appropriate design of its industrial application. These studies are usually performed by a three-point bending test using a dynamic mechanical analyzer (DMA). In this work, we show that the three points bending test on a bi-layer system carried out with the test tool provided in a commercial DMA, for example the dynamic mechanical thermal analyzer (DMTA) Rheometric IV, can lead to erroneous results. Measurements on polymer-hard substrate bi-layer systems around the glass transition temperature of the polymer, Tg, give larger changes in elastic modulus and loss tangent than they are. This problem is not observed at temperatures lower than Tg. The design of new test tool and specimen geometry for the three points bending test is shown together with its application to the measurement of the dynamic elastic properties of a polyvinyl chloride (PVC)–aluminum bi-layer system.
+Keywords: Dynamic mechanical analyzer; Three points bending test; Polymer-hard substrate bi-layer systems; Loss tangent; Complex bending stiffness
+
+Thomas Gnaeupel-Herold, Henry J. Prask, Richard J. Fields, Timothy J. Foecke, Z.Cedric Xia, Ulrich Lienert,
+A synchrotron study of residual stresses in a Al6022 deep drawn cup,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 104-113,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.059.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008165)
+Abstract: Fueled by pressures to reduce scrap and tooling costs, the modeling and prediction of springback has become a major focus of interest in sheet metal forming. Finite element codes and packages are being developed or improved but face the demand for higher predictive accuracy which, in turn, requires accurate property data and a more complete understanding of the stresses that are responsible for the elastic part of the springback. In order to provide experimental data for these calculations, synchrotron X-ray diffraction measurements were carried out in order to determine the through-thickness distribution of axial and tangential residual stresses in an Al6022 deep drawn cup. The technique is able to provide true spatial resolutions of 0.05mm for a strain measurement on a cup with 0.92mm wall thickness. It is found that both axial and tangential stresses exhibit non-linear gradients through thickness and both exhibit a pronounced dependency on the axial position. The springback measured on a split ring cut from the cup agrees within 3% accuracy with the value predicted from the average of measured through-thickness stresses.
+Keywords: Springback; Sheet metal forming; Stress; Synchrotron
+
+Y Hiki,
+Mechanical relaxation in glasses,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 253-259,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.098.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008682)
+Abstract: The basic properties of glasses and the characteristics of mechanical relaxation in glasses were briefly reviewed, and then our studies concerned were presented. Experimental methods adopted were viscosity, internal friction, ultrasonic attenuation, and Brillouin scattering measurements. The specimens used were several kinds of inorganic, organic, and metallic glasses. The measurements were mainly carried out from the room temperature up to the glass transition temperature, and the relaxation time was determined as a function of temperature. The “double relaxation” composed of two Arrhenius-type relaxations was observed in many materials. In both relaxations, the “compensation effect” showing a correlation of the pre-exponential factor and the activation energy was observed. These results were explained by considering the “complex relaxation” due to cooperative motions of atoms or group of atoms. Values of activation energy near the glass transition determined by the various experimental methods were compared with each other.
+Keywords: Viscosity; Internal friction; Ultrasonic attenuation; Brillouin scattering; Inorganic; Organic; Metallic glasses
+
+Jürgen Göken, Werner Riehemann,
+Damping behaviour of AZ91 magnesium alloy with cracks,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 417-421,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.110.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009092)
+Abstract: The amplitude-dependent damping of a commercial magnesium cast alloy AZ91 was determined at room temperature by measurement of the logarithmic decrement of free decaying vibrations of bending beams clamped at one side. In order to generate cracks in the specimens they were subjected to (1) isochronal heat treatments for 1h at temperatures above 400°C with succeeding quenching in cold water and (2) controlled fatigue bending loading in the same equipment also used for the damping measurements. After both treatments, the amplitude-dependent damping curves show a maximum for strains 10−5 to 10−3, which can be correlated with the presence of cracks and can be explained by a simple rheological model based on crack damping. This maximum is enhanced when the number of loading cycles or the quenching temperature is increased which can be explained by crack nucleation. Crack growth with increasing number of loading cycles shifts the maximum to lower strains.
+Keywords: Bending vibrations; Internal friction; Magnesium; AZ91; Cracks
+
+E.Yu. Taran, Yu.V. Pridatchenko, V.A. Gryaznova,
+Formation of composite materials in gradient flows of suspensions,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 516-518,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.096.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008608)
+Abstract: The rheological constitutive equations for dilute suspension of rigid axisymmetric elongated particles immersed in the Ericksen anisotropic fluid are obtained within the framework of a structure–phenomenological approach. As a hydrodynamic model of suspended particles possessing zero buoyancy, a symmetric triaxial dumbbell is used. The effect of anisotropy of the suspension carrier fluid is investigated on the dynamics of suspended particles and on the rheological properties of the suspension in simple shear flow. A stationary orientation of the elongated suspended particles under the action of hydrodynamic forces is found. These results offer the possibility of formation of composite materials by friction forces arising in gradient flows of a dilute suspension of axisymmetric rigid particles with anisotropic carrier fluid.
+Keywords: Dilute suspension; Anisotropic carrier fluid; Stress; Dynamics of suspended particles
+
+K.G. Keong, W. Sha, S. Malinov,
+Artificial neural network modelling of crystallization temperatures of the Ni–P based amorphous alloys,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 212-218,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.030.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007913)
+Abstract: A computer model based on backpropagation multilayer feedforward artificial neural networks (ANN) was designed for the simulation and prediction of crystallization temperatures of the Ni–P based amorphous alloys, as functions of alloy composition and heating rate. The model was trained using data from the published literature as well as own experimental data. The input parameters of the neural network (NN) model are alloy composition, heating rate of the heating processes, and processing parameters of the alloys. The output parameters are crystallization temperatures (onset, peak and end temperatures) of major crystallization reaction of the amorphous alloys. In training and testing, the neural network for the simulation and prediction of crystallization peak temperature shows a comparatively good result. However, the neural networks for the crystallization onset and end temperatures did not show satisfactory performance, due to some unjustified collected data. Some comparisons between NN predictions and own experimental data are given. For easy use of the model a graphical user interface (GUI) was created.
+Keywords: Neural network; Modelling; DSC curves; Crystallization temperature; Nickel–phosphorus; Amorphous alloys
+
+M Qian, Z.X Guo,
+Cellular automata simulation of microstructural evolution during dynamic recrystallization of an HY-100 steel,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 180-185,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.025.
+(https://www.sciencedirect.com/science/article/pii/S092150930300786X)
+Abstract: Microstructural evolution and plastic flow characteristics of an HY-100 steel were investigated using a simulative model that couples the basic metallurgical principle of dynamic recrystallization (DRX) with the cellular automatIon (CA) method. Variation of dislocation density with local strain of deformation is considered for accurate determination of the microstructural evolution during DRX. Macro-stress–strain relationship was calculated from the average of local stresses and strains. The predictions show very good agreement with the experimental results for the steel.
+Keywords: Cellular automata; Dynamic recrystallization; Microstructure; Thermomechanical processing
+
+Z Shi, X Guo,
+Finite element modelling of composite consolidation from fibre and wire lay-ups,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 282-290,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.037.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007998)
+Abstract: Finite element modelling was carried out for the consolidation process of a relatively new manufacture route for SiC fibre reinforced titanium composites (Ti/SiCf), involving the co-winding of the reinforcing fibre and metal wires. Both the plasticity and creep deformation were considered in the model with plain strain constraint. Different processing conditions were simulated to evaluate the effects of temperature and pressure on the consolidation time. The effect of fibre volume fractions and winding configurations were analysed. It is identified that although fibre volume fractions and winding arrangements influence the consolidation process of the composites at the initial stage, the differences diminish for the perfectly parallel co-winding arrangement as the holding time increases. In the practical design of the wire/fibre architecture, emphasis should be placed on the easiness of the co-winding process.
+Keywords: Finite element modelling; Consolidation; Metal matrix composites (MMCs); Ti/SiCf; Wire co-winding
+
+E. Fraizier, M.-H. Nadal, R. Oltra,
+Laser-ultrasonics: a non-contact method to link the acoustic attenuation to metal damping properties up to the melting point,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 396-400,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.07.018.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009018)
+Abstract: The objective of this work is to describe the viscoelastic behavior of metals up to their melting temperature by measuring the velocity and the attenuation of ultrasonics waves. For that purpose, a technique called laser-ultrasonics has been optimized for the high temperature domain and the solid to liquid transition. This paper is especially applied to the viscoelastic characterization of tin, from room temperature up to the melting point.
+Keywords: Rheologic constants; Viscoelasticity; Laser-ultrasonics; Temperature
+
+T.A Blase, Z.X Guo, Z Shi, K Long, W.G Hopkins,
+A 3D conjugate heat transfer model for continuous wire casting,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 318-324,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.042.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008049)
+Abstract: A three-dimensional (3D) model of heat transfer and equilibrium-solidification for a continuous wire casting process has been established using a commercial fluid dynamics programme, Fluent®. The melt/solid interface was not tracked explicitly. Instead a liquid fraction value was used for each control volume in the domain. Thermal profiles in the melt and throughout the casting assembly were calculated along with solid fraction profiles and fluid flow velocity vectors. 3D visualisation of the melt behaviour inside the casting channel was possible, thus enabling optimum processing windows to be predicted. Fluid flow visualisation also assists the improvement of casting channel design.
+Keywords: Continuous wire casting; Conjugate heat transfer; Solidification; Modelling
+
+Ju Li, Ting Zhu, Sidney Yip, Krystyn J Van Vliet, Subra Suresh,
+Elastic criterion for dislocation nucleation,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 25-30,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.003.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007640)
+Abstract: The notion of theoretical strength, the critical stress at which a perfect crystal under uniform loading becomes structurally unstable, is extended to non-uniform loading. A position-dependent defect nucleation criterion has been derived and applied in molecular dynamics (MD) and finite-element simulations of dislocation emission in single-crystal nanoindentation. The resulting measure has the physical meaning of a local stiffness; it provides a rigorous basis for modeling the incipient plasticity in a thin-film material. Furthermore, a close connection has been shown to exist between the initial unstable elastic wave and the final atomistic defect.
+Keywords: Nanoindentation; Ideal strength; Long wave; Defect nucleation
+
+Dilip Chandrasekaran, Mikael Nygårds,
+Comparison of surface displacement measurements in a ferritic steel using AFM and non-local plasticity,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 191-195,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.027.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007883)
+Abstract: An attempt to experimentally study deformation characteristics around grain boundaries and to analyze the presence of strain gradients is presented. The evolution of surface profiles is studied by atomic force microscopy (AFM) at relatively small strains. The results indicate that this method can be used to draw conclusions about the deformation characteristics, e.g. in large grains the surface profile seems to vary within a grain. This latter effect can be seen as an indication of the inhomogeneous deformation occurring within large grains. The results are also compared with FEM calculations using a non-local crystal plasticity theory that incorporates strain gradients in the hardening moduli.
+Keywords: Atomic force microscopy; Tensile testing; Non-local plasticity; Steels; Microstructure
+
+D Maurer, A Leue,
+Investigation of transition metal oxides by ultrasonic microscopy,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 440-443,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.05.002.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009389)
+Abstract: Ultrasonic microscopy is now well established in non-destructive testing and has become a versatile method for investigating solid materials. It may serve both as imaging technique for large scale inspection of sample homogeneity and also as measuring device for a local determination of elastic properties. Our investigations of single crystalline vanadium dioxide nicely demonstrate this capability of flexible use and are exemplary for the beneficial effect of ultrasonic microscopy on materials research, in general. Here we focus on three different subjects: the detection of odd phases in as-grown single crystals, the inspection of structural transformations accompanying the metal–insulator transition and the investigation of elastic properties performed on small crystallites.
+Keywords: Metal–insulator transition; Vanadium dioxide; Ultrasonic microscopy; Elastic properties
+
+Tateoki Iizuka, Hideki Kita,
+Oxidation mechanism of Mo5Si3 particle in Si3N4 matrix composite at 750 °C,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 10-16,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.056.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009146)
+Abstract: The oxidation behavior of a submicrometer-sized Mo5Si3-particle-reinforced silicon nitride (Si3N4) composite was studied. After oxidation at 750°C for 10h in air, the Mo5Si3 particles, which existed at the grain-boundary junctions on the surface of the composite, disintegrated catastrophically. During the oxidation procedure, a complex oxide containing molybdenum and silicon, with a dual-phase microstructure, first formed from the Mo5Si3 single crystals, after which molybdenum oxide agglomerated to form nanometer-sized, spherical MoO2 and MoO3 particles, which were surrounded by an amorphous silicon oxide. Vaporization of the MoO3 at 750°C induced the formation of spherical voids in the oxidation products and, thus, a porous, amorphous silicon oxide. The poor oxidation resistance of the Mo5Si3 is thought to have resulted from the formation and vaporization of the MoO3 particles. Because of MoO3 vaporization, an oxidation temperature <750°C was needed to obtain nanometer-sized, spherical MoO3 particles dispersed on the surface layer of the Mo5Si3–Si3N4 composite, for decreasing the friction resistance.
+Keywords: Mo5Si3; Particle; Si3N4; Composite; Oxidation
+
+S.M. Bugaychuk, Y.B. Park,
+Electronic irradiation modification in parent Fe–Ni–C austenite and Snoek-like effects in induced alpha-martensite,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 127-130,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.099.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008694)
+Abstract: Considerable changes in atomic distribution, Ni atomic ordering and elimination of inhomogeneity in distribution of carbon atoms in the α-martensite occurred after high-dose electronic irradiation and subsequent deep cooling of parent Fe–22.4at.%Ni–5.13at.%C austenite in liquid nitrogen. These atomistic changes resulted from the electronic irradiation caused a huge increase of the 160°C peak of internal friction in the α-martensite. Discussion regarding this phenomenon brings to a conclusion on the behavior of the 160°C peak, fitting in the best way for a certain Snoek-like relaxation in Fe–Ni–C martensite.
+Keywords: Fe–Ni–C austenite; Electronic irradiation; Inhomogeneity; Martensite; 160°C peak
+
+Guangling Song, Amanda L Bowles, David H StJohn,
+Corrosion resistance of aged die cast magnesium alloy AZ91D,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 74-86,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.060.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008177)
+Abstract: The corrosion behaviour of die cast magnesium alloy AZ91D aged at 160°C was investigated. The corrosion rate of the alloy decreases with ageing time in the initial stages and then increases again at ageing times greater than 45h. The dependence of the corrosion rate on ageing time can be related to the changes in microstructure and local composition during ageing. Precipitation of the β phase (Mg17Al12) occurs exclusively along the grain boundaries during ageing. The β phase acts as a barrier, resulting in a decreasing corrosion rate in the initial stages of ageing. In the later stages, the decreasing aluminium content of α grains makes the α matrix more active, causing an increase in the corrosion rate. Electrochemical testing results also confirm the combined effects of the changes in α and β phases on the corrosion resistance of the aged die cast AZ91D alloy.
+Keywords: Magnesium; Corrosion; Microstructure; Heat treatment
+
+F. Trequattrini, F. Cordero, G. Cannelli, R. Cantelli,
+Anelastic relaxation processes due to hopping of interstitial oxygen in scandium,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 93-95,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.081.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008451)
+Abstract: The anelastic spectrum of the solid solution Sc–O has been investigated on a polycrystalline sample from 360 to 570K for oxygen concentrations varying between 0.024 and 0.91at.% O, as estimated by electrical resistivity and intentional doping. Two relaxation processes appear at 430 and 520K for the vibration frequency of 3.5kHz; both peaks are stable with thermal cycling and their intensities increase with the oxygen content. The process at lower temperature has been tentatively interpreted as due to the stress-induced hopping of oxygen atoms between the non equivalent tetrahedral and octahedral interstitial sites. A possible mechanism for the higher temperature process could be the dissolution/formation of interacting O–O pairs.
+Keywords: O-relaxation; O-specific electrical resistivity
+
+R.G. Leisure, K. Foster, J.E. Hightower, D.S. Agosta,
+Internal friction studies by resonant ultrasound spectroscopy,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 34-40,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.070.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008293)
+Abstract: A description is given of the use of resonant ultrasound spectroscopy (RUS) to study internal friction in solids. The technique is applicable to a wide range of sample sizes and shapes. A method to extract the internal friction from the RUS spectrum in the presence of a coherent background signal is discussed. RUS has been used to study the internal friction due to hydrogen motion in hydrogen–metal materials. A comparison is made of internal friction due to hydrogen motion in a C15 Laves-phase intermetallic compound with that in a quasicrystalline material. The internal friction peak in the quasicrystalline material is much broader, probably reflecting a distribution of local environments for the hydrogen in this material. A low-temperature, internal friction peak due to deuterium motion in TaV2D0.17 is discussed. This peak was shown previously to result from a rapid local motion of D on a hexagon of interstitial g sites. A novel explanation is proposed for the temperature dependence of this peak.
+Keywords: Internal friction; Resonant ultrasound; Hydrogen–metal materials
+
+H Tang, L.C Wrobel, Z Fan,
+Numerical evaluation of immiscible metallic Zn–Pb binary alloys in shear-induced turbulent flow,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 325-329,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.059.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008050)
+Abstract: This paper presents a numerical investigation of the breakup of Pb metallic drops into a Zn matrix phase in shear-induced turbulent flow. This is the main flow feature in the rheomixing process, which has been successfully developed for casting immiscible metallic engineering alloys. A numerical evaluation by a volume-of-fluid (VOF) method with a turbulence model is presented for the studies of fundamental hydrodynamic mechanisms of immiscible metallic droplets. It is noted that turbulence speeds up the drop breakup process and leads to the formation of spherical droplets. It was found that the deformation and rupture of immiscible metallic drops could be predicted essentially via the capillary number. It was observed that the Pb metallic drops could be more easily broken up in thin viscous fluids and get a more spherical shape in thick viscous turbulent flow. The initial breakup scale factors (IBSF) Kr, KL and Krmax are introduced for measuring the breakup evolution for the parametric study.
+Keywords: Immiscible alloy; Drop breakup; VOF; Shear-induced turbulent flow; Rheomixing
+
+J.P. Simmons, Youhai Wen, C. Shen, Y.Z. Wang,
+Microstructural development involving nucleation and growth phenomena simulated with the Phase Field method,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 136-143,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.019.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007809)
+Abstract: A Phase Field model is developed for non-isothermal heat treatment conditions. Nucleation and growth occur on different time scales, to sample frequently enough to observe nucleation would require an impractically large number of integration cycles to be performed in order to observe growth kinetics in real alloys. For this reason, the Langevin noise terms in the Phase Field equations were replaced with a Poisson seeding algorithm, in which viable nuclei were introduced in the microstructure at a rate matched by the observed nucleation rate. The interparticle spacing for isothermal simulations was observed to be Dt, in agreement with hypothesis that nucleation stalls in isothermal simulations because of soft impingement. Kinetics were observed to give the correct Avrami exponent in the constant nucleation rate extreme, but deviated from the Johnson–Mehl–Avrami–Kolmogorov (JMAK) theory with nucleation rates that varied with time. This was explained as being due to soft impingement, where JMAK theory is known to break down. Results of continuous cooling simulations showed a window of quench rates that would form bimodal particle size distributions, in agreement with recent experimental studies in superalloys.
+Keywords: Phase Field; Simulation; Superalloy; Non-isothermal transformation; Nucleation; Bimodal particle size distribution
+
+T Malinova, Z.X Guo,
+Artificial neural network modelling of hydrogen storage properties of Mg-based alloys,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 219-227,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.031.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007925)
+Abstract: An artificial neural network model has been created for prediction of the hydrogen storage capacity and the temperature and pressure of dehydrogenation of Mg-based alloys as a function of alloy composition. The effects of 24 chemical elements are considered in the model, which is based on a two-layer feedforward hierarchical architecture. The neural network was trained using the Levenberg–Marquardt training algorithm in combination with Bayesian regularization. The model was used to study the influence of the alloying elements on the hydrogen storage properties of MgH2. For almost all of the investigated alloying elements, increasing their content results in a decrease of the hydrogen storage capacity, but several elements lead to a reduction of the temperature for hydrogen desorption. A graphical user interface (GUI) has been established for the prediction of the hydrogen storage capacity, temperature and pressure of dehydrogenation for magnesium alloys as function of their chemical composition, as well as for investigation the influence of the different alloying elements on the hydrogen storage properties in magnesium alloys.
+Keywords: Hydrogen storage; MgH2; Metal hydride; Neural network modeling; Simulations
+
+H Mizubayashi, D Kashimura, K Yokota, H Tanimoto,
+Elasticity and resistivity study on the electromigration effects observed in aluminum–silicon–copper alloy thin films,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 168-171,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2002.12.006.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008979)
+Abstract: The early electromigration (EM) processes in the Al–Si(Cu) thin films several tens of nanometers thick deposited on Si reed substrates were investigated by means of the simultaneous anelasticity and electrical resistivity measurements below 360K. The grain growth, the shortening of a⊥ and the probable lengthening of a∥ take place during the EM tests at the current density of 108A/m2, where a⊥ and a∥ denote the atomic plane spacing normal to and the one parallel to the film surface, respectively. The activation energy, EGB, for the grain growth is found to be as low as 0.32eV, possibly suggesting that EGB in very thin nanometer-thick films is much lower than that found in thin micrometer-thick films. The increase in the Young’s modulus of the Al–Si(Cu) thin films takes place during the EM tests, suggesting that the grain growth is responsible for it. The decrease in Q−1 observed at 330 and 360K may be explained by a decrease in the grain boundary regions too. The increase in Q−1 found during the EM tests at 300K is possibly associated with an increase in a certain anelastic process in the grain boundary regions.
+Keywords: Al–Si(Cu); Electromigration; Anelasticity; Resistivity; Grain growth
+
+Narasimalu Srikanth, Maung Aye Thein, Manoj Gupta,
+Effect of milling on the damping behavior of nano-structured copper,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 38-44,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.064.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008219)
+Abstract: In the present study, elemental Cu powder was mechanically milled (MMed) for 10h to reduce the grain (crystalline) size in the nano-range (<100nm). The mechanically milled powder (10h-MMed) and elemental powder without mechanical milling (MM) (0h-MMed) was consolidated by die-cold compaction and were further hot extruded at different temperatures to maintain a crystallite size within the nano-range. Further, the specimen was tested by a novel free–free type suspended beam arrangement, coupled with circle-fit approach to determine damping characteristics. The characterization results help to understand the effect of the nano-size grains on the overall damping capacity of the bulk samples compared to a normal micro-crystalline sample. Results show that the damping capacity of the nano-grained material increases due to the presence of process induced microstructural changes similar to the damping behavior of a micro-grain sized specimen.
+Keywords: Nano-material; Grain boundary; Interface; Anelasticity; Non-destructive testing
+
+O. Florêncio, C.R. Grandini, W.J. Botta F, P.R. Guedes, P.S. Silva,
+Effect of interstitial impurities on internal friction measurements in niobium,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 131-134,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.102.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008736)
+Abstract: Measurements of internal friction as a function of temperature were carried out in samples of niobium containing different amounts of interstitial solutes (oxygen and nitrogen) and one sample of niobium containing initially only nitrogen as interstitial solute. The experimental spectra of internal friction as a function of temperature were obtained with a torsion pendulum of the inverted Kê-type and resolved, using the method of successive subtraction, into a series of constituent Debye peaks corresponding to different interactions. For each relaxation process it was possible to obtain the height (Qmax−1) and temperature (Tp) of the peak, the activation energy (E) and the relaxation time (t0). The height, shape and temperature of these peaks depend on the concentration of interstitial elements. The observed peaks were associated with matrix-interstitial (NbO, NbN) and interstitial–interstitial (ON) interaction processes.
+Keywords: Points defect; Niobium; Internal friction
+
+G. Mazzolai, A. Biscarini, B. Coluzzi, F.M. Mazzolai, A.R. Ross, T.A. Lograsso,
+Ultrasonic investigation of the B2 ↔ B19 martensitic transition in a Ni40Ti50Cu10 alloy,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 497-503,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.080.
+(https://www.sciencedirect.com/science/article/pii/S092150930300844X)
+Abstract: The elastic constants C′, C44 and CL of a single crystal of the Ni40Ti50Cu10 (numbers indicate at.%) alloy have been measured in the premartensitic region (320–350K) and have been found to exhibit softening on approaching the B2→B19 transition from high temperature. This means that these elastic constants decrease with decreasing T. The anisotropy factor A=C44/C′ is relatively small (≅2.2) over all the temperature range and slightly increases with decreasing temperature down to the transition start-temperature Ms. Thus, its temperature coefficient ∂A/∂T has opposite sign of that exhibited by the binary Ni50.8Ti49.2 alloy prior to the B2→B19′ transition. The present results support the view recently expressed by some authors that the B2→B19′ transition occurring in binary Ni–Ti alloys is a consequence of concomitant lattice instabilities against {110}〈11̄0〉B2 and {001}〈11̄0〉B2 shear strains respectively corresponding to the C′ and C44 ultrasonic propagation modes.
+Keywords: Martensitic transformation; Elastic constants; Shape memory alloys; Ni–Ti–Cu
+
+J.A. Slane, C. Wolverton, R. Gibala,
+Carbon–vacancy interactions in austenitic alloys,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 67-72,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.073.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008335)
+Abstract: Several research results suggest the binding energy of carbon–vacancy (C–V) complexes is of the order 35–55kJ/mole in face-centered cubic (fcc) iron-base alloys. In addition to point-defect anelasticity, we examine data on self-diffusion of Fe in fcc Fe, which are quantitatively consistent with our results on point-defect structure modeling. Quenching, cold work, and electron irradiation increase the height of damping peaks associated with C motion, consistent with a contribution of C–V complexes to the relaxation strength of these peaks. The effect of increasing C content on self-diffusion of Fe in fcc Fe is to decrease the activation energy for self-diffusion, hence increase the diffusivity, and implies a C–V binding energy of ∼40kJ/mol. We have used first-principles gradient-corrected density functional calculations to determine directly the binding energy of nearest-neighbor C–V pairs in fcc iron. A value of ∼35kJ/mol is obtained.
+Keywords: Point defects; Anelasticity; Austenitic alloys; Carbon–vacancy binding
+
+Ikuo Shohji, Tomohiro Yoshida, Takehiko Takahashi, Susumu Hioki,
+Tensile properties of Sn–Ag based lead-free solders and strain rate sensitivity,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 50-55,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.057.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009158)
+Abstract: The tensile properties of Sn-3.5mass%Ag, Sn-3.5mass%Ag-0.75mass%Cu and Sn-3mass%Ag-2mass%Bi lead-free solders were investigated and compared with those of a Sn–Pb eutectic solder. The tensile strength of each solder decreases with decreasing strain rate, and with increasing test temperature. The ductility of each lead-free solder is relatively constant in the strain rate ranging from 1.67×10−4s−1 to 1.67×10−2s−1 and in the test temperature ranging from −40 to 120°C. From the results of the strain-rate-change tests, stress exponents were investigated. The stress exponents for the lead-free solders are higher than those of the Sn–Pb eutectic solder at 25, 80 and 120°C, and are relatively stable at these temperatures. The activation energies for the creep of the lead-free solders were also investigated.
+Keywords: Lead-free solder; Sn–Ag alloy; Tensile properties; Stress exponent; Strain rate sensitivity; Activation energy for creep
+
+V Vitek, M Mrovec, J.L Bassani,
+Influence of non-glide stresses on plastic flow: from atomistic to continuum modeling,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 31-37,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.004.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007652)
+Abstract: The Schmid law, which is accurate for face-centered-cubic (fcc) metals, assumes that only the shear stress acting in the slip plane in the slip direction controls the plastic deformation. Hence, it is implicitly assumed that the critical resolved shear stress (CRSS) for the slip is not affected by any other components of the applied stress tensor. This rule is almost ubiquitously utilized in large-scale continuum computations of plastically deforming single and polycrystals. On the other hand, in materials with more complex structures and for some orientations of the dislocation line the cores can spread onto several non-parallel planes. The most widely-known example is the screw dislocation in bcc metals, though this phenomenon is quite universal in structures that are not close packed. Signatures of such core configurations commonly include unexpected deformation modes and slip geometries, strong and unusual dependence of flow stresses on temperature and strain rate, a high Peierls stress, and, in general, a breakdown of the Schmid law. In this paper, we first summarize results of atomistic computer simulations of the response of 1/2〈111〉 screw dislocations to the applied shear stresses. The calculations have been made using central-force many-body potentials and tight-binding based bond-order potentials for molybdenum. While the core structure found is not the same for the two descriptions of atomic interactions, both lead to a very similar orientation dependence of the critical resolved shear stress for the dislocation motion which takes place along the most highly stressed {110} plane. This dependence reveals the break down of the Schmid law invoked by the effect of shear stresses acting in another {110} plane, which are called non-glide stresses. These results are then transferred to macroscopic level by formulating single crystal yield criteria that include the effects of non-glide components of the stress tensor. These criteria form a basis for multislip yield criteria and flow relations for continuum analyses. Using this approach we demonstrate that the effects of non-glide stresses that have their origin at the level of individual dislocations also have significant effect on polycrystalline response, including a significant tension-compression asymmetry.
+Keywords: Polycrystals; Multislip; Atomic interactions; Dislocation core structure; Yield criteria
+
+Dong-Geun Lee, Sunghak Lee, Chong Soo Lee,
+Quasi-static and dynamic deformation behavior of Ti–6Al–4V alloy containing fine α2-Ti3Al precipitates,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 25-37,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.061.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008189)
+Abstract: Widmanstätten and equiaxed microstructures containing very fine α2 particles were obtained by aging a Ti–6Al–4V alloy, and their quasi-static and dynamic deformation behavior was investigated in comparison to that of unaged microstructures. Quasi-static and dynamic torsional tests were conducted on them using a torsional Kolsky bar, and torsionally deformed areas beneath fracture surfaces were observed to investigate various microstructural factors determining the deformation behavior and effects of α2 precipitation. The dynamic torsional test results indicated that maximum shear stress and fracture shear strain of the aged Widmanstätten and equiaxed microstructures were higher than those of the unaged microstructures. The number of voids initiated in the aged Widmanstätten and equiaxed microstructures was five times greater than those in unaged microstructures because of the α2 precipitation. This indicated that the aging treatment had a homogenizing effect, i.e., less likelihood of developing a region of concentrated strain that preceded the adiabatic shear band formation, thereby reducing the possibility of the adiabatic shear band formation. Fine α2 precipitation by aging was effective in the improvement of quasi-static and dynamic torsional properties and in the reduction of the adiabatic shear banding, which provided a new idea to improve ballistic performance of Ti alloy armor plates.
+Keywords: Dynamic deformation behavior; Ti–6Al–4V alloy; α2-Ti3Al precipitate; Widmanstätten microstructure; Equiaxed microstructure; Dynamic torsional test; Adiabatic shear band
+
+Weiguo Wang, Bangxin Zhou,
+The correlation of damping capacity with grain-boundary precipitates in Fe–Cr-based damping alloys annealed at high temperature,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 45-49,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.065.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008220)
+Abstract: We report the damping capacity measurements and grain-boundary (GB) precipitates observations on a set of four Fe–Cr-based ferromagnetic damping alloys annealed at 1473K. The alloys were prepared by vacuum induction melt furnace of which each cast ingot weighed 15kg. The technique of inverted torsion pendulum was employed to measure the damping capacity, and a field emission scanning electron microscope (FESEM) with a X-ray energy dispersive spectrometer (EDS) attachment was used to observe the grain-boundary precipitates. The results indicate the damping capacity of the alloys is definitely correlated with the amount of the grain-boundary precipitates as well as with the chromium concentration in the precipitates. Among the alloys investigated, Fe–Cr–2Al–Si exhibits the highest damping capacity but the least amount of grain-boundary precipitates with the lowest chromium concentration, and vice versa to that Fe–Cr–Al–Si(L) does. Though chromium concentration in the grain-boundary precipitates are very close, the amount of grain-boundary precipitates in Fe–Cr–Al is obviously less than that in Fe–Cr–Si, and the damping capacity of the former is apparently higher than that of the latter. Further discussion pointed out such correlation stems from the effects of alloying on the diffusion behavior of solute atoms as well as on the chemical potential of Cr in the matrix, with which correlates the magnetic properties especially the energy density of domain walls (DWs) which has a significant impact on the damping capacity of Fe–Cr-based damping alloys annealed at high temperature.
+Keywords: Fe–Cr-based damping alloy; Damping capacity; Grain-boundary precipitates
+
+M. Weller, G. Haneczok, H. Kestler, H. Clemens,
+Internal friction of γ-TiAl-based alloys with different microstructures,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 234-239,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.03.002.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009274)
+Abstract: A Ti–46.5at.% Al–4at.% (Cr, Nb, Ta, B) intermetallic alloy with different microstructures (fine-grained primary annealed (PA) and coarse-grained fully lamellar (FL)) was examined by internal friction experiments. The influence of microstructure on the internal friction properties was studied by high-temperature (300–1270K) mechanical loss experiments using a low frequency subresonance apparatus (0.01–10Hz). The mechanical loss spectra show two phenomena: (i) a loss peak of Debye type at about 1000K (1Hz) which occurs only in samples with fully lamellar microstructure. The activation enthalpy, determined from the frequency shift, is 3.0eV. The peak is assigned to thermally activated reversible local movement of dislocations that are part of the mismatch structure of semicoherent lamellar interfaces. (ii) A high-temperature damping background above 1000K which is controlled by an activation enthalpy of 3.8–3.9eV. The activation enthalpy agrees well with that of creep and strain rate cycling tests (3.5–3.7eV) and is in the range of values reported for self-diffusion indicating that both properties (high-temperature background (HTB) and creep) are controlled by volume diffusion assisted climb of dislocations.
+Keywords: Titanium aluminides; Internal friction; Creep; Dislocations; Diffusion
+
+B.H Luo, Z.H Bai, Y.Q Xie,
+The effects of trace Sc and Zr on microstructure and internal friction of Zn–Al eutectoid alloy,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 172-176,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2002.12.007.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009031)
+Abstract: The damping properties of Zn–22wt.% Al alloys without and with Sc (0.55wt.%) and Zr (0.26wt.%) were investigated. The internal friction of the determined by the microstructure has been measured in terms of logarithmic decrement (δ) using a low frequency inverted torsion pendulum over the temperature region of 10–230°C. An internal friction peak was separately observed at about 218°C in the Zn–Al alloy and at about 195°C in Zn–Al–Sc–Zr alloy. The shift of the δ peak was found to be directly attributed to the precipitation of Al3(Sc, Zr) phases from the alloy matrix. We consider that the both internal friction peak in the alloy originates from grain boundary (GB) relaxation, but the grain boundary relaxation can also be affected by Al–Sc–Zr intermetallics at the grain boundaries, which will impede grain boundary sliding. In addition, Al–Sc–Zr intermetallics at the grain boundaries can pin grain boundaries, and inhibit the growth of grains in aging, which increases the damping stability of Zn–22wt.% Al alloy.
+Keywords: Internal friction; Zn–Al eutectoid alloys; Sc; Zr
+
+Zhiyong Liang, Jihua (Jan) Gou, Chuck Zhang, Ben Wang, Leslie Kramer,
+Investigation of molecular interactions between (10, 10) single-walled nanotube and Epon 862 resin/DETDA curing agent molecules,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 228-234,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.032.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007937)
+Abstract: Single-walled nanotubes (SWNTs) are considered a promising reinforcement material for the next generation of high-performance structural and multifunctional composites. Unlike conventional fibrous reinforcement materials, SWNTs have a unique electronic structure, nanoscale diameter, high curvature and extra-large surface area, which lead to different wetting behaviors in the processing of SWNT–epoxy nanocomposites. In this research, molecular dynamics (MD) simulations were used to study the molecular interactions between molecules of (10, 10) SWNT and Epon 862 resin and EPI-CURE curing agent W, which primarily consists of diethyltoluenediamine (DETDA). The results show that both molecules of the resin and the curing agent have attractive intercalations with (10, 10) SWNTs. The interaction energy of the molecular system is provided in the study. The results show that the aromatic ring structures of both Epon 862/DETDA molecules try to align the aromatic ring planes toward the SWNT surface and wrap around it. Good wetting properties between (10, 10) SWNT and Epon 862 resin/DETDA agent can be expected based on the MD simulation results. The filling of an Epon 862 resin molecule into a (10, 10) SWNT was also investigated. This result theoretically demonstrated the possibility of the complex resin molecules filling the tube. The possible extension of resin cross-link networks into SWNT cavities can be used to structurally bridge the SWNTs and resin structures to significantly improve the load transfer between them when short SWNTs with openings are used to produce nanocomposites.
+Keywords: Carbon nanotube; SWNT; Nanocomposites; Molecular dynamics simulation; Epoxy resin
+
+Soo-Jin Park, Min-Kang Seo, Hwan-Boh Shim, Kyong-Yop Rhee,
+Effect of different cross-section types on mechanical properties of carbon fibers-reinforced cement composites,
+Materials Science and Engineering: A,
+Volume 366, Issue 2,
+2004,
+Pages 348-355,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.123.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007536)
+Abstract: To study the effect of shape factor, the mechanical properties of three shapes of carbon fiber, i.e., round, H-shape, and C-shape randomly oriented carbon fibers-reinforced cement composites (CFRCCs) were investigated. As a result, C-shape CFRCC showed higher tensile and flexural strength than any other shape carbon fibers-reinforced composites. It was noted that C-shape CFRCC presented stronger fiber-matrix interfacial adhesive forces, due to the mechanical anchorage into the matrix. However, the compressive strength of the CFRCC was decreased with increasing the aspect ratio and fiber volume fraction. This was probably due to the fact that the amounts of entrained air contents were increased during the mixing of each fiber. Also, both the tensile and flexural strength of the CFRCC were significantly increased by the additions of fumed silica to the composites.
+Keywords: Shape factor; Mechanical properties; Carbon fibers-reinforced cement composites; Aspect ratio; Fiber volume fraction
+
+Marc R Nyden, Stanislav I Stoliarov, Phillip R Westmoreland, Z.X Guo, Caroline Jee,
+Applications of reactive molecular dynamics to the study of the thermal decomposition of polymers and nanoscale structures,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 114-121,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.060.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007779)
+Abstract: The application of quantum mechanics and molecular simulation methods can yield new insights into the thermal reactivity of large molecules and nanoscale structures. One example of this approach is reactive molecular dynamics (RMD) as implemented in a computer program, called MD_REACT. This program was developed for simulating thermal decomposition reactions in polymer-based materials. In this investigation, we perform reactive molecular dynamics simulations on the homologous series of vinyl polymers: polyethylene (PE), polypropylene (PP), and poly(isobutylene) (PIB). A general mechanism for the thermal decomposition of vinyl polymers is formulated on the basis of the results of these simulations.
+Keywords: Molecular dynamics; Polymer decomposition; Molecular structure; Mesoscale simulation
+
+Byoungchul Hwang, Sunghak Lee, Jeehoon Ahn,
+Correlation of microstructure and wear resistance of molybdenum blend coatings fabricated by atmospheric plasma spraying,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 152-163,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.062.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009559)
+Abstract: The correlation of microstructure and wear resistance of various molybdenum blend coatings applicable to automotive parts was investigated in this study. Five types of spray powders, one of which was pure molybdenum powder and the others were blends of brass, bronze, and aluminum alloy powders with molybdenum powder, were deposited on a low-carbon steel substrate by atmospheric plasma spraying (APS). Microstructural analysis of the coatings showed that they consisted of a curved lamellar structure formed by elongated splats, with hard phases that formed during spraying being homogeneously distributed in the molybdenum matrix. The wear test results revealed that the blend coatings showed better wear resistance than the pure molybdenum coating because they contained a number of hard phases. In particular, the molybdenum coating blended with bronze and aluminum alloy powders and the counterpart material showed an excellent wear resistance due to the presence of hard phases, such as CuAl2 and Cu9Al4. In order to improve overall wear properties for the coating and the counterpart material, appropriate spray powders should be blended with molybdenum powders to form hard phases in the coatings.
+Keywords: Atmospheric plasma spraying; Molybdenum blend coating; Pin-on-disc wear test; Wear resistance; Hardness
+
+U. Straube, G. Mazzolai, C. Eisenschmidt,
+Some nonlinear and linear elastic properties of Ni40Ti50Cu10 near the martensitic transformation,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 485-487,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.074.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008347)
+Abstract: Linear and nonlinear elastic effects occuring in a single crystal of the ternary alloy Ni40Ti50Cu10 were determined with a modified ultrasonic pulse echo-overlap technique at different temperatures. All linear elastic coefficients could be measured above and below the martensitic transformation supplementing the results of [A. Alippi (Ed.), Proceedings of the International Conference on Acoustics, Rome, 2001]. A large jump of the elastic stiffness c44 could be detected. First nonlinear elastic measurements were performed. No substantial increase of anharmonicity could be found. The maximum stress amplitude was held far below the yield stress of the material.
+Keywords: Ultrasound; Elastic nonlinearity; Martensitic transformation
+
+Zhong-Cheng Shen,
+The vortex morphology model of ultrasonic attenuation in the mixed state of high-Tc superconductors,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 370-372,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.01.004.
+(https://www.sciencedirect.com/science/article/pii/S092150930300902X)
+Abstract: This paper presents the vortex morphology model concerning the ultrasonic attenuation in the mixed state of high-Tc superconductor. This model pointed out that under different magnetic field and temperature, different vortex morphology appeared in the high-Tc superconductors. There are three factors that can determine ultrasonic attenuation, which are temperature, magnetic field and anisotropy of superconductors’ structures.
+Keywords: Vortex morphology; Ultrasonic attenuation; High-Tc superconductor
+
+Yan Wang, Zhonghua Zhang, Weimin Wang, Xiufang Bian,
+Microstructural evolution and microhardness of a melt-spun Al–5Ti–1B alloy during annealing,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 17-24,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.055.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008104)
+Abstract: In the present work, microstructural evolution and microhardness of a melt-spun Al–5Ti–1B alloy during annealing have been investigated using X-ray diffraction (XRD), transmission electron microscopy (TEM) together with energy dispersive spectroscopy (EDS) and hardness testing. The phases present in the as-annealed Al–5Ti–1B alloy were determined to be α-Al, the equilibrium tetragonal TiAl3 and hexagonal TiB2, whereas only α-Al and TiB2 were identified in the as-spun alloy. Most of Ti in the α-Al solid solution rapidly precipitates by annealing at 500°C and the low diffusivity of Ti in Al suppresses the coarsening of the TiAl3 precipitates with prolonged annealing time. Age hardening effect is not observed in the melt-spun Al–5Ti–1B alloy. The microhardness sharply decreases by annealing at 500°C for 5min and then slightly changes with prolonged time to 60min. The microhardness keeps unchanged by annealing at 200°C for 60min, while annealing at 300°C or higher temperatures causes a continuous decrease in microhardness. The microhardness of the as-spun Al–5Ti–1B alloy appears to be governed by a combination of Hall–Petch hardening from the α-Al cell size and solid solution hardening of the α-Al matrix, whereas the microhardness of the as-annealed alloy is mainly governed by a combination of Hall–Petch hardening from the α-Al cell size and particle radius dependent Orowan hardening.
+Keywords: Al–5Ti–1B alloy; Annealing; Transmission electron microscopy; Microhardness
+
+Y El-Shaer, B Derby,
+Modelling of R-curve behaviour in ceramic–metal laminates,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 196-201,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.028.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007895)
+Abstract: In materials that display R-curve behaviour, the magnitude of the bridging stress is dependent on the local crack opening. Therefore, the bridging stress distribution and consequently, the toughness can be quite different for different crack geometries and crack lengths, even if the same bridging law is applied. In the present study, using the exact stress–displacement function (σ(u)) of the constrained metal layer and a weight-function-based approach, it was possible to obtain the crack opening profile (u(x)), and hence the bridging stress distribution along the bridging zone. The calculated displacement profiles using the weight function were checked by comparison with that obtained using the Finite Element Method at different crack sizes. Predicted fracture toughness resistance curves were compared to experimental results for different ceramic–metal combinations. The effect of different properties of the bridging layer (thickness, ductility, strength and debonding) on the predicted R-curve has been studied by their effect on the bridging traction-displacement relationship.
+Keywords: Bridging; Ceramic; Laminates; Fracture; Toughening; Weight function; Finite element method
+
+Yu.A. Burenkov, S.P. Nikanorov,
+Elastic anisotropy and magnetic phase transition of yttrium garnet ferrite,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 361-364,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2002.12.005.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008992)
+Abstract: Temperature dependences of elastic moduli describing elastic anisotropy in the rage from room temperature to 600°C are shown. These temperature dependences are in agreement with available values of elastic moduli and temperature coefficients of the elastic moduli at room temperature. They are in agreement with modern quasi-harmonic theory of crystal lattices. Near 285°C critical changes of effective elastic moduli due to magnetic phase transition are observed. A correlation was made between experimental and theoretical critical changes of longitudinal and transverse elastic wave velocities for different crystallographic directions. It is proved that the critical change of ultrasound wave velocities of this crystal is connected with the single-ion magnetostriction.
+Keywords: Elastic modulus; Ultrasound; Magnetic phase transition
+
+T.Y Luo, T.X Liang, C.S Li,
+Stabilization of cubic zirconia by carbon nanotubes,
+Materials Science and Engineering: A,
+Volume 366, Issue 1,
+2004,
+Pages 206-209,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.053.
+(https://www.sciencedirect.com/science/article/pii/S0921509303009201)
+Abstract: Liquid–liquid two-phase method was used for fabricating Zirconia (ZrO2) nanoparticles, sodium bis(2-ethylhexyl) sulfosuccinite (AOT) surfactant and carbon nanotubes (CNTs) were added into the solution. It has been shown that CNTs acted as the medium during the drying and burning process, which was very important to the formation of ZrO2 nanometer-particles. The ZrO2 nanoparticles prepared by adding CNTs were made up mostly of the cubic phase and secondarily of monoclinic phase. It revealed that the addition of CNTs would be propitious to the transition from monoclinic ZrO2 to cubic ZrO2 and to the stabilization of cubic ZrO2.
+Keywords: Zirconia; Nanoparticles; Carbon nanometer tubes
+
+A Carpinteri, B Chiaia, P Cornetti,
+A fractal theory for the mechanics of elastic materials,
+Materials Science and Engineering: A,
+Volume 365, Issues 1–2,
+2004,
+Pages 235-240,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.09.033.
+(https://www.sciencedirect.com/science/article/pii/S0921509303007949)
+Abstract: In a previous paper [Comput. Methods Appl. Mech. Eng. 191 (2001) 3], the framework for the mechanics of solids, deformable over fractal subsets, was outlined. Anomalous mechanical quantities with fractal dimensions were introduced, i.e. the fractal stress, the fractal strain and the fractal work of deformation. By means of the local fractional operators, the static and kinematic equations were obtained, and the principle of virtual work for fractal media was demonstrated. In this paper, the constitutive equations of fractal elasticity are put forward. From the definition of the fractal elastic potential, the linear elastic constitutive relation is derived. The physical dimensions of the second derivatives of the elastic potential depend on the fractal dimensions of both stress and strain. Thereby, the elastic constants undergo positive or negative scaling, depending on the topological character of deformation patterns and stress flux. The direct formulation of elastic equilibrium is derived in terms of the fractional Lamé operators and of the equivalence equations at the boundary. The variational form of the elastic problem is also obtained, through minimization of the total potential energy. Finally, discretization of the fractal medium is proposed, in the spirit of the Ritz–Galerkin approach, and a finite element formulation is obtained by means of devil’s staircase interpolating splines.
+Keywords: Disordered materials; Fractals; Elasticity; Finite elements
+
+G. D’Angelo, G. Tripodo, G. Carini, E. Cosio, A. Bartolotta, G. Di Marco,
+Ultrasonic relaxations in borate glasses,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 326-329,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.01.002.
+(https://www.sciencedirect.com/science/article/pii/S0921509303008876)
+Abstract: The attenuation and velocity of ultrasonic waves of frequencies in the range from 10 to 70MHz have been measured in M2O–B2O3 borate glasses (M: Li or Ag) as a function of temperature between 15 and 350K. The velocity of sound waves decreases with increasing temperature in all the glasses, the decrease as the temperature is increased is larger in glasses containing silver than in those with lithium. A broad relaxation peak characterises the attenuation behaviour of the lithium and silver borate glasses at temperatures below 100K and is paralleled by a corresponding dispersive behaviour of the sound velocity. Above 100K, the ultrasonic velocity shows a nearly linear behaviour regulated by the vibrational anharmonicity, which decreases with increasing content of modifier oxide and is smaller in lithium than in silver borates. These results suggest that the relaxation of structural defects and the anharmonicity of borate glasses are strongly affected by two parameters: the number of bridging bonds per network forming ion and the polarising power of network modifier ions which occupy sites in the existing interstices.
+Keywords: Glasses; Internal friction; Anelasticity
+
+O. Palumbo, R. Cantelli, F. Cordero,
+Hydrogen trapping by defects in semiconductors studied by anelastic spectroscopy,
+Materials Science and Engineering: A,
+Volume 370, Issues 1–2,
+2004,
+Pages 114-117,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2003.08.092.
+(https://www.sciencedirect.com/science/article/pii/S092150930300858X)
+Abstract: We review some results obtained by anelastic spectroscopy on H-related defects in III–V semiconductors. Anelastic measurements on InP lead to the formulation of a model explaining the conversion to the semi-insulating (SI) state. Moreover, in GaAs:Zn an extraordinarily fast relaxation rate has been measured and a possible explanation has been suggested. This results are reviewed and discussed in the light of new experiments on InP:Zn, whose spectrum shows a relaxation process similar to the one in GaAs:Zn.
+Keywords: Gallium arsenide; Indium phosphide; Hydrogen; Point defect complexes
