@@ -3,8 +3,8 @@ from pypdf import PdfReader
 from tqdm import tqdm
 
 # initial setup
-journal_name = str('International Journal of Plasticity')
-year_start = 1997
+journal_name = str('Scripta Materialia')
+year_start = 2000
 year_end = 2020
 
 

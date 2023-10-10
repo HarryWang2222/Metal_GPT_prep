@@ -1,6 +1,6 @@
 for i in range(1,285):
-    with open ('./data_2/mse{}.txt'.format(i), 'rt', encoding='utf-8')as file_read:
-        with open('./urls/mse{}.txt'.format(i), 'w')as file_write:
+    with open ('./data_3/ijp{}.txt'.format(i), 'rt', encoding='utf-8')as file_read:
+        with open('./urls/ijp{}.txt'.format(i), 'w')as file_write:
             for line in file_read.readlines():
                 if line.startswith('https'):
                     line = line.lower()
