@@ -1,0 +1,329 @@
+T. Takasugi, O. Izumi,
+High temperature strength and ductility of polycrystalline Co3Ti,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 39-48,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90217-2.
+(https://www.sciencedirect.com/science/article/pii/0001616085902172)
+Abstract: Polycrystalline Co3Ti (Ll2 ordered structure) was shown deformable in tension between room temperature and 1050°C for compositions between 20 and 23 at.% Ti. The yield stress showed a positive temperature dependence up to 800°C, consistent with previous results, and the ultimate tensile stress monotonously decreased with increasing temperature. The elongation is a maximum around 400°C, and a minimum around 800°C, and increases at higher temperature. There is a correlation between ductility and fracture mode: the transgranular fracture mode results in higher ductility. The ductility increase at sufficiently higher temperatures is due to the frequent occurrences of dynamic recrystallization. Composition dependences of the mechanical properties and related fractography were interpreted in terms of deviations from stoichiometry.
+Résumé
+Nous avons montré que l'on pouvait déformer en traction entre la température ambiante et 1050°C du Co3Ti polycristallin (structure ordonnée Ll2) de composition comprise entre 20 et 23 at.% Ti. La limite élastique augmentait avec la température jusqu'à 800°C, en accord avec des résultats antérieurs, et la contrainte de rupture diminuait lorsqu'on augmentait la température. L'allongement était maximal autour de 400°C, minimal autour de 800°C et il augmentait aux températures supérieures. Il y avait une corrélation entre la ductilité et le mode de rupture: la rupture transgranulaire conduisait à une ductilité supérieure. L'augmentation de ductilité aux températures suffisamment élevées est due à l'apparition fréquente d'une recristallisation dynamique. Nous avons interprété la variation des propriétés mécaniques et de la fractographie correspondante en fonction de la composition, partir des écarts à la stoechiométrie.
+Zusammenfassung
+Polykristallines Co3Ti (Ll2 geordnete Struktur) (Ti-Gehalte zwischen 20 und 23 At.-%) ist im Zugversuch verformbar zwischen Raumtemperatur und 1050°C. Die kritische Flieβspannung weist bis 800°C eine positive Temperaturabhängigkeit auf, welches mit früheren Ergebnissen verträglich ist. Die Bruchspannung nimmt mit steigender Temperatur monoton ab. Bei 400°C ist die erreichte Dehnung am gröβten, bei 800°C am kleinsten und sie nimmt bei höherer Temperatur zu. Zwischen Duktilität und Bruchmode besteht ein Zusammenhang: der transgranulare Bruch führt zu höherer Duktilität. Der Duktilitätsanstieg ist bei ausreichend hoher Temperatur die Folge häufig auftretender dynamischer Rekristallisationsprozesse. Die Abhängigkeit der mechanischen Eigenschaften und der damit zusammenhängenden Brucherscheinungen von der Zusammensetzung werden anhand der Stöchiometrieabweichungen erklärt.
+
+T.L. Polgreen,
+Monte Carlo simulation of short range order relevant to CuAu,
+Acta Metallurgica,
+Volume 33, Issue 2,
+1985,
+Pages 185-189,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90136-1.
+(https://www.sciencedirect.com/science/article/pii/0001616085901361)
+Abstract: The Monte Carlo simulation method is employed to determine the Cowley-Warren short range order parameters for the first twelve nearest-neighbor shells on the Ising model relevant to CuAu. The Monte Carlo results are used to determine the free parameter in a mean-field-like class of theories described by Clapp and Moss. The ability of these theories to predict ratios between pair potentials is tested with our results. In addition, evidence of a region of heterophase fluctuations is presented in agreement with X-ray diffuse scattering measurements on Cu3Au.
+Résumé
+Nous utilisons une simulation par la méthode de Monte Carlo pour calculer les paramètres d'ordre à courte distance de Cowley-Warren pour les douze premiers voisins dans le cadre d'un modèle d'Ising relatif au CuAu. Les résultats de cette simulation permettent d'obtenir le paramètre libre qui caractérise un ensemble de théories du type “champ moyen” considéré par Clapp et Moss. Nos résultats permettent de tester le pouvoir de prédiction des théories concernant le calcul des rapports entre les potentiels de paires. Nous obtenons également un indice collaborant l'existence d'une région de fluctuations hétérogènes en accord avec les mesures de diffusion de rayons-X sur Cu3Au.
+Zusammenfassung
+Mit Hilfe der Monte Carlo Simulation wurden die Cowley-Warren Nahordnungsparameter der ersten zwölf Nachbarschalen von der für das Ising Modell relevanten Legierung CuAu bestimmt. Die Monte Carlo Ergebnisse wurden zur Bestimmung der freien Parameter in den molekularfeldartigen Theorien von Clapp and Moss benutzt. Die Fähigkeit dieser Theorien Verhältnisse zwischen Paarpotentialen anzugeben wurde mit unseren Ergebnissen getested. Ausserdem wird die Existenz eines Gebietes mit Heterophasen-Fluktuationen aufgewiesen in Übereinstimmung mit Messungen der diffusen Röntgenstrahl Streuung an Cu3Au.
+
+J.-L. Tzou, C.H. Hsueh, A.G. Evans, R.O. Ritchie,
+Fatigue crack propagation in oil environments— II. A model for crack closure induced by viscous fluids,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 117-127,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90225-1.
+(https://www.sciencedirect.com/science/article/pii/0001616085902251)
+Abstract: Several mechanisms have recently been identified for fatigue crack closure. The current work examines the concept of crack closure induced by the hydrodynamic wedging action of a viscous fluid within an advancing crack during cyclic loading. Unlike previous analyses, the model considers both the hydrodynamics of the pressure distribution within the crack and the kinetics of the penetration of the fluid into the crack. In addition, the results are presented in fracture mechanics terminology, and expressed as an effective (near tip) stress intensity range. Analyses involving both “full-” and “partial-penetration” of the viscous fluid inside the crack are utilized to rationalize the influence of viscosity on fatigue crack propagation in dehumidified oil environments, described in Part I of this paper. The roles of stress intensity range, crack size and frequency on the development of such fluid-induced crack closure are also examined.
+Résumé
+On a récemment identifié plusieurs mécanismes pour la fermeture des fissures de fatigue. Dans ce travail, nous examinons la fermeture d'une fissure induite par l'action hydrodynamique d'un fluide visqueux sur une fissure en cours de propagation, pendant une charge cyclique. Contrairement aux analyses précedentes, nous tenons compte dans ce modèle à la fois de l'hydrodynamique de la répartition de la pression dans la fissure et de la cinétique de la pénétration du fluide dans la fissure. De plus, les résultats sont présentés avec la terminologie de la mécanique de la rupture et exprimés sous la forme d'un domaine d'intensité de la contrainte effective (près de l'extrêmité). Nous utilisons des analyses mettant en jeu des pénétrations “totales” et “partielles” du fluide visqueux dans la fissure afin de rationaliser l'influence de la viscosité sur la propagation des fissures de fatigue dans un environment d'huile séchée, décrite dans la première partie de cet article. Nous examinons également les rôles du domaine d'intensité de la contrainte, de la taille et de la fréquence des fissures sur le développement d'une telle fermeture des fissures induite par un fluide.
+Zusammenfassung
+Vor kurzem wurden mehrere Mechanismen für das Schlieβen eines Ermüdungsrisses betrachtet. In dieser Arbeit wird die Vorstellung behandelt, daβ die Riβschlieβung durch hydrodynamische Keilwirkung einer viskosen Flüssigkeit innerhalb eines fortschreitenden Risses während der zyklischen Belastung erfolgt. Im Gegensatz zu anderen Analysen betrachtet dieses Modell sowohl die hydrodynamische Druckverteilung innerhalb des Risses als auch die Kinetik des Eindringens der Flüssigkeit in den Riβ. Auβerdem werden Ergebnisse in der Terminologie der Bruchmechanik vorgelegt und als (riβspitzennaher) Bereich einer effektiven Spannungsintensität interpretiert. Mit Analysen, die “vollständiges” und “teilweises” Eindringen der viskosen Flüssigkeit in den Riβ umfassen, wird der Einfluβ der Viskosität auf das Fortschreiten des Risses in entwässerten ölen, wie in Teil I dieser Untersuchung beschrieben, erklärt. Die Rolle des Bereiches der Spannungsintensität, der Gröβe und der Frequenz bei der Entwicklung dieses flüssigkeitsinduzierten Riβschlieβens wird ebenfalls untersucht.
+
+N. Louat,
+Alloys, strong at room and elevated temperatures from powder metallurgy,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 59-69,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90219-6.
+(https://www.sciencedirect.com/science/article/pii/0001616085902196)
+Abstract: The basic sources of strength in alloys which deform by slip are reviewed and it is concluded that at the limit of small grain size, strengths approaching the theoretical limit should be achieved in polycrystals, or in materials which are topologically equivalent to them. It is apparent in principle, and seems likely to be true in practice, that these requirements on size and topology can be satisfied and the attendant high strength at room temperature be realised in two-phase alloys formed from coated metal powder agglomerated in such a way that the coating forms the matrix. Again, at temperatures for which the dominant process for deformation of the matrix material is diffusion while that for the particles is slip, strength in these alloys (or cermets) may be solely determined by that of the particles and to emphasise the point, may be essentially independent of the properties of matrix material.
+Résumé
+Nous passons en revue les causes principales de la résistance mécanique des alliages qui se déforment par glissement; nous en concluons qu'à la limite des petites tailles des grains, on devrait obtenir des résistances proches de la limite théorique dans les polycristaux ou dans les matériaux qui leur sont topologiquement équivalents. Il est clair en principe, et il semble probablement vrai en pratique, que l'on doit pouvoir satisfaire ces exigences sur la taille et la topologie et obtenir la résistance correspondante à la température ambiante dans des alliages diphasés formés de poudre métallique revêtue, agglomérée de manière à ce que le revêtement constitue la matrice. Aux températures pour lesquelles le processus principal de déformation de la matrice est la diffusion alors que celui des particules est le glissement, la résistance de ces alliages (ou cermets) peut être déterminée uniquement par celle des particules et essentiellement indépendante des propriétés de la matrice.
+Zusammenfassung
+die grundlegenden Ursachen der Festigkeit von Legierungen, die sich durch Gleitung verformen, werden zusammengestellt. Daraus folgt, daβ inb der Grenze kleiner Körner Festigkeiten in der Nähe der theoretischen Grenze in Polykristallen oder in topologisch gleichwertigen Materialien zu erreichen sein sollten. Es ist im Prinzip offenkundig und in Praxis wahrscheinlich, daβ diese Forderungen an Gröβe und Topologie erfüllt und so die zugehörigen hohen Festigkeiten bei Raumtemperatur erhalten werden können, indem zweiphasige Legeirungen aus beschichteten Metallpulvern so zusammengebracht werden, daβ die Beschichtung die Matrix bildet. Bei Temperaturen, bei denen das Matrixmaterial sich hauptsächlich durch Diffusion verformt, die Teilchen dagegen durch Gleitung, kann die Festigkeit in dieser Legierung (oder Cermet) ausschlieβlich durch die der Teilchen bestimmt und damit im wesentlichen unabhängig von den Eigenschaften des Matrixmaterials sein.
+
+Li Guan-Xing, G.W Powell,
+Theory of reaction diffusion in binary systems,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 23-31,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90215-9.
+(https://www.sciencedirect.com/science/article/pii/0001616085902159)
+Abstract: A general theory of reaction diffusion which is applicable to n-phase systems is developed. The overall reaction which occurs at a particular interphase boundary is determined by the ratio of the rates of accumulation of the A and B atoms at the boundary. Equations are derived which express the parabolic growth constant of the second kind KiII, in terms of the parabolic growth constants of the first kind, Klj. The theory is applied specifically to 3, 4 and 5-phase systems, but it can be applied to n-phase systems. The predictions of the theory are compared with experimental results.
+Résumé
+Nous développons une théorie générale de la diffusion de réaction, valable pour les systèmes à n phases. Nous déterminons la réaction globale qui sc produit sur un joint interphase particulier par le rapport des vitesses d'accumulation des atomes A et B sur le joint. Nous obtenons des équations qui expriment la constante de croissance parabolique de seconde espèce KiII en fonction des constantes de croissance parabolique de première espèce Klj. Nous appliquons cette théorie en particulier à des systèmes à 2, 3, 4 et S phases, mais on peut l'appliquer à des systèmes à n phases. Nous comparons les prévisions de la théorie avec les résultats expérimentaux.
+Zusammenfassung
+Eine allgemeine, auf n-phasige Systeme anwendbare Theorie der Reaktionsdiffusion wird entwickelt. Die Gesamtreaktion, die an einer bestimmten Phasengrenzfläche abläuft, wird durch das Verhältnis der Geschwindigkeiten bestimmt, mit denen sich die Atomsorten A und B an der Grenze anhāufen. Es werden Gleichungen hergeleitet, die die parabolische Wachstumskonstante der zweiten Art KiII mit den parabolischen Konstanten der ersten Art Kjl beschreiben. Die Theorie wird hier auf 3-, 4- und 5-phasige Systeme angewendet, läβt sich aber auf n-phasige übertragen. Die Voraussagen der Theorie werden mit experimentellen Ergebnissen verglichen.
+
+M. Yoshihara, Rex B. McLellan,
+The thermodynamics of PdAgH ternary solid solutions,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 83-90,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90221-4.
+(https://www.sciencedirect.com/science/article/pii/0001616085902214)
+Abstract: The solubility of hydrogen in PdAgH ternary solutions in equilibrium with H2 gas at atmospheric pressure has been measured in the temperature range 625–1111 K and in PdAg “binary solvents” containing up to 93 at.% of Ag. Concomitant elastic measurements have provided data which enable the partial thermodynamic functions of the H-atoms deduced from the solubility measurements to be converted so as to refer to a hypothetical PdAg lattice of constant specific volume. The resulting “volume corrected” functions have been discussed in terms of the cell model for ternary solutions and have been shown to vary with temperature and Ag-concentration in a manner in accord with this model.
+Résumé
+Nous avons mesuré la solubilité de l'hydrogène dans les solutions ternaires PdAgH en équilibre avec le gaz H2 à la pression atmosphérique entre 625 et 1111 K et dans les “solvants binaires” PdAg contenant jusqu'à 93 at.% Ag. Des mesures élastiques concomitantes ont fourni des données permettant de convertir les fonctions thermodynamiques partielles des atomes d'hydrogène déduites des mesures de solubilité, de façon à les rapporter à un réseau PdAg hypothétique de volume spécifique constant. Nous avons discuté les fonctions résultantes “corrigées en volume” par rapport au modèle cellulaire des solutions ternaires et nous avons montré que leur variation en fonction de la température et de la concentration en argentest en accord avec ce modèle.
+Zusammenfassung
+Die Wasserstofflöslichkeit im Temperaturbereich von 625 bis 1111 K wurde in den ternären Lösungen Pd-Hg-H und den “binären Lösungsmitteln” PdAg mit bis zu 93 At.% Ag, die im Gleichgewicht mit H2-Gas unter Atmosphärendruck standen untersucht. Begleitende Elastizitätsmessungen ergeben Daten, mit denen die aus den Löslichkeitsmessungen abgeleiteten partialen thermodynamischen Funktionen der Wasserstoffatome umgewandelt und auf ein hypothetisches Pd-Ag-Gitter mit konstantem spezifischen Volumen bezogen werden können. Die sich ergebenden “volumkorrigierten” Funktionen werden im Hinblick auf das Zellmodell der ternären Lösung diskutiert. In Übereinstimmung mit diesem Modell ändern sie sich mit Temperatur und Ag-Konzentration.
+
+R.S Timsit,
+Intermetallics growth at Alα-brass interfaces,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 97-104,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90223-8.
+(https://www.sciencedirect.com/science/article/pii/0001616085902238)
+Abstract: The growth rate of the interdiffusion layer formed in “bulk” Alα-brass diffusion couples has been measured at temperatures ranging from 150 to 450°C. The layer consists of four stacked bands of intermetallic compounds. The chemical composition and crystal structure of the compounds were determined by electron probe analysis and X-ray diffraction, respectively. The structure of the band immediately adjacent to the Al is that of CuAl2. The structure of the next two bands is associated with that of the Cu0.61Al0.39 phase. The dominant structure of the band adjacent to the brass is that of an hexagonal phase of the CuZn system. The activation energies associated with intermetallics growth are reported.
+Résumé
+Nous avons mesuré la vitesse de croissance de la couche d'interdiffusion formée dans des couples “massifs” de diffusion aluminium/laiton-α pour des températures comprises entre 150 et 450°C. Cette couche est constituée de quatre bandes empilées de composés intermétalliques. Nous avons déterminé la structure cristalline et la composition chimique de ces composés par analyse à la sonde électronique et par diffraction de rayons X. La structure de la bande immédiatement adjacente à l'aluminium est celle de CuAl2. La structure des deux bandes suivantes est associée à celle de la phase Cu0.61Al0.39. La structure dominante de la bande adjacente au laiton est celle d'une phase hexagonale du système CuZn. Nous présentons les valeurs des énergies d'activation associées à la croissance des composés intermétalliques.
+Zusammenfassung
+Die Wachstumsgeschwindigkeit von Schichten, die sich bei der Interdiffusion in makroskopischen Metallpaaren Aluminium/α-Messing bilden, wurde im Temperaturbereich zwischen 150 und 450°C gemessen. Die sich bildende Zwischenschicht besteht aus einem Stapel von vier intermetallischen Bändern. Die Kristallstruktur wurde mit Röntgenbeugung und die chemische Zusammensetzung wurde mit Elektronenmikroanalyse bestimmt. Das Band an der Aluminiumseite hat CuAl2-Struktur. Die beiden nächsten Bänder hängen mit der Cu0.61Al0.39-Phase zusammen. Die dominierende Struktur des Bandes auf der Messingseite entspricht einer hexagonalen Phase des CuZn-Systems. Aktivierungsenergien für das Wachstum dieser intermetallischen Strukturen werden angegeben.
+
+J.-L. Tzou, S. Suresh, R.O. Ritchie,
+Fatigue crack propagation in oil environments—I. Crack growth behavior in silicone and paraffin oils,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 105-116,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90224-X.
+(https://www.sciencedirect.com/science/article/pii/000161608590224X)
+Abstract: The influence of dehumidified silicone and paraffin oils with kinematic viscosities varying from 5 to 60,000 cS has been examined on fatigue crack propagation in a lower strength bainitic steel. Crack growth data at both low and high load ratios are compared with previous results for environments of moist air, dry gaseous hydrogen and dry gaseous helium. It is found that at low load ratios, growth rates in oil exceed those in moist air below 10−6 mm/cycle, yet are lower than in moist air above 10−6 mm/cycle. Furthermore there is a small but definite trend of higher growth rates in the higher viscosity oils. Such observations are discussed and interpreted in terms of three mutually competitive mechanisms specific to dry viscous environments, namely suppression of moisture-induced hydrogen embrittlement and/or metal dissolution, minimization of oxide-induced crack closure, and the hydrodynamic wedging action of the oil inside the crack. A quantitative analysis for the effect of crack closure induced by a viscous medium is developed in Part II of this paper.
+Résumé
+Nous avons étudie l'influence d'huiles de silicone et de paraffine sichées avec des viscosités cinèmatiques comprises entre 5 et 60.000 cS sur la propagation de fissures de croissance dans un acier bainitique de faible résistance. Les résultats de la croissance des fissures pour des rapports de charge faibles et forts sont comparés avec des résultats antérieurs pour des environnements d'air humide, d'hydrogène gazeux sec et d'hélium gazeux sec. Pour de faibles rapports de charge, les vitesses de croissance dans l'huile sont supérieures aux vitesses dans l'air humide au-dessous de 10−6mm/cycle et elles leur sont inférieures au-dessus de 10−6 mm/cycle. De plus, il y a une tendance faible, mais certaine vers de plus fortes vitesses de croissance pour les huiles de plus forte viscosité. Nous discutons ces observations et nous les interprétons à partir de trois mécanismes compétitifs spécifiques des environnements visqueux secs, à savoir la suppression de la fragilisation par l'hydrogène induite par l'humidité et/ou la dissolution de métal, la minimisation de la fermeture des fissures par oxydation et l'action hydrodynamique de l'huile à l'intérieur de la fissure. Nous développons dans la deuxième partie de cet article une analyse quantitative de l'effet de la fermeture de la fissure induite par un milieu visqueux.
+Zusammenfassung
+Der Einfluβ entwässerter Silikon- und Paraffinöle mit kinematischen Viskositäten zwischen 5 und 60.000 cS auf die Ausbreitung von Ermüdungrissen wurde an einem bainitischen Stahl geringer Festigkeit untersucht. Das bei niedrigem und hohem Lastverhältnis gemessene Riβwachstum wurde mit früheren bei feuchter Luft, trockenem Wasserstoffgas und trockenem Heliumgas erhaltenen Messungen verglichen. Bei niedrigem Lastverhältnis übersteigen die Wachstumsraten in öl diejenigen in feuchter Luft unterhalb 10−6 mm/Zyklus, sind jedoch kleiner als in feuchter Luft oberhalb 10−6 mm/Zyklus. Auβerdem findet sich eine kleine, aber deutliche Neigung zu höheren Wachstumsraten in der ölen mit höherer Viskosität. Die Beobachtungen werden im Vergleich zu drei, für trockene viskose Umgebung spezifische Konkurrenzmechanismen diskutiert. Diese Mechanismen sind die Unterdrückung der feuchtigkeitsinduzierten Wasserstoffversprödung und/oder Metallauflösung, die Minimierung der oxidinduzierten Riβschlieβung und die hydrodynamische Keilbildung des öls im Riβ. Im Teil II dieser Untersuchung wird der Einfluβ der Riβschlieβung durch ein viskoses Medium quantitativ analysiert.
+
+
+Professor Jhon W. Christian,
+Acta Metallurgica,
+Volume 33, Issue 8,
+1985,
+Pages 1367-1368,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90037-9.
+(https://www.sciencedirect.com/science/article/pii/0001616085900379)
+
+Park Kyung-Ho, J.C. Lasalle, L.H. Schwartz,
+The low cycle fatigue behavior of spinodally decomposed Fe26Cr1Mo alloys,
+Acta Metallurgica,
+Volume 33, Issue 2,
+1985,
+Pages 205-211,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90138-5.
+(https://www.sciencedirect.com/science/article/pii/0001616085901385)
+Abstract: The low cycle fatigue of spinodally decomposed Fe-26Cr-1 Mo high purity ferritic stainless steel was studied in comparison with the solution treated homogeneous state under constant plastic strains and strain rates at room temperature. Correlation between cyclic softening and the demodulation of composition waves was examined by small angle neutron scattering (SANS). Surface and dislocation microstructures were investigated by optical microscopy and TEM. The cyclic stress response was quite different between as-quenched and aged materials. Aged materials showed hardening for the first few cycles followed by softening, reaching a minimum point and hardening again, whereas as-quenched materials showed only hardening throughout the test. SANS and TEM observation suggest that the cyclic softening mechanism observed is similar to that seen in f.c.c. spinodal alloys.
+Résumé
+Nous avons étudié la fatigue à faible nombre de cycles d'un acier inoxydable ferritique de haute pureté Fe-26Cr-1Mo décomposé spinodalement. en le comparant avec l'état homogène de la solution solide, pour des déformations plastiques et des vitesses de déformation constantes, à la température ambiante. Nous avons étudié par diffusion de neutrons aux petits angles (DNPA) les corrélations entre l'adoucissement cyclique et la démodulation des ondes de concentration. Nous avons étudié par microscopic optique et par microscopic électronique en transmission (MET) la microstructure de la surface et des dislocations. La réponse à une contrainte cyclique était différente pour les matériaux trempés et pour les matériaux vieillis. Les matériaux vieillis présentaient un durcissement au cours des premiers cycles, suivi par un adoucissement, puis de nouveau par un durcissement alors que les matériaux trempes ne présentaient que du durcissement au cours de l'essai. Les observations par DNPA et par MET suggèrent que le mécanisme d'adoucissement cyclique observé est semblable à celui que l'on voit dans les alliages spinodaux c.f.c.
+Zusammenfassung
+Der spinodal entmischte hochreine ferritische Stahl Fe-26Cr-1Mo wurde mit kleinen Zyklenzahlen mit konstanter plastischer Dehnung und konstanter Dehnungsrate bei Raumtemperatur ermüdet. Das Verhalten wurde im Vergleich zum lösungsbehandelten homogenen Zustand untersucht. Der Zusammenhang zwischen zyklischer Entfestigung und dem Abbau der Zusammensetzungswellen wurde mit Neutronen-Kleinwinkelstreuung untersucht. Oberflächen- und Versetzungsstruktur wurden im Lichtund im Elektronenmikroskop beobachtet. Das Verhalten unter zyklischer Spannung war im abgeschreckten und im angelassenen Material sehr verschieden. Das angelassene Material verfestigte sich während der ersten wenigen Zyklen, worauf Entfestigung bis zu einem Minimum und dann wieder Verfestigung folgte. Das abgeschreckte Material dagegen verfestigte sich ausschlieβlich. Neutronenstreuung und Elktronenmikroskopie legen nahe, daβ der zyklische Entfestigungsmechanismus dem ähnelt, der bei kfz. spinodalen Legierungen beobachtet wird.
+
+T Shinoda,
+Profiles of phosphorus concentration at grain boundaries in ferrous alloys,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 139-144,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90227-5.
+(https://www.sciencedirect.com/science/article/pii/0001616085902275)
+Abstract: The CDPs of phosphorus across grain boundaries in the preceding alloys have been calculated on the assumption that v13, the interaction parameter for Fe-P system, is negative in sign. The obtained P-CDPs are essentially the same in type as those in the previous study where v13 was positive. When v13 < 0, the normalized P- concentration (with a variable range of 0–1), n(I)i, at the first bulk layer adjacent to the grain boundary is able to reach a level as high as 0.8 or more, while the successive n1- values at the bulk layers of 2nd, 3rd, etc. never exceed the order of magnitude of 10−2 however the parameters for calculation are chosen in each variable range. If another restriction that e13 < e33, where e13 and e33 are the binding energies for the nearest neighbor pair of Fe-P and that of Fe-Fe respectively, is imposed besides the above condition of v13 < 0, the model used in the present study fails in the P-CDP calculation so far as the Fe-P binary system is concerned.
+Résumé
+Nous avons calculé les profils de concentration en profondeur (PCP) du phosphore normalement aux joints de grains dans les alliages Fe-P et Ni-P en supposant que le paramètre d'interaction v13 pour le système Fe-P était négatif. Les PCP du phosphore obtenus sont essentiellement les mêmes que ceux qui avaient été obtenus au cours d'études antérieures dans lesquelles v13 était positif. Lorsque v13 est négatif, la concentration normalisée en phosphore (qui varie de 0 à l) niIsur la première couche massive adjacente au joint de grains peut atteindre une valeur de 0,8 ou plus, alors que les valeurs successives n1 sur les secondres, troisièmes, etc couches ne dépassent jamais un ordre de grandeur de 10−2 quels que soient les paramètres choisis pour le calcul dans chaque domaine de variation des variables. Même si l'on impose en plus de la condition ci-dessus v13 < 0, la restriction e13 < e33, où e13 et e33sont respectivement les énergies de liaison pour les paires de premiers voisins Fe-P et Fe-Fe, le modèle utilisé dans cette étude ne permet pas de calculer les PCP du phosphore en ce qui concerne le système binaire Fe-P.
+Zusammenfassung
+Die Konzentrationsprofile von Phophor über die Korngrenzen in den früher untersuchten Legierungen wurden berechnet. Hierzu wurde angenommen, daβ der Wechselwirkungsparameter für das System Fe-P, v13negatives Vorzeichen hat. Die erhaltenen P-Profile sind im wesentlichen dieselben wie die früher für den Fall positiver v13 erhaltenen. Für v13 < 0 ist die normalisierte P-Konzentration (mit einem Bereich 0–1) n(I)i durchaus in der Lage, in der ersten Schicht an der Korngrenze ein Niveau bis zu 0,8 zu erreichen. Die nächsten Lagen überschreiten niemals 10−2. Wird eine weitere Einschränkung eingeführt, nämlich e13 < e33 (Bindungsenergien für Nächstnachbarpaare von Fe-P und Fe-Fe), dann läβt sich dieses Modell auf das binäre Fe-P-System nicht mehr anwenden.
+
+S.J. Fariborz, D.G. Harlow, T.J. Delph,
+The effects of nonperiodic void spacing upon intergranular creep cavitation,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 1-9,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90213-5.
+(https://www.sciencedirect.com/science/article/pii/0001616085902135)
+Abstract: The effects of nonperiodic void spacing upon creep rupture by intergranular cavitation is investigated. This is done by carrying out a Monte Carlo simulation of a 1-D model consisting of long, cylindrical voids having a uniform random spatial distribution along the grain boundary of a bicrystal. It is found that a progressive sintering and void coalescence process leads to times-to-failure which on the average are an order of magnitude greater than that predicted in the case where the voids are taken to be periodically spaced. Also predicted is a slightly greater dependence on times-to-failure with applied remote stress than that predicted in the equispaced case. Of particular note is the scatter in the predicted times-to-failure at constant remote stress, which is found to be well-described by a Weibull cumulative distribution function.
+Résumé
+Nous étudions les effets de l'espacement non périodique des cavités sur la rupture au fluage par cavitation intergranulaire. Pour cela, nous avons simulé par la méthode de Monte Carlo un modèle unidimensionnel constitué par de longues cavités cylindriques présentant une répartition spatiale aléatoire uniforme le long du joint de grains d'un bicristal. Nous avons trouvé qu'un phénomène de frittage progressif et de coalescence des cavités conduit à des temps de rupture qui sont en moyenne d'un ordre de grandeur supérieurs à ceux ju'on prévoit dans le cas où les cavités sont réparties périodiquement. On prévoit également une variation plus rapide du temps de rupture en fonction d'une contrainte appliquée à longue distance que celle ju'on prévoit dans le cas d'espacements égaux. Nous notons en particulier la dispersion dans les temps de rupture prévus pour une contrainte constante, dispersion qui est bien décrite par une fonction de répartition cumulative de Weibull.
+Zusammenfassung
+Es wird der Einfluβ eines nichtperiodischen Abstandes zwischen Hohlräumen auf den Kriechbruch durch intergranulare Hohlraumbildung mit einer Monte-Carlo-Rechnung untersucht. Das benutzte Modell ist eindimensional und besteht aus langen zylindrischen Hohlräumen, die in der Korngrenze eines Bikristalles räumlich gleichmäβig und zufällig verteilt sind. Es ergibt sich, daβ fortgesetztes Sintern und Zusammenwachsen der Hohlräume zu Standzeiten führt, die im Mittel eine Gröβenordnung höher sind als diejenigen, die sich aus Modellen mit periodischem Hohlraumabstand ergeben. Auβerdem wird eine etwas stärkere Abhängigkeit der Standzeit von der äuβeren Spannung als im Falle gleicher Hohlraumabstände gefunden. Besonderes Interesse verdient die Streuung in den vorausgesagten Standzeiten bei konstanter äuβerer Spannung, welche mit einer kumulativen Weibull-Verteilungsfunktion gut beschrieben werden kann.
+
+
+Erratum,
+Acta Metallurgica,
+Volume 33, Issue 12,
+1985,
+Page 2249,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90186-5.
+(https://www.sciencedirect.com/science/article/pii/0001616085901865)
+
+T Takasugi, O Izumi,
+Recrystallization and grain growth of Co3Ti,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 49-58,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90218-4.
+(https://www.sciencedirect.com/science/article/pii/0001616085902184)
+Abstract: Polycrystalline Co3Ti (Ll2 structure) was cold-rolled to several strain levels, and isochronally and isothermally annealed at temperatures up to 1100°C. Hardness measurements and microstructural observations were used to determine the kinetics of recrystallization and grain growth as functions of composition. Recrystallization was primarily responsible for the large reductions in hardness and the kinetics obeyed the Avrami equation. The grain growth rate obeyed the expression, d = Btn, (where d is the grain diameter, and B and n are experimental parameters). The time exponent, n, is less than 0.5 and was approximately independent of temperature. The effects of composition on recrystallization and grain growth were interpreted in terms of excess solute atoms. The “apparent” activation energies for the two processes showed approximately the same values, suggesting the same diffusion-controlling mechanism. These results suggest Co3Ti as a possible candidate for new heat-resistant materials.
+Résumé
+Nous avons laminé à froid du Co3Ti polycristallin (structure Ll2, jusqu'à différentes déformations et nous avons effectué des recuits isochrones et isothermes à des températures pouvant atteindre 1100°C. Nous avons utilisé des mesures de dureté et des observations de la microstructure pour déterminer la cinétique de recristallisation et de croissance du grain en fonction de la composition. La recristallisation était essentiellement responsable des fortes diminutions de la dureté, et la cinétique obéissait à une loi d'Avrami. La vitesse de croissance du grain obéissait à une loi d = Btn (où d est le diamètre de grains, et B et n sont des paramètres expérimentaux). L'exposant du temps n'était inférieur à 0,5 et était pratiquement indépendant de la température. Nous avons interprété les effets de la composition sur la recristallisation et sur la croissance du grain à partir des atomes de soluté en excès. L'énergie d'activation “apparente” des deux phénomènes était pratiquement la même, ce qui donne à penser qu'un même mécanisme de diffusion les contrôle. Ces résultats permettent de proposer Co3Ti comme un nouveau matériau résistant à la température.
+Zusammenfassung
+Polykristallines Co3Ti (Ll2 Struktur) wurde unterschiedlich stark gewalzt und bei Temperaturen bis zu 1100°C isochron und isotherm geglüht. Mit Härtemessungen und Mikrostrukturbeobachtungen wurde die Kinetik der Rekristallisation und des Kornwachstums in Abhängigkeit von der Zusammensetzung ermittelt. Die Rekristallisation verursachte im wesentlichen den starken Abfall der Härte; die Kinetik gehorchte der Avrami-Gleichung. Die Kornwachstumsrate gehorchte der Gleichung d = B· tn (d ist der Korndurchmesser, B und n sind experimentelle Parameter). Der Zeitexponent n ist kleiner als 0,5 und nahezu temperaturunabhängig. Der Einfluβ der Zusammensetzung auf Rekristallisation und Kornwachstum wurden mit überschuβlegierungsatomen gedeutet. Die ‘scheinbaren’ Aktivierungsenergien der beiden Prozesse hatten ungefähr denselben Wert, welches auf einen diffusionskontrollierten Mechanismus hinweist. Diese Ergebnisse lassen Co3Ti als ein mögliches neues wärmebeständiges Material erscheinen.
+
+A.C.F. Cocks,
+The nucleation and growth of voids in a material containing a distribution of grain-boundary particles,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 129-137,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90226-3.
+(https://www.sciencedirect.com/science/article/pii/0001616085902263)
+Abstract: Void growth is analysed when a grain boundary contains a distribution of second phase particles. The rate of void growth is determined by the ease with which material can plate out around the particles or the rale at which the material surrounding the particles can deform by power-law creep. At low applied stresses, stress is concentrated onto the particles which can act as nucleating sites for new cavities. The stress at a particle is a function of its size, and increases as the area fraction of voids increases. A new cavity can nucleate once this stress reaches a critical value, and because materials contain a distribution of particle sizes, nucleation occurs continuously during the course of an experiment.
+Résumé
+Nous avons analysé la croissance des cavités lorsqu'un joint de grains contient une répartition de particules d'une seconde phase. La vitesse de croissance des cavités est déterminée par la facilité avec laquelle le matériau peut recouvrir totalement les particules ou par la vitesse avec laquelle le matériau entourant les particules peut se déformer par fluage en loi de puissance. Aux faibles contraintes appliquées, la contrainte est concentrée sur les particules qui peuvent jouer le rôle de sites de germination pour de nouvelles cavités. La contrainte sur une particule dépend de sa taille et elle augmente lorsque la fraction superficielle de cavités augmente. Une nouvelle cavité peut germer lorsque cette contrainte atteint une valeur critique; ce matériau contenant une répartition de tailles de particules, la germination se produit continament au cours d'une expérience.
+Zusammenfassung
+Das Wachstum von Hohlräumen wird für den Fall analysiert, daβ eine Korngrenze eine Verteilung von Teilchen einer sekundären Phase enthält. Die Wachstumsrate hängt davon ab, wie leicht sich Material um die Teilchen herumlegen kann oder wie rasch das Material in der Umgebung der Teilchen sich durch Potenzgesetzkriechen verformen kann. Bei niedrigen äuβeren Spannungen wird die Spannung an den Teilchen konzentriert, die als Keimorte für neue Hohlräume dienen können. Die Höhe der Spannung am Teilchen hängt von der Teilchengröβe ab und nimmt mit dem Flächenanteil der Hohlräume zu. Ein neuer Hohlraum entsteht, wenn die Spannung einen kritischen Wert erreicht. Da in den Materialien Teilchengröβenverteilungen vorliegen, bilden sich die Hohlräume während des gesamten Experimentes neu.
+
+T. Takasugi, O. Izumi,
+Defect structures in Co-rich Co3Ti intermetallic compound,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 33-38,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90216-0.
+(https://www.sciencedirect.com/science/article/pii/0001616085902160)
+Abstract: The defect structures in Co-rich Ll2-type Co3Ti intermetallic compound have been investigated by measuring the lattice parameter, density and long-range order parameter. With decreasing Ti content from stoichiometric composition, the lattice parameter and long-range order parameter decreased while the density increased, respectively. These observations reveals that in the Co-rich region of Co3Ti compound excess Co Atoms substitute the sites of Ti atoms and consequently the substitution defect (solutioning defect) with lowered long-range order parameter is proposed.
+Résumé
+Nous avons étudié les structures des défauts dans le composé intermétallique Co3Ti de type Ll2 riche en cobalt en mesurant le paramètre réticulaire, la densité et le paramètre d'ordre à longue distance. Lorsqu'on diminue la teneur en titane à partir de la composition stoechiométrique, le paramètre réticulaire et le paramètre d'ordre à longue distance décroissent, alors que la densité croît. Ces observations montrent que dans le composé Co3Ti riche en cobalt, les atomes de Co en excès se substituent sur les sites des atomes de Ti; nous proposons donc un défaut substitutionnel qui abaisse le degré d'ordre à longue distance.
+Zusammenfassung
+In dem Co-reichen intermetallischen Werkstoff Co3Ti vom Typ Ll2, wurde die Defektstruktur mit Messungen des Gitterparameters, de Dichte und der Fernordnung untersucht. Mit abnehmendem Ti-Gehalt, ausgehend von der stöchiometrischen Zusammensetzung, werden der Gitterund der Fernordnungsparameter kleiner, wohingegen die Dichte zunimmt. Diese Beobachtungen zeigen, daβ im Co-reichen Gebiet des Co3Ti die Co-überschuβatome die Ti-Plätze einnehmen. Zur Erklärung dieses Befundes wird ein Substitutionsdefekt mit verringertem Fernordnungsparameter vorgeschlagen.
+
+E. Nes, N. Ryum, O. Hunderi,
+On the Zener drag,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 11-22,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90214-7.
+(https://www.sciencedirect.com/science/article/pii/0001616085902147)
+Abstract: The interaction between particles and a grain boundary has been studied. Both the relatively simple problem of the interaction between a single particle and a grain boundary, and the much more complicated problem of deriving a restraining force from the many particles on a grain boundary have been considered. The conclusion is that the estimate due to Zener and Smith—now nearly 40 years old—is still of good value. The effects of particle shape and distribution on the Zener drag have also been included, and it is demonstrated that such effects may strongly influence recrystallization and grain growth behaviour.
+Résumé
+Nous avons étudié l'interaction entre des particules et un joint de grains. Nous avons considéré le problème relativement simple de l'interaction entre une seule particule et un joint de grains et le problème beaucoup plus compliqué du calcul d'une force de freinage sur un joint de grains due â de nombreuses particules. Nous concluons que l'estimation de Zener et Smith, vieille d'environ quarante ans, est encose valable. Nous avons également tenu compte des effets de la forme et de la répartition des particules sue le traînage de Zener et nous démontrons que de tels effets peuvent influencer fortement la recristallisation et la croissance des grains.
+Zusammenfassung
+Die Wechselwirkung zwischen Ausscheidungen und einer Korngrenze wurde untersucht. Hierzu wurde das vergleichsweise einfache Problem der Wechselwirkung zwischen einem einzelnen Teilchen und der Korngrenze und die viel schwierigere Frage untersucht, die bremsende Kraft einer Vielzahl von Teilchen auf die Korngrenze abzuleiten. Es ergibt sich, daβ die fast vierzig Jahre alte Abschätzung von Zener und Smith immer noch wertvoll ist. Effekte durch Form und Verteilung der Ausscheidungen auf die Zenerreibung werden ebenfalls betrachtet. Diese können, wie gezeigt wird, die Rekristallisation und das Kornwachstum sehr beeinflussen.
+
+C.P. Ju, R.A. Fournelle,
+Cellular precipitation and discontinuous coarsening of cellular precipitate in an Al-29 at.% Zn alloy,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 71-81,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90220-2.
+(https://www.sciencedirect.com/science/article/pii/0001616085902202)
+Abstract: The morphology and growth kinetics of cellular precipitation and discontinuous coarsening of the cellular precipitate in an Al-29 at.% Zn alloy have been investigated at temperatures ranging from 323 to 523 K (50 to 250°C) by light microscopy, electron microscopy and X-ray diffraction. At all aging temperatures the alloy was observed to decompose completely by a cellular precipitation reaction which resulted in a fine lamellar structure of aluminium rich and zinc rich solid solutions. The first cell lamellar structure was then decomposed at all aging temperatures by a second cellular or discontinuous coarsening reaction. The discontinuous coarsening reaction occurred at a much slower rate than the first cellular reaction and resulted in a much coarser lamellar structure. Lattice parameter measurements showed the aluminum rich phase in the cellular precipitate to have a composition far from equilibrium while that in the product of discontinuous coarsening was close to equilibrium. Analysis of the growth kinetics of both the cellular precipitation and the discontinuous coarsening suggested that they were controlled by grain boundary diffusivity.
+Résumé
+Nous avons étudié la morphologie et la cinétique de croissance de la précipitation cellulaire et du grossissement discontinu de précipitées cellulaires dans un alliage Al-29 at.% Zn à des températures comprises entre 323 et 523 K (50 à 250°C) par microscopic optique, microscopic électronique et diffraction de rayons X. Pour toutes les températures de vieillessement, l'alliage se décomposait complètement par une réaction de précipitation cellulaire que conduisait à une structure lamellaire fine de solutions solides riches en aluminium et en zinc. La première structure lamellaire cellulaire se décomposait par une seconde réaction de grossissement cellulaire discontinu, quelle que soit la température de vieillissement. La réaction de grossissement discontinu se produisait avec une vitesse beaucoup plus lente que celle de la première réaction cellaire et elle conduisait à une structure lamellaire beaucoup plus grossière. Des mesures de paramètre réticulaire ont montré que la phase riche en aluminium dans les précipités cellulaires avait une composition éloignée de celle de l'équilibre alors que la composition du produit du grossissement discontinu était proche de celle de l'équilibre. L'analyse de la cinétique de croissance de la précipitation cellular et du grossissement discontinu donne à penser que ces phénomènes sont contrôlés par la diffusion intergranulaire.
+Zusammenfassung
+Durch Licht- und Elektronenmikroskopie und Röntgenbeugung wurden die Morphologie und Wachstumskinetik der diskontinuierlichen Ausscheidung und Vergr̈oberung in der Legierung Al-29 at.% Zn im Temperaturbereich zwischen 323 und 523 K (50 und 250°C) untersucht. Bei allen Temperaturen wurde der übersättigte α-Mischkristall durch diskontinuierliche Ausscheidung vollständig in ein feinlamellares Gefüge aus entleertem α-Mischkristall und ausgeschiedener β-Phase umgewandelt. Dieses Gefüge wurde anschlieβend bei allen Temperaturen durch diskontinuierliche Vergröberung weiter umgewandelt. Diese zweite Umwandlung lief erheblich langsamer ab und ergab eine groblamellare Struktur. Gitterparametermessungen zeigten, daβ der Zinkgehalt des durch die Ausscheidung entstandenen α-Mischkristalls weit von dem Gleichgewichtszinkgehalt abwich, während der durch die Verbgröberungsreaktion gebildete α-Mischkristall einen Zinkgehalt nahe dem Gleichgewichtswert aufwies. Die Analyse der Wachstumskinetik zeigt, daβ beide Umwandlungen durch Korngrenzendiffusion kontrolliert werden.
+
+
+Erratum,
+Acta Metallurgica,
+Volume 33, Issue 8,
+1985,
+Page 1585,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90058-6.
+(https://www.sciencedirect.com/science/article/pii/0001616085900586)
+
+C Bichara, C Bergman, J.-C Mathieu,
+Monte Carlo calculations of thermodynamic properties of alloys in the case of the surrounded atom model,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Pages 91-95,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90222-6.
+(https://www.sciencedirect.com/science/article/pii/0001616085902226)
+Abstract: Monte Carlo calculations are carried out to give exact values of some thermodynamic properties of alloys. The calculations are performed within the framework of the surrounded atom model the main assumptions of which are: quasilattice structure of the alloy, nearest neighbour interactions, description of the configuration in terms of “surrounded atoms”. The results are then compared with those obtained using current approximations: the Bragg-Williams treatment and the quasichemical treatment. This work enables us to generalize the previous conclusions drawn in the study of the regular solution model. In every case, whatever the sign of the interactions (ordering or clustering tendency) Monte Carlo calculations yield a local order that both approximations fail to reproduce. In order to compare the calculations with some experimental data, Cowley's short range order parameter α1, is calculated by Monte Carlo and by the approximate methods (the parameters of the surrounded atom model are derived from thermodynamic data). The Monte Carlo values compare better than the quasichemical ones with the data obtained by X-ray or neutron diffraction in three actual systems.
+Résumé
+La méthode de Monte Carlo est utilisée pour obtenir des valeurs exactes de certaines propriétés thermodynamiques des alliages. Les calculs sont effectués dans le cadre du modèle en atomes entourés dont les principales hypothèses sont: structure des alliages cn quasiréseau, interactions en plus proches voisins, description des configurations en termes d'atomes entourés. Les résultats sont ensuite comparés avec ceux obtenus par les approximations couramment utilisées: Bragg-Williams et modèle quasichimique. Ce travail nous permet de généraliser les conclusions antérieures déduites d'une étude du modèle des solutions régulières. Dans chaque cas, quel que soit le signe de l'interaction (tendance à la mise en ordre ou à la séparation des phases), les calculs de Monte Carlo conduisent à un ordre local qu'aucune des deux approximations ne peut reproduire. De façon à comparer les calculs à des valeurs expérimentales, le paramètre d'ordre à courte distance de Cowley, α1, est calculé par Monte Carlo et par les autres traitements statistiques (les paramètres du modèle en atome entouré sont déduits de données thermodynamiques). Les valeurs Monte Carlo sont en meilleur accord que celles obtenues par le traitement quasichimique avec les données déduites de mesures de diffraction RX ou neutronique dans trois systèmes réels.
+Zusammenfassung
+Mit Monte-Carlo-Rechnungen wurden genaue Werte für einige thermodynamische Legierungseigenschaften ermittelt. Die Rechnungen wurden im Rahmen eines Modelles durchgeführt, dessen Annahmen sind: Quasigitterstruktur der Legierung, Wechselwirkung zwischen nächsten Nachbarn, Beschreibung der Konfiguration mit “umringten Atomen”. Die erhaltenen Erbnisse werden mit denen verglichen, die sich aus den üblichen Näherungsrechnungen ergeben: der Methode von Bragg und Williams und der quasichemischen Näherung. Mit dieser Untersuchung lassen sich die früher aus den Untersuchungen des Modelles regulärer Mischkristalle gezogenen Folgerungen verallgemeinern. In jedem Fall ergeben die Monte-Carlo-Rechnungen-unabhängig vom Vorzeichen der Wechselwirkungen, d.h. der Tendenz zur Ordnung oder zur Clusterbildungeine lokale Ordnung, welche die beiden anderen Näherungen nicht voraussagen. Zum Vergleich der Rechnungen mit einigen experimentellen Ergebnissen wurde der Cowleysche Nahordnungsparameter α1 mit der Monte-Carlo-Rechnung und den beiden Näherungsmethoden ermittelt (die Parameter des Modelles umringter Atome wurden aus thermodynamischen Daten ermittelt). Die Monte-Carlo-Werte entsprechen den Röntgen- und Neutronenbeugungsergebnissen an drei Systemen besser als die der quasichemischen Näherung.
+
+M.J. Kaufman, H.L. Fraser,
+Characterization of metastable crystalline phases in the AlGe alloy system,
+Acta Metallurgica,
+Volume 33, Issue 2,
+1985,
+Pages 191-203,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90137-3.
+(https://www.sciencedirect.com/science/article/pii/0001616085901373)
+Abstract: Metastable crystalline phases have been produced in Al-Ge alloys by melt spinning liquid alloys and by rapidly heating thin films which are initially amorphous. The structures and compositions of these nonequilibrium phases have been characterized using convergent beam electron diffraction and energy dispersive X-ray spectroscopy. The results of these studies are compared directly with those of previous authors in order to resolve the controversy which has existed in the literature concerning the identity of the metastable phases which form in Al-Ge alloys when processed by novel techniques such as rapid solidification.
+Résumé
+Nous avons fabriqué des phases cristallines métastables dan des alliages Al-Ge par trempe sur rouleau et par chauffage rapide de films minces initialement amorphes. Nous avons caractérisé la structure et al composition de ces phases hors d'équilibre par diffraction d'électrons en faisceau convergent et par spectroscopie de rayons X à dispersion d'énergie. Nous comparons directement le résultat de ces études avec celles d'auteurs antérieurs afin d'essayer de résoudre la controverse qui existe dans la littérature et qui concerne l'identité des phases métastables qui se forment dans les alliages Al-Ge élaborés par des techniques nouvelles telles que la solidification rapide.
+Zusammenfassung
+Metastabile kristalline Phasen wurden ir Al-Ge-Legierungen durch Schmelzspinnen und Abschrecken dünner, anfangs amorpher Filme hergestellt. Struktur und Zusammensetzung dieser Nichtgleichgewichtsphasen wurden mit der Beugung im konvergenten Elektronenstrahl und mit energiedispersiver Röntgenanalyse untersucht. Die Ergebnisse werden mit denen anderer Autoren verglichen. Ziel ist. den in der Literatur bestehenden Widerspruch aufzuklären, der in der Identifizierung der durch neue Techniken (wie rasche Erstarrung) in Al-Ge-Legierungen entstehenden Phasen vorliegt.
+
+
+Editorial Board,
+Acta Metallurgica,
+Volume 33, Issue 1,
+1985,
+Page IFC,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90212-3.
+(https://www.sciencedirect.com/science/article/pii/0001616085902123)
+
+
+Technical note,
+Acta Metallurgica,
+Volume 33, Issue 2,
+1985,
+Page 329,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90151-8.
+(https://www.sciencedirect.com/science/article/pii/0001616085901518)
+
+
+Acta metallurgica contents of volume 33,
+Acta Metallurgica,
+Volume 33, Issue 12,
+1985,
+Pages iii-xix,
+ISSN 0001-6160,
+https://doi.org/10.1016/0001-6160(85)90187-7.
+(https://www.sciencedirect.com/science/article/pii/0001616085901877)

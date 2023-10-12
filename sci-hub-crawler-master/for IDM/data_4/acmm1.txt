@@ -1,0 +1,1127 @@
+F.Y. Génin,
+The initial stages of the formation of holes and hillocks in thin films under equal biaxial stress,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4289-4300,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00132-F.
+(https://www.sciencedirect.com/science/article/pii/095671519500132F)
+Abstract: The theory of thermal grooving under stress is extended to explain the formation of holes and hillocks in very thin films undergoing thermal cycling. Previous experimental work and attempts to model holes and hillocks are first reviewed. A theoretical model based on the review is then developed to quantify the surface topological evolution at triple junctions in thin films with large columnar grains. The surface profiles are computed for various applied stresses and angles of intersecting grain boundaries, and the model is applied to describe a 120° triple junction in a Cu thin film through an annealing cycle from room temperature to 325°C. The simulation, which uses experimentally determined stress and materials property data, illustrates how this model can predict the failure of films undergoing a given thermal cycle.
+Résumé
+La théorie du sillonnement thermique sous contraintes est étendue afin d'expliquer la formation de trous et de bosses dans les structures minces après recuit thermique. Les travaux antérieurs sont d'abord passés en revue. Un modèle théorique est ensuite développé pour expliquer quantitativement la croissance de ces perturbations morphologiques aux jonctions triples dans les couches minces à grains de large taille. Les profils des surfaces sont calculés pour diverses contraintes appliquées et en fonction de l'angle d'intersection entre joints de grain. Le modèle est appliqué dans le cas d'une couche mince de Cu subissant un recuit à 325°C. Les calculs qui utilisent les valeurs expérimentales des contraintes dans la structure et les données des propriétés des matériaux illustrent la possibilité de prédire la rupture d'une couche mince selon le cycle thermique qui lui est imposé.
+Zusammenfassung
+Die Theorie des thermischen Ätzens unter Spannung wird erweitert, um die Bildung von Löchern und Spitzen bei zyklischer thermischer Behandlung zu erklären. Zunächst wird ein Überblick über bisherige experimentelle Arbeiten und Modellierungsversuche der Löcher und Spitzen gegeben. Ausgehend von diesem überblick wird ein Modell entwickelt, um die oberflächentopologische Entwicklung an Tripelkorngrenzen dünner Schichten mit säulenförmigen Körnern quantitativ zu beschreiben. Die Oberflächenprofile werden für unterschiedliche Spannungen und Korngrenzen berechnet und das Modell zur Beschreibung einer 120° Tripelkorngrenze in einer dünnen Cu Schicht beschrieben, die von Raumtemperatur bis 325°C erfuhr. Zur Simulation werden experimentelle Materialdaten verwendet. Die Simulation demonstriert, wie das Modell das Versagen von Schichten bei thermischer Behandlung vorhersagen kann.
+
+Jianshe Lian, Ruslan Z. Valiev, Bernard Baudelet,
+On the enhanced grain growth in ultrafine grained metals,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4165-4170,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00087-C.
+(https://www.sciencedirect.com/science/article/pii/095671519500087C)
+Abstract: The static grain growth has been investigated in ultrafine grained copper with an initial grain size of 160 nm. It has been revealed that its kinetics follows to normal grain growth behaviour, but a grain growth starts at a relatively low temperature (0.32 Tm). Good fits with experimental data for several ultrafine grained metals have been obtained if the activation energy for grain boundary diffusion is assumed to be lower than for coarse grained materials, but increases during grain growth. It is suggested that this unusual behaviour of the activation energy is caused by the presence of non-equilibrium grain boundaries in ultrafine grained materials and their recovery during heating.
+
+Y.-L. Shen, S. Suresh,
+Thermal cycling and stress relaxation response of Si-Al and Si-Al-SiO2 layered thin films,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 3915-3926,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00099-H.
+(https://www.sciencedirect.com/science/article/pii/095671519500099H)
+Abstract: The deformation of Si-Al and Si-Al-SiO2 multi-layered thin films in response to controlled sequences of constant- and variable-amplitude thermal cycling and isothermal exposures has been studied experimentally by recourse toin situ measurements of curvature changes which made use of the laser scanning technique. In an attempt to systematically isolate salient mechanistic features, a select set of companion experiments have also been conducted on the Si-SiO2 bi-layer system. In some cases, the layered solids have been subjected to as many as 14 thermal cycles between 20 and 450°C to examine the stability of thermally induced deformation. It is found that the variation of curvature with temperature reaches saturation after the first thermal cycle for the Si-Al bi-layer system. The presence of the SiO2 passivation layer, however, drastically alters the plastic deformation characteristics of the Al layer with the result that: (i) sharp transitions arise in the variation of curvature with temperature during constant-amplitude thermal cycling; (ii) as many as 12 thermal cycles are needed to attain saturation in the curvature-temperature hysteresis loops; (iii) the extent of stress relaxation is significantly reduced during isothermal hold periods in the heating or the cooling phase of the thermal cycle; and (iv) the effects of certain types of variable-amplitude thermal cycling on elastoplastic deformation are essentially suppressed. An elastoplastic analysis, presented by Sureshet al. (J. Mech. Phys. Solids42, 979, 1994) for multi-layer systems, has been used to interpret some of the experimental results obtained in this paper. The predictions of this analysis for curvature changes during thermal cycling (without isothermal hold periods) are found to capture many trends experimentally observed in the Si-Al and Si-Al-SiO2 layered systems. It is seen, however, that continuum analyses based upon assumptions of steady-state, power-law creep response for thethin Al film fail to capture the measured effects of the passivation layer on creep relaxation even at saturation.
+
+T.E. Buchheit, S.L. Kumpf, J.A. Wert,
+Modeling the stress-induced transformation behavior of shape memory alloy single crystals,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4189-4199,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00105-5.
+(https://www.sciencedirect.com/science/article/pii/0956715195001055)
+Abstract: The phenomenological theory of martensite crystallography has been used to determine habit plane/shear direction combinations for stress-induced transformation of NiTi, Cu-Ni-Al and NiAl shape memory alloys (SMA) to twin-related martensite correspondence variant pairs. By considering the habit plane/shear direction combinations as unidirectional shear systems, generalized Schmid's law is then used to predict the mechanical response of unconstrained single crystals of each SMA. Model results include axial transformation strain, and plane stress transformation surfaces as a function of crystal orientation. Comparison of the predicted mechanical response results with the habit plane/shear direction combinations reveals a link between the anisotropy and asymmetry of the mechanical response of SMA single crystals, and the crystallography of the martensitic transformation.
+
+N.P. Kushnareva, S.E. Snejko, I.P. Yarosh,
+Internal friction in nb-v-o alloys,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4393-4401,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00120-K.
+(https://www.sciencedirect.com/science/article/pii/095671519500120K)
+Abstract: The logarithmic decrement, δ, was measured in Nb-V-O alloys with the V content of 0.5, 1.0, 1.9, 7, 12, 20 and 50 at.% using a low frequency (f= 3-7 Hz) inverse torsion pendulum in the temperature range from 20 to 800°C. The complex oxygen atom Snoek peaks were analysed with the help of a computer and individual Debye form constituent peaks-jwere extracted. The parameters of these peaks were used to derive information of two sorts: (a) distribution of oxygen atoms over octahedral interstices which differ in the number jof V atoms in the nearest neighbour lattice sites (static parameter) and (b) the potential barriers for oxygen atoms diffusing from j-positions (dynamic parameter). The first was used to evaluate the binding energies of oxygen with vanadium atoms in jV-O complexes, the second made understandable the structure of potential barriers for diffusion of the oxygen atoms from positions j. The differences between measurements of static and dynamic characteristics are discussed.
+
+S. Nebti, D. Hamana, G. Cizeron,
+Calorimetric study of pre-precipitation and precipitation in Al-Mg alloy,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3583-3588,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00023-O.
+(https://www.sciencedirect.com/science/article/pii/095671519500023O)
+Abstract: Precipitation sequence and changes in microhardness measurements of Al-8wt%Mg and Al-12wt%Mg alloys have been investigated by differential scanning calorimetry (DSC). It has been confirmed that the most important hardening is caused by the formation of the intermediate particles β′(Al3 Mg2) which precipitate at temperatures above the reversion temperature of the GP zones. The β′ particles nucleation occurs certainly on structural heterogeneities introduced by quenching (dislocations formed by the collapse and shear of discs of vacancies). When the amount of the heterogeneities facilitating the nucleation of β′ (the intermediate phase) decreases a direct formation of β (the equilibrium phase) is observed.
+
+K. Lu, M.L. Sui,
+Thermal expansion behaviors in nanocrystalline materials with a wide grain size range,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3325-3332,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00035-T.
+(https://www.sciencedirect.com/science/article/pii/095671519500035T)
+Abstract: Thermal expansion behaviors of nanocrystalline (NC) Ni-P alloy samples with grain sizes ranging from a few to 127 nm were studied experimentally using thermal mechanical analysis. Porosity-free NC Ni-P samples with a wide grain size range were synthesized by completely crystallizing amorphous Ni-P alloy at different annealing temperatures. Measurements showed that the linear thermal expansion coefficient (αL) increases markedly with a reduction of the average grain size in the as-crystallized NC Ni-P samples. The thermal expansion coefficient was also found to decrease during grain growth in the as-crystallized NC sample upon annealing. From the grain size dependence of αL in these NC samples, we deduced that the difference in thermal expansion coefficients between the interfaces and the nm-sized crystallites diminishes when the grain size becomes smaller. This tendency agrees well with other experimental results on the structural characteristics of the interfaces and the nm-sized crystallites in NC materials.
+
+J. Jockweg, E. Nembach,
+Anisotropy of the critical resolved shear stress of a superalloy containing 6 vol.% L12-ordered γ′-precipitates,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3295-3300,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00046-X.
+(https://www.sciencedirect.com/science/article/pii/095671519500046X)
+Abstract: Single crystals of the γ′-strengthened nickel-base superalloy NIMONIC PE16 have been compression tested in the temperature range 683–1143 K. Four different orientations of the specimens have been studied: [0 0 1].[1¯23].[011] and [1¯11]. They were either in the homogenized, single-phase state or in the peak-aged state. The critical resolved shear stress (CRSS) of the homogenized specimens was isotropic at 683 K. The CRSS of the peak-aged specimens, containing 6 vol.% of L12-long-range ordered γ′-precipitates of 25 nm radius, was anisotropic at 683 K and at 989 K: the [001]-orientated specimens were the softest ones, the CRSS increased as the orientation moved towards [011] or [11¯1]. This is the same orientation dependence found for the CRSS of single-phase L12-ordered materials. The interpretation of the anisotropy of the CRSS of NIMONIC PE16 follows that given for single-phase L12-long-range ordered materials.
+Zusammenfassung
+An Einkristallen der γ′-gehärteten Nickel-Basis-Superlegierung NIMONIC PE16 wurden zwischen 683 und 1143 K Druckversuche ausgeführt. Vier verschiedene Orientierungen wurden untersucht: [001].[1¯23].[011] und [1¯11]. Die Proben waren entweder im homogenisierten, einphasigen Zustand oder im optimal gealterten. In letzterem enthielten sie 6 Vol.% L12-ferngeordnete γ′-Ausscheidungen von 25 nm Radius. Die kritische Schubspannung der homogenisierten Proben war bei 683 K isotrop. Die der optimal gealterten war anisotrop bei 683 und 989 K: die [001]-orientierten Proben waren am weichsten: die kritische Schubspannung stieg an, wenn die Orientierung auf [011] oder [1¯11] zuwanderte. Das ist dieselbe Orientierungsabhängigkeit, die man für einphasige L12-ferngeordnete Materialien beobachtet. Die Anisotropie der kritischen Schubspannung von NIMONIC PE16 wird folglich ähnlich wie die von einphasigen L12-Materialien gedeutet.
+
+J. Crépin, T. Bretheau, D. Caldemaison,
+Plastic deformation mechanisms of β treated zirconium,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3709-3719,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90154-X.
+(https://www.sciencedirect.com/science/article/pii/095671519590154X)
+Abstract: This study aims to determine the different deformation mechanisms of grade 702 zirconium under uniaxial tension and at room temperature. The grade 702 zirconium tested had undergone an α → β → α cycle at a slow cooling rate (∼ 15° s−1). Three deformation mechanisms were identified: prismatic slip, (1012) 〈101〉 twinning and (1121) 〈1126〉 twinning. The critical resolved shear stress for prismatic slip, (1012) 〈1011〉 twinning and (1121) 〈1126〉 twinning was also determined. The effect of the non-uniform redistribution of the hardening elements on location through the grain of the various mechanisms and on the tendency for localized deformation to develop is also discussed.
+Résumé
+Cette étude a pour but la détermination des différents mécanismes de déformation en traction uniaxiale à température ambiante du zirconium dit grade 702 ayant subi un cycle α → β → α, avec une faible vitesse de refroidissement (∼ 15° s−1). Trois mécanismes de déformation ont été identifiés: le glissement prismatique, le maclage (1012) 〈1012〉, et le maclage (1121) 〈1126〉. Les contraintes critiques d'activation de ces différents mécanismes ont aussi été déterminées. L'influence de l'hétérogénéité de répartition d'éléments durcissants sur la localisation de ces mécanismes est également discutée.
+
+R.B. McLellan, Y.C. Angel,
+The thermodynamics of vacancy formation in f.c.c. metals,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3721-3725,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90155-8.
+(https://www.sciencedirect.com/science/article/pii/0956715195901558)
+Abstract: The dependence upon temperature of the monovacancy concentration in metals has been calculated using models for the perturbation of the atomic frequencies accompanying vacancy formation. The effect of the lattice thermal expansion has also been considered. The calculations, based on the quasi-harmonic model for solids, indicate that Arrhenius plots of the vacancy concentration against reciprocal temperature would exhibit a measurable curvature for Al. Much smaller degrees of curvature would be observable in such plots for Cu and Au over the temperature span of experimental vacancy concentration determinations.
+
+B. Johannesson, S.L. Ogin,
+Internal stresses in planar random fibre aluminium composites—I. tensile tests and cyclic bauschinger experiments at room temperature and 77 k,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4337-4348,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00116-D.
+(https://www.sciencedirect.com/science/article/pii/095671519500116D)
+Abstract: Internal stresses in planar random alumina fibre reinforced aluminium with a range of fibre volume fractions have been studied theoretically and in tensile tests and cyclic Bauschinger experiments at room temperature and 77 K. The Eshelby S tensor for a planar random array of fibres is calculated, which allows the mean field model to be used to predict the internal stresses. The conventional Orowan-Wilson method of analysing cyclic Bauschinger experiments is modified, enabling the plastically and thermally induced matrix mean stresses to be separated. This analysis is applied to experimental results and the plastic mean stress and the initial magnitude of the thermal mean stress in the matrix are measured. The results for the thermal matrix mean stress are compared with measurements from monotonic flow curves and generally good agreement is observed. The measured thermal matrix mean stress in these composites is approximately independent of fibre volume fraction.
+
+Ching-Hua Huang, J.K. Shang,
+Shear-driven high-temperature fatigue crack growth in polycrystalline alumina,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4179-4187,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00062-Z.
+(https://www.sciencedirect.com/science/article/pii/095671519500062Z)
+Abstract: High-temperature crack growth behavior of a polycrystalline alumina was examined under Mode-I tension-tension cyclic loading. Locally at the crack tip, the fatigue crack was found to advance is shear by fractional sliding of grains on alternating sets of planes of the maximum shear. Evidence of a shear-driven crack growth was given in terms of topological and morphological analyses of the fatigue crack surface, grain sliding, frictional debris, and temperature-dependence of fatigue crack growth kinetics. Based on experimental observations, a new model of fatigue crack growth by alternating shear was proposed.
+
+A. Serra, D.J. Bacon,
+Computer simulation of screw dislocation interactions with twin boundaries in H.C.P. metals,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4465-4481,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00128-I.
+(https://www.sciencedirect.com/science/article/pii/095671519500128I)
+Abstract: The interaction of matrix screw dislocations with twin boundaries has been simulated by computer for different h.c.p. models representing α-titanium and magnesium. The atomic structure of the screw core in these two models is appropriate for crystals that slip predominantly on the prism and basal planes, respectively, and this behaviour is summarised in the first part of the paper. Then the movement under three different components of applied strain of the 1/3〈 11–0〉 matrix screw dislocation (in both its prism and basal forms) into the boundary of the 10–12 and 10–11 twins is described for the geometry where the screw is parallel to the interface. The screw crosses the 10–12 boundary by cross-slip, onto either of the two slip systems, but the 10–11 boundary usually absorbs the screw by a process of decomposition into two twinning dislocations. This behaviour and the glide resistance are discussed in terms of the interfacial structure of the twins and the properties of twinning dislocations.
+
+Peter Ha¨hner,
+A generalized criterion of plastic instabilities and its application to creep damage and superplastic flow,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4093-4100,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00091-9.
+(https://www.sciencedirect.com/science/article/pii/0956715195000919)
+Abstract: A novel criterion to distinguish between stable (homogeneous) and unstable (localized) plastic flow in tensile specimens is proposed which is based on a consideration of the structural evolution on characteristic time-dependent intrinsic or extrinsic length scales. Macroscopic localization is predicted to occur if fluctuations grow with respect to these length scales. Previous instability criteria by Hart, Estrin and Kubin, and Molinari are recovered as special cases of the present generalized criterion. Moreover, it allows one to distinguish between homogeneous and heterogeneous nucleation of slip. Two applications are discussed: (i) the peculiar necking resistance during superplastic flow is shown to depend not only on a high value of the strain-rate sensitivity but also on a large amount of deformation accommodated by grain boundary sliding; (ii) the instability criterion is applied to creep damage described in terms of a model of the Kachanov-Rabotnov type. This allows for a determination of the critical damage parameter at failure.
+
+Jian-Sheng Wang, Sinisa Dj. Mesarovic,
+Directional dependence of corrosion fatigue of iron-silicon bicrystals,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3837-3849,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90167-1.
+(https://www.sciencedirect.com/science/article/pii/0956715195901671)
+Abstract: A directional dependence of the corrosion fatigue behavior of Fe-2.7wt%Si alloy Σ5[100]/(021) bicrystals was observed in a film forming solution. To understand this directional dependence, dislocation nucleation analyses at the opposite crack tips based on the Rice-Thomson concept and continuum elastic-plastic analyses, within single crystal theory, of the near tip fields by finite element method were performed. Explanations of brittle/ductile fatigue crack growth under corrosive conditions and the local crack tip rotation within the interface are offered based on these analyses.
+
+I.S. Suh, J.K. Park,
+The shape and orientation of the minimum strain energy of coherent ellipsoidal precipitate in an anisotropic cubic material,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4495-4503,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00131-E.
+(https://www.sciencedirect.com/science/article/pii/095671519500131E)
+Abstract: The elastic strain energy of perfectly coherent ellipsoid of revolution, which has the cube-cube orientation relationship with the matrix, has been calculated as a function of the orientation of the axis of revolution and of shape factor in anisotropic cubic crystalline materials. The minimum strain energy condition occurs at four different shapes and orientations, i.e. sphere, rod along 〈001〉 axis, disc on 001 plane and disc on 111 plane, depending on the two shear moduli of precipitate, i.e. μ*1((C*11—C*12)/2) and μ* (C*44). This is true regardless of the elastic property of the matrix phase when its anisotropy factor is larger than 1. The conditions of the occurrence of each shape and orientation are greatly affected by the difference in the misfit accommodation behavior depending on the shape of precipitate. A review of the experimental observations indicates the presence of all four different shapes and orientations in the case of GP zones in Al alloys. The conditions of their appearance are in good agreement with the prediction of the present calculation.
+
+K. Yoshimi, S. Hanada, M.H. Yoo,
+Yielding and plastic flow behavior of B2-type Fe-39.5 mol.% A1 single crystals in compression,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4141-4151,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00098-G.
+(https://www.sciencedirect.com/science/article/pii/095671519500098G)
+Abstract: Yielding and plastic flow behavior of B2-type Fe-39.5 mol.% Al were investigated by deforming single crystals in the temperature range from room temperature to 1073 K. Yield stress exhibits a distinct positive temperature dependence followed by a peak for all the orientations examined. The temperatures of the anomalous peak are located between 823 and 873 K for all the orientations except the near-[111] orientation. Only for the near-[111] orientation the peak temperature is located between 773 and 823 K. The slip transition from 〈111〉 direction at intermediate temperatures to 〈100〉 at high temperatures occurs at the peak temperatures. The yield stress at 773 K exhibits a strong orientation dependence and has a good correlation with respect to non-glide stress component. Specimens having compression axes of χ ⪖ 0° exhibit serrations in stress-strain curves below the peak temperatures, whereas the serrations are not observed in those of χ < 0°. In addition, a yield drop is observed around the peak temperatures for all the orientations. Below the peak temperatures, even as low as at room temperature, the yield stress hardly depends on the applied strain rate. This indicates that the motion of 〈111〉-type superdislocations has very small strain-rate sensitivity in the temperature range. On the other hand, there is a strong strain-rate dependence at the peak temperature and above, indicating that the motion of 〈100〉-type dislocations is strongly rate sensitive. The positive temperature dependence of yield stress in B2 FeAl is discussed on the basis of the present results.
+
+K. Milicˇka, F. Dobesˇ, J. Slamˇnİkova, A. Orlova´,
+Constitutive description of creep curves based on internal stress evolution,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 3947-3957,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00104-4.
+(https://www.sciencedirect.com/science/article/pii/0956715195001044)
+Abstract: A constitutive description of creep curves is derived from the time evolution of the internal stress in creep determined by means of strain transient dip test technique and from the kinetic equation between this stress and the instantaneous creep rate. Several constitutive equations have been tested on creep curves of aluminium. It is shown that fitting of the curves and its statistical judgement cannot be used as the only criterion for an investigation of the evolution and role of the internal stress in creep. Such procedure must be completed by another independent procedure. As an appropriate procedure, the measurement of the internal stress in the steady state creep has been successfully applied.
+
+L. Qiao, X. Mao,
+Thermodynamic analysis on the role of hydrogen in anodic stress corrosion cracking,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4001-4006,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00090-I.
+(https://www.sciencedirect.com/science/article/pii/095671519500090I)
+Abstract: A synergistic effect of hydrogen and stress on a corrosion rate was analyzed with thermodynamics. The results showed that an interaction of stress and hydrogen could increase the corrosion rate remarkably. Stress corrosion cracking (SCC) of austenitic stainless steel (ASS) was investigated in boiling chloride solution to confirm the analysis. Hydrogen could be introduced into the specimen and concentrated at the crack tip during SCC in boiling LiCl solution (143°C). The concentrating factor is about 3 which is consistent with calculated results according to stress induced diffusion.
+
+G.R. Purdy, Y.J.M. Brechet,
+A solute drag treatment of the effects of alloying elements on the rate of the proeutectoid ferrite transformation in steels,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3763-3774,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90160-4.
+(https://www.sciencedirect.com/science/article/pii/0956715195901604)
+Abstract: The problem of diffusional growth of a proeutectoid constituent in a ternary steel is considered, taking into account the interfacial diffusion of a slow-diffusing substitutional solute, under conditions which do not permit its long-range redistribution between parent and daughter phases. It is assumed that the faster diffusing interstitial solute (carbon) controls the rate of the transformation. The substitutional solute profile within (across) the interface is estimated as a function of interface velocity; the interstitial chemical potential difference is allowed to vary with, and balance, the solute drag due to the substitutional component. A transition to paraequilibrium is found at high interface velocities, and a variety of behaviour is predicted for intermediate states, depending on the relative rates of diffusion of the two solutes and their energetic interactions with each other and with the interphase boundary.
+
+Li Jian, C.M. Wayman,
+Electron back scattering study of domain structure in monoclinic phase of a rare-earth orthoniobate LaNbO4,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3893-3901,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90172-8.
+(https://www.sciencedirect.com/science/article/pii/0956715195901728)
+Abstract: The recently developed SEM electron back scattering technique was employed to examine the domain structure in the monoclinic phase of a rare-earth orthoniobate LaNbO4. The monoclinic phase was identified by X-ray diffraction. The existence of the domain structure was revealed by the electron back scattering pattern, optical microscope and TEM. The orientation relationship between domains was determined by the electron back scattering technique as a rotation of 94° about the [010] axis. This result was confirmed by TEM diffraction and mathematical relations between domain orientations were established.
+
+Sun Ig Hong, M.A. Hill, Y. Sakai, J.T. Wood, J.D. Embury,
+On the stability of cold drawn, two-phase wires,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3313-3323,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00050-6.
+(https://www.sciencedirect.com/science/article/pii/0956715195000506)
+Abstract: Two-phase materials can be deformed by wire drawing to produce materials with tensile strength levels of the order of E/100. In this condition, they possess ultrafine scale microstructures. This paper examines various aspects of the stability of such structures including the mechanical stability of elastically stressed second phases, the tendency to instability by spheroidization, and the occurrence of discontinuous coarsening due to large local gradients of stored energy in drawn two-phase structures.
+
+W. Zhang, J.H. Schneibel,
+The sintering of two particles by surface and grain boundary diffusion—a two-dimensional numerical study,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4377-4386,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00115-C.
+(https://www.sciencedirect.com/science/article/pii/095671519500115C)
+Abstract: We investigate the sintering of two touching circular particles by surface and grain boundary diffusion. Typical examples for the evolution of the shape of the particles, their surface curvatures, and their surface fluxes are given. The sintering kinetics are evaluated as a function of the dihedral angle at the grain boundary-surface junctions and the grain boundary to surface diffusivity ratio. In particular, the growth rates of the neck between the two particles, the growth rate exponents, and the changes in the lengths of the particle pairs are monitored. The times needed to reach certain fractions of the final equilibrium neck sizes are tabulated for typical experimental dihedral angles and diffusivity ratios. Our simulation is based on a rigorous mathematical system modeling the sintering of the two particles, and a rigorous numerical method for solving this system is adopted.
+Zusammenfassung
+Wir untersuchen das Sintern von zwei sich berührenden kreisförmigen Teilchen durch Oberflächen und Korngrenzendiffusion. Typische Beispiele für die Entwicklung der Gestalt der Teilchen, ihrer Oberflächenkrümmungen, und ihrer Oberflächenflüsse werden gegeben. Die Sinterkinetik wird als Funktion des Winkels, den die Oberflächen an den Sinterhälsen einschlieβen, und als Funktion des Verhältnisses zwischen Korngrenzen und Oberflächendiffusion berechnet. Insbesondere werden die Wachstumsraten der Sinterhälse zwischen den Teilchenpaaren, die Wachstumsexponenten, und die Änderung in der Länge der Teilchenpaare berechnet. Die Zeiten, die benötigt werden, um bestimmte Bruchteile der endgültigen Halsgröβen zu erreichen, werden für typische experimentell gefundene Diffusionsverhältnisse und Winkel berechnet. Unsere Simulation beruht auf einem strengen mathematischem System für die Modellierung des Sinterns der zwei Teilchen, und zur Lösung wird eine strenge mathematisch Methode verwendet.
+
+M. Jiménez-Melendo, A. Domínguez-Rodríguez, J. Castaing,
+Point defect concentration relaxation and creep transients in binary oxides,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3589-3604,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90144-2.
+(https://www.sciencedirect.com/science/article/pii/0956715195901442)
+Abstract: In non-stoichiometric oxides (NiO, CoO, Cu2O…) two thermodynamic parameters (temperature T and partial pression of oxygen Po2) are necessary in order to fix the population of point defects. When one of these two parameters (T or Po2) is suddenly changed and a physical property is continuously recorded, a “transient” can be observed due to the diffusion of the point defects in order to reach the new thermodynamic equilibrium population. Many works have been devoted to the majority point defects (non-stoichiometry). In this paper we present an overview about the high temperature transitory plastic deformation which is related with the minority point defects.
+Résumé
+Dans les conditions normales, deux paramétres sont nécessaries pour fixer l'état thermodynamique des oxydes binaires, lorsque leur composition peut varier. On emploie habituellement la temperature T et la pression partielle Po2 d'oxygéne de l'atmosphére environnante. Cela permet de faire varier la stoechiometrie de Cu2O, NiO, CoO… et n'a pas d'effet sur Al2O3, ZrO2, etc. A la suite d'un changement brusque de T ou Po2, la diffusion des défauts ponctuels induit des transitoires sur les proprietés physiques des oxydes. Dans des travaux anterieurs on a examiné les comportements liés à la non-stoechiometrie, c'est à dire reliés aux défauts majoritaires. Ici, nous examinons le cas de la deformation plastique á haute température qui est reliée aux défauts minoritaires. Des transitoires ont été observés dans les oxydes non-stoechiometriques (NiO, CoO, Cu2O), mais pas dans ceux qui ne présentent pas d'écart à la stoechiometrie (Al2O3, ZrO2).
+
+Xing-Gang Jiang, Wu-Yang Chu, Ji-Mei Xiao,
+Hydrogen induced void nucleation of 310 stainless steel,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3727-3732,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90156-6.
+(https://www.sciencedirect.com/science/article/pii/0956715195901566)
+Abstract: Hydrogen induced void nucleation of 310 stainless steel was investigated. Experimental results indicated that hydrogen promoted void nucleation. A new model of hydrogen induced void nucleation was proposed. The basic idea of this model is that hydrogen induces void nucleation not only by promoting microcrack nucleation but also by promoting the transition of microcrack to microvoid; hydrogen also increases the stability of a microvoid by forming hydrogen pressure in the microvoid and by decreasing the void surface energy.
+
+C. Jourdan, J. Gastaldi, G. Grange, S. Belkahla, G. Guénin,
+In situstudy of the self-accommodating process during the martensitic transformation of A Cu-Zn-Al single crystal by synchrotron X-Ray topography—II. dynamics of the process and role of crystalline defects,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4227-4234,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00127-H.
+(https://www.sciencedirect.com/science/article/pii/095671519500127H)
+Abstract: The martensitic transformation of Cu-Zn-Al single crystals has been followed in situ and in real time by synchrotron X-ray topography. We have shown that at the Mstemperature, the transformation proceeds by nucleation and growth of transformation variants associated by self-accommodating pairs. The nucleation of these variants is triggered by the crystal substructure. When the martensitic transformation is multivariant the behaviour of the crystal substructure and the development of elastic stresses inducing a reversible curvature of lattice planes has been displayed.
+
+J.A. Wert, Q. Liu, N. Hansen,
+Dislocation boundaries and active slip systems,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4153-4163,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00097-F.
+(https://www.sciencedirect.com/science/article/pii/095671519500097F)
+Abstract: Part of the dislocations which have participated in the plastic deformation of a polycrystalline metal are stored in dislocation boundaries in a two- or three-dimensional arrangement. The dislocations in such boundaries can be analysed by determining the misorientation between neighbouring crystallites and the boundary orientation. Information about the dislocations in the boundaries can also be obtained by an analysis of active slip systems based on the crystallite orientation and the imposed stress or strain state in combination with appropriate constraint conditions. In the present paper an analysis of the boundary dislocation structure and of the slip systems has been conducted for pure aluminium cold-rolled to a von Mises strain of 0.41. The results show that a substantial majority of dislocations in different types of dislocation boundaries are from the primary and conjugate slip system in the adjoining crystallites. A basis is therefore provided for integrating deformation structure observations with plastic deformation behaviour.
+
+M.R. Begley, B.N. Cox, R.M. McMeeking,
+Time dependent crack growth in ceramic matrix composites with creeping fibers,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 3927-3936,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00103-3.
+(https://www.sciencedirect.com/science/article/pii/0956715195001033)
+Abstract: Crack growth in ceramic matrix composites with creeping fibers has been investigated using a time dependent bridging law to describe the effect of fibers bridging a matrix crack. The fibers were assumed to creep linearly and the matrix was assumed to be elastic. Time dependent crack growth was predicted assuming that matrix crack growth occurs when the stress intensity factor at the matrix crack tip reaches a constant critical value. Crack growth rates are presented as a function of crack length and time. Domains of stable and unstable crack growth are outlined. The solutions illustrate that stable crack growth consists of a relatively brief period of decerelation followed by acceleration to large crack lengths, with crack velocity approaching constancy only at loads very near the matrix cracking stress and for very long cracks. Finally, the time needed to grow a long matrix crack is compared with a rough estimate for the time needed to rupture fibers. A transition is expected from life dominated by matrix crack growth at low stress to life dominated by fiber creep rupture after crack growth at higher stresses.
+
+L. Shaw, D. Miracle, R. Abbaschian,
+Microstructure and mechanical properties of metal/oxide and metal/silicide interfaces,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4267-4279,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00130-N.
+(https://www.sciencedirect.com/science/article/pii/095671519500130N)
+Abstract: Fracture energies of Al2O3/Nb interfaces and MoSi2/Nb interfaces with and without A12O3coating were measured using sandwich-type chevron-notched specimens. The relations between the mechanical properties, microstructures, types of bonds at the interface and processing routes were explored. The fracture energy of the Al2O3/Nb interface was determined to be 9 J/m2and changed to 16 J/m2when Nb was pre-oxidized before the formation of the Al2O3/Nb interface. The fracture energy of the MoSi2/Nb interface could not be determined directly because of the formation of the interfacial compounds. However, the fracture energy at the MoSi2/Nb interfacial region was found to depend on the interfacial bond strength, roughness of interfaces and microstructure of interfacial compounds. The interfacial fracture energies of A12O3with silicides, MoSi2, Nb5Si3, or (Nb, Mo)Si2were estimated to be about 16 J/m2, while the interfacial fracture energies between two suicides or between Nb and a silicide were larger than 34 J/m2. The measured fracture energies of the various interfaces are discussed in terms of the interfacial microstructures and types of bonds at the interfaces.
+
+R.S. Hay,
+The use of solid-state reactions with volume loss to engineer stress and porosity into the fiber—matrix interface of a ceramic composite,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3333-3347,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00033-R.
+(https://www.sciencedirect.com/science/article/pii/095671519500033R)
+Abstract: The effect of the 11 vol% loss during reaction of yttrium-aluminum garnet (YAG) and zirconia was observed in zirconia coated single-crystal alumina fiber—YAG matrix composites. The reaction caused plastic deformation in the alumina fibers, and possibly a minor amount of porosity at fiber—matrix interfaces that was usually indistinguishable from matrix porosity. The results were analyzed by models for diffusive cavitation modified to use reaction self-stress. Crack-healing, tensile stress states along the reaction front that approach plane stress, and the small volume of self-stressed material make crack-like pores unlikely at the high temperatures required for reaction. Smaller matrix grains might promote formation of smaller cavities but are also incompatible with high temperature. Both modeling and experiment suggest that sufficient porosity for crack deflection and fiber pullout cannot form unless processing methods that form dense composites at lower temperatures are used.
+
+A.D. Sequeira, H.A. Calderon, G. Kostorz, J.S. Pedersen,
+Bimodal size distributions of γ′ precipitates in Ni-Al-Mo—II. Transmission electron microscopy,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3441-3451,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00044-V.
+(https://www.sciencedirect.com/science/article/pii/095671519500044V)
+Abstract: A double step aging procedure was used to produce bimodal size distributions of precipitates in two Ni-Al-Mo alloys. The evolution of the microstructure during the decomposition was studied using transmission electron microscopy. Shape and changes in the spatial correlations of the precipitate ensemble as well as precipitate size distributions were determined for a very wide time scale. Particle shape transitions during aging were monitored by the determination of aspect-ratio distributions. The results are compared with small-angle neutron scattering analysis in the preceding paper and good agreement is found between the size distributions determined by the two techniques. In the alloy with high coherency strains peculiar phenomena were observed during aging, e.g. coalescence among the small precipitates, preferential growth of small precipitates in the presence of larger ones, and a dramatic narrowing of the size distribution of large precipitates indicating a uniformization in size towards late stages of aging.
+
+T. Zhai, J.W. Martin, G.A.D. Briggs,
+Fatigue damage in aluminum single crystals—I. On the surface containing the slip burgers vector,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3813-3825,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90165-5.
+(https://www.sciencedirect.com/science/article/pii/0956715195901655)
+Abstract: An aluminum single crystal with the axial direction of [211&#x0304;0 was fatigued in push-pull at the constant resolved shear stress amplitude 4 MPa, frequency 20 Hz room temperature. Microcracks, microvoids, macrobands, extrusions and intrusions were observed on the side-surface containing the Burgers vector b. Most microcracks were opened, and were within, but approximately perpendicular to, PSBs. Slip steps were found in the extrusions and intrusions. There was net irreversible slip in one direction in most PSBs. Some short cracks along the PSBs on the side-surface were also observed at 5 × 106 cycles. These observations indicate that, without the aid of the surface roughness of PSBs, cracks can still be nucleated, and that, apart from the notch effect of a PSB, there are other factors controlling crack initiation in single crystal aluminium. There may be an internal tensile stress existing in a PSB in the direction of b, and a shear stress applied by the specimen grips in the specimen due to the irreversible slip in one direction in PSBs. These stresses and the applied stress are responsible for the formation of microcracks, microvoids, extrusions, intrusions and macrobands on the side-surface.
+
+Dominique Schryvers, Ying Ma, Lajos Toth, Lee Tanner,
+Electron microscopy study of the formation of Ni5Al3 in a Ni62.5Al37.5 B2 alloy—I. Precipitation and growth,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4045-4056,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00101-Z.
+(https://www.sciencedirect.com/science/article/pii/095671519500101Z)
+Abstract: The formation and growth of Ni5Al3 precipitates found inside an annealed B2 matrix in Ni62.5Al37.5 samples is described on the basis of conventional and high resolution electron microscopy images and electron diffraction patterns. Short anneals introduce three-pointed star shaped precipitates consisting of twin related segments with different variants of the Ni5Al3 structure. Longer anneals result in separate plates growing from these wings and developing microtwinning in order to accommodate stress built-up at the interfaces with the surrounding matrix. Two different growth mechanisms were observed and are discussed. The lattice distortions are found to be much higher in the small precipitates than in the large microtwinned plates.
+
+R. Sasikumar, M. Kumar,
+The strength of the coupling between macroscopic heat flow and equiaxed grain formation in castings,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4387-4392,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00114-B.
+(https://www.sciencedirect.com/science/article/pii/095671519500114B)
+Abstract: The strength of the coupling between heat flow and microstructure formation during solidification depends on the kinetics of the microstructural phenomenon. Strong coupling makes it necessary to solve the equations governing heat flow and those governing microstructure formation simultaneously in order to predict the evolution of temperature field and the microstructure. If the coupling is weak, uncoupling the equations to some extent and simplifying the calculation procedure does not affect the predictions of the calculations. In this work the strength of the coupling in the case of equiaxed eutectic grain formation is investigated in order to see to what extent the governing equations can be uncoupled. It is found that the coupling is so strong that full coupling of the equations is essential to get reliable results.
+
+D.M. Tan, E.K. Tschegg, H. Rotter, H.O.K. Kirchner,
+Cracks at mortar-stone interfaces,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3701-3707,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90153-1.
+(https://www.sciencedirect.com/science/article/pii/0956715195901531)
+Abstract: In split cube geometries the specific fracture energies of sandstone-mortar (14 Nm−1) and limestone-mortar (6 Nm−1) interfaces were determined. They are much lower than for bulk mortar (80 Nm−1). A damage type law describes well the development of a process zone around the interfacial cracks. In finite element calculations the damage law descrobes the behaviour of flat interfaces, but needs improvement for curved interfaces.
+Zusammenfassung
+In Spaltwuerfelgeometrie wurden die Burchenergien von Sandstein-Moertel (14 Nm−1) und Kalkstein-Moertel (16 Nm−1) Grenzflaechen bestimmt. Sie liegen betraechtlich unter der Bruchenergie des Moertels (80 Nm−1). Ein Schaedigunsgesetz beschreibt die Prozesszone um die Grenzflaechenrisse. In Simulationen mit finiten Elementen gibt das Schaedigungsgesetz das Verhalten an flachen Grenzflaechen gut wieder, bedarf aber fuer gekruemmte Grenzflaechen der Verbesserung.
+Résumé
+Dans la géométrie de cubes clivés, les énergies de rupture spécifique des interfaces entre le mortier et du grès (14 Nm−1) et entre le mortier et du calcaire (6 Nm−1) ont été déterminées. Elles sont bien plus faibles que celle du mortier massif (80 Nm−1). Une loi type endommagement décrit bien le développement d'une zone active autour des fissures interfaciales. Au moyen de calculs par éléments finis, la loi d'endommagement décrit le compartment des interfaces planes mais nécessite d'être améliorée pour les interfaces courbes.
+
+C. Jourdan, J. Gastaldi, V. Roques, G. Grange, S. Belkahla, G. Guénin,
+In situstudy of the self-accommodating process during the martensitic transformation of a Cu-Zn-Al single crystal by synchrotron X-Ray topography—I. crystallographic study,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4213-4225,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00126-G.
+(https://www.sciencedirect.com/science/article/pii/095671519500126G)
+Abstract: The thermoelastic transformation of the CuZnAl shape memory alloy has been studied in situ and in real time by synchrotron X-ray topography. The white nature of the beam leads access to crystallographic relations between crystals in β and 9R phases. From our original method deduced from the Kajiwara theory the experimental and simulated orientations have been compared and the self-accommodating character of the transformation has been shown.
+Résumé
+La transformation thermoélastique de l'alliage CuZnAl a été étudiée par topographie en rayonnement X synchrotron. La nature polychromatique de ce faisceau a été exploitée pour déterminer, expérimentalement, les relations d'orientation entre les phases β et 9R. A l'aide d'une méthode inspirée par le travail théorique de Kajiwara, nous avons simulé les orientations respectives et montré le caractère self-accommodant de cette transformation.
+
+E.M. Schulson, S.E. Buck,
+The ductile-to-brittle transition and ductile failure envelopes of orthotropic ice under biaxial compression,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3661-3668,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90149-3.
+(https://www.sciencedirect.com/science/article/pii/0956715195901493)
+Abstract: Experiments were performed on orthotropic columnar fresh-water ice of ≈ 6mm column diamter proportionally loaded across the columns under biaxial compression at −10°C under various combinations of strain rate and stress ratio, R = σ22/σ11. The ductile-to-brittle transition strain rate increased from about 8 × 10−5 s−1 under no confinement to about 3 × 10−4s−1 under intermediate confinement (R ⋍ 0.3), and then decreased to about 5 × 10−5s−1 under full confinement (R = 1). The ductile failure envelopes are semi-elliptical in shape and conform fairly well to those created with the use of Hill's [9] criterion for the yielding of plastically orthotropic materials. The transition strain rate is rationalized in terms of the effects of the confining stress on the ductile and the brittle failure stresses, and is modelled in terms of the suppression of creep deformation at the tips of wing cracks.
+
+M.S. Dadkhah, B.N. Cox, W.L. Morris,
+Compression-compression fatigue of 3D woven composites,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4235-4245,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00137-K.
+(https://www.sciencedirect.com/science/article/pii/095671519500137K)
+Abstract: Polymer composites with 3D woven graphite fiber reinforcement (3D interlock weaves) have been tested in compression-compression fatigue under load control. As under monotonic loading, the principal mechanism of failure is kink band formation in the primary load bearing tows. Observations of kink bands and microcracking in sectioned specimens suggest that fatigue progresses by the accumulation of damage to the resin within individual tows. It is conjectured that resin damage leads to failure by lowering the critical stress for kink band formation on a single cycle. If resin damage is assumed to accumulate at a rate proportional to some power of the local axial shear stress in a misaligned tow, then a simple formula follows for the cycles to kink band formation. Under load control, only a few kink bands are required for specimen failure. Then the formula is also the basis for estimates of fatigue life. Fatigue life data and measured misalignment angles, which determine the local axial shear stress, support the fatigue model.
+
+J. Llorca, P. Poza,
+Influence of reinforcement fracture on the cyclic stress-strain curve of metal-matrix composites,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 3959-3969,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00096-E.
+(https://www.sciencedirect.com/science/article/pii/095671519500096E)
+Abstract: The cyclic stress-strain curve of a 2618 Al alloy reinforced with 15 vol.% SiC particulates was measured through the incremental step method in the naturally aged and peak-aged conditions. The mechanical response was also simulated by means of the finite element analysis of a unit cell to determine the average stresses acting on the matrix and on the reinforcements during cyclic deformation. The stresses on the reinforcements were used to calculate the fraction of broken reinforcements by assuming that the reinforcement strength follows the Weibull statistics. Then the cyclic stress-strain curve, including the influence of reinforcement fracture, was obtained by neglecting the load carried by broken reinforcements. Finally, the predictions of the model (the cyclic stress-strain curve and the fraction of broken reinforcements) were compared with the experimental results.
+
+Dominique Schryvers, Ying Ma, Lajos Toth, Lee Tanner,
+Electron microscopy study of the formation of Ni5Al3 in a Ni62.5Al37.5 B2 alloy—II. Plate crystallography,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4057-4065,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00102-2.
+(https://www.sciencedirect.com/science/article/pii/0956715195001022)
+Abstract: Different twinning arrangements in Ni5Al3 plates grown inside the B2 phase in Ni62.5Al37.5 samples are descrubed on the basis of conventional and high resolution electron microscopy images and electron diffraction. The plate morphology is comparable with that of pure 2M martensite plates. The choice of ordered variants within a plate is dictated by the ordering coherency of the twin plane. No dislocations were observed at the primary plate-matrix interfaces. An explanation using the streaking due to aperiodic twinning is given for unexpected reflections.
+
+Huang Xiaoxu, K. Tsuzaki, T. Maki,
+Subgrain growth and misorientation of the α matrix in an (α + γ) microduplex stainless steel,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3375-3384,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00028-T.
+(https://www.sciencedirect.com/science/article/pii/095671519500028T)
+Abstract: The change of the (α + γ) microduplex structure during annealing in an Fe-26%Cr-7%Ni alloy has been investigated with emphasis on the change in the misorientation of the α matrix subgrain boundaries with subgrain growth in a large range of subgrain size. A long time holding up to 360 ks at 1273 K caused significant structure coarsening, and the growth of the α matrix subgrains and γ particles obeyed the third power law. On the other hand, the average misorientation of the α subgrain boundaries changed insignificantly, even though the α subgrain size markedly increased from 2.6 to 15.6 μm. This insignificance in the misorientation resulted from the fact that the variation of the local lattice rotation in the α matrix is not monotonic but periodic, and no long range lattice curvature exists.
+
+J. Xu, B.N. Cox, M.A. McGlockton, W.C. Carter,
+A binary model of textile composites—II. The elastic regime,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3511-3524,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00057-3.
+(https://www.sciencedirect.com/science/article/pii/0956715195000573)
+Abstract: In a previous paper, a new model called the Binary Model was formulated to describe the behavior of textile composites with three-dimensional (3D) reinforcement. Here, detailed prescriptions are given for the constitutive laws of the computational elements in terms of the properties of the constituent materials and the geometry of the fiber reinforcement. The application studied is to woven composites with 3D interlock reinforcement. Predicted macroscopic elastic constants agree with experimental values without the use of adjustable parameters. The Binary Model also shows how the waviness of nominally straight tows in 3D weaves affects the statistics of local stresses. Through-thickness reinforcement also disorders local stresses, but its effect is found generally to be much less than that of tow waviness for current 3D woven composites. For predicting the onset of failure, it is inferred that treating the stochastic effects of tow irregularity is much more important than modeling the influence of local tow configurations in great detail.
+
+G. González-Doncel, P. Adeva, M.C. Cristina, J. Ibáñez,
+Lüders bands formation in a rapidly solidified Ni3al alloy ribbon,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4281-4287,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00140-Q.
+(https://www.sciencedirect.com/science/article/pii/095671519500140Q)
+Abstract: The phenomenology of Lüders bands formation in a rapidly solidified Ni-20Al-12Cr-1.8Mo intermetallic alloy ribbon in the temperature range of 300-770 K is discussed. It was observed that strength and Lüders bands aspect on the specimen were irrespective of temperature. The flow characteristics in the Lüders region of the load-elongation curve were, however, very temperature sensitive. At low temperatures (<470 K), a flat plastic region with few instabilities was seen; but at higher temperatures (>470 K), a clear serrated behavior was manifested and the amplitude of serration increased with temperature. It is suggested that yielding occurs by dislocation generation at grain boundaries and that the stress required for dislocation generation (σeff) is athermal. A temperature dependent stress originated by the dynamic pile-up of dislocations at grain boundaries (dynamic stress) is, however, introduced as rate controlling for Lüders front motion and responsible for serration appearance.
+
+N.D. Aparicio, A.C.F. Cocks,
+On the representation of random packings of spheres for sintering simulations,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3873-3884,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90170-1.
+(https://www.sciencedirect.com/science/article/pii/0956715195901701)
+Abstract: In this work, we have developed an algorithm which generates a random packing of irregular sized spheres using the ballistic deposition method. Our aim is to provide useful tools to represent a three-dimensional array of spheres of different sizes that can be used to study the sintering of fine spherical particles. Apart from the well known devices that have been introduced such as relative density, coordination number and radial distribution function, we show how the Voronoi polyhedra can give useful information that can be followed during a sintering simulation. We extend the definition of Voronoi polyhedra such that it will be useful for describing an array of particles of different sizes during sintering.
+
+S. Long, Z. Zhang, H.M. Flower,
+Characterization of liquid metal infiltration of a chopped fibre preform aided by external pressure—I. Visualization of the flow behaviour of aluminium melt in a fibre preform,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3489-3498,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00055-Z.
+(https://www.sciencedirect.com/science/article/pii/095671519500055Z)
+Abstract: The flow behaviour of an AlSi10Mg alloy melt in Saffil chopped fibre preforms during liquid metal infiltration aided by squeeze pressure or vacuum has been visualized. Experimental results indicate that under the external pressure the flow behaviour of the melt in non-wetting chopped fibre preforms is dominated by capillary laws and the geometrical characteristics of the interspaces between fibres. During the infiltration, the melt preferentially penetrated into the large interspaces in the preform in a manner analogous to flow in a capillary tube network. The degree of saturation of the interspaces is dominated by local infiltration pressure. and variation of the saturation degree at a given infiltration depth is determined by fibre distribution uniformity at the microscopic level.
+
+M.B. Henderson, J.W. Martin,
+Influence of precipitate morphology on the high temperature fatigue properties of SRR99,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4035-4043,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00113-A.
+(https://www.sciencedirect.com/science/article/pii/095671519500113A)
+Abstract: Fatigue crack growth (FCG) tests have been conducted in air at 650°C and 850°C on 〈001〉 oriented single crystals of SRR99 having the γ′ particles in the form of: (A) 0.3 μm cuboids; (B) 0.2 μm ogdoadical cuboids; and (C) a coarse, rafted γ′ structure. In general, reducing the frequency and increasing the temperature enhances crack-tip shielding at low ΔKs due to increasing oxide induced crack closure. In material A at 650°C the crack path changes from one of γ′ precipitate cutting on {001} to propagation within the matrix as ΔK increases. Enhanced crack branching at 850°C improves the Paris regime behaviour compared with that seen at 650°C. In material B at 650°C, greater cross slip at lower frequency reduces slip reversibility, thus enhancing the fatigue crack growth rate (FCGR). At 850°C crack tip blunting and meandering, associated with γ′ cutting, improves the high ΔK FCG response and on a strength/modulus normalized basis is comparable with that seen for material A. Material C shows a similar FCG resistance to A at 650°C, but there is an acceleration in FCGR at 850°C, which can be accounted for in terms of the lower proof stress and modulus of this microstructure.
+
+D.R. Lesuer, C.K. Syn, O.D. Sherby,
+Fracture behavior of spheroidized hypereutectoid steels,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3827-3835,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90166-3.
+(https://www.sciencedirect.com/science/article/pii/0956715195901663)
+Abstract: A fracture model for spheroidized hypereutectoid steels is developed based on the concept that the stress in the ferrite matrix is the driving force for crack initiation at grain boundaries within the coarse carbides. The ferrite matrix fracture stress, δf,ferr is calculated by averaging the ferrite stress using upper and lower bound concepts, and by utilizing the fracture strength of the carbide. The analyses and results indicate that the fracture behavior follows a classical fracture mechanics relation in that the fracture strength is a unique function of the reciprocal of the square root of the carbide particle size with δf,ferr equal to zero at infinite carbide (crack) size. It is concluded that the fracture strength of the iron-iron carbide composite is enhanced by: (i) increasing the strength of grain boundaries within carbides; (ii) decreasing the average carbide size, and (iii) increasing the carbide volume fraction.
+
+J.Y. Shu, J.A. Blume, C.F. Shih,
+Fracture toughness of niobium/alumina interfaces: an analysis based on a micromechanical model,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4301-4307,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00125-F.
+(https://www.sciencedirect.com/science/article/pii/095671519500125F)
+Abstract: The fracture toughness is predicted for an interface between niobium and alumina. It is assumed that voids at the triple points of grain junctions on the interface are the sites of cleavage decohesion. These voids are treated as microcracks and the plastic zone is modelled by a cohesive zone of constant shear stress. The interaction between the microcrack and the main crack is studied using an integral equation approach. The fracture toughness is calculated via various fracture criteria and compared against experimental data. Scatter in the experimental data is related to the variability in microdefect size.
+
+Dov Sherman, Jean Lemaitre, Frederick A. Leckie,
+The mechanical behavior of an alumina carbon/epoxy laminate,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4483-4493,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00136-J.
+(https://www.sciencedirect.com/science/article/pii/095671519500136J)
+Abstract: An experimental study has been made of a laminate consisting of monolithic thin alumina plates alternating with unidirectional carbon/epoxy (C/E) prepreg tapes. The main advantages of this system over the traditional means of reinforcing ceramics, are the avoidance of large flaws due to processing, which occur in fiber reinforced brittle matrix composites, and the nearly isotropic behavior under biaxial loading. In addition, the multiple fracture mechanism occurring in the system gives rise to pseudo ductile behavior and enhanced strain energy dissipation. The mechanical behavior of the laminate is explored. The effects of the number of layers, volume fraction and transverse properties are also investigated. The loss of stiffness with increase of the applied strain is estimated using a simple shear lag theory, which includes the plastic behavior of the interface.
+
+L. Liu, F. Padella, W. Guo, M. Magini,
+Solid state reactions induced by mechanical alloying in metal-silicon (metal = Mo, Nb) systems,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3755-3761,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90159-0.
+(https://www.sciencedirect.com/science/article/pii/0956715195901590)
+Abstract: Stoichiometric Mo33Si66 and Nb33Si66 have been alloyed by mechanical alloying (MA) from the elemental powders and the process has been monitored by X-ray diffraction (XRD) technique. Nanocrystalline intermetallic compounds were obtained for either compositions: the NbSi system gave the expected NbSi2 compound, while in the MoSi system both αMoSi2 (low temperature phase) and βMoSi2 (high temperature phase) with the latter being the dominant phase, were promoted by the milling action. The metastable equilibrium αMoSi2↔βMoSi2, as well as the tendency to reaction of prealloyed MoSi samples, have been examined by means of differential thermal analysis (DTA), followed by X-ray identification of the formed phases. Finally, the oxygen influence on phase transformation induced by both milling action and thermal treatment has been examined. It has been found that oxygen pick-up not only strongly inhibited the solid state reactions in the process of mechanical alloying but also caused the destabilization of the already formed intermetallic compounds.
+
+D.B. Sabljic, D.S. Wilkinson,
+Influence of a damage zone on high temperature crack growth in brittle materials,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 3937-3945,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00095-D.
+(https://www.sciencedirect.com/science/article/pii/095671519500095D)
+Abstract: High temperature crack growth in ceramics often occurs by the nucleation, growth and coalescence of cavities in a region ahead of the crack tip known as the damage zone. Models describing this type of behaviour generally assume that the presence of cavities does not affect the stress distribution ahead of the crack tip. In this study, a crack growth simulation has been developed which incorporates the effects of cavity nucleation, growth and coalescence on the stress field ahead of the crack. Cavity growth dominated both by grain boundary diffusion and by surface diffusion has been modelled. The models follow both the transient effects which occur following initial loading and the development of a steady-state regime under conditions of constant applied stress intensity factor KI. In general, the wedging action due to cavity growth reduces the stress field near the crack tip. However, this is largely compensated for by an increase in the damage zone size, as a result of load transfer from the crack tip to the end of the damage zone. We have therefore demonstrated that the established analytical models which do not account for stress redistribution give a much better description of steady-state crack growth behavior than one would expect.
+
+J.G. Zhu, C.J. Palmstrøm, C.B. Carter,
+Misfit dislocations at ErAs/GaAs heterojunctions,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4171-4177,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00109-9.
+(https://www.sciencedirect.com/science/article/pii/0956715195001099)
+Abstract: Misfit dislocations at the ErAs/GaAs interfaces grown by molecular-beam epitaxy have been investigated using the weak-beam technique of transmission electron microscopy (TEM). The observed dislocation configurations are significantly different from those at heterojunctions between “diamond-cubic” structured materials. Networks of nearly orthogonal dislocation, with dislocations lying approximately along [010] and [001] dislocations, and honeycomb-like dislocation networks have been observed. The dislocation density increases as the ErAs layer thickness increases. Different dislocation reactions between the a/2〈110〉 type dislocations, which result in complex dislocation configurations, are discussed. Slight misalignment of the epilayer with respect to the substrate is possible if there are uneven distributions of inclined Burgers vectors in different orientations or screw components in the dislocation network at the interface.
+
+S. Long, Z. Zhang, H.M. Flower,
+Characterization of liquid metal infiltration of a chopped fibre preform aided by external pressure—II. Modelling of liquid metal infiltration process,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3499-3509,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00056-2.
+(https://www.sciencedirect.com/science/article/pii/0956715195000562)
+Abstract: Based on the visualized flow behaviour of Al10SiMg alloy melt in Saffil chopped fibre preforms, unidirectional infiltration of a chopped fibre preform aided by squeeze pressure has been analysed. The relationships between melt flow and process parameters have been statistically established by the hydrodynamic analysis. The stress distribution, the variation of saturation degree and the formation of cavities due to air entrapment in the preform during infiltration have been discussed together with the analysis results.
+
+Zhonghao Jiang, Jianshe Lian, B. Baudelet,
+A dislocation density approximation for the flow stress—grain size relation of polycrystals,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3349-3360,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00031-P.
+(https://www.sciencedirect.com/science/article/pii/095671519500031P)
+Abstract: Based on the dislocation pile-up theory and the Ashby model of polycrystalline deformation, an expression for flow stress was derived, which shows that the flow stress depends on the densities of statistically stored dislocation ρs and geometrically necessary dislocation ρg. The contribution of ρg to the flow stress is related to the grain boundary region fraction 1 − x which was derived to be the functions of ρs and ρg. This expression does not predict a precise Hall—Petch relation. If ρs dominates, the expression reduces to a linear σ−d−1 relation: if ρg dominates, the expression reduces to a linear σ−d−1/2 relation, i.e. the Hall—Petch relation. The expression was applied to calculate the σ−d−1/2 curves of three typical polycrystalline materials, aluminium, copper and brass in the literatures and very good agreements between the calculations and experiments were obtained. By incorporating the experimental data, the contributions of ρs and ρg to flow stress was analysed and the Hall—Petch parameters were discussed in terms of ρs and ρg.
+
+T. Troczynski,
+Stochastic model of an R-curve due to crack bridging,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4131-4140,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00112-9.
+(https://www.sciencedirect.com/science/article/pii/0956715195001129)
+Abstract: A stochastic model is formulated to analyse crack tip shielding from the applied load, as a function of microstructural parameters and loading conditions, in nontransforming polycrystalline ceramics. The model recognizes the random nature of the microstructural elements, such as grains, inclusions or fibers, which are traversed by the propagating crack. The role of distribution of grain size, and strength of grains and interfaces in the development of the crack interface bridging is emphasized, and numerically evaluated. The standard model parameters are chosen to represent aluminium oxide, as an extensive experimental data base is available for this material. Quantitative predictions of toughening and closure stresses within the bridging process zone are in agreement with experimental data quoted in the literature. It is found that a typical coarse-grained alumina with geometric average grain size of 10 μm and geometric standard deviation of 1.3 exhibits a 5 mm long bridging zone, with the maximum closure stress of 86 MPa, and the maximum toughening due to crack bridging of 90 J/m2. The R-curve has been confirmed to depend both on the average grain size and on the grain size distribution, as well as on the level of residual stresses, single grain strength, interfacial roughness and the grain boundary strength. The validity of the relatively simple Monte Carlo model proposed in this work opens up a possibility for optimization of microstructures of monolithic and composite ceramics for maximum resistance to fracture.
+
+R.C. Picu, V. Gupta,
+Observations of crack nucleation in columnar ice due to grain boundary sliding,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3791-3797,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90163-9.
+(https://www.sciencedirect.com/science/article/pii/0956715195901639)
+Abstract: Biaxial compression experiments were carried out to investigate the mechanisms of crack nucleation in columnar freshwater ice. For strain rates higher than 10−3 s−1 at — 10°Cm, it is observed that crack nucleation is preceded by grain boundary sliding which results in local decohesion pockets spread intermittently along the boundary facets. The experimental results are shown to support the crack nucleation model presented in the companion paper.
+
+J.M. Hyde, M.K. Miller, M.G. Hetherington, A. Cerezo, G.D.W. Smith, C.M. Elliott,
+Spinodal decomposition in Fe-Cr alloys: Experimental study at the atomic level and comparison with computer models—III. Development of morphology,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3415-3426,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00042-T.
+(https://www.sciencedirect.com/science/article/pii/095671519500042T)
+Abstract: The fine-scale three-dimensional microstructures formed during spinodal decomposition in Fe-Cr alloys are characterized using two novel methods. In the first, a fractal analysis is used to characterize the interface between the phases and, in the second, the interconnectivity of the structure is determined from topology. It is found that the interface between Fe-rich α and Cr-enriched α′ regions in the experimental data and Monte Carlo simulations exhibit fractal behaviour whereas the microstructures from the solution to the Cahn—Hilliard—Cook model do not. Topological methods are used to characterize the complex α′ microstructures in terms of the number of cavities and loops. The decrease in the number of large scale loops in the microstructure, during thermal ageing, is shown to correlate with the increasing microstructural scale. The number of small scale loops is found to correlate with the complexity of the interface between the α and α′ regions.
+
+G. Schoeck,
+The core energy of dislocations,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3679-3684,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90151-5.
+(https://www.sciencedirect.com/science/article/pii/0956715195901515)
+Abstract: The main part of the line energy of dislocations in solids can be described by elastic continuum theory (linear, nonlinear and nonlocal). There remains, however, a core part which must be treated atomistically. Based on dimensional arguments it is shown that independent of the interatomic potential and independent of the core configuration there exists a unique correlation between the elastic energy and the atomic misfit energy. This results from the fact that the displacements are coupled to the asymptotic field of a singular dislocation.
+
+C.Y. Barlow, N. Hansen,
+Dislocation configurations in metal-matrix composites correlated with numerical predictions,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3633-3648,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90147-7.
+(https://www.sciencedirect.com/science/article/pii/0956715195901477)
+Abstract: The development of deformation microstructures is reported in reinforced powder-consolidated aluminium. This study discusses observations of the effect of additions of SiC whiskers or particles on the microstructural evolution in the strain range 0.01–0.1. For whisker-containing materials the microstructural changes introduced by thermal cycling have also been investigated, and supplemented by measurements of the dislocation density and microhardness. In plastically deformed specimens the size, shape and microstructure of the deformation zone near the reinforcement have been characterized as a function of the imposed strain. The experimental observations have been compared to finite element model predictions of the stress and strain distribution in the uniaxially loaded composite, and good qualitative agreement has been found. This comparison also points to areas for future model development.
+
+Jianhong He, X.Y. Tang, S. Fukuyama, K. Yokogawa,
+Boundary in γ″ precipitates in inconel 718 nickel-base superalloy,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4403-4409,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00124-E.
+(https://www.sciencedirect.com/science/article/pii/095671519500124E)
+Abstract: The coalesced γ″ precipitate in the aged nickel-base superalloy has been investigated using a high resolution electron microscopy. The encounter of γ″ precipitates during aging formed the coalesced precipitate that consists of several domains which keep the original orientation before encountering. The thickness of boundary in the coalesced γ″ precipitate was in the range of zero to a few atom layers.
+
+U. Hangen, D. Raabe,
+Modelling of the yield strength of a heavily wire drawn Cu-20%Nb composite by use of a modified linear rule of mixtures,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4075-4082,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00079-B.
+(https://www.sciencedirect.com/science/article/pii/095671519500079B)
+Abstract: The strength of heavily wire drawn Cu-20 mass% Nbin situ composites considerably exceeds the predictions of the linear rule of mixtures (ROM). An analytical model for the calculation of the yield strength of Cu-20 mass% Nb wires is suggested. The approach is a modified linear rule of mixtures (MROM). It regards the yield strength of the composite as the sum of the volumetric weighted average of the experimentally observed yield strengths of the individual pure phases and a Hall-Petch type contribution arising from the impact of the Cu-Nb phase boundaries. The latter term is described in terms of dislocation pile-ups in the Cu matrix and dislocation movement and multiplication in the Nb filaments. The crystallographic texture and filament geometry of both phases is incorporated. The predictions of the model are in very good accordance with experimental data.
+Zusammenfassung
+Die Festigkeit drahtgezogener Cu-20 gew.% Nbin situ Verbundwerkstoffeu¨bertrifft die Vorhersagen der linearen Mischungsregel (ROM) bei weitem. Ein analytisches Modell fu¨r die Berechnung der Fließgrenze von Cu-20 gew.% Nb Dra¨hten wird vorgeschlagen. Der Ansatz entspricht einer modifizierten linearen Mischungsregel (MROM). Er betrachtet die Fließgrenze des Verbundwerkstoffes als die Summe des volumenanteilig gewichteten Mittelwertes der experimentell beobachteten Fließgrenzen der einzelnen reinen Phasen und einem Hall-Petch Anteil, der aus dem Einfluß der Cu-Nb Phasengrenzen resultiert. Der letztere Beitrag wirdu¨ber Versetzungsaufstaus in der Cu Matrix und Versetzungsbewegung und -multiplikation in den Nb Filamenten erkla¨rt. Die kristallographische Textur und die Filamentgeometrie beider Phasen wird einbezogen. Die Vorhersagen des Modells sind in sehr guterU¨bereinstimmung mit experimentellen Daten.
+
+E. Herve, R. Dendievel, G. Bonnet,
+Steady-state power-law creep in “inclusion matrix” composite materials,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4027-4034,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00100-A.
+(https://www.sciencedirect.com/science/article/pii/095671519500100A)
+Abstract: This work is devoted to the prediction of the constitutive steady-state creep behavior of matrix inclusion composites. Both phases are characterized by power-law constitutive equations. The three phase model is extended to viscoplastic equations. If both phases have the same strain rate sensitivity, the effective behavior of the composite is characterized by an effective prefactor. If not, an effective strain rate sensitivity is defined, which is a function of the applied strain rate and of the volume fraction of the phases. All the results are compared with the classical self-consistent ones. A limit case which may be related to the grain boundary sliding accommodated by intragranular power-law creep is also studied.
+Résumé
+Ce travail est consacré `la pre´diction du comportement en fluage stationnaire de mate´riaux composites de type inclusion/matrice pour lesquels chacune des phases est caracte´rise´e par une loi puissance. A cet effet, une extension du mode´le “trois phases”a`des comportements viscoplastiques est pre´sente´e. Si les phases ont le meˆme exposant (sensibilité ` la vitesse de de´formation), on de´finit un pre´facteur effectif. Sinon, on de´finit un exposant effectif qui de´pend de la vitese de de´formation applique´e et des concentrations des phases. Un cas limite este´galement aborde´, qui peuteˆtre compare a `de pre´ce´dents mode`les de glissement aux joints accommode´par du fluage intragranulaire.
+
+P.-M. Lesne, N. Allio, R. Valle,
+Combined effects of the fibre distribution and of the fibre matrix or interphase matrix transverse modulus ratio on the possible fracture modes of unidirectional composites submitted to a transverse loading,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4247-4266,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00135-I.
+(https://www.sciencedirect.com/science/article/pii/095671519500135I)
+Abstract: Considering first the extreme cases of either a perfectly soft or perfectly rigid isolated fibre, the investigation of the effect of the transverse Young's modulus ratio on the stress field resulting from the applied transverse loading is then extended to intermediate fibre matrix and interphase matrix transverse modulus ratios representative of real composite materials. Regarding the effect of the randomness of the fibre distribution, the simplest arrangement of two isolated fibres is considered, the reference situations being those of either an isolated fibre or of a regular arrangement. In the case of the two isolated fibres, three values of the angle between the direction of the fibre alignment and that of the applied transverse loading are taken into consideration (0, 90 and 45°), this last critical situation being of essential interest, due to the “alignment effect” which tends to rotate the fibre pair towards the direction of the applied loading, thereby inducing a particular stress field. Simple analytical formulae are used to determine the stress field resulting from the applied transverse loading in the simplest case of an isolated fibre, i.e. a two-phase (fibre matrix) system, or a simplified (perfectly soft fibre) three-phase (fibre-interphase matrix) system. In the general three-phase system, and in the spatial fibre arrangement of either a fibre pair or a regular distribution, a global finite element numerical calculation is performed; thereby directly taking into account the mechanical interaction between the fibres. The representative mechanical quantities thus determined are discussed in relation with both the possible fundamental mechanisms of deformation and fracture and the actually observed phenomena.
+Résumé
+Abordée par l'analyse de la situation de référence d'une fibre isolée, dans les cas extrêmes d'une fibre infiniment souple, de module travers nul, ou, au contraire, infiniment rigide, de module travers infini, l'étude de l'effet du rapport des modules d'Young travers sur le champ résultant d'une force appliquée transversalement est ensuite étendue au cas de valeurs intermédiaires du rapport des modules fibre matrice ou interphase matrice, les valeurs retenues correspondant à des matériaux composites réels. En ce qui concerne l'effet de la distribution aléatoire des fibres, c'est l'arrangement le plus simple de deux fibres isolées qui sera pris en compte, les situations de référence étant celles d'une fibre isolée ou d'un arrangement périodique. Dans le cas de deux fibres isolées, trois valeurs de l'angle que fait la direction d'alignement des centres avec l'axe des efforts ont été retenues (0, 90 et 45°), cette dernière configuration étant particulièrement digne d'intérêt puisque très critique, étant donné “l'effet d'alignement” tendant à amener par rotation les deux fibres suivant l'axe des efforts et conduisant ainsi à une répartition des contraintes particulière. Le champ de contrainte résultant de la force transversale sera déterminé à l'aide de formules analytiques simples dans les cas les plus élémentaires d'un système à deux phases (fibre matrice) ou trois phases (fibre-interphase matrice), mais dans lequel la fibre est de raideur négligeable. Dans le cas général du modèle à trois phases, ou dans l'étude de l'effet de la distribution spatiale des fibres (deux fibres, ou arrangement périodique), le problème est alors abordé par un calcul numérique global par éléments finis, permettant ainsi de prendre directement en compte l'interaction élastique entre les fibres. Les grandeurs mécaniques pertinentes ainsi déterminées sont alors discutées en fonction des mécanismes de déformation et de rupture possibles et des phénomènes effectivement observés.
+
+A.I. Barg, E. Rabkin, W. Gust,
+Faceting transformation and energy of a Σ3 grain boundary in silver,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4067-4074,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00094-C.
+(https://www.sciencedirect.com/science/article/pii/095671519500094C)
+Abstract: Grain boundary facets forming at the intersection between a grain boundary and the free surface in diffusion bonded Σ3〈011〉Ag bicrystals during prologed annealing have been characterized crystallographically by metallographic methods. It is shown that the observed faceting has qualitatively the same character as that in Σ3〈011〉 grain boundaries in Cu. The energy of an incoherent Σ3 grain boundary in Ag (210 mJ/m2) is determined from the dihedral angle of the thermal groove and the extrapolated literature data on the surface tension of Ag. The facet geometry is discussed with respect to computer simulation data on the inclination dependence of the energy of Σ3 grain boundaries in Cu. The geometrical stability of a grain boundary near the free surface is considered.
+
+Kai-Tak Wan, Yiu-Wing Mai,
+Fracture mechanics of a new blister test with stable crack growth,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4109-4115,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00108-8.
+(https://www.sciencedirect.com/science/article/pii/0956715195001088)
+Abstract: A new blister test is proposed to measure the specific work of adhesion W between a thin flexible film on a rigid substrate. In contrast to the conventional blister loaded by constant fluid pressure which leads to catastrophic crack propagation, the new test is driven by an internal expansion of a fixed mass of working gas which leads tostable crack growth. The new technique is demonstrated by measuring W of an interface with a commercial sticky tape serving as the thin film and aluminium as the rigid substrate.
+
+D. Juul Jensen,
+Growth rates and misorientation relationships between growing nuclei/grains and the surrounding deformed matrix during recrystallization,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4117-4129,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00111-8.
+(https://www.sciencedirect.com/science/article/pii/0956715195001118)
+Abstract: Average growth rates and misorientations between recrystallization nuclei (or grains) and neighbouring deformed matrix material have been studied for partially recrystallized samples by the electron back scattering pattern (EBSP) technique in heavily cold rolled aluminium and copper. It was studied how the annealing time and the crystallographic orientation of nuclei/grains affects the growth rates and distribution of misorientations. The two materials, aluminium and copper, develop a weak and a strong recrystallization cube texture respectively. Information about effects of cube texture strength was therefore also obtained. It was found that grains of cube orientation grow faster than grains of other orientations. A wide distribution of misorientation relationships was observed to exist between the growing grains and the neighbouring deformed matrix, and this distribution was not significantly affected by the annealing time. The faster growth of the cube oriented grains may be ascribed to a larger misorientation between cube grains and deformed matrix than that between other grains and the matrix.
+
+J.M. Hyde, M.K. Miller, M.G. Hetherington, A. Cerezo, G.D.W. Smith, C.M. Elliott,
+Spinodal decomposition in Fe-Cr alloys: Experimental study at the atomic level and comparison with computer models—II. Development of domain size and composition amplitude,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3403-3413,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00041-S.
+(https://www.sciencedirect.com/science/article/pii/095671519500041S)
+Abstract: The three-dimensional interconnected microstructures resulting from spinodal decomposition in a series of thermally aged Fe-Cr alloys have been analysed in terms of scale and composition amplitude. The development of the microstructure scale was found to fit a power law with a time exponent considerably smaller than that predicted by the LSW theory but in agreement with Monte Carlo simulations of the decomposition. Numerical solutions to the classical non-linear Cahn—Hilliard—Cook equation were found to fit the classical LSW theory. A model, based on the non-linear theory of spinodal decomposition by Langer et al. is used to quantify the composition amplitude at any stage of the phase separation. A detailed comparison between the atomic scale experimental results and computer simulations of spinodal decomposition is given.
+
+C.A. Lewis, P.J. Withers,
+Weibull modelling of particle cracking in metal matrix composites,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3685-3699,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90152-3.
+(https://www.sciencedirect.com/science/article/pii/0956715195901523)
+Abstract: An investigation into the occurrence of reinforcement cracking within a particulate ZrO2/2618 Al alloy metal matrix composite under tensile plastic straining has been carried out, special attention being paid to the dependence of fracture on particle size and shape. The probability of particle cracking has been modelled using a Weibull approach, giving good agreement with the experimental data. Values for the Weibull modulus and the stress required to crack the particles were found to be within the range expected for the cracking of ceramic particles. Additional information regarding the fracture behaviour of the particles was provided by in situ neutron diffraction monitoring of the internal strains, measurement of the variation in the composite Young's modulus with straining and by direct observation of the cracked particles. The values of the particle stress required for the initiation of particle cracking deduced from these supplementary experiments were found to be in good agreement with each other and with the results from the Weibull analysis. Further, it is shown that while both the current experiments, as well as the previous work of others, can be well described by the Weibull approach, the exact values of the Weibull parameters so deduced are very sensitive to the approximations and the assumptions made in constructing the model.
+
+P. Wagner, O. Engler, K. Lücke,
+Formation of Cu-type shear bands and their influence on deformation and texture of rolled f.c.c. {112}〈111〉 single crystals,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3799-3812,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90164-7.
+(https://www.sciencedirect.com/science/article/pii/0956715195901647)
+Abstract: Microstructural and textural evolution during rolling were investigated in (112)[111] single crystals of Al, Cu and homogenous supersaturated All.9wt%Cu. After a rolling degre of 30% the initial C-orientation (112)[111] of all three materials has rotated towards the so called D-orientation (4411)[11118]. While in the non-shear banding Al the D-orientation remains stable up to high rolling degrees, in the shear banding materials Cu and AlCu it rotates back to the initial C-orientation simultaneously with the formation of shear bands. This orientation change is explained by a rigid body rotation due to the special geometry of a deformation with unidirectional shear bands. With the onset of shear band formation also strong orientation scatterings about tthe transverse direction appear in the pole figures. These scatterings are located inside the shear bands as well as in their vicinity. They are due to the strong shear deformation and the resulting reaction stresses occurring in the shear bands and in their vicinity, respectively.
+
+R.V. Ramanujan,
+The effect of heat treatment variables on the phase transformations at 1420°c in ti-48a1 and Ti-48al-2Mn-2Nb alloys,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4439-4451,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00119-G.
+(https://www.sciencedirect.com/science/article/pii/095671519500119G)
+Abstract: The effect of heat treatment variables such as initial microstructure, isothermal reaction time and cooling rate on the phase transformations occurring at 1420°C in Ti-48A1 and Ti-48Al-2Mn-2Nb alloys was studied. The main effect of the initial microstructure, which comprised either lamellae of α2and γ or equiaxed γ grains, was to alter the kinetics, through a change in the chemical driving force of the phase transformations. Therefore, the equiaxed γ grains transformed to α much faster than the lamellar structure and in the initially lamellar structure, growth of α resulted in the delineation of the initial dendritic structure formed during solidification. The effect of the rate of cooling from the heat treatment temperature on the final morphology of these alloys was drastic and resulted in a change in morphology from lamellar grains obtained on furnace cooling to a feathery and mottled morphology obtained on water quenching. TEM analysis of water quenched Ti-48Al-2Mn-2Nb revealed complex morphologies including a structure which consisted of equiaxed γ grains and residual α2and abutting colonies of γ and α2. Based on the TEM results, the early stages of formation of γ from α were studied and mechanisms of nucleation and growth discussed. The relative importance and the coexistence of massive and martensitic transformation products is also discussed.
+
+S. Yadav, D.R. Chichili, K.T. Ramesh,
+The mechanical response of a 6061-T6 A1/A12O3 metal matrix composite at high rates of deformation,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4453-4464,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00123-D.
+(https://www.sciencedirect.com/science/article/pii/095671519500123D)
+Abstract: The mechanical properties of a 6061-T6 aluminum alloy reinforced with a 20 vol.% fraction of alumina particles and of an unreinforced 6061-T6 alloy are studied over a range of strain rates (10-4to 6 x 105s-1) using quasistatic compression, compression and torsion Kolsky Bars, and high strain rate pressure-shear plate impact. At a given strain rate the composite displays increased strength but essentially the same strain hardening as the matrix. However, the composite displays a stronger rate-sensitivity than does the unreinforced alloy at high rates of deformation (>103s-1). The rate-sensitivity of the unreinforced alloy is shown to be largely the result of the imposed strain rate rather than of the rate history. For quasistatic deformations, a model proposed by Bao et al. (1991) describes the behavior of the composite fairly accurately given the behavior of the unreinforced alloy. This paper presents an extension of the model that is able to predict the dynamic behavior of the composite given the dynamic response of the monolithic alloy.
+
+A. Pajares, F. Guiberteau, R.W. Steinbrech, A. Dominguez-Rodriguez,
+Residual stresses around Vickers indents,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3649-3659,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90148-5.
+(https://www.sciencedirect.com/science/article/pii/0956715195901485)
+Abstract: The residual stresses generated by Vickers indentation in brittle materials and their changes due to annealing and surface removal were studied in 4 mol% yttria partially stabilized zirconia (4Y-PSZ). Three experimental methods to gain information about the residual stress field were applied: (i) crack profile measurements based on serial sectioning, (ii) controlled crack propagation in post indentation bending tests and (iii) double indentation tests with smaller secondary indents loccated around a larger primary impression. Three zones of different residual stress behavior are deduced from the experiments. Beneath the impression a crack free spherical zone of high hydrostatic streses exists. This “core” zone is followed by a transition regime where indentation cracks develop but still experience hydrostatic stresses. Finally, in an outward third zone, the crack contour is entirely governed by the tensile residual stress intensity (elastically deformed region). Annealing and surface removal reduce this crack driving stress intensity. The specific changes of the residual stresses due to the post indentation treatments are described and discussed in detail for the three zones.
+
+W.C. Carter, A.R. Roosen, J.W. Cahn, J.E. Taylor,
+Shape evolution by surface diffusion and surface attachment limited kinetics on completely faceted surfaces,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4309-4323,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00134-H.
+(https://www.sciencedirect.com/science/article/pii/095671519500134H)
+Abstract: The evolution of two-dimensional shapes to equilibrium shapes is investigated for two kinetic mechanisms, surface diffusion and surface attachment limited kinetics. Qualitative differences are found that may be used in experiments for easy distinction among the two mechanisms, and find topological changes not expected for the corresponding isotropic problems. We take advantage of the mathematical developments for surface evolution and equilibration problems when surface energy anisotropy is “crystalline”, so extreme that crystals are fully faceted. We confirm the prediction that with this anisotropy these problems are more easily solvable than for lesser anisotropies, and the techniques developed may even be useful for approximating isotropic problems.
+
+C. Schlesier, E. Nembach,
+Strengthening of aluminium-lithium alloys by long-range ordered δ'-precipitates,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 3983-3990,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00089-E.
+(https://www.sciencedirect.com/science/article/pii/095671519500089E)
+Abstract: Strengthening of aluminium-rich aluminium-lithium single crystals by spherical, coherent particles of Ll2-long-range ordered δ'-phase has been investigated experimentally and theoretically. The total critical resolved shear stressτ1 has been measured as a function of the radiusr and the volume fraction f of the δ'-particles. r and f covered the ranges 0.0–17.6 and 0.0–0.11, respectively. The δ'-particles' contribution τp to τt is analysed with reference to a model, which had originally been developed for the description of the strengthening effect of L12-long-range ordered γ'-particles in nickel-base superalloys. The experimental data τp(r,f) of the present aluminium-lithium single crystals are well represented by this model. This specific antiphase boundary energy of the δ'-particles has been found to be 0.070 ± 0.020J/m2. This value refers to {111}-planes.
+Zusanunenfassung
+Die Ha¨rtung von Aluminium-reichen Aluminium-Lithium-Einkristallen durch kugelfo¨rmige, koha¨rente Partikel der L12-ferngeordneten δ'-Phase wurde experimentall und theoretisch untersucht. Die totale kritische Schubspannung δt wurde als Funktion des Radiusses r und des Volumenbruchs f der δ'-Partikel gemessen. r und fu¨berdeckten die folgenden Bereiche: 0.0–17.6 nm bzw. 0.01–0.11. Der Beitrag τp der δ'-Partikel zu τt wurde im Rahmen eines Modells analysiert, das urspru¨nglich zur Beschreibung der Ha¨rtung von Nickel-Basis-Superlegierungen durch L12-ferngeordnete γ'-Partikel entwickelt worden war. Das Ergebnis ist, daß dieses Modell die experimentellen Ergebnisse τp(r, f) gut weidergibt. Die spezifische Antiphasengrenzenergie der δ'-Partikel wurde zu 0.070 ± 0.020J/m2 ermittelt. Dieser Wert gilt fu¨r {111}-Ebenen.
+
+Yifan Zhang, Dongming Zhu, David A. Shores,
+Effect of yttrium on the oxidation behavior of cast Ni-30Cr alloy,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4015-4025,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00093-B.
+(https://www.sciencedirect.com/science/article/pii/095671519500093B)
+Abstract: Cast Ni-30Cr and Ni-30Cr-0.5Y alloys were oxidized at 1000°C in pure O2 for various times, then were either furnace cooled to room temperature, or thermally cycled between 1000°C and different lower temperatures. The isothermal oxidation rate of the Ni-30Cr alloy was reduced by about a factor of 3.6 by the addition of 0.5% Y. Acoustic emission signals, which are generated by scale fracture events, were collected during isothermal oxidation, during continuous furnace cooling and during thermal cycling. These data showed, as others have shown, that the scale formed on Ni-30Cr-0.5Y was significantly more resistant to fracture than that on Ni-30Cr. This advantage of the Y-containing alloy was evident for comparisons based on equal oxidation times, and more importantly, at equal scale thicknesses. SEM and EDAX analyses show that continuous Cr2O3 scales were formed on both Y-bearing and Y-free alloys after a short time of oxidation (2 h), but after a longer period of oxidation and thermal cycling, a NiO or NiCr2O4 outer layer was found. This outer scale created a new interface with the Cr2O3 scale where thermal stresses will be generated during cooling due to the thermal expansion difference between Cr2O3 and NiO or NiCr2O4. Spallation at the inner scale/outer scale interface, as well as at the metal/scale interface, was observed. X-ray measurements of scale strains at equal scale thicknesses showed that the growth strains (at the end of the isothermal oxidation period) were larger on the Y-containing alloy, and that this alloy also sustained larger residual strains upon cooling to room temperature. Using a model based on elastic strain energy, estimates of the surface energy for scale fracture (a measure of scale adhesion) were significantly higher for the Y-containing alloy at equal scale thicknesses. Both the AE and the strain measurements are consistent with the proposal that Y improves the inherent strength of the metal/scale interface. The smaller rate of scale cracking for Y-containing alloys, combined with their slower scale growth rate, offers the further benefit of delaying the onset of NiO or NiCr2O4 overgrowth layers, which themselves may degrade the integrity of the scale.
+
+B.P. Kashyap, K. Tangri,
+On the Hall-Petch relationship and substructural evolution in type 316L stainless steel,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 3971-3981,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00110-H.
+(https://www.sciencedirect.com/science/article/pii/095671519500110H)
+Abstract: Tensile specimens of Type 316L stainless steel having grain sizes in the range 3.1–86.7 μm were deformed to 34% strain at temperatures 24, 400 and 700°C and strain rate 1 × 10−4s−1 to investigate the Hall-Petch (H-P) relationship, the nature of stress-strain curves and the substructure development. Upto ∼5% strain the H-P relationship exhibits bi-linearity whereas the single Hall-Petch relation is exhibited at larger strains. The presence of bi-linearity is explained by the back stress associated with the difference in the dislocation densities in the vicinity of grain boundary and in the grain interior. The log stress (σ)-log strain (ε) plots depict three regimes and follow the relationship σ = Kεn in each regime, but with varying magnitudes of the strength coefficient (K) and strain-hardening exponent (n).
+
+M. Grujicic, W.S. Owen,
+Models of short-range order in a face-centered cubic Fe-Ni-Cr alloy with a high concentration of nitrogen,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4201-4211,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00107-7.
+(https://www.sciencedirect.com/science/article/pii/0956715195001077)
+Abstract: The calculation results of a cluster variation model and two different Monte Carlo models that have been used to deduce the atomic arrangement in a concentrated solid solution of nitrogen in an austenitic alloy (Fe-39.9Ni-14.96Cr-0.25N wt%) are compared. Quantitatively, the predictions of all three models are in good agreement. In the absence of nitrogen, the arrangement of the metal atoms at 1273 K was found to be close to random. Addition of nitrogen markedly increases the number of octahedral lattice clusters containing four or more chromium atoms, with the result that a large fraction of the nitrogen atoms occupy interstitial sites in these high-chromium clusters. The association of nitrogen and chromium atoms predicted at 298 K was found to be even more pronounced, the nitrogen being exclusively in clusters with six chromium atoms. The validity of the assumptions made in each of the models and the significance of the results are discussed.
+
+L. Anthony, B. Fultz,
+Effects of early transition metal solutes on the D03-B2 critical temperature of Fe3Al,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3885-3891,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90171-X.
+(https://www.sciencedirect.com/science/article/pii/095671519590171X)
+Abstract: The effects of dilute concentrations of the ternary solutes Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, and W on the critical temperature of the D03-B2 transformation in Fe3Al were measured by differential thermal analysis (DTA). Additional studies by X-ray diffractometry showed that Mo, Ta, and W atoms occupied predominantly the 4(b) Wyckoff sites in D03-ordered Fe3Al. Most solutes caused an increase in the D03-B2 transformation temperature, which was approximately linear in the limit of dilute solute concentrations. The efficacy of a particular ternary element in raising the D03-B2 transformation temperature was shown to be related to its metallic radius. We argue that the energetics of atom size mismatch are the major cause of the effects of ternary solutes on the D03-B2 transformation temperature of Fe3Al.
+
+M.R. Turner, B.J. Dalgleish, M.Y. He, A.G. Evans,
+A fracture resistance measurement method for bimaterial interfaces having large debond energy,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3459-3465,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00037-V.
+(https://www.sciencedirect.com/science/article/pii/095671519500037V)
+Abstract: Experimental results obtained for the DCDC specimen demonstrate its capabilities for measuring the mode I fracture energy, Γi of bimaterial interfaces. Two specific characteristics have been highlighted. (i) For interfaces characterized by a steady-state, Γi, the ability to obtain high-fidelity measurements over many millimeters of crack extension has been validated. The demonstrations have been made for glass/resin and sapphire/Au interfaces. Moreover, a concomitant ability to monitor interactions between the growing crack and the microstructure, including interface defects, has been presented. (ii) For interfaces that have differing mechanisms of crack growth initiation and propagation, such as sapphire/Pt. an ability to distinguish the initiation and arrest fracture energies has been illustrated. The corresponding capacity to monitor the associated mechanisms by optical microscopy has also been demonstrated.
+
+C.R. Bowen, B. Derby,
+Finite-difference modelling of self-propagating high-temperature synthesis of materials,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3903-3913,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90173-6.
+(https://www.sciencedirect.com/science/article/pii/0956715195901736)
+Abstract: The modelling of self-propagating high-temperature reactions is attempted using a finite difference model. The model is described and model results are compared with experimentally observed combustion wave velocities for the reaction 3TiO2 + 4Al + 3C → 3tiC + 2Al2O3 using various processing parameters (diluents, preheating etc.). The model is extended to derive a parameter which determines under what conditions a reaction will become self-propagating.
+
+Y.Q. Sun,
+Stability of APB-dissociated 〈111〉 screw superdislocations in B2-ordered structures,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3775-3782,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90161-2.
+(https://www.sciencedirect.com/science/article/pii/0956715195901612)
+Abstract: The stability of an infinitely long screw 〈111〉 superdislocation dissociated into APB-coupled superpartials on {110}, {112}, or a combination of both, has been analysed under the approximation of linear elasticity theory of dislocations. In the absence of an applied load, the variation of the configurational energy of the dislocation pair in equilibrium has been examined analytically as a function of two basic material parameters, i.e. the elastic anisotropic parameter along 〈111〉M and the ratio of {112} vs {110} APB energies λ = γ112/γ110. It is found that although there is no tor1ue force on the screw partials on both {110} and {112}, the torque force is present at intermediate angular positions and acts in the direction of stabilizing {112} dissociation and destabilizing {110} dissociation. In general dissociation on {112} is favoured energetically if λ > M1/3. Since M > 1 in anisotropic elastic media, ranging from M = 1.09 for FeAl to M = 1.64 for AuCd, favourable {112} dissociation does not require γ112 < γ110. For compounds with M > 1.22(√32), the screw superdislocation may dissociate into stable non-planar configurations with the APB lying partly on {110} and partly on {112}, forming a locked structure.
+
+Ge Yu,
+Trapping of point defects in real alloys by considering the effect of short range order,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3851-3860,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90168-X.
+(https://www.sciencedirect.com/science/article/pii/095671519590168X)
+Abstract: Based on the random walk of point defect in concentrated alloys, the kinetics of the annihilation of point defects in a f.c.c. alloy is studied by computer simulation. The effect of the degree of order is especially considered by using the pair model for describing the atomistic interaction. The simulations cover nearly the whole temperature range in which short range order or short range clustering exists. Due to the special treatments, the escape probability for various trap structures (0D or 1D and with different reaction radius) can be determined as a function of the annealing time. Further evaluation yields the trapping time of point defects for broad variation of relevant parameters including the composition of alloy and the mobility ratio of the components. Empirical functions are developed for expressing these dependences. Compared to the random alloy simplification reported in the preceding paper [1], there is no change in the essential form of the trapping kinetics. The relation between the activation energy for the annihilation of point defects and that for the self-diffusion of atoms in real alloys is revealed, which yields the background for studying the diffusion properties through the investigation of point defect annihilation.
+
+G. Fourlaris, A.J. Baker, G.D. Papademitriou,
+A microscopic examination of the precipitation phenomena occuring during the isothermal pearlitic transformation in high carbon-copper nickel steels,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4421-4438,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00118-F.
+(https://www.sciencedirect.com/science/article/pii/095671519500118F)
+Abstract: During isothermal pearlitic transformation of high carbon austenite, the formation of proeutectoid phases precedes that of pearlite. Widmanstatten cementite is the major proeutectoid phase that forms at all temperatures. Within this constituent the precipitation of ε-Cu always occurs, together with the formation of stabilized coarse austenite entrapments. Within pearlitic cementite interphase precipitation of ε-Cu occurs at all transformation temperatures, while within pearlitic ferrite a banded interphase precipitation of ε-Cu occurs only at temperatures close to the eutectoid point. As the temperature of the isothermal pearlitic transformation is lowered the formation of non-partitioned pearlitic ferrite is possible and ε-Cu precipitation only forms within this ferrite as a result of ageing occurring during prolonged isothermal holding. It was concluded that interphase precipitation of ε-Cu always occurred on the migrating austenite/cementite interphase boundaries, but ε-Cu interphase precipitation occurred on the migrating austenite/ferrite boundaries only at temperatures close to the eutectoid point.
+
+G. Fourlaris, A.J. Baker, G.D. Papadimitriou,
+A microscopic investigation of the precipitation phenomena observed during the pearlite reaction in vanadium alloyed carbon steels,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3733-3742,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90157-4.
+(https://www.sciencedirect.com/science/article/pii/0956715195901574)
+Abstract: During the isothermal pearlitic transformation in vanadium alloyed low and medium carbon steels the formation of proeutectoid ferrite precedes that of pearlitic formation. Within this proeutectoid ferrite interphase precipitation of vanadium carbide (VC) occurs in a form of linear uniformly sized and shaped arrays of particles. When pearlite subsequently forms, two distinctive pearlitic morphologies exist. Lamellar and non-lamellar spheroidised types of pearlite. Within the pearlitic constituent of both of these pearlitic microstructures VC interphase precipitation occurs. However, in the lamellar type of pearlite curved arrays of uniformly sized and shaped VC particles whose direction is perpendicular to the cementite long axis are observed while in the non-lamellar type of pearlite apparently random distributions of VC particles exist. It was consistently found that VC interphase precipitation always occurred on the moving austenite/ferrite interphase boundaries at all temperature of isothermal pearlitic transformation.
+
+R.K. Ray,
+Rolling textures of pure nickel, nickel-iron and nickel-cobalt alloys,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3861-3872,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90169-8.
+(https://www.sciencedirect.com/science/article/pii/0956715195901698)
+Abstract: The rolling texture of heavily rolled pure Ni has been found to be similar to the rolling texture of deformed pure Cu. The textures of NiFe alloys with up to 40% Fe, are similar amongst themselves and also to that of pure Ni. The NiCo alloys with up to 30% Co show pure metal-type rolling texture, while the Ni-60% Co alloy shows alloy-type texture. The rolling texture of the Ni-40% Co alloy lies in between these two extremes. The similarity of the deformation textures of pure Ni and NiFe alloys can be explained due to only a marginal variation of the stacking-fault energy of Ni as a function of Fe-content. The texture transition in the NiCo alloys has been attributed to the additional effect of the incidence of twinning caused by the sharp decrease of stacking fault energy of Ni by Co-addition.
+
+Q.-Z. Chen, W.-Y. Chu, Y.-B. Wang, C.-M. Hsiao,
+In situtem observations of nucleation and bluntness of nanocracks in thin crystals of 310 stainless steel,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4371-4376,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00122-C.
+(https://www.sciencedirect.com/science/article/pii/095671519500122C)
+Abstract: Nucleation and bluntness of nanocracks were studied through in situ tensile tests for thin crystals of 310 stainless steel by transmission electron microscopy (TEM). A dislocation free zone (DFZ) could form after the dislocation emission had just ceased. The DFZ is an elastic zone so that the local stress near the crack tip in the DFZ is possibly up to the cohesive strength, because of which a nanocrack could initiate in the DFZ or at the crack tip. The nanocrack in the DFZ or at the crack tip would blunt into a void or a notch through the increment and movement of dislocations in the plastic zone even when keeping constant displacement. If constant displacement was kept for a long time, nanovoids could initiate in the DFZ through diffusion and enrichment of supersaturation vacancies. The connection of the nanovoids would result in the initiation of nanocracks.
+
+J. Warren, D.M. Elzey, H.N.G. Wadley,
+Fiber damage during the consolidation of PVD Ti6Al4V coated nextel 610TM alumina fibers,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3605-3619,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90145-0.
+(https://www.sciencedirect.com/science/article/pii/0956715195901450)
+Abstract: Titanium matrix composites reinforced with sol-gel synthesized α-alumina fiber tows have attracted interest as a potentially low cost continuous fiber reinforced metal matrix composite system. We have conducted a detailed investigation of fiber damage during high temperature consolidation of PVD Ti6Al4V metallized sol-gel alumina fiber tows. Using both hot isostatic pressing and interrupted vacuum hot press consolidation cycles, the two principal mechanisms of fiber damage have been experimentally identified to be microbending/fracture and fiber matrix reaction. A time dependent micromechanics model incorporating the evolving geometry and mechanical properties of both the fibers and matrix has been formulated to simulate the fiber bending/failure mechanism in a representative unit cell and explore the effect of fiber strength loss due to reaction with the matrix. This model has been used to design a process cycle that minimizes damage by exploiting the enhanced superplastic deformation of the initially nanocrystalline PVD Ti6Al4V matrix.
+
+K.S. Chan,
+A fracture model for hydride-induced embrittlement,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4325-4335,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00133-G.
+(https://www.sciencedirect.com/science/article/pii/095671519500133G)
+Abstract: The presence of hydrides in the microstructure can substantially reduce the tensile ductility of Zr and Ti alloys. For treating hydride-induced embrittlement in these alloys, a fracture model has been developed by considering the hydrides to crack readily under tensile loading so that an array of microcracks form in the microstructure. Interaction of the plastic fields of the microcracks leads to fracture of the matrix ligaments, and a loss in the tensile ductility. Application of the proposed model to Zircaloys reveals that hydride-induced embrittlement depends on the hydride size, morphology, and distribution, as well as the continuity of the hydride network, in accordance with experimental observations.
+
+O. Jørgensen, A. Horsewell, B.F. Sørensen, P. Leisner,
+The cracking and spalling of multilayered chromium coatings,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 3991-4000,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00088-D.
+(https://www.sciencedirect.com/science/article/pii/095671519500088D)
+Abstract: Cracks in a chromium coating on a steel substrate which are caused by residual stresses developed during an electroplating process are examined. The chromium coating, formed as a multilayer by alternating electroplating utilizing direct current (DC) and periodic current reversal (PR), is in a state of biaxial tensile stress due to a volume contraction in the successive DC layers which occurs during deposition. A uniform biaxial misfit strain idealizes this layerwise contraction. The state of stress in the multilayer is modelled using laminate theory. Special emphasis is given to the influence of the substrate flexibility on the stress build-up. It is shown that the flexibility of the substrate produces an equ al biaxial bending moment in the coating. At a critical coating thickness, the chromium multilayer cracks and spalls off the substrate. The radius of curvature of detached coating fragments provides a measure of the size of the bending moment and, indirectly, of the misfit strain. The observed fracture mechanism is qualitatively divided into cracks channelling in the coating and debonding craks running in the interface between the coating and the substrate. Long crack asymptotic solutions for the two distinct crack types are presented. The fracture analyses of the multilayered chromium coating show the functional dependence of relative layer and substrate thicknesses and flexibility on the energy release rate for crack propagation.
+
+S. Walder, P.L. Ryder,
+Rapid dendritic growth in undercooled Ag-Cu melts,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4007-4013,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00092-A.
+(https://www.sciencedirect.com/science/article/pii/095671519500092A)
+Abstract: The results of measurements of the reciprocal recalescence rise time (Δt)−1 of undercooled melts of an Ag-Cu alloy with 65 at.% Cu are presented. It is shown that (Δt)−1 is a semiquantitative measure of the growth rate. In agreement with observations already made on alloys with other compositions in this binary system, the growth rate as a function of the undercooling rises sharply at an undercooling corresponding to the T0 temperature. This behaviour can be explained in the framework of the theories of rapid dendritic growth, when the kinetic displacements of the solidus and liquidus are taken into account. A simple empirical expression for this kinetic effect is proposed. For the Ag-65 at.% Cu alloy the predictions of the theory are expressed as a plot of growth rate against undercooling and also in the form of a kinetic phase diagram. The predictions are in good qualitative agreement with the experimental results.
+
+Y.-C. Lu, S.L. Sass,
+Deformation processes in the vicinity of metal—ceramic interfaces,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 9,
+1995,
+Pages 3283-3293,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00049-2.
+(https://www.sciencedirect.com/science/article/pii/0956715195000492)
+Abstract: The deformation processes in the vicinity of Pt-NiO metal—ceramic interfaces tested by the periodic cracking method were investigated by electron microscopy. Cracks in the NiO thin film were suggested to result from a mechanism where dislocations propagate from the interface and react to form immobile dislocations which act to nucleate microcracks. Some distance away from the cracks in the NiO, a dense wall of dislocations was present in the Pt about 1 μm away from and parallel to the interface, with a low dislocation-density region between the wall and the metal—ceramic interface. The formation of the dislocation wall is explained qualitatively by considering reactions between dislocations originating from the bulk Pt and the interface.
+
+James C. Rawers, David Maurice,
+Understanding mechanical infusion of nitrogen into iron powders,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4101-4107,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00106-6.
+(https://www.sciencedirect.com/science/article/pii/0956715195001066)
+Abstract: Nitrogen alloying of iron-based metals greatly improves mechanical and corrosion properties. However, nitrogen solubility is less than 0.1 weight percent (wt%) in b.c.c iron. In this study nitrogen concentrations in excess of 1 wt% were obtained by high-energy milling of pure iron powders in a nitrogen gas environment. The nitrogen concentration in the powder, the grain size, and internal strain in the mechanically processed iron powder were determined as functions of processing time in both nitrogen and argon gas environments. The contributions of plastic deformation and interstitial nitrogen to changes in lattice d-spacing, and the distribution of nitrogen between interstitial sites and defect sites were estimated. Approximately 25% of the incorporated nitrogen was contained in interstitial sites, with the remainder associated with defect structures and surfaces.
+
+S. Farenc, D. Caillard, A. Couret,
+A new model for the peak of activation area of α titanium,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3669-3678,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90150-7.
+(https://www.sciencedirect.com/science/article/pii/0956715195901507)
+Abstract: For prismatic slip in α titanium, the temperature dependence of the activation area peaks at around 350 K in specimens of moderate purity. TEM in situ deformation experiments have been performed between 150 and 473 K in order to determine the origin of this peak. In the entire temperature range, rectilinear screw dislocations are found to move by jumps between locking positions. The jump length decreases as the temperature is increased. This last experimental result isat the origin of the present model. This jump length variation leads indeed to several transitions between the microscopic mechanisms controlling the dislocation propagation. For each mechanism, the activation area is calculated as a function of stress. A global evolution of the activation area is obtained and compared with the data reported in the literature.
+Résumé
+Dans les plans prismatiques du titane α, l'aire d'activation présente un pic prononcé autour de 350 K pour des titanes de pureté moyenne. Des expériences de déformation in situ ont été réalisées entre 150 et 473 K pour rechercher l'origine de ce pic. Dans tout le domaine de température, la déformation est contrôlée par des dislocations vis rectilignes qui glissent par une succession de sauts entre positions de blocage. A partir de ces essais, nous mesurons que la longueur de saut diminue lorsque la température augmente. Ce dernier résultat est à l'origine du modèle présenté dans cet article. Cette variation de la longueur de saut modifie les mécanismes microscopiques contrôlant la propagation des dislocations. Pour chacun de ces mécanismes, l'aire d'activation est calculée en fonction de la contrainte. L'évolution globale de l'aire d'activation ainsi obtenue est comparée aux valeurs macroscopiques.
+
+A. Mukherjee, S. Schmauder, M. Ru¨hle,
+Artificial neural networks for the prediction of mechanical behavior of metal matrix composites,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 11,
+1995,
+Pages 4083-4091,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00076-8.
+(https://www.sciencedirect.com/science/article/pii/0956715195000768)
+Abstract: In this paper we demonstrate the power of artificial neural networks in predicting strengthening in the transverse direction of metal matrix composites by regularly arranged strong fibers. A neural network is trained in different ways based on a numerical study in which the fiber volume fraction and the matrix hardening ability was studied systematically for fibers in a hexagonal arrangement loaded at 0 and 30° transverse direction and for a square arrangement of fibers loaded at 0 and 45° transverse directions. Strengthening predictions are then made for hardening cases of both fiber arrangements which were not covered by the finite element calculations as well as for arbitrary loading directions not achievable by simple finite element unit cell calculations in the case of square fiber arrangements.
+
+R.W. Smith, R. Najafabadi, D.J. Srolovitz,
+Segregation to an (A0/2)[11̄0] edge dislocation in Cu0.1Ni0.9,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3621-3632,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90146-9.
+(https://www.sciencedirect.com/science/article/pii/0956715195901469)
+Abstract: Atomistic simulations of segregation to a dissociated (a0/2)[11̄0] edge dislocation in the solid solution alloy Cu0.1Ni0.9 have been performed. Segregation to the stacking fault between the partials is minimal. Results obtained with a general embedded atom method potential and one optimized for the NiCu system differ significantly. Simulations employing the optimized potentials show significantly more Cu segregation to the dislocation cores than do simulations performed with the general potentials. When the general potentials are employed, the Cu concentration around the dislocation is well described using classical segregation isotherms based upon the stress distribution around the dislocation, except in the dislocation core region. Deviations from the theoretically predicted segregation profile around the dislocation core are largest along the slip plane. When the optimized potentials are used, the deviations from the predicted segregation behavior are significantly larger. The large deviations associated with the optimized potentials were traced to the inadequacy of describing the local heat of segregation in terms of the elastic work σhΔV. This can be rectified by adding a term to the heat of segregation that explicitly includes the composition dependence. The failure of the classical segregation isotherm to describe the segregation behavior around a dislocation is associated with non-ideal alloy thermodynamics and the inadequacy of linear elasticity to appropriately describe the core region of the dislocation. The failure of the classical segregation isotherm within the core appears to result from the fact that the core atoms have different atomic coordination than those in the bulk material.
+
+B. Johannesson, S.L. Ogin,
+Internal stresses in planar random fibre aluminium composites—II. mean stress hardening and relaxation,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4349-4356,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00117-E.
+(https://www.sciencedirect.com/science/article/pii/095671519500117E)
+Abstract: The hardening rate of the matrix mean stress in planar random fibre aluminium composites with a range of fibre volume fractions is measured in cyclic Bauschinger experiments at room temperature and 77 K. A particular problem with predicting the mean stress hardening rate in these composites is that the plastic strain is not isotropic in the transverse directions. A method for quantifying the experimentally determined plastic flow in a form useful for this analysis is proposed. The difference between the predicted and measured mean stress hardening rates is smallest for low fibre volume fractions at 77 K. A model for relaxation of the plastic mean stress in the matrix is developed. It is based on the assumption that the rate controlling mechanism in these composites is cross slip of screw dislocations. The measured activation energy is independent of fibre volume fraction but the activation volume decreases with increasing fibre content. The magnitudes of activation energy and activation volume support the assumptions of the model.
+
+R.C. Picu, V. Gupta,
+Crack nucleation in columnar ice due to elastic anisotropu and grain boundary sliding,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3783-3789,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90162-0.
+(https://www.sciencedirect.com/science/article/pii/0956715195901620)
+Abstract: The phenomenon of crack nucleation from grain triple junctions is investigated in columnar freshwater ice at rates of loading where the dislocation pile-up process is inhibited. Two mechanisms are explored. First, crack nucleation due to elastic anisotropy-induced singular stress field at the triple junction is investigated. To this end, both the singularity exponent and the energy release values associated with crack nucleation are provided for random orientations of the grain boundaries and material axes of the grains. The computed energy release rate values fall much short of those required for nucleation. Next, by assuming a linear viscous response for the boundary, the stress concentrations due to grain boundary sliding are computed, and the resulting energy release rate values are shown to be sufficiently high to overcome the barrier for crack nucleation. Experimental evidence for grain boundary sliding-induced boundary decohesions at — 10°C are presented in the companion paper. At such temperatures, sliding is activated even though the strain rate of loading invokes an overall brittle response from the polycrystal.
+
+I.T.H. Chang, B. Cantor,
+Temperature, composition and microstructure variations during pulsed laser irradiation of a deposited film on a substrate,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4411-4420,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00121-B.
+(https://www.sciencedirect.com/science/article/pii/095671519500121B)
+Abstract: A computer model has been developed to describe melting and resolidification during laser irradiation of elemental and alloy films on a substrate. The computer model predicts the temperature profile, maximum melt depth, maximum solidification rate, onset of cellular breakdown and the final resolidified composition profile. The computer model has been compared with measurements [I. T. H. Chang and B. Cantor, J. Thin Solid Films230, 167 (1993)] made on cross-section TEM specimens of 1.15 J/cm2irradiated 400 nm thick Sn and 0.96-1.17 J/cm2irradiated 120 nm thick Ge-50 at.% Sn films on single crystal Ge substrates. The predicted results give good agreement with the measured data. The maximum melt depth increases with increasing laser energy density. Cellular breakdown takes place at increasing depth with increasing laser energy density.
+
+G. Pezzotti, K. Ota, H.-J. Kleebe, Y. Okamoto, T. Nishida,
+Viscous behavior of interfaces in fluorine-doped si3n4/sic composites,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 12,
+1995,
+Pages 4357-4370,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)00129-J.
+(https://www.sciencedirect.com/science/article/pii/095671519500129J)
+Abstract: The influence of fluorine addition on the grain/phase boundary structures and their viscous behavior at high temperature were systematically investigated in Si3N4/SiC composites. As a reference, a simple system densified by hot isostatic pressing (HIP) and containing only SiO2at the boundaries was selected for this basic investigation. In addition, increasing amounts of F dopant were incorporated into the composite bodies by adding Teflon during the mixing procedure of the raw powders and then pre-firing the mixture under high vacuum at 1200°C. Analytical transmission electron microscopy showed that fluorine remained localized at the grain boundary films and triple points, constituting an amount up to a few percent by weight of the intergranular glassy-SiO2phase. Detailed structural characterizations of both grain and phase boundaries were performed by using high-resolution electron microscopy (HREM) and atomic force microscopy (AFM). The high-temperature mechanical behavior of the undoped and F-doped SiO2phases was characterized by both measurements of torsional creep rate and variation of internal friction at temperatures up to 1600°C. F-doped materials showed creep rates several orders of magnitude higher compared to the undoped sample and damping temperature curves markedly shifted to lower temperature values. According to the above set of microstructural and mechanical data, the inherent viscosity of the SiO2intergranular phase could be quantitatively evaluated and the viscous-sliding mechanism under stress modeled.
+
+A.A. Mammoli, M.B. Bush,
+Effects of reinforcement geometry on the elastic and plastic behaviour of metal matrix composites,
+Acta Metallurgica et Materialia,
+Volume 43, Issue 10,
+1995,
+Pages 3743-3754,
+ISSN 0956-7151,
+https://doi.org/10.1016/0956-7151(95)90158-2.
+(https://www.sciencedirect.com/science/article/pii/0956715195901582)
+Abstract: The mechanical properties of an AlSiC composite system are modelled using the Boundary Element Method. A unit cell approach, in three dimensions, is used to model the composites. The metal matrix is allowed to deform plastically, while the ceramic reinforcement is assumed to remain perfectly elastic. Several types of reinforcement are modelled, at various volume fractions, and with different degrees of clustering. The effects of thermal residual stresses, resulting from thermal processing, are also modelled. It is found that, even at relatively low volume fractions, the shape and orientation of the reinforcement phase has significant effects, both in the elastic and plastic domains. Orientation of the reinforcement is particularly critical if the aspect ratio of the reinforcement is high. The stress field within the reinforcement particle is also analysed.
