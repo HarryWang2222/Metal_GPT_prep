@@ -1,6 +1,6 @@
 import re
 
-with open('./data_4/acm content.txt', 'r',encoding='utf-8')as content_file:
+with open('./data_4/acmm content.txt', 'r',encoding='utf-8')as content_file:
     for content_line in content_file.readlines():
         content_line = content_line[:-1]
         if len(content_line) < 4:
@@ -9,9 +9,9 @@ with open('./data_4/acm content.txt', 'r',encoding='utf-8')as content_file:
         year = int(content_split[0])
         start = int(content_split[1])
         end = int(content_split[2])
-        with open('./urls/acm{}.txt'.format(year), 'w', encoding='utf-8')as output:
+        with open('./urls/acmm{}.txt'.format(year), 'w', encoding='utf-8')as output:
             for i in range(start, end+1):
-                with open('./urls/acm{}.txt'.format(i), 'rt',encoding='utf-8')as sigle_file:
+                with open('./urls/acmm{}.txt'.format(i), 'rt',encoding='utf-8')as sigle_file:
                     print(sigle_file.read(), file=output)
 
 #注意路径！！！替换期刊时所有路径都要改
